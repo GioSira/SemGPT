@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
-__USER = "gioandro91"
-__PASSWORD = "f3vrQpsPaXWFbPvo"
+__USER = "your username"
+__PASSWORD = "your password"
 __DBNAME = "Semagram"
 
 CONNECTION_STRING = f"mongodb+srv://{__USER}:{__PASSWORD}@csemagram.a4kafks.mongodb.net/{__DBNAME}?retryWrites=true&w=majority"
