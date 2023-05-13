@@ -51,7 +51,7 @@ def get_all_concept_slots_and_values(concept):
     return [(r["slot"], r["value"], r["pos"], r["syn"]) for r in res] # TODO: togliere generalization e specialization
 
 
-def get_frequency_slot_concept(category):
+def get_count_slots(category):
 
     result_freq = sem_collection.aggregate(
         [
@@ -80,7 +80,7 @@ def get_frequency_slot_concept(category):
 
     return [(r['_id'], r['count']) for r in result_freq]
 
-def get_frequency_value_concept(category):
+def get_count_values(category):
 
     result_freq = sem_collection.aggregate(
         [
@@ -97,6 +97,10 @@ def get_frequency_value_concept(category):
                         "$sum": 1
                     }
                 }
+            }, {
+                "$sort": {
+                    "count": -1
+                }
             }
         ]
 
@@ -104,7 +108,8 @@ def get_frequency_value_concept(category):
 
     return [(r['_id'], r['count']) for r in result_freq]
 
-def get_frequency_slot_value_concept(category):
+def get_count_slot_value(category):
+
     result_freq = sem_collection.aggregate(
         [
             {
@@ -121,13 +126,6 @@ def get_frequency_slot_value_concept(category):
                     },
                     "count": {
                         "$sum": 1
-                    }
-                }
-            },
-            {
-                "$match": {
-                    "count": {
-                        "$gt": 1
                     }
                 }
             },

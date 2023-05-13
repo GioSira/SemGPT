@@ -3,7 +3,7 @@ from it.unito.prompt.categories_to_prompt import category2prompt
 from it.unito.semagram.concepts import categories_dict
 from random import choices, randint
 from it.unito.db.query_semagram import *
-
+import math
 
 def __list2string(key, elems):
 
@@ -90,9 +90,54 @@ def generate_prompt_db(num_elems, category):
 
     return prompt
 
+def get_count(counts, val):
+
+    for v, c in counts:
+        if v == val:
+            return c
+
+def pmi_slot_value_by_category(category):
+    """
+    Calculate the PMI between value of field 'slot' and value of field 'value' in the semagram collection of the 'category'.
+    """
+
+    count_slots = get_count_slots(category)
+    count_values = get_count_values(category)
+
+    co_occurrence = get_count_slot_value(category)
+
+    pmis = []
+
+    total_semagram_category = 0
+
+    for _, count in count_slots:
+        total_semagram_category += count
+
+    print("total pair slot-value: " + str(total_semagram_category) + " for category: " + category)
+
+    for [slot, value], count_slot_value in co_occurrence:
+        count_slot = get_count(count_slots, slot)
+        count_value = get_count(count_values, value)
+        pmi = math.log2((count_slot_value / total_semagram_category) / ((count_slot / total_semagram_category) * (count_value / total_semagram_category)))
+        #print("pmi: " + pmi + "for pair slot-value: " + slot + "-" + value + "for category: " + category)
+        pmis.append(([slot, value], pmi))
+
+    pmis.sort(key= lambda x: x[1], reverse=True)
+    return pmis
+
+    
+
+
 
 if __name__ == '__main__':
 
-    prompt = generate_prompt_db(10, 'animals')
-    print(prompt)
+    category = "animals"
+    
+    pmis = pmi_slot_value_by_category(category)
 
+    print(pmis)
+    #qty = 10
+
+    #prompt = generate_prompt_db(qty, category)
+    #print(prompt)
+ 
