@@ -1,0 +1,32 @@
+Frequenza del valore del campo "slot" all'interno della categoria "animals":
+[('specialization', 442), ('generalization', 217), ('activity', 209), ('colorPattern', 207), ('place', 103), ('part', 85), ('size', 47), 
+('movement', 46), ('behavior', 36), ('purpose', 35), ('user', 29), ('group', 16), ('shape', 15), ('accessory', 15), ('sound', 12), 
+('time', 8), ('product', 4)]
+
+--------------------------------------------------------------------------------
+Frequenza (> 1) del valore del campo "value" in coppia con il valore del campo "slot" all'interno della categoria "animals": 
+
+[(['colorPattern', 'black'], 46), (['colorPattern', 'brown'], 42), (['generalization', 'animal'], 30), (['activity', 'breathe'], 29), 
+(['activity', 'eat'], 28), (['size', 'small'], 24), (['colorPattern', 'yellow'], 20), (['colorPattern', 'grey'], 18), 
+(['activity', 'drink'], 12), (['generalization', 'mammal'], 12), (['colorPattern', 'green'], 12), (['colorPaty', 'roam'], 3), 
+(['accessory', 'leash'], 3), (['place', 'tropic'], 3), (['place', 'kennel'], 3), (['activity', 'forage'], 3), (['generalization', 'canid'], 3), 
+(['group', 'colony'], 3), (['activity', 'feed'], 3), (['generalization', 'hymenopterous insect'], 3), (['specialization', 'queen'], 3), 
+(['part', 'coat'], 3), (['generalization', 'amphibian'], 3), (['sound', 'yelp'], 3), (['activity', 'yelp'], 3), (['activity', 'nest'], 3), 
+(['user', 'hunter'], 3), (['generalization', 'organism'], 3), (['generalization', 'hymenopteran'], 3), 
+(['group', 'swarm'], 3), (['accessory', 'muzzle'], 3), (['part', 'tongue'], 3), (['generalization', 'being'], 3), (['part', 'ear'], 3), 
+(['purpose', 'hunting'], 3), (['part', 'fur'], 3), (['generalization', 'hymenopter'], 3), (['generalization', 'reptilian'], 3), (['part', 'hair'], 3), 
+(['sound', 'growl'], 3), (['purpose', 'pet'], 3), (['generalization', 'hymenopteron'], 3), (['activity', 'growl'], 3), (['generalization', 'felid'], 3), 
+(['place', 'pond'], 3), (['generalization', 'reptile'], 3), (['generalization', 'chordate'], 3), (['part', 'tail'], 3), (['accessory', 'collar'], 3), 
+(['place', 'water'], 3), (['generalization', 'living thing'], 2), (['part', 'bone'], 2), (['user', 'shepherd'], 2), (['activity', 'roar'], 2), 
+(['generalization', 'diapsid'], 2), (['specialization', 'kit fox'], 2), (['time', 'night'], 2), (['user', 'blind'], 2), (['activity', 'suffer'], 2), 
+(['part', 'stinger'], 2), (['activity', 'trot'], 2), (['user', 'policeman'], 2), (['generalization', 'mollusk'], 2), (['movement', 'leap'], 2), 
+(['part', 'abdomen'], 2), (['specialization', 'Poodle'], 2), (['specialization', 'German Shepherd'], 2), (['activity', 'swim'], 2), (['part', 'foot'], 2), 
+(['specialization', 'Rottweiler'], 2), (['behavior', 'healthy'], 2), (['specialization', 'Beagle'], 2), (['generalization', 'diapsid reptile'], 2), 
+(['user', 'beekeeper'], 2), (['part', 'toe'], 2), (['shape', 'round'], 2), (['specialization', 'Labrador'], 2), (['specialization', 'Bulldog'], 2), 
+(['generalization', 'animate thing'], 2), (['activity', 'browse'], 2), (['part', 'collar'], 2), (['specialization', 'Golden Retriever'], 2), 
+(['specialization', 'red fox'], 2), (['user', 'poacher'], 2), (['specialization', 'louse'], 2), (['activity', 'hunt'], 2), (['purpose', 'wild'], 2), 
+(['specialization', 'bug'], 2), (['shape', 'circular'], 2), (['movement', 'swim'], 2), (['activity', 'migrate'], 2), (['part', 'tusk'], 2), 
+(['part', 'tooth'], 2), (['activity', 'watch'], 2), (['activity', 'leap'], 2), (['part', 'flesh'], 2), (['activity', 'die'], 2), (['generalization', 'herbivore'], 2), 
+(['generalization', 'big cat'], 2), (['group', 'hive'], 2), (['specialization', 'Yorkshire Terrier'], 2), (['place', 'sanctuary'], 2), 
+(['generalization', 'cat'], 2), (['part', 'neck'], 2), (['part', 'antenna'], 2), (['specialization', 'Boxer'], 2), (['group', 'infestation'], 2), 
+(['movement', 'attack'], 2), (['activity', 'graze'], 2)]

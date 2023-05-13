@@ -48,4 +48,98 @@ def get_all_concepts():
 def get_all_concept_slots_and_values(concept):
 
     res = query_by_concept(concept)
-    return [(r["slot"], r["value"], r["pos"], r["syn"]) for r in res]
+    return [(r["slot"], r["value"], r["pos"], r["syn"]) for r in res] # TODO: togliere generalization e specialization
+
+
+def get_frequency_slot_concept(category):
+
+    result_freq = sem_collection.aggregate(
+        [
+            {
+                "$match": {
+                    "concept": {
+                        "$in": get_concepts_by_category(category)
+                    }
+                }
+            },{
+                "$group": {
+                    "_id": "$slot",
+                    "count": {
+                        "$sum": 1
+                    }
+                }
+            },
+            {
+                "$sort": {
+                    "count": -1
+                }
+            }
+        ]
+
+    )
+
+    return [(r['_id'], r['count']) for r in result_freq]
+
+def get_frequency_value_concept(category):
+
+    result_freq = sem_collection.aggregate(
+        [
+            {
+                "$match": {
+                    "concept": {
+                        "$in": get_concepts_by_category(category)
+                    }
+                }
+            },{
+                "$group": {
+                    "_id": "$value",
+                    "count": {
+                        "$sum": 1
+                    }
+                }
+            }
+        ]
+
+    )
+
+    return [(r['_id'], r['count']) for r in result_freq]
+
+def get_frequency_slot_value_concept(category):
+    result_freq = sem_collection.aggregate(
+        [
+            {
+                "$match": {
+                    "concept": {
+                        "$in": get_concepts_by_category(category)
+                    }
+                }
+            },{
+                "$group": {
+                    "_id": {
+                        "slot": "$slot",
+                        "value": "$value"
+                    },
+                    "count": {
+                        "$sum": 1
+                    }
+                }
+            },
+            {
+                "$match": {
+                    "count": {
+                        "$gt": 1
+                    }
+                }
+            },
+            {
+                "$sort": {
+                    "count": -1
+                }
+            }
+        ]
+
+    )
+
+    return [([r["_id"]["slot"], r["_id"]["value"]], r["count"]) for r in result_freq]
+
+
