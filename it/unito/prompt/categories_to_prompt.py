@@ -37,3 +37,7 @@ def category2prompt(cat):
 
     elif cat == Category.CONTAINERS:
         return "containers"
+    
+
+def get_all_categories():
+    return [c.name.lower() for c in Category]

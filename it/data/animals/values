@@ -1,0 +1,671 @@
+black	46
+brown	42
+animal	31
+breathe	29
+eat	28
+run	24
+small	24
+yellow	20
+walk	19
+grey	18
+green	12
+orange	12
+fly	12
+white	12
+land	12
+mammal	12
+drink	12
+spotted	11
+crawl	11
+red	10
+arthropod	10
+garden	9
+big	9
+large	9
+eutherian	8
+eutherian mammal	8
+beige	8
+placental mammal	8
+placental	8
+chase	7
+carnivore	7
+colony	7
+cook	7
+invertebrate	7
+summer	6
+chew	6
+slow	6
+worker	6
+growl	6
+circus	6
+play	6
+fetch	6
+kennel	6
+guard	6
+ditch	6
+bury	6
+insect	6
+gastropod	6
+yelp	6
+food	6
+blue	6
+Asia	5
+collar	5
+medium	5
+sea	5
+submissive	5
+eye	5
+solid	5
+underwater	5
+lover	5
+elongated	5
+long	5
+pet	5
+attraction	5
+obedient	4
+leg	4
+Thailand	4
+chordate	4
+Africa	4
+skin	4
+research	4
+leap	4
+Sri Lanka	4
+swim	4
+Kenia	4
+herd	4
+vertebrate	4
+head	4
+bath	4
+hymenopter	4
+hymenopterous insect	4
+hymenopteron	4
+zoo	4
+nest	4
+hymenopteran	4
+craniate	4
+live	4
+mouth	4
+terrarium	4
+Tanzania	4
+loyal	4
+striped	4
+bite	4
+cute	4
+kill	4
+playful	4
+Namibia	4
+India	4
+faithful	4
+felid	3
+water	3
+pond	3
+reptilian	3
+mollusk	3
+hunting	3
+forage	3
+coat	3
+hunter	3
+tail	3
+roam	3
+canine	3
+canid	3
+muzzle	3
+leash	3
+paw	3
+queen	3
+tropic	3
+swarm	3
+ear	3
+larva	3
+drone	3
+oviparous	3
+feline	3
+feed	3
+being	3
+tongue	3
+amphibian	3
+hive	3
+hair	3
+affectionate	3
+organism	3
+herbivore	3
+fur	3
+reptile	3
+suffer	2
+migrate	2
+domesticated animal	2
+creep	2
+graze	2
+Boxer	2
+hunt	2
+decapod crustacean	2
+abdomen	2
+bone	2
+ectotherm	2
+handler	2
+sting	2
+sanctuary	2
+beekeeper	2
+Beagle	2
+night	2
+Poodle	2
+cat	2
+big cat	2
+German Shepherd	2
+prey	2
+living thing	2
+howl	2
+watch	2
+louse	2
+trainer	2
+domestic animal	2
+diapsid	2
+infestation	2
+blind	2
+Labrador	2
+roar	2
+policeman	2
+tooth	2
+lepidopteron	2
+shepherd	2
+circular	2
+jump	2
+decapod	2
+trot	2
+kit fox	2
+red fox	2
+Bulldog	2
+foot	2
+antenna	2
+die	2
+bark	2
+animate thing	2
+diapsid reptile	2
+stinger	2
+round	2
+flesh	2
+Rottweiler	2
+wild	2
+healthy	2
+poacher	2
+Yorkshire Terrier	2
+lepidopteran	2
+neck	2
+tusk	2
+hop	2
+browse	2
+bug	2
+toe	2
+lepidopterous insect	2
+attack	2
+Golden Retriever	2
+borer	1
+dipteron	1
+pierid butterfly	1
+body	1
+two-winged insects	1
+earwig	1
+lycaenid	1
+mining bee	1
+metazoan	1
+slave-making ant	1
+Old World rabbit	1
+ostracod	1
+predatory animal	1
+bunny	1
+Alaskan king crab	1
+telsontail	1
+grey wolf	1
+flying bird	1
+Reynard	1
+gray wolf	1
+even-toed ungulate	1
+crustacean	1
+coyote	1
+copepod	1
+archaeopteryx	1
+European rabbit	1
+sucking louse	1
+Vulpes velox	1
+sing	1
+fang	1
+Dungeness crab	1
+brush-footed butterfly	1
+pollinator	1
+ladybug	1
+slave-maker	1
+little black ant	1
+firefly	1
+birch leaf miner	1
+Mexican hairless	1
+arachnid	1
+ephemeral	1
+phasmid	1
+lycaenid butterfly	1
+lightning bug	1
+pollinate	1
+white wolf	1
+pug	1
+croaking	1
+garden snail	1
+marine creature	1
+phoronid	1
+scorpion shell	1
+pest	1
+prairie fox	1
+cirriped	1
+mussel	1
+branchiopod	1
+rabid	1
+parazoan	1
+homeotherm	1
+timber wolf	1
+twitterer	1
+bivalve	1
+wolf pup	1
+range animal	1
+pharaoh ant	1
+leaf-cutter	1
+coraciiform bird	1
+long-horned beetle	1
+nymphalid butterfly	1
+spider crab	1
+deathwatch beetle	1
+dickeybird	1
+predator	1
+carabid beetle	1
+leaf-cutting bee	1
+feeder	1
+slave ant	1
+ringlet	1
+croak	1
+giant	1
+carinate	1
+brush wolf	1
+shellfish	1
+moulter	1
+carpet bug	1
+grey fox	1
+Newfoundland	1
+springtail	1
+ungulate	1
+Canis lupus tundrarum	1
+weevil	1
+trichopteran	1
+dickybird	1
+Belgian griffon	1
+whirligig beetle	1
+nail	1
+working dog	1
+Felis domesticus	1
+longicorn beetle	1
+wood rabbit	1
+transport	1
+ladybird	1
+vixen	1
+hoofed mammal	1
+dipterous insect	1
+holometabola	1
+pleurodont	1
+ground beetle	1
+stray	1
+insectivore	1
+stunt	1
+echinoderm	1
+slither	1
+bulldog ant	1
+protoavis	1
+red wolf	1
+gallinacean	1
+gnawing mammal	1
+pea crab	1
+primate	1
+stonefly	1
+arachnoid	1
+pureblood	1
+house cat	1
+Newfoundland dog	1
+pelecypod	1
+bow-wow	1
+Vulpes vulpes	1
+mytilid	1
+sac	1
+saurian	1
+marine animal	1
+Urocyon cinereoargenteus	1
+molter	1
+Alopex lagopus	1
+flea	1
+ectoproct	1
+imago	1
+archaeornis	1
+carpenter bee	1
+Symbion pandora	1
+carpet beetle	1
+maned wolf	1
+darter	1
+Asian longhorned beetle	1
+copepod crustacean	1
+poriferan	1
+ephemeron	1
+fire ant	1
+archeopteryx	1
+scavenger	1
+Cancer irroratus	1
+male	1
+Cancer borealis	1
+clerid	1
+chrysomelid	1
+comb jelly	1
+parrot	1
+purebred	1
+bark beetle	1
+Brussels griffon	1
+cuculiform bird	1
+nose	1
+proboscidian	1
+trichopteron	1
+seed shrimp	1
+trogon	1
+honey	1
+sleep	1
+thysanuran insect	1
+female	1
+humblebee	1
+spitz	1
+feeler	1
+herbivorous	1
+gallinaceous bird	1
+pachyderm	1
+thysanuron	1
+fiddler crab	1
+work animal	1
+artiodactyl mammal	1
+nonpasserine bird	1
+lapdog	1
+game	1
+cirripede	1
+lady beetle	1
+driver ant	1
+acrodont	1
+mutt	1
+beetle	1
+Xestobium rufovillosum	1
+beak	1
+artiodactyl	1
+dalmatian	1
+Monomorium minimum	1
+phasmid insect	1
+blister beetle	1
+sea creature	1
+web spinner	1
+anapsid reptile	1
+bunny rabbit	1
+sulphur butterfly	1
+Canis latrans	1
+griffon	1
+andrena	1
+clerid beetle	1
+biped	1
+Angora	1
+apodiform bird	1
+four-footed butterfly	1
+dickey-bird	1
+flag	1
+Oryctolagus cuniculus	1
+elater	1
+lampshell	1
+sulfur butterfly	1
+trunk	1
+Alaska king crab	1
+woodborer	1
+defoliator	1
+alkali bee	1
+homotherm	1
+king crab	1
+white fox	1
+marine mussel	1
+varmint	1
+elaterid	1
+orthopterous insect	1
+polyzoan	1
+hard-shell crab	1
+branchiopodan	1
+barnacle	1
+aggressive	1
+coelenterate	1
+rotifer	1
+Archaeopteryx lithographica	1
+entoproct	1
+brachiopod	1
+chelonian reptile	1
+embryo	1
+brachyuran	1
+hemipteron	1
+hemipterous insect	1
+flightless bird	1
+andrenid	1
+Nomia melanderi	1
+lick	1
+termite	1
+honeybee	1
+Canis rufus	1
+zooplankton	1
+cottontail	1
+proturan	1
+pad	1
+shell	1
+mongrel	1
+haulage	1
+legs	1
+puppy	1
+worm	1
+soft-shelled crab	1
+raptorial bird	1
+omnivore	1
+varment	1
+malacostracan crustacean	1
+carriage dog	1
+Helix pomatia	1
+creepy-crawly	1
+sea animal	1
+tiger beetle	1
+mason bee	1
+thysanopteron	1
+passerine	1
+conceptus	1
+ladybird beetle	1
+wildcat	1
+lagomorph	1
+legionary ant	1
+pupa	1
+Paralithodes camtschatica	1
+thysanopter	1
+mutant	1
+longicorn	1
+sea mat	1
+neuropteron	1
+corgi	1
+cry	1
+odonate	1
+feral	1
+pug-dog	1
+soft-shell crab	1
+pierid	1
+dipteran	1
+thysanopterous insect	1
+dicky-bird	1
+tentacle	1
+owner	1
+ephemerid	1
+toy	1
+pharaoh's ant	1
+pear	1
+proboscidean	1
+critter	1
+passeriform bird	1
+mollusc	1
+bird of prey	1
+coach dog	1
+stone fly	1
+gray fox	1
+trichopterous insect	1
+stomatopod	1
+homopteran	1
+orthopteron	1
+bird louse	1
+horn	1
+stone crab	1
+domestic cat	1
+Vulpes fulva	1
+cnidarian	1
+dictyopterous insect	1
+ephemeropteran	1
+bird of passage	1
+danaid butterfly	1
+cunning	1
+Monomorium pharaonis	1
+hunting dog	1
+Menippe mercenaria	1
+mate	1
+Leonberg	1
+Arctic wolf	1
+ratite	1
+survivor	1
+barker	1
+elaterid beetle	1
+mucus	1
+unit	1
+carpenter ant	1
+rove beetle	1
+sponge	1
+cur	1
+ctenophore	1
+pooch	1
+army ant	1
+Cancer magister	1
+doggy	1
+heteropterous insect	1
+nester	1
+beast of burden	1
+Apis mellifera	1
+fertilized egg	1
+young	1
+homoiotherm	1
+leaf-miner	1
+hexapod	1
+poikilotherm	1
+gallfly	1
+psocopterous insect	1
+neuropteran	1
+stomatopod crustacean	1
+ratite bird	1
+danaid	1
+mecopteran	1
+water beetle	1
+offspring	1
+leporide	1
+trumpeting	1
+bait	1
+fuck	1
+hen	1
+orthopteran	1
+leaf beetle	1
+cuckoo-bumblebee	1
+carinate bird	1
+racer	1
+Jonah crab	1
+love	1
+Sinornis	1
+doggie	1
+mussel shrimp	1
+Great Pyrenees	1
+cottontail rabbit	1
+chelonian	1
+leporid mammal	1
+rock crab	1
+moss animal	1
+lamellicorn beetle	1
+potter bee	1
+leaf-cutter bee	1
+Welsh corgi	1
+biting louse	1
+metabola	1
+sea moss	1
+Canis lupus	1
+lamp shell	1
+leporid	1
+social insect	1
+edible snail	1
+claw	1
+Canis niger	1
+trumpet	1
+thoroughbred	1
+wood ant	1
+belly	1
+Alaska crab	1
+propolis	1
+captive	1
+ladybeetle	1
+Anoplophora glabripennis	1
+friendly	1
+peeper	1
+prairie wolf	1
+adult	1
+bumblebee	1
+Felis catus	1
+wax	1
+hemipteran	1
+rabbit ears	1
+collembolan	1
+lapin	1
+swimming crab	1
+branchiopod crustacean	1
+night bird	1
+Vulpes macrotis	1
+Angora rabbit	1
+wing	1
+basenji	1
+aquatic bird	1
+zoophyte	1
+deathwatch	1
+plecopteran	1
+bryozoan	1
+leopard	1
+dog	1
+nymphalid	1
+homopterous insect	1
+migrator	1
+ringlet butterfly	1
+piciform bird	1
+wolf cub	1
+hermaphrodite	1
+toy dog	1
+caprimulgiform bird	1
+white ant	1
+Formica rufa	1
+stayer	1
+quarry	1
+lamellibranch	1
+peanut worm	1
+raptor	1
+whole	1
+anapsid	1
+Arctic fox	1
+Fenusa pusilla	1
+meloid	1
+egg	1
+leaf miner	1
+ruminant	1
+fictional animal	1
+neuropterous insect	1
+Ibero-mesornis	1
+overwinter	1
+jaw	1
+whisker	1
+Belgian hare	1
+sipunculid	1
+funnel	1
+cock	1
+happy	1

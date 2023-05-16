@@ -1,0 +1,478 @@
+colorPattern	black	46
+generalization	garment	38
+colorPattern	blue	38
+colorPattern	green	36
+colorPattern	pink	36
+colorPattern	patterned	29
+generalization	clothing	29
+colorPattern	white	24
+colorPattern	red	24
+colorPattern	brown	24
+user	woman	24
+material	cotton	22
+generalization	covering	21
+purpose	protect	18
+part	seam	17
+purpose	warmth	16
+material	wool	16
+place	outdoors	15
+generalization	consumer goods	14
+user	man	13
+material	leather	12
+colorPattern	grey	12
+shape	long	12
+generalization	footwear	12
+colorPattern	striped	12
+shape	elongated	12
+material	linen	11
+generalization	article of clothing	11
+generalization	habiliment	11
+generalization	wearable	11
+material	silk	11
+generalization	wear	11
+generalization	vesture	11
+material	polyester	10
+time	winter	10
+generalization	artifact	9
+material	plastic	9
+generalization	artefact	9
+part	button	8
+shape	circular	7
+part	upper	6
+part	fur	6
+bodyPart	leg	6
+bodyPart	neck	6
+size	short	6
+generalization	shoe	6
+part	pocket	6
+size	tall	6
+material	nylon	6
+part	zip	6
+time	summer	6
+shape	rectangular	6
+bodyPart	waist	6
+shape	round	6
+bodyPart	throat	6
+part	sole	6
+material	viscose	6
+place	hospital	5
+material	lace	5
+material	suede	5
+part	heel	5
+part	hem	5
+generalization	headgear	5
+generalization	headdress	5
+purpose	pair	5
+user	horseman	5
+bodyPart	head	5
+generalization	headwear	5
+generalization	footgear	5
+part	tongue	5
+part	waistband	4
+purpose	riding	4
+part	strap	4
+material	felt	4
+material	cloth	4
+material	fabric	4
+generalization	handwear	3
+part	belt loop	3
+part	visor	3
+user	surgeon	3
+user	doctor	3
+place	surgery	3
+user	workman	3
+material	velvet	3
+user	gardener	3
+part	neckline	3
+generalization	hand wear	3
+purpose	hygiene	3
+purpose	work	3
+part	collar	3
+generalization	chapeau	2
+generalization	hat	2
+part	innersole	2
+material	coat	2
+generalization	commodity	2
+specialization	shorts	2
+part	heel counter	2
+specialization	stretch pants	2
+part	lace	2
+specialization	knickers	2
+specialization	bell-bottoms	2
+purpose	gardening	2
+specialization	jean	2
+specialization	corduroys	2
+bodyPart	hand	2
+generalization	lid	2
+specialization	knee pants	2
+specialization	toreador pants	2
+specialization	trews	2
+specialization	pyjama	2
+part	insole	2
+part	outsole	2
+part	toe box	2
+specialization	salwar	2
+specialization	jodhpurs	2
+specialization	blue jean	2
+specialization	chino	2
+generalization	glove	2
+material	chiffon	2
+generalization	whole	2
+specialization	bellbottom pants	2
+part	hip pocket	2
+specialization	bellbottom trousers	2
+specialization	breeches	2
+part	trouser	2
+specialization	sweatpants	2
+specialization	sweat pants	2
+specialization	pedal pusher	2
+specialization	gantlet	2
+specialization	pantaloon	2
+part	trouser cuff	2
+material	fleece	2
+specialization	short pants	2
+specialization	long trousers	2
+part	toecap	2
+part	pant leg	2
+specialization	flannel	2
+part	lap	2
+generalization	overgarment	2
+specialization	knee breeches	2
+specialization	jumper	2
+specialization	mitten	2
+specialization	sack	2
+generalization	good	2
+part	shoe collar	2
+part	leg	2
+specialization	gabardine	2
+part	hemline	2
+specialization	long pants	2
+specialization	gauntlet	2
+generalization	woman's clothing	2
+part	trouser leg	2
+specialization	cords	2
+specialization	jodhpur breeches	2
+purpose	ride	2
+generalization	outer garment	2
+specialization	trunks	2
+part	counter	2
+part	shirtfront	2
+user	men	2
+specialization	riding breeches	2
+specialization	slacks	2
+material	rubber	2
+part	instep	2
+specialization	pajama	2
+part	lap covering	2
+generalization	unit	2
+specialization	tweed	2
+specialization	shalwar	2
+specialization	denim	2
+specialization	churidars	2
+specialization	knickerbockers	2
+generalization	trade good	2
+part	seat	2
+specialization	white	2
+specialization	parka	1
+specialization	busby	1
+specialization	work-shirt	1
+part	shirttail	1
+specialization	anorak	1
+purpose	run	1
+specialization	bush jacket	1
+specialization	saree	1
+generalization	disguise	1
+material	latex	1
+specialization	liberty cap	1
+specialization	fur hat	1
+specialization	jerkin	1
+specialization	cocktail dress	1
+specialization	sport shirt	1
+specialization	batting glove	1
+specialization	homburg	1
+specialization	jeweled headdress	1
+specialization	cowboy hat	1
+part	placket	1
+specialization	biggin	1
+specialization	single-breasted jacket	1
+specialization	camise	1
+part	bodice	1
+generalization	hosiery	1
+specialization	lumber jacket	1
+specialization	Panama	1
+part	shirtsleeve	1
+specialization	ski cap	1
+specialization	tam	1
+shape	hand	1
+specialization	overseas cap	1
+specialization	watch cap	1
+specialization	dressing sack	1
+specialization	caftan	1
+specialization	jewelled headdress	1
+specialization	suede glove	1
+specialization	argyle	1
+specialization	glove	1
+specialization	bathing cap	1
+specialization	mobcap	1
+part	sunburst pleat	1
+specialization	ballet skirt	1
+part	kick pleat	1
+specialization	hood	1
+user	cowboy	1
+specialization	bobbysock	1
+specialization	pea jacket	1
+material	disposable	1
+specialization	dunce cap	1
+specialization	gathered skirt	1
+specialization	calpac	1
+specialization	Panama hat	1
+part	dickie	1
+specialization	bolero	1
+specialization	coxcomb	1
+specialization	yachting cap	1
+part	hatband	1
+specialization	sailor cap	1
+specialization	sport coat	1
+specialization	shovel hat	1
+specialization	monkey jacket	1
+specialization	service cap	1
+specialization	campaign hat	1
+specialization	silk hat	1
+specialization	mitre	1
+specialization	daishiki	1
+specialization	turban	1
+specialization	sari	1
+specialization	athletic sock	1
+specialization	sou'wester	1
+specialization	chapeau	1
+specialization	knee-hi	1
+user	goalkeeper	1
+part	box pleat	1
+specialization	mortarboard	1
+specialization	skullcap	1
+generalization	garb	1
+specialization	metal glove	1
+part	sleeve	1
+specialization	wimple	1
+part	shirting	1
+specialization	tabis	1
+material	straw	1
+specialization	straw hat	1
+specialization	sunhat	1
+specialization	bomber jacket	1
+specialization	tutu	1
+specialization	hug-me-tight	1
+specialization	full skirt	1
+specialization	sport jacket	1
+specialization	doublet	1
+specialization	sundress	1
+specialization	dress shirt	1
+specialization	pinafore	1
+specialization	golf cap	1
+part	earlap	1
+part	shoe string	1
+specialization	swallow-tailed coat	1
+specialization	miniskirt	1
+part	shirt button	1
+specialization	coonskin	1
+specialization	culotte	1
+part	bootlace	1
+specialization	sombrero	1
+part	pleat	1
+part	buckle	1
+generalization	cloak	1
+part	brim	1
+specialization	hat	1
+specialization	cockscomb	1
+specialization	titfer	1
+specialization	kalansuwa	1
+part	shoelace	1
+part	neckband	1
+specialization	tarboosh	1
+specialization	lid	1
+specialization	biretta	1
+specialization	chemise	1
+specialization	shell jacket	1
+specialization	woman's hat	1
+specialization	bobbysocks	1
+specialization	double-breasted jacket	1
+specialization	windcheater	1
+specialization	kirtle	1
+specialization	polo shirt	1
+generalization	coat	1
+part	half sole	1
+user	women	1
+specialization	deerstalker	1
+specialization	bed jacket	1
+user	baseman	1
+generalization	hose	1
+specialization	coonskin cap	1
+bodyPart	knee	1
+colorPattern	shiny	1
+material	cashmere	1
+part	finger	1
+specialization	beaver	1
+specialization	polonaise	1
+bodyPart	ankle	1
+specialization	pinner	1
+specialization	bearskin	1
+part	gad	1
+specialization	jersey	1
+user	fielder	1
+specialization	berretta	1
+specialization	tammy	1
+specialization	nightcap	1
+specialization	ten-gallon hat	1
+specialization	stocking cap	1
+specialization	false face	1
+specialization	poke bonnet	1
+part	shoe lace	1
+user	catcher	1
+specialization	topper	1
+specialization	calpack	1
+specialization	pinny	1
+purpose	tie	1
+specialization	Mother Hubbard	1
+specialization	coatdress	1
+specialization	leghorn	1
+specialization	toboggan cap	1
+specialization	topknot	1
+specialization	jockey cap	1
+specialization	donkey jacket	1
+purpose	disposable	1
+part	dickey	1
+part	spike	1
+specialization	shako	1
+specialization	boater	1
+specialization	kalpac	1
+specialization	banyan	1
+specialization	toque	1
+specialization	varsity sock	1
+specialization	balaclava helmet	1
+part	ruffle	1
+specialization	bonnet	1
+specialization	kaftan	1
+user	soldier	1
+part	eyehole	1
+specialization	millinery	1
+specialization	flat cap	1
+specialization	slouch hat	1
+specialization	shift	1
+specialization	T-shirt	1
+part	throat	1
+material	denim	1
+specialization	grass skirt	1
+specialization	half mask	1
+specialization	stovepipe	1
+part	bootleg	1
+part	thumb	1
+specialization	Mao jacket	1
+specialization	dress hat	1
+specialization	lumberjack	1
+specialization	bluebonnet	1
+specialization	skimmer	1
+specialization	dirndl	1
+specialization	dressing sacque	1
+specialization	tabi	1
+specialization	cap	1
+specialization	overskirt	1
+purpose	walk	1
+specialization	maxi	1
+specialization	Balmoral	1
+specialization	birretta	1
+specialization	high hat	1
+specialization	trilby	1
+specialization	eye mask	1
+material	sheepskin	1
+specialization	tank top	1
+specialization	sacque	1
+part	spur	1
+specialization	tam-o'-shanter	1
+specialization	sheath	1
+specialization	tyrolean	1
+specialization	shower cap	1
+specialization	cloth cap	1
+specialization	cavalier hat	1
+specialization	mini	1
+specialization	crinoline	1
+specialization	fedora	1
+specialization	sailor	1
+part	crown	1
+specialization	morning dress	1
+specialization	dolman	1
+part	lacing	1
+specialization	hair shirt	1
+specialization	top hat	1
+generalization	attire	1
+specialization	golf glove	1
+part	saddle	1
+generalization	top	1
+specialization	kurta	1
+specialization	windbreaker	1
+specialization	shirtdress	1
+specialization	sweat sock	1
+specialization	dolman jacket	1
+generalization	dress	1
+specialization	kid glove	1
+specialization	felt hat	1
+specialization	tee shirt	1
+specialization	cocked hat	1
+specialization	Norfolk jacket	1
+specialization	kaffiyeh	1
+part	toe	1
+part	eyelet	1
+specialization	balaclava	1
+specialization	bowler	1
+part	earflap	1
+specialization	kepi	1
+specialization	muumuu	1
+specialization	morning coat	1
+specialization	Stetson	1
+specialization	kilt	1
+specialization	Glengarry	1
+specialization	swimming cap	1
+specialization	tirolean	1
+specialization	baseball cap	1
+specialization	peacoat	1
+colorPattern	glossy	1
+user	falconer	1
+specialization	swallowtail	1
+part	sunray pleat	1
+specialization	gown	1
+specialization	wishing cap	1
+specialization	anklet	1
+specialization	dashiki	1
+user	lady	1
+specialization	dunce's cap	1
+specialization	sarong	1
+specialization	muff	1
+specialization	strapless	1
+specialization	domino	1
+specialization	miter	1
+specialization	argyll	1
+specialization	garrison cap	1
+specialization	blazer	1
+specialization	evening shirt	1
+specialization	fool's cap	1
+specialization	anklets	1
+specialization	fez	1
+specialization	beret	1
+specialization	sports coat	1
+bodyPart	calf	1
+specialization	knee-high	1
+specialization	Eton jacket	1
+bodyPart	foot	1
+specialization	sports jacket	1
+specialization	sun hat	1
+part	dicky	1
+specialization	hobble skirt	1
+specialization	hoopskirt	1
+specialization	helmet	1
+specialization	banian	1
+generalization	neckwear	1
+part	shoestring	1
+specialization	snap-brim hat	1
+specialization	opera hat	1
+specialization	peaked cap	1
+specialization	mess jacket	1
+specialization	lavalava	1

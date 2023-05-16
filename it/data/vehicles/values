@@ -1,0 +1,623 @@
+grey	44
+black	36
+red	34
+transport	34
+white	32
+metal	29
+vehicle	28
+plastic	23
+transportation	23
+blue	22
+rubber	18
+fast	18
+diesel	17
+noisy	17
+people	17
+loud	17
+big	16
+road	16
+large	16
+wheeled vehicle	14
+aerodynamic	13
+green	12
+silver	12
+glass	12
+travelling	12
+craft	11
+crash	10
+passenger	10
+rumbling	10
+conveyance	9
+container	9
+rental	9
+luggage	8
+instrumentation	8
+self-propelled vehicle	8
+instrumentality	8
+airport	7
+vessel	7
+rural area	6
+co-pilot	6
+streamlined	6
+electricity	6
+aircraft	6
+army	6
+aluminium	6
+glossy	6
+fly	6
+sky	6
+kerosene	6
+cycle path	6
+cyclist	6
+shiny	6
+move	6
+landing	6
+driver	6
+country	6
+take-off	6
+person	6
+air	6
+farmer	5
+slow	5
+sinkable	5
+farm	5
+garage	5
+jet	5
+fitness	5
+mission	5
+waterway	5
+wood	5
+sailor	5
+float	5
+sea	5
+silent	5
+heavy	5
+heavier-than-air craft	5
+officer	5
+elongated	5
+sail	5
+throbbing	5
+steel	5
+sport	5
+holiday	5
+wheel	5
+long	5
+fishing	5
+Boeing	4
+gas	4
+pilot	4
+motor vehicle	4
+brake	4
+holidaymaker	4
+helmsman	4
+businessman	4
+cargo trailer	4
+light	4
+engine	4
+automotive vehicle	4
+pickup	3
+Antonov	3
+racing bike	3
+seat	3
+door	3
+window	3
+fuel	3
+drag	3
+goods	3
+city car	3
+transit	3
+galley	3
+hover	3
+captain	3
+taxi driver	3
+lorry	2
+cruise	2
+cabriolet	2
+frame	2
+interior	2
+SUV	2
+lighter-than-air craft	2
+multiengine plane	2
+tube	2
+accelerator	2
+parking	2
+attack aircraft	2
+fighter	2
+wagon	2
+iceboat	2
+tail	2
+traffic	2
+delta wing	2
+crew	2
+military vehicle	2
+bumper	2
+ride	2
+travel	2
+watercraft	2
+ski-plane	2
+rudder	2
+hydroplane	2
+sedan	2
+biplane	2
+fighter aircraft	2
+propeller plane	2
+windshield	2
+multiengine airplane	2
+hood	2
+power	2
+motorway	2
+fender	2
+bonnet	2
+airliner	2
+commuter	2
+gear	2
+monoplane	2
+war vessel	2
+cowl	2
+combat ship	2
+dock	2
+hostess	2
+propeller	2
+hangar queen	2
+seaplane	2
+warship	2
+terminal	2
+amphibian	2
+tanker plane	2
+bomber	2
+tire	2
+pedestrian	2
+tender	2
+fin	2
+trip	2
+cowling	2
+steward	2
+boat	2
+amphibious aircraft	2
+micro car	2
+reconnaissance plane	2
+airbus	2
+wing	2
+ship	2
+tractor	2
+racing car	2
+vintage car	2
+garden tool	1
+rear window	1
+loaner	1
+skidder	1
+chain guard	1
+after part	1
+fuel pod	1
+spacecraft	1
+lugger	1
+motorbike	1
+used-car	1
+rocket	1
+cruise ship	1
+park	1
+luxury	1
+cargo vessel	1
+ground-effect machine	1
+water	1
+oil	1
+motorcar	1
+log	1
+bicycle	1
+Stanley Steamer	1
+minicab	1
+horseless carriage	1
+motor mower	1
+dynamo	1
+tandem	1
+sea anchor	1
+sound truck	1
+racing yacht	1
+chuck wagon	1
+lightship	1
+ordinary bicycle	1
+squadron	1
+spoke	1
+derelict	1
+weather ship	1
+space vehicle	1
+water wagon	1
+camion	1
+bicycle-built-for-two	1
+scow	1
+mirror	1
+mailboat	1
+deck	1
+tow car	1
+car door	1
+garbage truck	1
+sea boat	1
+seat belt	1
+subcompact	1
+school bus	1
+plane	1
+accelerator pedal	1
+forecastle	1
+troopship	1
+cargo ship	1
+sheet	1
+rope	1
+tail fin	1
+hulk	1
+dumper	1
+passenger ship	1
+ferryboat	1
+first	1
+power mower	1
+push-bike	1
+anchor	1
+third gear	1
+handlebar	1
+tugboat	1
+low gear	1
+pirate ship	1
+mast	1
+gas pedal	1
+hack	1
+bay	1
+supply ship	1
+dry dock	1
+glove compartment	1
+trailer	1
+compact car	1
+jetliner	1
+ferry	1
+prairie wagon	1
+pace car	1
+barge	1
+topside	1
+seeder	1
+skibob	1
+coachwork	1
+electric car	1
+bogy	1
+coupe	1
+dirt bike	1
+patrol car	1
+sailing	1
+jeep	1
+Model T	1
+hatchback	1
+first gear	1
+route	1
+hoy	1
+ice yacht	1
+cart	1
+crow's nest	1
+running board	1
+gasoline engine	1
+bumper car	1
+porthole	1
+scraper	1
+roadster	1
+radiator grille	1
+bulwark	1
+prairie schooner	1
+nose	1
+stern	1
+car mirror	1
+car	1
+petrol engine	1
+helm	1
+air bag	1
+taillight	1
+bus	1
+saddle	1
+blockade-runner	1
+tower	1
+fishing vessel	1
+fishing boat	1
+bilge well	1
+minivan	1
+roof	1
+merchant ship	1
+ship's boat	1
+Mackinaw boat	1
+cycle	1
+longboat	1
+pedal	1
+poop	1
+hull	1
+westbound	1
+subcompact car	1
+fuselage	1
+runabout	1
+implement	1
+cargo deck	1
+Conestoga wagon	1
+cockpit	1
+gas-turbine ship	1
+minibus	1
+hot rod	1
+gas guzzler	1
+articulated lorry	1
+pilot boat	1
+guard boat	1
+twinjet	1
+dashboard	1
+landing gear	1
+bunk	1
+gearbox	1
+ballistic capsule	1
+race	1
+steamroller	1
+phaeton	1
+low	1
+wiper	1
+bogey	1
+slave ship	1
+projectile	1
+icebreaker	1
+milk wagon	1
+landing craft	1
+storage area	1
+abandoned ship	1
+trunk	1
+high gear	1
+fireboat	1
+milkwagon	1
+limousine	1
+grille	1
+tip truck	1
+taxicab	1
+buffer	1
+taxi	1
+fo'c'sle	1
+hospital ship	1
+fanjet	1
+automobile engine	1
+hovercraft	1
+small boat	1
+mackinaw	1
+police car	1
+high	1
+trail bike	1
+shrimper	1
+ice wagon	1
+pedicab	1
+landrover	1
+handle	1
+minesweeper	1
+fishing smack	1
+gasoline	1
+cruise missile	1
+cutter	1
+ship's galley	1
+bandwagon	1
+yacht	1
+anti-sway bar	1
+navigation light	1
+auto accessory	1
+electric	1
+navy	1
+pickup truck	1
+packet	1
+Dodgem	1
+mower	1
+whaler	1
+winch	1
+treasure ship	1
+tow truck	1
+scrambler	1
+black box	1
+turbofan	1
+patrol boat	1
+tandem bicycle	1
+cargo hold	1
+escape hatch	1
+plough	1
+convertible	1
+patrol ship	1
+river boat	1
+skeletal frame	1
+safety bike	1
+weather sheet	1
+radar dome	1
+narrowboat	1
+coaster brake	1
+cookhouse	1
+tipper truck	1
+reverse gear	1
+battery	1
+scooter	1
+gun	1
+basket	1
+punt	1
+trolleybus	1
+squad car	1
+hot-rod	1
+airplane	1
+sled	1
+electric automobile	1
+flagship	1
+steering wheel	1
+fan-jet	1
+radome	1
+ordinary	1
+cargo area	1
+barrage balloon	1
+shuttle helicopter	1
+gondola	1
+gunboat	1
+mountain bike	1
+covered wagon	1
+gyrostabiliser	1
+third	1
+cruiser	1
+sledge	1
+agriculture	1
+heap	1
+police boat	1
+ambulance	1
+shipwreck	1
+sailing ship	1
+ice-wagon	1
+road roller	1
+dozer	1
+mail boat	1
+fire engine	1
+wrecker	1
+tailfin	1
+turbine	1
+two-seater	1
+car transporter	1
+ridge rope	1
+dump truck	1
+horn	1
+shroud	1
+stealth aircraft	1
+three-decker	1
+throttle	1
+sister ship	1
+underframe	1
+school ship	1
+sausage	1
+ratlin	1
+steamboat	1
+cabin	1
+jumbo jet	1
+secondhand car	1
+radio	1
+motorboat	1
+turbojet	1
+tram	1
+tourer	1
+windlass	1
+car window	1
+safety bicycle	1
+junk	1
+cab	1
+antenna	1
+ark	1
+bicycle wheel	1
+tool	1
+sprocket wheel	1
+car seat	1
+sunshine-roof	1
+cargo helicopter	1
+blimp	1
+single-rotor helicopter	1
+machine	1
+aeroplane	1
+powerboat	1
+windshield wiper	1
+sausage balloon	1
+trailer truck	1
+bulldozer	1
+lifeboat	1
+trackless trolley	1
+artefact	1
+bumboat	1
+jet plane	1
+hardtop	1
+keel	1
+sprocket	1
+tack	1
+sleigh	1
+semi	1
+training ship	1
+trolley coach	1
+headlight	1
+sailing vessel	1
+stock car	1
+velocipede	1
+police cruiser	1
+lighter	1
+sunroof	1
+mainsheet	1
+tractor trailer	1
+reverse	1
+axle	1
+ratline	1
+trucking rig	1
+dustcart	1
+Conestoga	1
+davit	1
+engine room	1
+southbound	1
+screw	1
+transport ship	1
+hold	1
+nuclear-powered ship	1
+floorboard	1
+wreck	1
+stabilizer bar	1
+station	1
+tipper	1
+polluting	1
+jumbojet	1
+mudguard	1
+tug	1
+funnel	1
+depot	1
+railing	1
+tramcar	1
+chain	1
+spar	1
+riding bitt	1
+narrow boat	1
+steamer	1
+corps	1
+quarter	1
+gypsy cab	1
+sports car	1
+rig	1
+caboose	1
+angledozer	1
+automobile	1
+bogie	1
+drogue	1
+jalopy	1
+fire truck	1
+water waggon	1
+tipper lorry	1
+pinnace	1
+towboat	1
+bareboat	1
+hand mower	1
+cycle rickshaw	1
+jet-propelled plane	1
+van	1
+auto	1
+flatboat	1
+limo	1
+minicar	1
+number plate	1
+bulkhead	1
+small ship	1
+skeleton	1
+whaling ship	1
+superstructure	1
+touring car	1
+top	1
+skyhook	1
+screw propeller	1
+surfboat	1
+pod	1
+horsecar	1
+canal boat	1
+wain	1
+public transport	1
+prowl car	1
+steamship	1
+lubber's hole	1
+packet boat	1
+artifact	1
+transporter	1
+lawn tool	1
+bike	1
+gyrostabilizer	1
+bilge pump	1
+compact	1
+minelayer	1
+shipyard	1
+pirate	1
+sport car	1
+box	1
+kickstand	1
+minibike	1

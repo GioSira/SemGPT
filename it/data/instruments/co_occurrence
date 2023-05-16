@@ -1,0 +1,172 @@
+generalization	musical instrument	28
+purpose	play	25
+colorPattern	black	24
+material	wood	24
+colorPattern	white	24
+colorPattern	silver	22
+colorPattern	brown	22
+material	metal	22
+user	orchestra	19
+bodyPart	finger	17
+generalization	device	16
+material	steel	12
+howToUse	hold	11
+user	musician	11
+material	plastic	10
+generalization	stringed instrument	8
+howToUse	play	8
+shape	cylindrical	8
+generalization	wind instrument	7
+generalization	wind	7
+part	fingerboard	7
+generalization	percussion	6
+generalization	percussive instrument	6
+material	aluminium	6
+generalization	percussion instrument	6
+generalization	instrument	6
+generalization	woodwind instrument	6
+material	ivory	6
+place	France	6
+purpose	rhythm	6
+generalization	woodwind	6
+purpose	groove	6
+user	band	6
+user	busker	6
+material	felt	6
+sound	mechanical	6
+generalization	wood	6
+user	accordionist	6
+sound	versatile	5
+purpose	solo	5
+sound	sad	5
+sound	mournful	5
+shape	long	5
+sound	deep	5
+purpose	classical music	5
+sound	high	5
+sound	melancholy	5
+bodyPart	hand	5
+purpose	jazz	5
+purpose	light music	5
+sound	acute	5
+shape	thin	5
+bodyPart	mouth	5
+howToUse	blow	5
+shape	elongated	5
+part	mouthpiece	4
+shape	hollow	4
+part	register key	4
+generalization	beating-reed instrument	4
+generalization	reed instrument	4
+shape	round	4
+generalization	keyboard instrument	4
+generalization	reed	4
+material	cork	4
+shape	circular	4
+howToUse	press	4
+user	pianist	4
+accessory	seat	4
+part	ligature	4
+material	ebony	4
+part	reed	4
+material	leather	4
+generalization	instrumentality	3
+part	string	3
+bodyPart	foot	3
+material	brass	3
+part	scroll	3
+purpose	beat	3
+howToUse	sit	3
+generalization	instrumentation	3
+part	fine tuner	2
+generalization	double reed	2
+generalization	bowed stringed instrument	2
+part	strap	2
+howToUse	fill	2
+howToUse	sing	2
+part	tuning peg	2
+generalization	double-reed instrument	2
+part	body	2
+user	cellist	2
+part	endpin	2
+generalization	string	2
+part	neck	2
+part	tailpiece	2
+bodyPart	knee	2
+purpose	sound	2
+purpose	playing	2
+part	clavier	2
+part	piano keyboard	2
+generalization	single-reed instrument	2
+generalization	single-reed woodwind	2
+generalization	free-reed instrument	2
+part	bridge	2
+part	resonance chamber	2
+part	f-hole	2
+specialization	bombard	1
+purpose	sonata	1
+specialization	grand piano	1
+part	finger hole	1
+specialization	tuba	1
+specialization	mechanical piano	1
+part	screw	1
+generalization	electronic musical instrument	1
+specialization	bass fiddle	1
+specialization	player piano	1
+part	piano action	1
+generalization	brass instrument	1
+part	violin bow	1
+specialization	bull fiddle	1
+generalization	guitar	1
+part	surface	1
+part	loud pedal	1
+specialization	double bass	1
+specialization	Pianola	1
+part	sustaining pedal	1
+part	thumbhole	1
+generalization	transverse flute	1
+specialization	contrabass	1
+generalization	brass	1
+part	membrane	1
+specialization	string bass	1
+part	fall-board	1
+part	drumhead	1
+part	skin	1
+purpose	accompaniment	1
+part	pedal	1
+generalization	flute	1
+specialization	bass guitar	1
+howToUse	compress	1
+part	fiddlestick	1
+part	handle	1
+specialization	bass horn	1
+howToUse	expand	1
+part	button	1
+part	chin rest	1
+part	key	1
+howToUse	riff	1
+part	hammer	1
+part	leg	1
+part	music rack	1
+part	soundboard	1
+specialization	sousaphone	1
+part	head	1
+generalization	keyboard	1
+specialization	upright piano	1
+purpose	concerto	1
+generalization	electronic instrument	1
+purpose	recital	1
+part	pleat	1
+specialization	bass viol	1
+accessory	bow	1
+specialization	bombardon	1
+purpose	improvise	1
+part	keyboard	1
+part	rope	1
+generalization	chordophone	1
+part	bellows	1
+user	drummer	1
+purpose	trio	1
+part	soft pedal	1
+part	fallboard	1
+purpose	practice	1

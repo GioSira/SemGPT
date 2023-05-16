@@ -1,0 +1,201 @@
+sound	ping	7.526173169513551
+howToUse	fasten	6.526173169513551
+howToUse	wield	6.526173169513551
+howToUse	don	6.526173169513551
+bodyPart	chin	6.111135670234707
+bodyPart	ring	6.111135670234707
+bodyPart	wrist	6.111135670234707
+bodyPart	head	6.111135670234707
+place	hairdresser	5.941210668792395
+place	bedroom	5.941210668792395
+place	clothes shop	5.941210668792395
+place	building site	5.941210668792395
+place	bathroom	5.941210668792395
+howToUse	wear	5.303780748177103
+bodyPart	bracelet	5.111135670234707
+efficiency	waterproof	4.863208156791122
+efficiency	fragile	4.863208156791122
+efficiency	strong	4.863208156791122
+efficiency	resistant	4.863208156791122
+purpose	write	4.587573714177694
+purpose	safety	4.587573714177694
+purpose	fight	4.587573714177694
+purpose	sport	4.587573714177694
+purpose	climbing	4.587573714177694
+purpose	groom	4.587573714177694
+purpose	reflect	4.587573714177694
+purpose	hang	4.587573714177694
+user	woman	4.156939359847832
+user	secretary	4.156939359847832
+user	riot police	4.156939359847832
+user	climber	4.156939359847832
+user	writer	4.156939359847832
+user	soldier	4.156939359847832
+user	cyclist	4.156939359847832
+user	motorcyclist	4.156939359847832
+user	horseman	4.156939359847832
+shape	circular	3.9818526532897405
+shape	round	3.9818526532897405
+shape	arched	3.9818526532897405
+shape	rond	3.9818526532897405
+shape	spherical	3.9818526532897405
+colorPattern	black	3.7892075753473446
+colorPattern	white	3.7892075753473446
+colorPattern	golden	3.7892075753473446
+colorPattern	sparkly	3.7892075753473446
+purpose	shade	3.587573714177694
+purpose	shelter	3.587573714177694
+bodyPart	jewelry	3.5261731695135508
+part	fastener	2.7712856673500825
+part	tip	2.7712856673500825
+part	clasp	2.7712856673500825
+part	lever	2.7712856673500825
+part	ink	2.7712856673500825
+part	bead	2.7712856673500825
+part	knob	2.7712856673500825
+part	platen	2.7712856673500825
+part	pickup	2.7712856673500825
+part	parasol	2.7712856673500825
+part	shaft	2.7712856673500825
+part	auto-changer	2.7712856673500825
+part	angle	2.7712856673500825
+part	frame	2.7712856673500825
+part	radio chassis	2.7712856673500825
+part	ribbon	2.7712856673500825
+part	typewriter keyboard	2.7712856673500825
+part	strap	2.7712856673500825
+part	pickup arm	2.7712856673500825
+part	changer	2.7712856673500825
+part	pendent	2.7712856673500825
+part	carriage	2.7712856673500825
+part	handle	2.7712856673500825
+part	beaver	2.7712856673500825
+part	tone arm	2.7712856673500825
+part	rib	2.7712856673500825
+part	typewriter carriage	2.7712856673500825
+part	felly	2.7712856673500825
+part	cartridge	2.7712856673500825
+part	buckle	2.7712856673500825
+part	key	2.7712856673500825
+part	eraser	2.7712856673500825
+part	turntable	2.7712856673500825
+part	rim	2.7712856673500825
+part	record changer	2.7712856673500825
+part	bell	2.7712856673500825
+part	ferrule	2.7712856673500825
+part	pendant	2.7712856673500825
+part	felloe	2.7712856673500825
+part	gore	2.7712856673500825
+part	visor	2.7712856673500825
+part	keyboard	2.7712856673500825
+part	panel	2.7712856673500825
+purpose	protection	2.587573714177694
+material	plastic	2.571976859126676
+material	metal	2.571976859126676
+material	fibre	2.571976859126676
+material	pearl	2.571976859126676
+material	elastic	2.571976859126676
+material	leather	2.571976859126676
+material	thread	2.571976859126676
+material	wood	2.571976859126676
+material	fiberglass	2.571976859126676
+material	polycarbonate	2.571976859126676
+material	canvas	2.571976859126676
+material	steel	2.571976859126676
+material	grease	2.571976859126676
+colorPattern	silver	2.467279480459982
+material	glass	2.250048764239313
+colorPattern	gold	2.2042450746261886
+part	canopy	2.186323166628926
+material	gold	1.9870143584055193
+material	cloth	1.9870143584055193
+material	fabric	1.9870143584055193
+material	silver	1.8350112649604693
+part	gem	1.7712856673500825
+part	shell	1.7712856673500825
+part	bracelet	1.7712856673500825
+material	gem	1.5719768591266758
+generalization	device	1.431655570729261
+generalization	artefact	1.431655570729261
+generalization	covering	1.431655570729261
+generalization	artifact	1.431655570729261
+generalization	instrumentality	1.431655570729261
+generalization	instrumentation	1.431655570729261
+generalization	habiliment	1.431655570729261
+generalization	clothing	1.431655570729261
+generalization	vesture	1.431655570729261
+generalization	article of clothing	1.431655570729261
+generalization	protective covering	1.431655570729261
+generalization	consumer goods	1.431655570729261
+generalization	furniture	1.431655570729261
+generalization	wearable	1.431655570729261
+generalization	setup	1.431655570729261
+generalization	equipment	1.431655570729261
+generalization	apparatus	1.431655570729261
+generalization	material	1.431655570729261
+generalization	duplicator	1.431655570729261
+generalization	copier	1.431655570729261
+generalization	printer	1.431655570729261
+generalization	source of illumination	1.431655570729261
+generalization	bed clothing	1.431655570729261
+generalization	flat solid	1.431655570729261
+generalization	serial printer	1.431655570729261
+generalization	printing machine	1.431655570729261
+generalization	plate armor	1.431655570729261
+generalization	construction	1.431655570729261
+generalization	armour	1.431655570729261
+generalization	simple machine	1.431655570729261
+generalization	textile	1.431655570729261
+generalization	mechanism	1.431655570729261
+generalization	trade good	1.431655570729261
+generalization	armor plate	1.431655570729261
+generalization	stuff	1.431655570729261
+generalization	scute	1.431655570729261
+generalization	writing paper	1.431655570729261
+generalization	structure	1.431655570729261
+generalization	bedclothes	1.431655570729261
+generalization	bedding	1.431655570729261
+generalization	character printer	1.431655570729261
+generalization	garment	1.431655570729261
+generalization	armor plating	1.431655570729261
+generalization	character-at-a-time printer	1.431655570729261
+generalization	sheet	1.431655570729261
+generalization	armour plate	1.431655570729261
+generalization	scale	1.431655570729261
+generalization	plate	1.431655570729261
+generalization	armor	1.431655570729261
+generalization	good	1.431655570729261
+generalization	shield	1.431655570729261
+generalization	cloth covering	1.431655570729261
+generalization	optical device	1.431655570729261
+generalization	headgear	1.431655570729261
+generalization	commodity	1.431655570729261
+generalization	paper	1.431655570729261
+generalization	container	1.431655570729261
+generalization	reflector	1.431655570729261
+generalization	body covering	1.431655570729261
+generalization	plate armour	1.431655570729261
+generalization	mechanical device	1.431655570729261
+generalization	accessory	1.4316555707292609
+generalization	decoration	1.4316555707292609
+generalization	ornamentation	1.4316555707292609
+generalization	tool	1.4316555707292609
+generalization	adornment	1.4316555707292609
+generalization	implement	1.4316555707292609
+generalization	ornament	1.4316555707292609
+generalization	utensil	1.4316555707292609
+generalization	protective cover	1.4316555707292609
+generalization	machine	1.4316555707292609
+generalization	whole	1.4316555707292609
+generalization	unit	1.4316555707292609
+generalization	headdress	1.4316555707292609
+generalization	jewelry	1.1686211648954672
+generalization	protection	1.0166180714504174
+generalization	wear	0.6243006486716571
+part	glass	0.4493575724627199
+generalization	shelter	0.4316555707292611
+generalization	shell	0.4316555707292611
+generalization	shade	0.4316555707292611
+generalization	cloth	-0.1533069299918952
+generalization	fabric	-0.1533069299918952
+generalization	canopy	-0.1533069299918952

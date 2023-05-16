@@ -1,0 +1,139 @@
+colorPattern	silver	48
+generalization	tool	31
+material	metal	30
+colorPattern	black	24
+generalization	utensil	24
+colorPattern	brown	24
+generalization	implement	22
+material	steel	19
+shape	long	16
+shape	elongated	16
+material	plastic	12
+part	handle	10
+part	blade	10
+place	kitchen	8
+generalization	instrumentality	6
+size	small	6
+part	arm	6
+generalization	device	6
+part	edge	6
+howToUse	hold	6
+colorPattern	golden	6
+howToUse	stand up	6
+generalization	object	6
+accessory	toolbox	6
+generalization	hand tool	6
+part	head	6
+generalization	instrumentation	6
+material	iron	6
+purpose	build	6
+place	garden	5
+generalization	restraint	5
+material	wood	5
+place	shed	5
+generalization	constraint	5
+shape	curved	5
+purpose	cooking	5
+generalization	fixing	4
+part	shank	4
+generalization	holdfast	4
+purpose	agriculture	4
+generalization	fastener	4
+generalization	fastening	4
+accessory	screwdriver	4
+generalization	edge tool	4
+generalization	cutter	3
+generalization	cutlery	3
+generalization	artefact	3
+accessory	rod	3
+generalization	cutting tool	3
+generalization	artifact	3
+generalization	mechanical device	3
+generalization	compound lever	2
+generalization	cutting implement	2
+generalization	knife	2
+purpose	weeding	2
+accessory	screw	2
+generalization	machine	2
+generalization	mechanism	2
+generalization	simple machine	2
+place	hairdresser	2
+purpose	lock	2
+accessory	knob	2
+user	sailor	2
+accessory	staple	2
+purpose	secure	2
+accessory	bolt	2
+shape	cylindrical	2
+generalization	lever	2
+shape	triangular	2
+place	laboratory	2
+purpose	clamp	2
+generalization	surgical instrument	1
+purpose	cut	1
+part	hammerhead	1
+generalization	surgical knife	1
+generalization	opener	1
+part	razorblade	1
+part	slot	1
+generalization	impedimenta	1
+generalization	connective	1
+generalization	claw	1
+generalization	screw	1
+generalization	line	1
+generalization	bar	1
+generalization	curved shape	1
+generalization	connecter	1
+generalization	construction	1
+generalization	kitchen utensil	1
+purpose	tighten	1
+accessory	fastener	1
+generalization	obstructer	1
+generalization	instrument	1
+generalization	curve	1
+generalization	filter	1
+part	hoe handle	1
+generalization	form	1
+part	point	1
+generalization	impediment	1
+generalization	seal	1
+generalization	weapon system	1
+generalization	structure	1
+generalization	connexion	1
+generalization	bond	1
+part	stock	1
+generalization	tumbler	1
+purpose	pick up	1
+part	ring	1
+purpose	dig	1
+part	thread	1
+generalization	ligament	1
+generalization	obstructor	1
+part	stem	1
+generalization	scissors	1
+part	clinch	1
+generalization	arm	1
+generalization	attachment	1
+generalization	strainer	1
+generalization	connector	1
+user	farmer	1
+purpose	serve	1
+purpose	grip	1
+generalization	connection	1
+generalization	pair of scissors	1
+generalization	bottle opener	1
+purpose	moor	1
+generalization	inclined plane	1
+generalization	paper	1
+part	pinhead	1
+part	rake handle	1
+generalization	hook	1
+purpose	fasten	1
+generalization	medical instrument	1
+generalization	shape	1
+part	fluke	1
+generalization	playing card	1
+generalization	weapon	1
+generalization	obstruction	1
+purpose	dock	1
+generalization	card	1

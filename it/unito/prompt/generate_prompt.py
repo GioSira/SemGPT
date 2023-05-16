@@ -1,5 +1,5 @@
 from it.unito.prompt.slots_to_prompt import slot2prompt, value2prompt
-from it.unito.prompt.categories_to_prompt import category2prompt
+from it.unito.prompt.categories_to_prompt import category2prompt, get_all_categories
 from it.unito.semagram.concepts import categories_dict
 from random import choices, randint
 from it.unito.db.query_semagram import *
@@ -119,23 +119,49 @@ def pmi_slot_value_by_category(category):
         count_slot = get_count(count_slots, slot)
         count_value = get_count(count_values, value)
         pmi = math.log2((count_slot_value / total_semagram_category) / ((count_slot / total_semagram_category) * (count_value / total_semagram_category)))
-        #print("pmi: " + pmi + "for pair slot-value: " + slot + "-" + value + "for category: " + category)
         pmis.append(([slot, value], pmi))
 
     pmis.sort(key= lambda x: x[1], reverse=True)
-    return pmis
+    return pmis, count_slots, count_values, co_occurrence
 
+
+def ranking_slot_value_by_category(category, pmis, count_slots, count_values): 
+
+    ranking = []
+    for [slot, value], pmi in pmis:
+        count_slot = get_count(count_slots, slot)
+        count_value = get_count(count_values, value)
+        rank = pmi / (count_slot + count_value)
+
+        ranking.append(([slot, value], rank))
+
+
+    path = f"it/data/{category}/ranking.txt"
+
+    with open(path, "w", encoding="utf8") as f:
+        for [slot, value], rank in ranking:
+            f.write(f"{slot}\t{value}\t{rank}\n")
+
+
+    return ranking
     
 
-
+# ALGO: parto da slots in ordine decrescente di frequenza, e per ogni slot scelgo casualmente il valore dall'insieme di pmi?
 
 if __name__ == '__main__':
 
-    category = "animals"
     
-    pmis = pmi_slot_value_by_category(category)
+    categories = get_all_categories()
+    
+    for category in categories:
 
-    print(pmis)
+        pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
+
+        ranking = ranking_slot_value_by_category(category, pmis, count_slots, count_values)
+
+
+        
+
     #qty = 10
 
     #prompt = generate_prompt_db(qty, category)

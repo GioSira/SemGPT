@@ -1,0 +1,734 @@
+generalization	food	30
+colorPattern	white	30
+place	supermarket	23
+user	farmer	18
+colorPattern	yellow	18
+howToUse	harvest	18
+howToUse	cut	16
+taste	sweet	16
+howToUse	cook	16
+howToUse	eat	14
+howToUse	dry	14
+user	cook	14
+howToUse	stew	13
+howToUse	boil	13
+generalization	nutrient	13
+colorPattern	red	13
+colorPattern	green	13
+place	fruiterer	12
+place	greengrocer	12
+size	small	12
+user	greengrocer	12
+user	fruiterer	12
+generalization	vegetable	12
+howToUse	slice	12
+part	stalk	11
+shape	elongated	10
+part	pip	10
+colorPattern	yellowish	10
+part	stem	10
+part	seed	10
+colorPattern	orange	10
+howToUse	pick	9
+shape	long	9
+consistency	sweet	9
+shape	round	8
+generalization	food product	8
+generalization	foodstuff	8
+colorPattern	rose	8
+product	salad	8
+shape	circular	8
+shape	oval	8
+product	sauce	7
+howToUse	peel	7
+consistency	crunchy	7
+howToUse	bake	7
+accessory	bottle	7
+product	cake	7
+generalization	substance	7
+product	cider	6
+place	restaurant	6
+generalization	produce	6
+accessory	cup	6
+accessory	barrel	6
+place	Britain	6
+consistency	juicy	6
+generalization	fruit	6
+shape	thin	6
+smell	sweet	6
+consistency	liquid	6
+product	compote	6
+place	orchard	6
+shape	conical	6
+product	juice	6
+time	lunch	6
+product	syrup	6
+place	USA	6
+colorPattern	brown	6
+howToUse	press	6
+howToUse	roast	6
+place	garden	6
+taste	acid	6
+time	autumn	6
+howToUse	grow	6
+generalization	garden truck	6
+time	dinner	6
+place	France	6
+part	core	6
+howToUse	wash	6
+generalization	green groceries	6
+user	adult	6
+place	field	6
+generalization	green goods	6
+part	root	6
+generalization	staple food	6
+consistency	firm	6
+place	underground	6
+generalization	drink	5
+product	puree	5
+generalization	cereal	5
+accessory	oven	5
+part	pulp	5
+smell	fruity	5
+accessory	meat	5
+generalization	pome	5
+material	salt	5
+part	leaf	5
+product	flour	5
+part	flesh	5
+place	grocery	5
+howToUse	steam	5
+accessory	sausage	5
+accessory	barbecue	5
+product	biodiesel	4
+taste	cold	4
+generalization	liquid	4
+smell	bitter	4
+colorPattern	pink	4
+generalization	herbaceous plant	4
+generalization	herb	4
+part	husk	4
+smell	cheap	4
+product	bioethanol	4
+product	popcorn	4
+generalization	edible fruit	4
+place	plantation	4
+product	biofuel	4
+generalization	vascular plant	4
+howToUse	spiced	4
+smell	floral	4
+generalization	tuber	4
+product	cornflake	4
+generalization	reproductive structure	4
+product	whiskey	4
+product	soup	4
+howToUse	fry	4
+generalization	tracheophyte	4
+smell	spicy	4
+howToUse	braise	3
+place	bar	3
+product	sandwich	3
+smell	balsamic	3
+generalization	fluid	3
+howToUse	knead	3
+product	yield	3
+taste	dessert	3
+accessory	butter	3
+howToUse	caramelize	3
+howToUse	dip	3
+howToUse	grind	3
+accessory	marmalade	3
+consistency	crispy	3
+material	water	3
+howToUse	yield	3
+product	pastry	3
+place	bottle	3
+generalization	starches	3
+consistency	tart	3
+part	glucose	2
+generalization	plant structure	2
+part	peel	2
+generalization	solid	2
+generalization	maize	2
+generalization	alcohol	2
+smell	tasty	2
+generalization	alcoholic beverage	2
+generalization	nutrition	2
+accessory	soup	2
+part	skin	2
+colorPattern	glossy	2
+howToUse	chop	2
+howToUse	cream	2
+generalization	flora	2
+specialization	rice	2
+place	vineyard	2
+specialization	wild rice	2
+generalization	victuals	2
+accessory	macaroni	2
+specialization	ciabatta	2
+specialization	brown bread	2
+generalization	nutriment	2
+specialization	Indian rice	2
+smell	organic	2
+taste	sparkling	2
+howToUse	toast	2
+time	summer	2
+material	wheat	2
+material	milk	2
+consistency	rich	2
+smell	aromatic	2
+generalization	plant part	2
+generalization	dish	2
+specialization	buckwheat	2
+generalization	food grain	2
+howToUse	cultivate	2
+howToUse	taste	2
+specialization	wheat berry	2
+generalization	street drug	2
+generalization	alimentation	2
+generalization	nourishment	2
+product	wine	2
+howToUse	melt	2
+specialization	millet	2
+howToUse	break	2
+generalization	alcoholic drink	2
+specialization	corn	2
+accessory	cheese	2
+generalization	crop	2
+specialization	barley	2
+colorPattern	shiny	2
+specialization	groats	2
+generalization	inebriant	2
+generalization	aliment	2
+consistency	spongy	2
+generalization	plant	2
+specialization	barleycorn	2
+place	tree	2
+generalization	drug of abuse	2
+smell	varietal	2
+smell	acidic	2
+specialization	baguette	2
+specialization	breadstick	2
+specialization	grist	2
+product	vinegar	2
+generalization	plant life	2
+consistency	sour	2
+product	cob	2
+howToUse	sprout	2
+generalization	sustenance	2
+taste	hot	2
+generalization	grain	2
+generalization	plant organ	2
+accessory	salad	2
+specialization	wheat	2
+time	April	2
+generalization	intoxicant	2
+howToUse	glaze	2
+generalization	matter	2
+specialization	oat	2
+specialization	edible corn	2
+taste	sugary	2
+part	fructose	2
+smell	hot	2
+specialization	malt	2
+accessory	rice	2
+part	sugar corn	1
+specialization	java	1
+specialization	hot chocolate	1
+part	bread	1
+specialization	pod	1
+taste	soft	1
+specialization	hoagy	1
+specialization	salt-rising bread	1
+specialization	blush wine	1
+specialization	white rice	1
+specialization	Triticum dicoccum dicoccoides	1
+specialization	sun tea	1
+specialization	scarlet strawberry	1
+generalization	citrus fruit	1
+accessory	corn	1
+specialization	fruitlet	1
+specialization	butty	1
+specialization	tomato juice	1
+specialization	iced tea	1
+specialization	lemon juice	1
+specialization	onion bread	1
+specialization	maconnais	1
+product	tortilla	1
+specialization	processed cheese	1
+specialization	hamburger	1
+specialization	Triticum aestivum	1
+specialization	Burgundy	1
+specialization	sacramental wine	1
+specialization	Triticum spelta	1
+specialization	Triticum aestivum spelta	1
+specialization	rose	1
+accessory	sandwich	1
+material	grape	1
+specialization	olive	1
+specialization	Cripps Pink	1
+time	meal	1
+specialization	herbal tea	1
+specialization	crab apple	1
+specialization	varietal wine	1
+generalization	vine	1
+specialization	torpedo	1
+specialization	decaf	1
+consistency	dry	1
+specialization	brown rice	1
+specialization	Gouda	1
+accessory	pasta	1
+specialization	alcoholic beverage	1
+specialization	alcohol	1
+specialization	Sauvignon Blanc	1
+specialization	Merlot	1
+specialization	temple orange	1
+specialization	draught beer	1
+specialization	rosehip	1
+specialization	submarine	1
+generalization	citrous fruit	1
+part	wheat berry	1
+purpose	vision	1
+specialization	Cotes de Provence	1
+specialization	naan	1
+specialization	rye bread	1
+part	orange rind	1
+specialization	intoxicant	1
+specialization	altar wine	1
+specialization	starch wheat	1
+specialization	sour orange	1
+specialization	soft wheat	1
+generalization	grass	1
+specialization	Triticum durum	1
+specialization	cubeb	1
+specialization	ricotta	1
+specialization	Fragaria virginiana	1
+specialization	bleu	1
+specialization	accessory fruit	1
+specialization	potion	1
+specialization	drinking chocolate	1
+specialization	cafe royale	1
+specialization	espresso	1
+product	wheat	1
+specialization	wild strawberry	1
+accessory	cooler	1
+specialization	Swiss cheese	1
+specialization	V-8 juice	1
+specialization	cooking apple	1
+specialization	Brie	1
+specialization	Irish coffee	1
+specialization	Honeycrisp	1
+specialization	buckthorn berry	1
+specialization	hydromel	1
+specialization	marasca	1
+specialization	carrot juice	1
+generalization	gramineous plant	1
+specialization	Parmesan	1
+specialization	cracked-wheat bread	1
+specialization	ade	1
+accessory	glass	1
+accessory	cereal	1
+specialization	fruit drink	1
+specialization	pyxidium	1
+specialization	decaffeinated coffee	1
+specialization	prairie gourd	1
+specialization	ham sandwich	1
+specialization	red hot	1
+specialization	bacon-lettuce-tomato sandwich	1
+specialization	gravy	1
+specialization	Rhone wine	1
+specialization	Camembert	1
+accessory	maize	1
+specialization	bomber	1
+specialization	bun	1
+specialization	Bordeaux	1
+specialization	wafer	1
+generalization	crucifer	1
+specialization	cracker	1
+howToUse	leaven	1
+specialization	plonk	1
+generalization	drug	1
+specialization	Dubonnet	1
+specialization	Fragaria vesca	1
+specialization	farmer's cheese	1
+specialization	seckel	1
+specialization	chevre	1
+specialization	mocha coffee	1
+specialization	Granny Smith	1
+material	sourdough	1
+howToUse	wilt	1
+generalization	liliaceous plant	1
+place	glass	1
+material	flour	1
+specialization	coffee substitute	1
+specialization	farm cheese	1
+generalization	graminaceous plant	1
+specialization	home-fried potatoes	1
+specialization	soya	1
+specialization	dessert apple	1
+part	cuke	1
+specialization	emmer	1
+product	pasta	1
+specialization	matzah	1
+specialization	anjou	1
+specialization	Triticum turgidum	1
+specialization	caraway seed bread	1
+smell	elegant	1
+specialization	wild cherry	1
+specialization	jug wine	1
+product	peel	1
+specialization	ginger beer	1
+specialization	mashed potato	1
+specialization	California wine	1
+specialization	green corn	1
+specialization	schizocarp	1
+specialization	grated cheese	1
+part	Zea saccharata	1
+generalization	dairy product	1
+specialization	draft beer	1
+specialization	herbal	1
+specialization	quark cheese	1
+howToUse	grate	1
+specialization	rose wine	1
+specialization	wild emmer	1
+specialization	challah	1
+specialization	sour bread	1
+specialization	durum	1
+specialization	Seville orange	1
+specialization	Armerican cheddar	1
+specialization	cottage cheese	1
+accessory	dish	1
+generalization	root vegetable	1
+specialization	tea	1
+specialization	fruit juice	1
+specialization	Tokay	1
+specialization	gourd	1
+specialization	open-face sandwich	1
+specialization	chocolate	1
+part	tomato	1
+specialization	cappuccino coffee	1
+specialization	lager beer	1
+specialization	garlic bread	1
+part	Zea mays rugosa	1
+specialization	blue fig	1
+specialization	oenomel	1
+smell	fresh	1
+specialization	varietal	1
+specialization	ear	1
+specialization	wrap	1
+part	staff of life	1
+generalization	alliaceous plant	1
+specialization	matzoh	1
+specialization	two-grain spelt	1
+specialization	vermouth	1
+material	fruit	1
+specialization	double Gloucester	1
+specialization	brick cheese	1
+product	gluten	1
+specialization	blue cheese	1
+specialization	buffalo nut	1
+specialization	tea-like drink	1
+material	tasting	1
+specialization	ice tea	1
+specialization	pretzel	1
+specialization	wood strawberry	1
+generalization	melon	1
+generalization	brew	1
+part	isothiocyanate	1
+specialization	retsina	1
+specialization	sourdough bread	1
+specialization	rowanberry	1
+specialization	hip	1
+specialization	goat cheese	1
+specialization	grinder	1
+specialization	hero	1
+specialization	western sandwich	1
+specialization	drinking water	1
+accessory	extractor	1
+generalization	baked goods	1
+specialization	smoothie	1
+product	pancake	1
+specialization	red wine	1
+specialization	achene	1
+specialization	lime juice	1
+specialization	gyro	1
+part	pastry	1
+specialization	tossed salad	1
+generalization	legume	1
+specialization	cappuccino	1
+product	orchard	1
+generalization	brewage	1
+material	yeast	1
+specialization	white wine	1
+specialization	tunaburger	1
+specialization	nan	1
+product	crumb	1
+specialization	triple cream	1
+specialization	sub	1
+specialization	molded salad	1
+specialization	seed	1
+part	water	1
+specialization	Triticum dicoccum	1
+specialization	spelt	1
+specialization	pan gravy	1
+part	curd	1
+specialization	quark	1
+specialization	hand cheese	1
+specialization	Velveeta	1
+specialization	chicken salad	1
+specialization	suds	1
+howToUse	soak	1
+specialization	pome	1
+specialization	May apple	1
+specialization	generic	1
+specialization	seedpod	1
+consistency	sparkling	1
+generalization	gourd	1
+specialization	iced coffee	1
+part	chou	1
+specialization	Burgundy wine	1
+accessory	bread	1
+specialization	salad nicoise	1
+specialization	American cheese	1
+place	bakery	1
+specialization	pseudocarp	1
+specialization	false fruit	1
+generalization	solanaceous vegetable	1
+specialization	cyder	1
+place	salad	1
+specialization	soybean	1
+specialization	salmagundi	1
+specialization	cheddar cheese	1
+specialization	papaya juice	1
+specialization	crabapple	1
+specialization	simnel	1
+specialization	pyxis	1
+specialization	herb tea	1
+part	shell	1
+specialization	sweet corn	1
+specialization	Virginia strawberry	1
+specialization	hallah	1
+consistency	ripe	1
+specialization	mocha	1
+specialization	Fuji	1
+specialization	mulled wine	1
+specialization	yellow berry	1
+generalization	snack food	1
+specialization	hard wheat	1
+specialization	crouton	1
+specialization	lager	1
+specialization	Host	1
+material	unleavened	1
+specialization	barmbrack	1
+specialization	Golden Delicious	1
+specialization	hero sandwich	1
+specialization	multiple fruit	1
+specialization	fortified wine	1
+material	rye	1
+specialization	bitter orange	1
+product	chowder	1
+specialization	juniper berry	1
+specialization	coffee	1
+specialization	pot cheese	1
+specialization	chips	1
+specialization	mixer	1
+specialization	cultivated strawberry	1
+specialization	Gala	1
+specialization	whole wheat bread	1
+part	cheese rind	1
+specialization	sparkling wine	1
+specialization	popcorn	1
+generalization	bulbous plant	1
+place	cellar	1
+specialization	alcoholic drink	1
+user	somellier	1
+specialization	bosc	1
+specialization	oil nut	1
+specialization	syncarp	1
+specialization	triple-decker	1
+specialization	whole meal bread	1
+specialization	cinnamon bread	1
+specialization	Limburger	1
+part	green corn	1
+part	orange peel	1
+specialization	near beer	1
+specialization	Fragaria ananassa	1
+specialization	wedge	1
+specialization	hotdog	1
+specialization	tuna fish salad	1
+place	shop	1
+specialization	white bread	1
+specialization	anadama bread	1
+specialization	wish-wash	1
+specialization	crab Louis	1
+specialization	cheddar	1
+specialization	macon	1
+specialization	zep	1
+consistency	edible	1
+part	breadstuff	1
+specialization	Sloppy Joe	1
+part	shuck	1
+specialization	poor boy	1
+specialization	edible fruit	1
+specialization	western	1
+taste	fizzy	1
+part	tannin	1
+specialization	elk nut	1
+specialization	soya bean	1
+specialization	eating apple	1
+accessory	cellar	1
+specialization	cocoa	1
+specialization	cafe au lait	1
+specialization	Bordeaux wine	1
+specialization	common wheat	1
+specialization	BLT	1
+specialization	cuppa	1
+specialization	Fragaria chiloensis	1
+specialization	milk	1
+specialization	inebriant	1
+specialization	fries	1
+generalization	cruciferous plant	1
+part	dough	1
+specialization	toast	1
+specialization	durum wheat	1
+specialization	raisin bread	1
+accessory	burger	1
+howToUse	shuck	1
+specialization	table wine	1
+specialization	vintage	1
+specialization	roll	1
+accessory	grape	1
+specialization	submarine sandwich	1
+part	cabbage	1
+shape	pointed	1
+specialization	Cabernet Sauvignon	1
+specialization	aggregate fruit	1
+howToUse	dice	1
+product	bread	1
+specialization	Uruguay potato	1
+product	loaf	1
+specialization	capitulum	1
+specialization	tabbouleh	1
+specialization	quick bread	1
+accessory	pizza	1
+specialization	demitasse	1
+specialization	unleavened bread	1
+specialization	goa bean	1
+specialization	burger	1
+specialization	tabooli	1
+specialization	beach strawberry	1
+howToUse	butter	1
+accessory	bean	1
+specialization	Cuban sandwich	1
+specialization	bartlett pear	1
+specialization	Cheshire cheese	1
+specialization	hagberry	1
+specialization	cafe noir	1
+specialization	cambric tea	1
+specialization	coleslaw	1
+generalization	melon vine	1
+part	onion	1
+specialization	pasta salad	1
+specialization	paddy	1
+specialization	triple creme	1
+specialization	drip coffee	1
+specialization	brioche	1
+specialization	loaf of bread	1
+specialization	English muffin	1
+part	cucumber	1
+specialization	hominy	1
+specialization	Chilean strawberry	1
+specialization	soft drink	1
+specialization	spike	1
+specialization	mozzarella	1
+specialization	cider	1
+product	crop	1
+specialization	refresher	1
+specialization	instant coffee	1
+user	wine grower	1
+specialization	string cheese	1
+specialization	Edam	1
+specialization	cream cheese	1
+specialization	Italian sandwich	1
+specialization	potato salad	1
+specialization	coffee cappuccino	1
+place	grape	1
+specialization	french fries	1
+specialization	berry	1
+specialization	stone fruit	1
+specialization	mate	1
+specialization	chokecherry	1
+specialization	Liederkranz	1
+specialization	acorn	1
+specialization	beefburger	1
+generalization	gourd vine	1
+specialization	Pinot Noir	1
+specialization	garden strawberry	1
+specialization	Turkish coffee	1
+specialization	baked potato	1
+specialization	seckel pear	1
+part	jacket	1
+specialization	coffee royal	1
+part	spinach	1
+specialization	cupper	1
+product	cereal	1
+specialization	slaw	1
+specialization	fruit crush	1
+specialization	pink wine	1
+accessory	milk	1
+specialization	Chardonnay	1
+howToUse	pickle	1
+specialization	french-fried potatoes	1
+specialization	three-decker	1
+specialization	sweet orange	1
+generalization	citrus	1
+specialization	hot dog	1
+specialization	home fries	1
+specialization	light bread	1
+specialization	macaroni wheat	1
+accessory	vinegar	1
+specialization	bap	1
+specialization	Riesling	1
+specialization	rose hip	1
+specialization	wild wheat	1
+specialization	tuna salad	1
+specialization	hoagie	1
+specialization	common bean	1
+generalization	root	1
+specialization	ice coffee	1
+specialization	open sandwich	1
+part	sweet corn plant	1
+specialization	herring salad	1
+specialization	dessert wine	1
+specialization	Reuben	1
+specialization	Red Delicious	1
+product	pie	1
+specialization	fizz	1
+specialization	quandong	1
+specialization	soy	1
+consistency	crisp	1
+taste	herbal	1
+specialization	matzo	1
+specialization	Gouda cheese	1
+specialization	club sandwich	1
+specialization	bartlett	1
+place	store	1
+specialization	fruit salad	1
+specialization	flatbread	1
+specialization	Muenster	1
+taste	iced	1
+howToUse	crumble	1
+specialization	gluten bread	1
+part	pasta	1
+specialization	Boston brown bread	1
+specialization	dark bread	1
+specialization	chicken sandwich	1
+specialization	polished rice	1
+specialization	ale	1
+specialization	loaf	1
+specialization	cooler	1
+part	flour	1
+specialization	generic wine	1
+specialization	process cheese	1
+specialization	drupe	1
+part	sweet corn	1

@@ -1,0 +1,717 @@
+colorPattern	black	46
+colorPattern	brown	42
+generalization	animal	30
+activity	breathe	29
+activity	eat	28
+size	small	24
+colorPattern	yellow	20
+colorPattern	grey	18
+place	land	12
+generalization	mammal	12
+colorPattern	orange	12
+colorPattern	green	12
+activity	walk	12
+colorPattern	white	12
+activity	run	12
+movement	run	12
+activity	drink	12
+colorPattern	spotted	11
+colorPattern	red	10
+place	garden	9
+size	big	9
+size	large	9
+generalization	arthropod	9
+generalization	eutherian mammal	8
+colorPattern	beige	8
+generalization	placental	8
+generalization	eutherian	8
+generalization	placental mammal	8
+movement	walk	7
+user	cook	7
+generalization	carnivore	7
+purpose	food	6
+movement	slow	6
+movement	fly	6
+generalization	invertebrate	6
+activity	fetch	6
+generalization	gastropod	6
+activity	crawl	6
+specialization	worker	6
+time	summer	6
+activity	chew	6
+activity	bury	6
+activity	chase	6
+colorPattern	blue	6
+generalization	insect	6
+activity	play	6
+activity	fly	6
+place	ditch	6
+purpose	guard	6
+movement	crawl	5
+shape	long	5
+place	underwater	5
+part	eye	5
+purpose	attraction	5
+user	lover	5
+place	circus	5
+place	Asia	5
+colorPattern	solid	5
+place	sea	5
+size	medium	5
+behavior	submissive	5
+shape	elongated	5
+place	Namibia	4
+activity	live	4
+place	India	4
+behavior	obedient	4
+place	zoo	4
+place	Africa	4
+place	Kenia	4
+activity	bite	4
+purpose	research	4
+part	mouth	4
+place	Thailand	4
+behavior	faithful	4
+generalization	craniate	4
+group	herd	4
+place	Sri Lanka	4
+place	colony	4
+generalization	vertebrate	4
+colorPattern	striped	4
+activity	bath	4
+part	head	4
+part	leg	4
+behavior	loyal	4
+part	skin	4
+place	Tanzania	4
+place	terrarium	4
+activity	kill	4
+behavior	playful	4
+behavior	cute	4
+part	fur	3
+generalization	hymenopter	3
+generalization	reptilian	3
+generalization	hymenopteron	3
+sound	growl	3
+purpose	pet	3
+part	hair	3
+activity	growl	3
+part	ear	3
+generalization	being	3
+purpose	hunting	3
+part	tail	3
+accessory	collar	3
+place	water	3
+generalization	felid	3
+place	pond	3
+generalization	chordate	3
+generalization	reptile	3
+generalization	canine	3
+behavior	affectionate	3
+activity	roam	3
+accessory	leash	3
+generalization	canid	3
+group	colony	3
+activity	forage	3
+place	kennel	3
+place	tropic	3
+generalization	oviparous	3
+part	paw	3
+generalization	feline	3
+specialization	drone	3
+accessory	kennel	3
+user	hunter	3
+generalization	organism	3
+generalization	hymenopteran	3
+group	swarm	3
+part	tongue	3
+accessory	muzzle	3
+generalization	hymenopterous insect	3
+activity	feed	3
+part	coat	3
+generalization	amphibian	3
+specialization	queen	3
+activity	yelp	3
+sound	yelp	3
+activity	nest	3
+shape	round	2
+activity	leap	2
+activity	watch	2
+part	flesh	2
+activity	die	2
+activity	hunt	2
+specialization	louse	2
+specialization	bug	2
+shape	circular	2
+movement	swim	2
+purpose	wild	2
+activity	migrate	2
+part	tusk	2
+part	tooth	2
+generalization	cat	2
+part	neck	2
+movement	attack	2
+activity	graze	2
+specialization	Boxer	2
+group	infestation	2
+part	antenna	2
+generalization	big cat	2
+generalization	herbivore	2
+group	hive	2
+place	sanctuary	2
+specialization	Yorkshire Terrier	2
+user	policeman	2
+activity	trot	2
+generalization	mollusk	2
+movement	leap	2
+specialization	Poodle	2
+part	abdomen	2
+activity	swim	2
+specialization	German Shepherd	2
+part	foot	2
+part	bone	2
+user	shepherd	2
+generalization	living thing	2
+generalization	diapsid	2
+activity	roar	2
+time	night	2
+specialization	kit fox	2
+part	stinger	2
+activity	suffer	2
+user	blind	2
+activity	browse	2
+specialization	Bulldog	2
+generalization	animate thing	2
+specialization	Golden Retriever	2
+part	collar	2
+user	poacher	2
+specialization	red fox	2
+behavior	healthy	2
+specialization	Rottweiler	2
+generalization	diapsid reptile	2
+specialization	Beagle	2
+user	beekeeper	2
+specialization	Labrador	2
+part	toe	2
+specialization	mutant	1
+specialization	mussel shrimp	1
+place	larva	1
+generalization	decapod	1
+specialization	thysanopterous insect	1
+activity	love	1
+specialization	dipterous insect	1
+specialization	range animal	1
+specialization	thysanuran insect	1
+specialization	homopteran	1
+specialization	ringlet	1
+part	egg	1
+specialization	pharaoh's ant	1
+specialization	danaid butterfly	1
+specialization	creepy-crawly	1
+specialization	phasmid insect	1
+specialization	passerine	1
+specialization	mollusk	1
+purpose	animal	1
+specialization	deathwatch beetle	1
+specialization	mate	1
+specialization	survivor	1
+specialization	springtail	1
+specialization	birch leaf miner	1
+generalization	ectotherm	1
+specialization	scavenger	1
+generalization	anapsid	1
+specialization	ctenophore	1
+specialization	cnidarian	1
+specialization	borer	1
+specialization	Asian longhorned beetle	1
+specialization	Alaskan king crab	1
+specialization	echinoderm	1
+specialization	ectoproct	1
+specialization	bow-wow	1
+specialization	wood rabbit	1
+specialization	bulldog ant	1
+part	legs	1
+generalization	hermaphrodite	1
+specialization	imago	1
+specialization	Cancer magister	1
+specialization	hexapod	1
+activity	slither	1
+specialization	worm	1
+shape	pear	1
+specialization	tiger beetle	1
+specialization	ladybird	1
+specialization	predatory animal	1
+specialization	trichopterous insect	1
+specialization	sea moss	1
+specialization	vixen	1
+specialization	lamellicorn beetle	1
+specialization	flea	1
+specialization	brush-footed butterfly	1
+specialization	stone fly	1
+specialization	leaf beetle	1
+sound	trumpeting	1
+specialization	wolf pup	1
+specialization	archaeornis	1
+specialization	Canis rufus	1
+generalization	leporid	1
+specialization	trichopteran	1
+specialization	homeotherm	1
+specialization	ground beetle	1
+specialization	Canis lupus tundrarum	1
+specialization	Vulpes fulva	1
+specialization	Newfoundland	1
+specialization	sea animal	1
+specialization	bunny	1
+specialization	prairie fox	1
+specialization	flightless bird	1
+specialization	earwig	1
+specialization	bird louse	1
+specialization	zooplankton	1
+behavior	rabid	1
+specialization	orthopterous insect	1
+activity	funnel	1
+specialization	two-winged insects	1
+specialization	honeybee	1
+product	propolis	1
+specialization	pierid	1
+specialization	corgi	1
+specialization	proturan	1
+specialization	bunny rabbit	1
+specialization	termite	1
+generalization	chelonian	1
+specialization	odonate	1
+specialization	griffon	1
+specialization	barnacle	1
+specialization	barker	1
+specialization	cottontail	1
+specialization	dictyopterous insect	1
+accessory	dog	1
+specialization	Vulpes velox	1
+specialization	firefly	1
+specialization	whirligig beetle	1
+specialization	beetle	1
+specialization	arthropod	1
+specialization	hemipterous insect	1
+specialization	Mexican hairless	1
+group	larva	1
+specialization	phasmid	1
+specialization	sea mat	1
+specialization	Felis domesticus	1
+specialization	hymenopteran	1
+specialization	garden snail	1
+sound	cry	1
+specialization	twitterer	1
+specialization	defoliator	1
+specialization	elaterid	1
+specialization	European rabbit	1
+specialization	Formica rufa	1
+specialization	piciform bird	1
+specialization	ladybird beetle	1
+specialization	king crab	1
+specialization	pug	1
+movement	chase	1
+part	wing	1
+specialization	alkali bee	1
+specialization	ephemerid	1
+movement	creep	1
+specialization	Menippe mercenaria	1
+specialization	slave-maker	1
+activity	jump	1
+specialization	bird of prey	1
+specialization	male	1
+specialization	ladybug	1
+specialization	Nomia melanderi	1
+specialization	pupa	1
+generalization	lepidopterous insect	1
+specialization	carinate	1
+specialization	Old World rabbit	1
+generalization	gnawing mammal	1
+specialization	carriage dog	1
+specialization	lady beetle	1
+specialization	Paralithodes camtschatica	1
+specialization	sulfur butterfly	1
+specialization	scorpion shell	1
+part	horn	1
+specialization	timber wolf	1
+specialization	peeper	1
+generalization	pachyderm	1
+specialization	racer	1
+specialization	pharaoh ant	1
+specialization	hemipteran	1
+specialization	mutt	1
+specialization	humblebee	1
+specialization	herbivore	1
+specialization	soft-shell crab	1
+specialization	thysanopteron	1
+specialization	hemipteron	1
+specialization	dickeybird	1
+specialization	caprimulgiform bird	1
+sound	croaking	1
+specialization	varment	1
+specialization	branchiopodan	1
+specialization	leaf miner	1
+specialization	mongrel	1
+specialization	Great Pyrenees	1
+place	hive	1
+specialization	hen	1
+specialization	Ibero-mesornis	1
+specialization	wood ant	1
+specialization	lapdog	1
+specialization	fiddler crab	1
+generalization	even-toed ungulate	1
+purpose	transport	1
+specialization	moss animal	1
+part	shell	1
+specialization	rotifer	1
+part	tentacle	1
+generalization	hoofed mammal	1
+specialization	Arctic fox	1
+generalization	mussel	1
+specialization	Symbion pandora	1
+specialization	trichopteron	1
+specialization	malacostracan crustacean	1
+specialization	house cat	1
+specialization	swimming crab	1
+specialization	quarry	1
+specialization	web spinner	1
+specialization	sulphur butterfly	1
+purpose	prey	1
+activity	hop	1
+activity	overwinter	1
+specialization	Alaska king crab	1
+specialization	clerid beetle	1
+specialization	maned wolf	1
+specialization	zoophyte	1
+specialization	game	1
+specialization	gray wolf	1
+generalization	arachnid	1
+specialization	white fox	1
+specialization	deathwatch	1
+specialization	telsontail	1
+generalization	lepidopteran	1
+specialization	Newfoundland dog	1
+purpose	stray	1
+accessory	handler	1
+specialization	neuropteran	1
+specialization	fire ant	1
+specialization	leaf-miner	1
+specialization	trogon	1
+specialization	stomatopod crustacean	1
+specialization	gallfly	1
+specialization	Archaeopteryx lithographica	1
+specialization	psocopterous insect	1
+specialization	stonefly	1
+specialization	water beetle	1
+specialization	offspring	1
+specialization	Apis mellifera	1
+specialization	insectivore	1
+specialization	ringlet butterfly	1
+specialization	leaf-cutter bee	1
+generalization	decapod crustacean	1
+specialization	mecopteran	1
+specialization	domestic animal	1
+user	owner	1
+specialization	Alaska crab	1
+specialization	female	1
+specialization	spitz	1
+generalization	crustacean	1
+specialization	coelenterate	1
+specialization	entoproct	1
+specialization	Canis niger	1
+generalization	ungulate	1
+product	wax	1
+specialization	toy	1
+specialization	thysanuron	1
+specialization	ladybeetle	1
+specialization	Monomorium pharaonis	1
+specialization	plecopteran	1
+specialization	meloid	1
+sound	pet	1
+activity	trumpet	1
+specialization	embryo	1
+activity	croak	1
+specialization	weevil	1
+specialization	potter bee	1
+specialization	dickey-bird	1
+specialization	chrysomelid	1
+specialization	gallinaceous bird	1
+specialization	doggie	1
+specialization	clerid	1
+generalization	domesticated animal	1
+specialization	Canis lupus	1
+specialization	lampshell	1
+specialization	Welsh corgi	1
+part	beak	1
+activity	fuck	1
+specialization	cirripede	1
+specialization	nonpasserine bird	1
+generalization	chelonian reptile	1
+specialization	blister beetle	1
+specialization	leaf-cutting bee	1
+part	jaw	1
+generalization	whole	1
+specialization	lepidopteran	1
+specialization	pet	1
+part	trunk	1
+specialization	carinate bird	1
+specialization	pureblood	1
+specialization	feeder	1
+specialization	bumblebee	1
+specialization	brush wolf	1
+specialization	coach dog	1
+specialization	grey fox	1
+specialization	four-footed butterfly	1
+specialization	branchiopod crustacean	1
+specialization	apodiform bird	1
+specialization	pollinator	1
+specialization	moulter	1
+specialization	ephemeron	1
+specialization	Sinornis	1
+specialization	decapod crustacean	1
+sound	howl	1
+specialization	Jonah crab	1
+specialization	cuckoo-bumblebee	1
+specialization	rabbit ears	1
+specialization	driver ant	1
+specialization	coraciiform bird	1
+specialization	heteropterous insect	1
+specialization	passeriform bird	1
+specialization	mason bee	1
+specialization	lycaenid butterfly	1
+specialization	ectotherm	1
+specialization	gallinacean	1
+activity	creep	1
+specialization	lamp shell	1
+specialization	longicorn beetle	1
+specialization	pea crab	1
+specialization	cirriped	1
+specialization	pest	1
+specialization	dickybird	1
+specialization	dipteran	1
+specialization	pooch	1
+generalization	mytilid	1
+generalization	proboscidean	1
+specialization	hunting dog	1
+behavior	happy	1
+specialization	stunt	1
+generalization	bivalve	1
+specialization	metabola	1
+sound	bark	1
+specialization	thysanopter	1
+specialization	army ant	1
+specialization	nester	1
+activity	bark	1
+specialization	molter	1
+specialization	domesticated animal	1
+specialization	young	1
+specialization	carabid beetle	1
+specialization	nymphalid butterfly	1
+specialization	bird of passage	1
+specialization	puppy	1
+specialization	critter	1
+specialization	gray fox	1
+specialization	soft-shelled crab	1
+generalization	artiodactyl mammal	1
+specialization	stomatopod	1
+specialization	domestic cat	1
+specialization	orthopteron	1
+specialization	red wolf	1
+activity	sleep	1
+specialization	carpet bug	1
+part	feeler	1
+specialization	dipteron	1
+specialization	slave-making ant	1
+specialization	mollusc	1
+generalization	proboscidian	1
+specialization	ephemeral	1
+specialization	lycaenid	1
+specialization	pleurodont	1
+behavior	feral	1
+part	fang	1
+specialization	fictional animal	1
+specialization	larva	1
+movement	hop	1
+group	nest	1
+specialization	metazoan	1
+specialization	shellfish	1
+generalization	lepidopteron	1
+specialization	longicorn	1
+specialization	lightning bug	1
+activity	howl	1
+specialization	little black ant	1
+specialization	ratite	1
+generalization	marine mussel	1
+product	honey	1
+activity	sting	1
+specialization	night bird	1
+specialization	sponge	1
+specialization	white wolf	1
+specialization	rove beetle	1
+specialization	hymenopteron	1
+specialization	protoavis	1
+specialization	Fenusa pusilla	1
+activity	sing	1
+specialization	pug-dog	1
+specialization	Leonberg	1
+specialization	phoronid	1
+specialization	carpenter ant	1
+specialization	fertilized egg	1
+specialization	branchiopod	1
+specialization	legionary ant	1
+specialization	pierid butterfly	1
+specialization	mining bee	1
+specialization	spider crab	1
+generalization	saurian	1
+specialization	coyote	1
+colorPattern	leopard	1
+generalization	primate	1
+movement	jump	1
+specialization	Dungeness crab	1
+activity	pollinate	1
+generalization	arachnoid	1
+generalization	pelecypod	1
+specialization	predator	1
+specialization	sea creature	1
+specialization	bryozoan	1
+specialization	Reynard	1
+specialization	ostracod	1
+specialization	grey wolf	1
+specialization	sucking louse	1
+specialization	hymenopterous insect	1
+specialization	hymenopter	1
+specialization	marine creature	1
+activity	lick	1
+specialization	decapod	1
+specialization	copepod	1
+specialization	parazoan	1
+specialization	flying bird	1
+specialization	leaf-cutter	1
+specialization	andrena	1
+generalization	domestic animal	1
+user	trainer	1
+specialization	Helix pomatia	1
+specialization	lepidopteron	1
+specialization	prairie wolf	1
+specialization	adult	1
+part	pad	1
+purpose	beast of burden	1
+generalization	leporid mammal	1
+specialization	Felis catus	1
+specialization	collembolan	1
+specialization	nymphalid	1
+specialization	toy dog	1
+specialization	lapin	1
+specialization	cottontail rabbit	1
+generalization	anapsid reptile	1
+specialization	Xestobium rufovillosum	1
+specialization	Monomorium minimum	1
+specialization	archaeopteryx	1
+specialization	dalmatian	1
+part	nail	1
+specialization	neuropteron	1
+specialization	invertebrate	1
+generalization	artiodactyl	1
+specialization	hard-shell crab	1
+specialization	biting louse	1
+specialization	sipunculid	1
+specialization	raptorial bird	1
+specialization	work animal	1
+behavior	cunning	1
+specialization	poikilotherm	1
+specialization	seed shrimp	1
+product	mucus	1
+specialization	brachyuran	1
+part	sting	1
+generalization	lagomorph	1
+specialization	andrenid	1
+part	sac	1
+specialization	stayer	1
+specialization	wildcat	1
+specialization	Belgian hare	1
+specialization	varmint	1
+part	body	1
+user	circus	1
+specialization	captive	1
+part	belly	1
+specialization	brachiopod	1
+specialization	conceptus	1
+specialization	orthopteran	1
+specialization	cock	1
+specialization	homotherm	1
+specialization	Angora rabbit	1
+specialization	peanut worm	1
+accessory	trainer	1
+generalization	herbivorous	1
+specialization	Canis latrans	1
+specialization	aquatic bird	1
+specialization	neuropterous insect	1
+specialization	Angora	1
+part	claw	1
+specialization	omnivore	1
+specialization	basenji	1
+specialization	polyzoan	1
+specialization	elater	1
+specialization	Oryctolagus cuniculus	1
+specialization	white ant	1
+specialization	wolf cub	1
+specialization	ratite bird	1
+specialization	prey	1
+specialization	purebred	1
+specialization	raptor	1
+specialization	danaid	1
+specialization	Vulpes vulpes	1
+generalization	ruminant	1
+behavior	aggressive	1
+specialization	slave ant	1
+specialization	Alopex lagopus	1
+behavior	friendly	1
+specialization	rock crab	1
+specialization	Belgian griffon	1
+specialization	biped	1
+specialization	working dog	1
+specialization	marine animal	1
+specialization	Urocyon cinereoargenteus	1
+specialization	lepidopterous insect	1
+specialization	thoroughbred	1
+specialization	elaterid beetle	1
+specialization	chordate	1
+specialization	holometabola	1
+specialization	darter	1
+specialization	cur	1
+part	nose	1
+specialization	long-horned beetle	1
+specialization	dicky-bird	1
+specialization	doggy	1
+specialization	Anoplophora glabripennis	1
+specialization	acrodont	1
+generalization	lamellibranch	1
+specialization	homoiotherm	1
+specialization	woodborer	1
+specialization	Cancer borealis	1
+specialization	giant	1
+specialization	leporide	1
+activity	bait	1
+specialization	ephemeropteran	1
+specialization	archeopteryx	1
+purpose	haulage	1
+specialization	Cancer irroratus	1
+specialization	parrot	1
+specialization	carpenter bee	1
+part	whisker	1
+specialization	copepod crustacean	1
+specialization	comb jelly	1
+specialization	Brussels griffon	1
+specialization	edible snail	1
+specialization	cuculiform bird	1
+specialization	social insect	1
+part	flag	1
+specialization	Vulpes macrotis	1
+user	handler	1
+specialization	carpet beetle	1
+specialization	poriferan	1
+specialization	bark beetle	1
+specialization	homopterous insect	1
+specialization	migrator	1
+specialization	Arctic wolf	1
+generalization	unit	1
+specialization	stone crab	1

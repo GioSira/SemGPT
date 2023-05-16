@@ -1,0 +1,201 @@
+material	plastic	19
+material	metal	18
+shape	circular	14
+colorPattern	black	12
+colorPattern	white	12
+shape	round	9
+generalization	device	8
+generalization	artefact	7
+generalization	covering	7
+generalization	artifact	7
+generalization	accessory	6
+user	woman	6
+generalization	decoration	6
+colorPattern	golden	6
+user	secretary	6
+generalization	ornamentation	6
+generalization	tool	6
+colorPattern	sparkly	6
+generalization	adornment	6
+generalization	implement	6
+efficiency	waterproof	6
+generalization	ornament	6
+material	fibre	6
+generalization	utensil	6
+generalization	instrumentality	5
+efficiency	fragile	5
+material	gem	5
+material	pearl	5
+generalization	jewelry	5
+shape	arched	5
+part	fastener	5
+part	tip	5
+generalization	instrumentation	5
+material	elastic	5
+part	clasp	5
+material	leather	5
+shape	rond	5
+part	gem	5
+generalization	habiliment	4
+generalization	clothing	4
+purpose	write	4
+generalization	vesture	4
+generalization	article of clothing	4
+user	riot police	4
+efficiency	strong	4
+material	glass	4
+purpose	safety	4
+generalization	wear	4
+material	gold	4
+generalization	protective covering	4
+efficiency	resistant	4
+part	lever	4
+material	thread	4
+generalization	consumer goods	4
+part	ink	4
+part	bead	4
+generalization	furniture	4
+generalization	wearable	4
+user	climber	3
+generalization	protection	3
+purpose	fight	3
+generalization	protective cover	3
+user	writer	3
+generalization	machine	3
+howToUse	wear	3
+part	knob	3
+purpose	sport	3
+sound	ping	3
+material	wood	3
+user	soldier	3
+generalization	whole	3
+generalization	unit	3
+material	silver	3
+generalization	headdress	3
+part	platen	3
+purpose	climbing	3
+part	pickup	2
+generalization	setup	2
+colorPattern	gold	2
+generalization	equipment	2
+part	parasol	2
+colorPattern	silver	2
+user	cyclist	2
+place	hairdresser	2
+shape	spherical	2
+place	bedroom	2
+material	fiberglass	2
+user	motorcyclist	2
+place	clothes shop	2
+place	building site	2
+generalization	apparatus	2
+material	cloth	2
+material	fabric	2
+bodyPart	chin	2
+part	canopy	2
+generalization	material	2
+bodyPart	ring	2
+material	polycarbonate	2
+generalization	duplicator	2
+part	shaft	2
+generalization	copier	2
+material	canvas	2
+user	horseman	2
+part	shell	1
+generalization	printer	1
+purpose	groom	1
+generalization	source of illumination	1
+generalization	cloth	1
+generalization	bed clothing	1
+purpose	protection	1
+part	auto-changer	1
+material	steel	1
+part	angle	1
+part	frame	1
+part	radio chassis	1
+howToUse	fasten	1
+generalization	flat solid	1
+generalization	serial printer	1
+part	ribbon	1
+generalization	shelter	1
+part	typewriter keyboard	1
+bodyPart	jewelry	1
+part	glass	1
+part	strap	1
+generalization	printing machine	1
+generalization	plate armor	1
+generalization	construction	1
+generalization	armour	1
+generalization	shell	1
+part	pickup arm	1
+generalization	simple machine	1
+generalization	textile	1
+part	changer	1
+generalization	mechanism	1
+part	pendent	1
+generalization	trade good	1
+part	carriage	1
+part	handle	1
+generalization	armor plate	1
+generalization	stuff	1
+generalization	scute	1
+generalization	fabric	1
+generalization	writing paper	1
+generalization	structure	1
+generalization	bedclothes	1
+generalization	bedding	1
+bodyPart	bracelet	1
+part	beaver	1
+purpose	reflect	1
+place	bathroom	1
+generalization	character printer	1
+generalization	garment	1
+part	tone arm	1
+part	rib	1
+generalization	shade	1
+material	grease	1
+generalization	armor plating	1
+howToUse	wield	1
+part	typewriter carriage	1
+generalization	character-at-a-time printer	1
+part	felly	1
+part	cartridge	1
+part	buckle	1
+part	key	1
+generalization	sheet	1
+part	bracelet	1
+generalization	armour plate	1
+part	eraser	1
+purpose	shade	1
+purpose	shelter	1
+part	turntable	1
+generalization	scale	1
+generalization	plate	1
+part	rim	1
+generalization	armor	1
+part	record changer	1
+generalization	good	1
+generalization	shield	1
+generalization	cloth covering	1
+generalization	optical device	1
+generalization	headgear	1
+bodyPart	wrist	1
+generalization	commodity	1
+generalization	paper	1
+bodyPart	head	1
+part	bell	1
+part	ferrule	1
+part	pendant	1
+part	felloe	1
+part	gore	1
+purpose	hang	1
+howToUse	don	1
+generalization	container	1
+generalization	reflector	1
+generalization	body covering	1
+generalization	plate armour	1
+part	visor	1
+part	keyboard	1
+part	panel	1
+generalization	canopy	1
+generalization	mechanical device	1

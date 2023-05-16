@@ -1,0 +1,648 @@
+colorPattern	grey	44
+colorPattern	black	36
+colorPattern	red	34
+colorPattern	white	32
+material	metal	29
+generalization	vehicle	28
+generalization	transportation	23
+material	plastic	23
+colorPattern	blue	22
+purpose	transport	21
+material	rubber	18
+movement	fast	18
+sound	noisy	17
+supply	diesel	17
+user	people	17
+sound	loud	17
+place	road	16
+size	large	16
+size	big	16
+generalization	wheeled vehicle	13
+generalization	transport	13
+purpose	travelling	12
+material	glass	12
+colorPattern	silver	12
+colorPattern	green	12
+movement	crash	10
+sound	rumbling	10
+generalization	craft	10
+efficiency	aerodynamic	10
+generalization	container	9
+generalization	conveyance	9
+generalization	instrumentality	8
+user	passenger	8
+generalization	self-propelled vehicle	8
+generalization	instrumentation	8
+content	luggage	8
+place	airport	7
+user	co-pilot	6
+purpose	move	6
+generalization	vessel	6
+colorPattern	glossy	6
+movement	take-off	6
+place	sky	6
+supply	kerosene	6
+user	army	6
+place	cycle path	6
+supply	electricity	6
+place	rural area	6
+colorPattern	shiny	6
+user	cyclist	6
+material	aluminium	6
+user	driver	6
+purpose	rental	6
+movement	fly	6
+efficiency	streamlined	6
+place	country	6
+user	person	6
+place	air	6
+movement	landing	6
+user	farmer	5
+shape	elongated	5
+place	waterway	5
+sound	silent	5
+time	holiday	5
+user	sailor	5
+sound	heavy	5
+generalization	aircraft	5
+place	sea	5
+place	garage	5
+movement	sail	5
+purpose	mission	5
+material	wood	5
+purpose	fishing	5
+user	officer	5
+specialization	jet	5
+material	steel	5
+purpose	fitness	5
+sound	throbbing	5
+movement	float	5
+movement	slow	5
+efficiency	sinkable	5
+shape	long	5
+purpose	sport	5
+part	wheel	4
+generalization	automotive vehicle	4
+accessory	cargo trailer	4
+part	engine	4
+generalization	motor vehicle	4
+specialization	Boeing	4
+user	holidaymaker	4
+part	brake	4
+place	farm	4
+user	helmsman	4
+user	businessman	4
+part	light	4
+generalization	heavier-than-air craft	4
+purpose	transit	3
+purpose	drag	3
+part	seat	3
+user	pilot	3
+supply	fuel	3
+part	door	3
+shape	aerodynamic	3
+user	taxi driver	3
+movement	hover	3
+part	window	3
+supply	gas	3
+specialization	racing bike	3
+specialization	Antonov	3
+place	rental	3
+specialization	city car	3
+content	goods	3
+specialization	pickup	3
+user	captain	3
+specialization	wagon	2
+specialization	attack aircraft	2
+specialization	seaplane	2
+specialization	bomber	2
+part	bumper	2
+user	cruise	2
+place	motorway	2
+part	tire	2
+part	crew	2
+part	tube	2
+part	fin	2
+purpose	commuter	2
+specialization	hydroplane	2
+specialization	micro car	2
+purpose	travel	2
+specialization	reconnaissance plane	2
+part	frame	2
+part	accelerator	2
+user	pedestrian	2
+specialization	cabriolet	2
+part	cowl	2
+specialization	tanker plane	2
+specialization	multiengine airplane	2
+specialization	racing car	2
+part	rudder	2
+part	interior	2
+specialization	airliner	2
+specialization	tender	2
+specialization	monoplane	2
+purpose	ride	2
+specialization	fighter	2
+specialization	hangar queen	2
+specialization	amphibian	2
+movement	trip	2
+specialization	iceboat	2
+part	gear	2
+specialization	sedan	2
+specialization	fighter aircraft	2
+specialization	galley	2
+place	traffic	2
+specialization	lorry	2
+part	bonnet	2
+specialization	ski-plane	2
+part	fender	2
+specialization	amphibious aircraft	2
+specialization	multiengine plane	2
+place	terminal	2
+user	hostess	2
+specialization	propeller plane	2
+part	tail	2
+part	hood	2
+purpose	passenger	2
+specialization	vintage car	2
+part	cowling	2
+specialization	biplane	2
+part	wing	2
+specialization	airbus	2
+part	propeller	2
+part	windshield	2
+specialization	SUV	2
+user	steward	2
+specialization	delta wing	2
+supply	power	2
+part	cockpit	1
+part	gun	1
+movement	pilot	1
+part	davit	1
+specialization	touring car	1
+generalization	watercraft	1
+part	stabilizer bar	1
+part	fuselage	1
+specialization	warship	1
+part	spar	1
+specialization	yacht	1
+specialization	cargo helicopter	1
+specialization	trail bike	1
+specialization	boat	1
+part	cargo deck	1
+part	gas	1
+specialization	craft	1
+movement	westbound	1
+specialization	hovercraft	1
+specialization	cart	1
+generalization	tool	1
+part	buffer	1
+part	accelerator pedal	1
+specialization	jalopy	1
+specialization	jet plane	1
+part	engine room	1
+specialization	skibob	1
+specialization	war vessel	1
+specialization	stealth aircraft	1
+part	low gear	1
+specialization	minibus	1
+specialization	bumper car	1
+specialization	fireboat	1
+specialization	road roller	1
+part	taillight	1
+part	nose	1
+part	saddle	1
+generalization	airplane	1
+specialization	trailer truck	1
+part	third gear	1
+generalization	combat ship	1
+specialization	bus	1
+specialization	wheeled vehicle	1
+specialization	tramcar	1
+specialization	velocipede	1
+specialization	jeep	1
+movement	sailing	1
+specialization	pirate ship	1
+part	galley	1
+specialization	steamship	1
+specialization	shipwreck	1
+part	poop	1
+user	farm	1
+specialization	Conestoga	1
+specialization	gas-turbine ship	1
+specialization	hot rod	1
+specialization	wreck	1
+part	bilge well	1
+specialization	nuclear-powered ship	1
+specialization	hoy	1
+part	sunroof	1
+specialization	steamer	1
+part	mainsheet	1
+specialization	school bus	1
+specialization	runabout	1
+part	gasoline engine	1
+part	screw	1
+accessory	mower	1
+part	lifeboat	1
+specialization	landrover	1
+specialization	surfboat	1
+specialization	small boat	1
+part	log	1
+part	bulwark	1
+part	petrol engine	1
+specialization	hardtop	1
+specialization	ice wagon	1
+specialization	limo	1
+specialization	taxicab	1
+specialization	Mackinaw boat	1
+specialization	icebreaker	1
+specialization	flatboat	1
+specialization	jumbojet	1
+specialization	phaeton	1
+part	spoke	1
+specialization	tug	1
+specialization	gypsy cab	1
+specialization	narrowboat	1
+specialization	mountain bike	1
+generalization	cycle	1
+specialization	subcompact	1
+part	hull	1
+part	porthole	1
+specialization	steamroller	1
+specialization	cruise missile	1
+specialization	gas guzzler	1
+specialization	water wagon	1
+part	topside	1
+accessory	plough	1
+part	glove compartment	1
+part	pedal	1
+generalization	war vessel	1
+user	squadron	1
+generalization	auto	1
+specialization	powerboat	1
+part	bay	1
+specialization	pilot boat	1
+specialization	garbage truck	1
+specialization	guard boat	1
+specialization	narrow boat	1
+specialization	skidder	1
+specialization	landing craft	1
+specialization	ship	1
+specialization	cycle rickshaw	1
+specialization	prowl car	1
+specialization	minivan	1
+generalization	public transport	1
+specialization	tourer	1
+part	forecastle	1
+specialization	minelayer	1
+part	storage area	1
+specialization	weather ship	1
+specialization	safety bicycle	1
+part	skeleton	1
+specialization	watercraft	1
+specialization	loaner	1
+specialization	tractor	1
+specialization	sound truck	1
+specialization	racing yacht	1
+specialization	supply ship	1
+specialization	trolleybus	1
+specialization	vessel	1
+specialization	skyhook	1
+specialization	prairie wagon	1
+specialization	squad car	1
+part	top	1
+specialization	safety bike	1
+specialization	heavier-than-air craft	1
+part	landing gear	1
+part	gyrostabiliser	1
+specialization	cruise ship	1
+specialization	convertible	1
+specialization	motorbike	1
+specialization	whaler	1
+specialization	bogy	1
+part	car seat	1
+specialization	projectile	1
+specialization	steamboat	1
+specialization	tipper truck	1
+part	chain	1
+user	navy	1
+part	coachwork	1
+specialization	troopship	1
+specialization	Dodgem	1
+specialization	police boat	1
+specialization	sport car	1
+specialization	water waggon	1
+part	automobile engine	1
+specialization	cab	1
+part	gas pedal	1
+part	fo'c'sle	1
+part	radar dome	1
+part	wiper	1
+specialization	electric car	1
+part	steering wheel	1
+specialization	ordinary	1
+part	after part	1
+specialization	mailboat	1
+specialization	gunboat	1
+specialization	barrage balloon	1
+generalization	implement	1
+part	seat belt	1
+specialization	lighter-than-air craft	1
+part	low	1
+part	water	1
+specialization	bogie	1
+specialization	rig	1
+specialization	ground-effect machine	1
+specialization	cruiser	1
+specialization	tandem	1
+specialization	tram	1
+specialization	sister ship	1
+specialization	car transporter	1
+supply	gasoline	1
+specialization	chuck wagon	1
+specialization	sausage	1
+part	lubber's hole	1
+part	radiator grille	1
+part	coaster brake	1
+part	winch	1
+generalization	garden tool	1
+specialization	sled	1
+specialization	passenger ship	1
+specialization	flagship	1
+specialization	jetliner	1
+specialization	ark	1
+specialization	police cruiser	1
+specialization	dumper	1
+specialization	aircraft	1
+specialization	tow car	1
+part	escape hatch	1
+specialization	tugboat	1
+specialization	stock car	1
+part	basket	1
+generalization	military vehicle	1
+part	crow's nest	1
+specialization	trackless trolley	1
+specialization	scow	1
+specialization	fan-jet	1
+part	fuel pod	1
+part	roof	1
+part	first	1
+part	reverse gear	1
+purpose	agriculture	1
+specialization	turbofan	1
+specialization	ice-wagon	1
+specialization	school ship	1
+specialization	transport ship	1
+part	car mirror	1
+specialization	lugger	1
+specialization	dump truck	1
+efficiency	polluting	1
+specialization	push-bike	1
+part	riding bitt	1
+specialization	scooter	1
+purpose	race	1
+specialization	pace car	1
+part	air bag	1
+specialization	cutter	1
+specialization	minesweeper	1
+specialization	sausage balloon	1
+part	gearbox	1
+specialization	electric automobile	1
+specialization	dirt bike	1
+generalization	car	1
+part	anchor	1
+movement	southbound	1
+specialization	river boat	1
+part	dashboard	1
+specialization	military vehicle	1
+specialization	hack	1
+specialization	limousine	1
+specialization	bumboat	1
+part	box	1
+part	screw propeller	1
+part	high gear	1
+specialization	ship's boat	1
+specialization	shrimper	1
+specialization	compact car	1
+part	trunk	1
+specialization	Stanley Steamer	1
+specialization	horseless carriage	1
+part	funnel	1
+specialization	blockade-runner	1
+part	bunk	1
+specialization	longboat	1
+specialization	fanjet	1
+specialization	ferryboat	1
+specialization	motorboat	1
+specialization	merchant ship	1
+specialization	prairie schooner	1
+place	dry dock	1
+specialization	angledozer	1
+place	park	1
+specialization	secondhand car	1
+specialization	tractor trailer	1
+specialization	pinnace	1
+part	ridge rope	1
+specialization	trolley coach	1
+specialization	bareboat	1
+specialization	milk wagon	1
+part	ship's galley	1
+specialization	dustcart	1
+part	floorboard	1
+specialization	tip truck	1
+specialization	Model T	1
+part	ratlin	1
+generalization	lighter-than-air craft	1
+part	high	1
+specialization	packet boat	1
+specialization	wrecker	1
+specialization	semi	1
+specialization	cargo ship	1
+specialization	articulated lorry	1
+part	reverse	1
+specialization	hulk	1
+part	grille	1
+specialization	abandoned ship	1
+specialization	trucking rig	1
+specialization	pirate	1
+specialization	roadster	1
+specialization	hand mower	1
+specialization	Conestoga wagon	1
+specialization	subcompact car	1
+specialization	mackinaw	1
+specialization	fishing boat	1
+specialization	lighter	1
+specialization	jet-propelled plane	1
+generalization	machine	1
+specialization	small ship	1
+specialization	whaling ship	1
+specialization	lightship	1
+specialization	ordinary bicycle	1
+specialization	slave ship	1
+part	ratline	1
+generalization	aeroplane	1
+specialization	sledge	1
+place	route	1
+part	radome	1
+part	keel	1
+specialization	pedicab	1
+specialization	towboat	1
+specialization	packet	1
+specialization	rocket	1
+part	windshield wiper	1
+specialization	ballistic capsule	1
+part	antenna	1
+specialization	van	1
+part	kickstand	1
+specialization	sleigh	1
+specialization	canal boat	1
+part	cargo hold	1
+part	windlass	1
+specialization	fire truck	1
+specialization	tipper lorry	1
+specialization	minicab	1
+part	radio	1
+part	running board	1
+part	underframe	1
+part	first gear	1
+specialization	sports car	1
+specialization	single-rotor helicopter	1
+part	pod	1
+specialization	bicycle-built-for-two	1
+part	bilge pump	1
+specialization	bulldozer	1
+part	skeletal frame	1
+purpose	parking	1
+specialization	twinjet	1
+place	parking	1
+generalization	tractor	1
+accessory	scraper	1
+specialization	spacecraft	1
+specialization	tipper	1
+specialization	fishing smack	1
+specialization	horsecar	1
+part	turbine	1
+specialization	transporter	1
+part	tailfin	1
+part	helm	1
+specialization	training ship	1
+specialization	scrambler	1
+specialization	bandwagon	1
+specialization	minibike	1
+specialization	patrol car	1
+generalization	motorcar	1
+part	drogue	1
+part	horn	1
+specialization	pickup truck	1
+specialization	minicar	1
+specialization	camion	1
+part	cabin	1
+specialization	derelict	1
+part	sheet	1
+specialization	used-car	1
+part	stern	1
+specialization	taxi	1
+part	throttle	1
+specialization	ice yacht	1
+generalization	ship	1
+part	handlebar	1
+generalization	plane	1
+part	car door	1
+part	mirror	1
+specialization	patrol ship	1
+specialization	bogey	1
+specialization	wain	1
+specialization	three-decker	1
+specialization	hospital ship	1
+part	bicycle wheel	1
+specialization	hot-rod	1
+specialization	hatchback	1
+purpose	luxury	1
+part	dynamo	1
+specialization	two-seater	1
+specialization	barge	1
+specialization	shuttle helicopter	1
+specialization	tow truck	1
+specialization	motor mower	1
+specialization	combat ship	1
+part	mast	1
+part	third	1
+purpose	dock	1
+accessory	seeder	1
+specialization	ambulance	1
+specialization	electric	1
+specialization	tandem bicycle	1
+part	tail fin	1
+part	weather sheet	1
+specialization	patrol boat	1
+part	sea anchor	1
+specialization	milkwagon	1
+generalization	automobile	1
+part	deck	1
+generalization	artifact	1
+specialization	cargo vessel	1
+part	rope	1
+generalization	wheel	1
+specialization	treasure ship	1
+generalization	warship	1
+part	cookhouse	1
+part	gyrostabilizer	1
+place	station	1
+specialization	jumbo jet	1
+specialization	gondola	1
+part	quarter	1
+part	battery	1
+accessory	trailer	1
+specialization	sea boat	1
+specialization	police car	1
+specialization	covered wagon	1
+generalization	bicycle	1
+place	depot	1
+part	tack	1
+part	anti-sway bar	1
+part	mudguard	1
+generalization	artefact	1
+specialization	fire engine	1
+specialization	punt	1
+generalization	lawn tool	1
+part	rear window	1
+part	railing	1
+part	axle	1
+part	navigation light	1
+part	chain guard	1
+specialization	heap	1
+specialization	blimp	1
+part	black box	1
+part	car window	1
+part	auto accessory	1
+specialization	sailing ship	1
+part	sunshine-roof	1
+part	sprocket wheel	1
+generalization	bike	1
+specialization	sailing vessel	1
+part	cargo area	1
+part	hold	1
+specialization	tower	1
+specialization	turbojet	1
+specialization	space vehicle	1
+part	sprocket	1
+specialization	coupe	1
+part	boat	1
+part	headlight	1
+part	oil	1
+specialization	power mower	1
+part	caboose	1
+specialization	dozer	1
+part	number plate	1
+movement	dock	1
+specialization	ferry	1
+specialization	mail boat	1
+specialization	fishing vessel	1
+part	handle	1
+part	bulkhead	1
+specialization	junk	1
+place	shipyard	1
+part	shroud	1
+specialization	compact	1
+user	corps	1
+part	superstructure	1

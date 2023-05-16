@@ -1,0 +1,139 @@
+user	sailor	1.5189893178587557
+user	farmer	1.8987366473234446
+size	small	0.5495788824411482
+howToUse	hold	0.3108303660718766
+howToUse	stand up	0.3108303660718766
+place	kitchen	0.15734924904592124
+accessory	toolbox	0.1685884811206299
+place	shed	0.17483249893991248
+place	garden	0.17483249893991248
+accessory	screwdriver	0.18155682582221683
+accessory	rod	0.18881909885510548
+place	laboratory	0.19668656130740156
+accessory	bolt	0.19668656130740156
+accessory	staple	0.19668656130740156
+accessory	knob	0.19668656130740156
+place	hairdresser	0.19668656130740156
+purpose	build	0.10999760763197196
+purpose	cooking	0.11297051594634958
+purpose	agriculture	0.11610858583374818
+purpose	clamp	0.12293850264749807
+purpose	secure	0.12293850264749807
+purpose	lock	0.12293850264749807
+purpose	weeding	0.12293850264749807
+purpose	dock	0.12666391181863437
+purpose	fasten	0.12666391181863437
+purpose	moor	0.12666391181863437
+purpose	serve	0.12666391181863437
+purpose	grip	0.12666391181863437
+purpose	dig	0.12666391181863437
+purpose	pick up	0.12666391181863437
+purpose	tighten	0.12666391181863437
+purpose	cut	0.12666391181863437
+accessory	screw	0.16542059882625926
+shape	elongated	0.06705889623503247
+shape	long	0.06705889623503247
+shape	curved	0.08309471924775762
+shape	triangular	0.08889202524178723
+shape	cylindrical	0.08889202524178723
+part	blade	0.05228537502292731
+part	handle	0.05228537502292731
+part	head	0.055713924204758604
+part	edge	0.055713924204758604
+part	shank	0.057602531804919914
+part	rake handle	0.06068838172304063
+part	fluke	0.06068838172304063
+part	pinhead	0.06068838172304063
+part	clinch	0.06068838172304063
+part	stem	0.06068838172304063
+part	thread	0.06068838172304063
+part	stock	0.06068838172304063
+part	ring	0.06068838172304063
+part	hoe handle	0.06068838172304063
+part	point	0.06068838172304063
+part	hammerhead	0.06068838172304063
+part	razorblade	0.06068838172304063
+part	slot	0.06068838172304063
+part	arm	0.05122833798635205
+material	metal	0.029509647927182567
+material	steel	0.03307674822607277
+material	plastic	0.03583314391157883
+material	iron	0.038589539597084895
+material	wood	0.03909070244899509
+colorPattern	silver	0.016716558320289593
+colorPattern	brown	0.01990066466701142
+colorPattern	black	0.01990066466701142
+colorPattern	golden	0.023217442111513324
+accessory	fastener	0.08883516209223241
+generalization	edge tool	0.0066599053907331635
+generalization	fastening	0.0066599053907331635
+generalization	holdfast	0.0066599053907331635
+generalization	fixing	0.0066599053907331635
+generalization	lever	0.006721857999019053
+generalization	simple machine	0.006721857999019053
+generalization	mechanism	0.006721857999019053
+generalization	machine	0.006721857999019053
+generalization	knife	0.006721857999019053
+generalization	compound lever	0.006721857999019053
+generalization	cutting implement	0.006721857999019053
+generalization	weapon	0.006753268550416338
+generalization	obstruction	0.006753268550416338
+generalization	card	0.006753268550416338
+generalization	surgical instrument	0.006753268550416338
+generalization	medical instrument	0.006753268550416338
+generalization	shape	0.006753268550416338
+generalization	playing card	0.006753268550416338
+generalization	paper	0.006753268550416338
+generalization	pair of scissors	0.006753268550416338
+generalization	hook	0.006753268550416338
+generalization	connection	0.006753268550416338
+generalization	inclined plane	0.006753268550416338
+generalization	bottle opener	0.006753268550416338
+generalization	connector	0.006753268550416338
+generalization	strainer	0.006753268550416338
+generalization	attachment	0.006753268550416338
+generalization	scissors	0.006753268550416338
+generalization	obstructor	0.006753268550416338
+generalization	ligament	0.006753268550416338
+generalization	tumbler	0.006753268550416338
+generalization	weapon system	0.006753268550416338
+generalization	impediment	0.006753268550416338
+generalization	seal	0.006753268550416338
+generalization	connexion	0.006753268550416338
+generalization	bond	0.006753268550416338
+generalization	structure	0.006753268550416338
+generalization	curve	0.006753268550416338
+generalization	filter	0.006753268550416338
+generalization	form	0.006753268550416338
+generalization	instrument	0.006753268550416338
+generalization	obstructer	0.006753268550416338
+generalization	kitchen utensil	0.006753268550416338
+generalization	construction	0.006753268550416338
+generalization	bar	0.006753268550416338
+generalization	line	0.006753268550416338
+generalization	curved shape	0.006753268550416338
+generalization	connecter	0.006753268550416338
+generalization	impedimenta	0.006753268550416338
+generalization	connective	0.006753268550416338
+generalization	claw	0.006753268550416338
+generalization	surgical knife	0.006753268550416338
+generalization	opener	0.006753268550416338
+generalization	tool	0.005922948646676624
+generalization	utensil	0.0060978880581818405
+generalization	implement	0.006149784977825941
+generalization	instrumentation	0.006599084336936512
+generalization	hand tool	0.006599084336936512
+generalization	object	0.006599084336936512
+generalization	device	0.006599084336936512
+generalization	instrumentality	0.006599084336936512
+generalization	constraint	0.006629355366005028
+generalization	restraint	0.006629355366005028
+generalization	mechanical device	0.006690738286060631
+generalization	artifact	0.006690738286060631
+generalization	cutting tool	0.006690738286060631
+generalization	artefact	0.006690738286060631
+generalization	cutter	0.006690738286060631
+generalization	cutlery	0.006690738286060631
+generalization	fastener	0.005152620985787769
+generalization	screw	-0.000647051069129908
+generalization	arm	-0.00619161569212958

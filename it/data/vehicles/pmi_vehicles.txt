@@ -1,0 +1,648 @@
+time	holiday	8.301953395126096
+accessory	cargo trailer	7.453956488571146
+accessory	mower	7.453956488571146
+accessory	plough	7.453956488571146
+accessory	scraper	7.453956488571146
+accessory	seeder	7.453956488571146
+accessory	trailer	7.453956488571146
+content	luggage	7.164449871376161
+content	goods	7.164449871376161
+shape	elongated	6.923441771872366
+shape	long	6.923441771872366
+efficiency	streamlined	6.164449871376161
+efficiency	sinkable	6.164449871376161
+efficiency	polluting	6.164449871376161
+efficiency	aerodynamic	5.785938248122431
+size	large	5.623881490013459
+size	big	5.623881490013459
+supply	diesel	5.375953976569873
+supply	kerosene	5.375953976569873
+supply	electricity	5.375953976569873
+supply	fuel	5.375953976569873
+supply	power	5.375953976569873
+supply	gasoline	5.375953976569873
+supply	gas	4.960916477291029
+shape	aerodynamic	4.807964554452431
+sound	noisy	4.7412384406516175
+sound	loud	4.7412384406516175
+sound	rumbling	4.7412384406516175
+sound	silent	4.7412384406516175
+sound	heavy	4.7412384406516175
+sound	throbbing	4.7412384406516175
+movement	fast	4.474134370508777
+movement	crash	4.474134370508777
+movement	take-off	4.474134370508777
+movement	fly	4.474134370508777
+movement	landing	4.474134370508777
+movement	sail	4.474134370508777
+movement	float	4.474134370508777
+movement	slow	4.474134370508777
+movement	hover	4.474134370508777
+movement	trip	4.474134370508777
+movement	westbound	4.474134370508777
+movement	sailing	4.474134370508777
+movement	southbound	4.474134370508777
+purpose	travelling	4.231564067234698
+purpose	move	4.231564067234698
+purpose	mission	4.231564067234698
+purpose	fishing	4.231564067234698
+purpose	fitness	4.231564067234698
+purpose	sport	4.231564067234698
+purpose	transit	4.231564067234698
+purpose	drag	4.231564067234698
+purpose	commuter	4.231564067234698
+purpose	travel	4.231564067234698
+purpose	ride	4.231564067234698
+purpose	agriculture	4.231564067234698
+purpose	race	4.231564067234698
+purpose	luxury	4.231564067234698
+place	road	4.164449871376161
+place	airport	4.164449871376161
+place	sky	4.164449871376161
+place	cycle path	4.164449871376161
+place	rural area	4.164449871376161
+place	country	4.164449871376161
+place	air	4.164449871376161
+place	waterway	4.164449871376161
+place	sea	4.164449871376161
+place	garage	4.164449871376161
+place	motorway	4.164449871376161
+place	traffic	4.164449871376161
+place	terminal	4.164449871376161
+place	dry dock	4.164449871376161
+place	park	4.164449871376161
+place	route	4.164449871376161
+place	station	4.164449871376161
+place	depot	4.164449871376161
+place	shipyard	4.164449871376161
+material	metal	4.009171645898251
+material	plastic	4.009171645898251
+material	rubber	4.009171645898251
+material	glass	4.009171645898251
+material	aluminium	4.009171645898251
+material	wood	4.00917164589825
+material	steel	4.00917164589825
+user	people	3.9373809628302405
+user	co-pilot	3.9373809628302405
+user	army	3.9373809628302405
+user	cyclist	3.9373809628302405
+user	driver	3.9373809628302405
+user	person	3.9373809628302405
+user	farmer	3.9373809628302405
+user	sailor	3.9373809628302405
+user	officer	3.9373809628302405
+user	holidaymaker	3.9373809628302405
+user	helmsman	3.9373809628302405
+user	businessman	3.9373809628302405
+user	taxi driver	3.9373809628302405
+user	captain	3.9373809628302405
+user	cruise	3.9373809628302405
+user	pedestrian	3.9373809628302405
+user	hostess	3.9373809628302405
+user	steward	3.9373809628302405
+user	squadron	3.9373809628302405
+user	navy	3.9373809628302405
+user	corps	3.9373809628302405
+place	farm	3.8425217764887987
+purpose	rental	3.6466015665135423
+user	passenger	3.615452867942878
+purpose	transport	3.536418648763119
+user	pilot	3.5223434635513966
+movement	dock	3.474134370508777
+purpose	parking	3.2315640672346984
+purpose	dock	3.2315640672346984
+place	parking	3.1644498713761613
+generalization	vehicle	3.140065712749202
+generalization	transportation	3.140065712749202
+generalization	container	3.140065712749202
+generalization	conveyance	3.140065712749202
+generalization	instrumentality	3.140065712749202
+generalization	self-propelled vehicle	3.140065712749202
+generalization	instrumentation	3.140065712749202
+generalization	automotive vehicle	3.140065712749202
+generalization	motor vehicle	3.140065712749202
+generalization	tool	3.140065712749202
+generalization	airplane	3.140065712749202
+generalization	cycle	3.140065712749202
+generalization	auto	3.140065712749202
+generalization	public transport	3.140065712749202
+generalization	implement	3.140065712749202
+generalization	garden tool	3.140065712749202
+generalization	car	3.140065712749202
+generalization	machine	3.140065712749202
+generalization	aeroplane	3.140065712749202
+generalization	motorcar	3.140065712749202
+generalization	plane	3.140065712749202
+generalization	automobile	3.140065712749202
+generalization	artifact	3.140065712749202
+generalization	bicycle	3.140065712749202
+generalization	artefact	3.140065712749202
+generalization	lawn tool	3.140065712749202
+generalization	bike	3.140065712749202
+generalization	wheeled vehicle	3.0331505088326907
+generalization	craft	3.002562188999267
+colorPattern	grey	2.951456148041963
+colorPattern	black	2.951456148041963
+colorPattern	red	2.951456148041963
+colorPattern	white	2.951456148041963
+colorPattern	blue	2.951456148041963
+colorPattern	silver	2.951456148041963
+colorPattern	green	2.951456148041963
+colorPattern	glossy	2.951456148041963
+colorPattern	shiny	2.951456148041963
+generalization	vessel	2.917673291412754
+part	engine	2.9027823013062735
+part	brake	2.9027823013062735
+part	light	2.9027823013062735
+part	seat	2.9027823013062735
+part	door	2.9027823013062735
+part	window	2.9027823013062735
+part	bumper	2.9027823013062735
+part	tire	2.9027823013062735
+part	crew	2.9027823013062735
+part	tube	2.9027823013062735
+part	fin	2.9027823013062735
+part	frame	2.9027823013062735
+part	accelerator	2.9027823013062735
+part	cowl	2.9027823013062735
+part	rudder	2.9027823013062735
+part	interior	2.9027823013062735
+part	gear	2.9027823013062735
+part	bonnet	2.9027823013062735
+part	fender	2.9027823013062735
+part	tail	2.9027823013062735
+part	hood	2.9027823013062735
+part	cowling	2.9027823013062735
+part	wing	2.9027823013062735
+part	propeller	2.9027823013062735
+part	windshield	2.9027823013062735
+part	cockpit	2.9027823013062735
+part	gun	2.9027823013062735
+part	davit	2.9027823013062735
+part	stabilizer bar	2.9027823013062735
+part	fuselage	2.9027823013062735
+part	spar	2.9027823013062735
+part	cargo deck	2.9027823013062735
+part	buffer	2.9027823013062735
+part	accelerator pedal	2.9027823013062735
+part	engine room	2.9027823013062735
+part	low gear	2.9027823013062735
+part	taillight	2.9027823013062735
+part	nose	2.9027823013062735
+part	saddle	2.9027823013062735
+part	third gear	2.9027823013062735
+part	poop	2.9027823013062735
+part	bilge well	2.9027823013062735
+part	sunroof	2.9027823013062735
+part	mainsheet	2.9027823013062735
+part	gasoline engine	2.9027823013062735
+part	screw	2.9027823013062735
+part	lifeboat	2.9027823013062735
+part	log	2.9027823013062735
+part	bulwark	2.9027823013062735
+part	petrol engine	2.9027823013062735
+part	spoke	2.9027823013062735
+part	hull	2.9027823013062735
+part	porthole	2.9027823013062735
+part	topside	2.9027823013062735
+part	glove compartment	2.9027823013062735
+part	pedal	2.9027823013062735
+part	bay	2.9027823013062735
+part	forecastle	2.9027823013062735
+part	storage area	2.9027823013062735
+part	skeleton	2.9027823013062735
+part	top	2.9027823013062735
+part	landing gear	2.9027823013062735
+part	gyrostabiliser	2.9027823013062735
+part	car seat	2.9027823013062735
+part	chain	2.9027823013062735
+part	coachwork	2.9027823013062735
+part	automobile engine	2.9027823013062735
+part	gas pedal	2.9027823013062735
+part	fo'c'sle	2.9027823013062735
+part	radar dome	2.9027823013062735
+part	wiper	2.9027823013062735
+part	steering wheel	2.9027823013062735
+part	after part	2.9027823013062735
+part	seat belt	2.9027823013062735
+part	low	2.9027823013062735
+part	water	2.9027823013062735
+part	lubber's hole	2.9027823013062735
+part	radiator grille	2.9027823013062735
+part	coaster brake	2.9027823013062735
+part	winch	2.9027823013062735
+part	escape hatch	2.9027823013062735
+part	basket	2.9027823013062735
+part	crow's nest	2.9027823013062735
+part	fuel pod	2.9027823013062735
+part	roof	2.9027823013062735
+part	first	2.9027823013062735
+part	reverse gear	2.9027823013062735
+part	car mirror	2.9027823013062735
+part	riding bitt	2.9027823013062735
+part	air bag	2.9027823013062735
+part	gearbox	2.9027823013062735
+part	anchor	2.9027823013062735
+part	dashboard	2.9027823013062735
+part	box	2.9027823013062735
+part	screw propeller	2.9027823013062735
+part	high gear	2.9027823013062735
+part	trunk	2.9027823013062735
+part	funnel	2.9027823013062735
+part	bunk	2.9027823013062735
+part	ridge rope	2.9027823013062735
+part	ship's galley	2.9027823013062735
+part	floorboard	2.9027823013062735
+part	ratlin	2.9027823013062735
+part	high	2.9027823013062735
+part	reverse	2.9027823013062735
+part	grille	2.9027823013062735
+part	ratline	2.9027823013062735
+part	radome	2.9027823013062735
+part	keel	2.9027823013062735
+part	windshield wiper	2.9027823013062735
+part	antenna	2.9027823013062735
+part	kickstand	2.9027823013062735
+part	cargo hold	2.9027823013062735
+part	windlass	2.9027823013062735
+part	radio	2.9027823013062735
+part	running board	2.9027823013062735
+part	underframe	2.9027823013062735
+part	first gear	2.9027823013062735
+part	pod	2.9027823013062735
+part	bilge pump	2.9027823013062735
+part	skeletal frame	2.9027823013062735
+part	turbine	2.9027823013062735
+part	tailfin	2.9027823013062735
+part	helm	2.9027823013062735
+part	drogue	2.9027823013062735
+part	horn	2.9027823013062735
+part	cabin	2.9027823013062735
+part	sheet	2.9027823013062735
+part	stern	2.9027823013062735
+part	throttle	2.9027823013062735
+part	handlebar	2.9027823013062735
+part	car door	2.9027823013062735
+part	mirror	2.9027823013062735
+part	bicycle wheel	2.9027823013062735
+part	dynamo	2.9027823013062735
+part	mast	2.9027823013062735
+part	third	2.9027823013062735
+part	tail fin	2.9027823013062735
+part	weather sheet	2.9027823013062735
+part	sea anchor	2.9027823013062735
+part	deck	2.9027823013062735
+part	rope	2.9027823013062735
+part	cookhouse	2.9027823013062735
+part	gyrostabilizer	2.9027823013062735
+part	quarter	2.9027823013062735
+part	battery	2.9027823013062735
+part	tack	2.9027823013062735
+part	anti-sway bar	2.9027823013062735
+part	mudguard	2.9027823013062735
+part	rear window	2.9027823013062735
+part	railing	2.9027823013062735
+part	axle	2.9027823013062735
+part	navigation light	2.9027823013062735
+part	chain guard	2.9027823013062735
+part	black box	2.9027823013062735
+part	car window	2.9027823013062735
+part	auto accessory	2.9027823013062735
+part	sunshine-roof	2.9027823013062735
+part	sprocket wheel	2.9027823013062735
+part	cargo area	2.9027823013062735
+part	hold	2.9027823013062735
+part	sprocket	2.9027823013062735
+part	headlight	2.9027823013062735
+part	oil	2.9027823013062735
+part	caboose	2.9027823013062735
+part	number plate	2.9027823013062735
+part	handle	2.9027823013062735
+part	bulkhead	2.9027823013062735
+part	shroud	2.9027823013062735
+part	superstructure	2.9027823013062735
+generalization	aircraft	2.8770313069154083
+generalization	heavier-than-air craft	2.8181376178618396
+part	wheel	2.580854206418911
+place	rental	2.5794873706550048
+movement	pilot	2.474134370508777
+specialization	jet	2.1685542697088978
+specialization	Boeing	2.1685542697088978
+specialization	racing bike	2.1685542697088978
+specialization	Antonov	2.1685542697088978
+specialization	city car	2.1685542697088978
+specialization	pickup	2.1685542697088978
+specialization	wagon	2.1685542697088978
+specialization	attack aircraft	2.1685542697088978
+specialization	seaplane	2.1685542697088978
+specialization	bomber	2.1685542697088978
+specialization	hydroplane	2.1685542697088978
+specialization	micro car	2.1685542697088978
+specialization	reconnaissance plane	2.1685542697088978
+specialization	cabriolet	2.1685542697088978
+specialization	tanker plane	2.1685542697088978
+specialization	multiengine airplane	2.1685542697088978
+specialization	racing car	2.1685542697088978
+specialization	airliner	2.1685542697088978
+specialization	tender	2.1685542697088978
+specialization	monoplane	2.1685542697088978
+specialization	fighter	2.1685542697088978
+specialization	hangar queen	2.1685542697088978
+specialization	amphibian	2.1685542697088978
+specialization	iceboat	2.1685542697088978
+specialization	sedan	2.1685542697088978
+specialization	fighter aircraft	2.1685542697088978
+specialization	lorry	2.1685542697088978
+specialization	ski-plane	2.1685542697088978
+specialization	amphibious aircraft	2.1685542697088978
+specialization	multiengine plane	2.1685542697088978
+specialization	propeller plane	2.1685542697088978
+specialization	vintage car	2.1685542697088978
+specialization	biplane	2.1685542697088978
+specialization	airbus	2.1685542697088978
+specialization	SUV	2.1685542697088978
+specialization	delta wing	2.1685542697088978
+specialization	touring car	2.1685542697088978
+specialization	yacht	2.1685542697088978
+specialization	cargo helicopter	2.1685542697088978
+specialization	trail bike	2.1685542697088978
+specialization	hovercraft	2.1685542697088978
+specialization	cart	2.1685542697088978
+specialization	jalopy	2.1685542697088978
+specialization	jet plane	2.1685542697088978
+specialization	skibob	2.1685542697088978
+specialization	stealth aircraft	2.1685542697088978
+specialization	minibus	2.1685542697088978
+specialization	bumper car	2.1685542697088978
+specialization	fireboat	2.1685542697088978
+specialization	road roller	2.1685542697088978
+specialization	trailer truck	2.1685542697088978
+specialization	bus	2.1685542697088978
+specialization	tramcar	2.1685542697088978
+specialization	velocipede	2.1685542697088978
+specialization	jeep	2.1685542697088978
+specialization	pirate ship	2.1685542697088978
+specialization	steamship	2.1685542697088978
+specialization	shipwreck	2.1685542697088978
+specialization	Conestoga	2.1685542697088978
+specialization	gas-turbine ship	2.1685542697088978
+specialization	hot rod	2.1685542697088978
+specialization	wreck	2.1685542697088978
+specialization	nuclear-powered ship	2.1685542697088978
+specialization	hoy	2.1685542697088978
+specialization	steamer	2.1685542697088978
+specialization	school bus	2.1685542697088978
+specialization	runabout	2.1685542697088978
+specialization	landrover	2.1685542697088978
+specialization	surfboat	2.1685542697088978
+specialization	small boat	2.1685542697088978
+specialization	hardtop	2.1685542697088978
+specialization	ice wagon	2.1685542697088978
+specialization	limo	2.1685542697088978
+specialization	taxicab	2.1685542697088978
+specialization	Mackinaw boat	2.1685542697088978
+specialization	icebreaker	2.1685542697088978
+specialization	flatboat	2.1685542697088978
+specialization	jumbojet	2.1685542697088978
+specialization	phaeton	2.1685542697088978
+specialization	tug	2.1685542697088978
+specialization	gypsy cab	2.1685542697088978
+specialization	narrowboat	2.1685542697088978
+specialization	mountain bike	2.1685542697088978
+specialization	subcompact	2.1685542697088978
+specialization	steamroller	2.1685542697088978
+specialization	cruise missile	2.1685542697088978
+specialization	gas guzzler	2.1685542697088978
+specialization	water wagon	2.1685542697088978
+specialization	powerboat	2.1685542697088978
+specialization	pilot boat	2.1685542697088978
+specialization	garbage truck	2.1685542697088978
+specialization	guard boat	2.1685542697088978
+specialization	narrow boat	2.1685542697088978
+specialization	skidder	2.1685542697088978
+specialization	landing craft	2.1685542697088978
+specialization	cycle rickshaw	2.1685542697088978
+specialization	prowl car	2.1685542697088978
+specialization	minivan	2.1685542697088978
+specialization	tourer	2.1685542697088978
+specialization	minelayer	2.1685542697088978
+specialization	weather ship	2.1685542697088978
+specialization	safety bicycle	2.1685542697088978
+specialization	loaner	2.1685542697088978
+specialization	sound truck	2.1685542697088978
+specialization	racing yacht	2.1685542697088978
+specialization	supply ship	2.1685542697088978
+specialization	trolleybus	2.1685542697088978
+specialization	skyhook	2.1685542697088978
+specialization	prairie wagon	2.1685542697088978
+specialization	squad car	2.1685542697088978
+specialization	safety bike	2.1685542697088978
+specialization	cruise ship	2.1685542697088978
+specialization	convertible	2.1685542697088978
+specialization	motorbike	2.1685542697088978
+specialization	whaler	2.1685542697088978
+specialization	bogy	2.1685542697088978
+specialization	projectile	2.1685542697088978
+specialization	steamboat	2.1685542697088978
+specialization	tipper truck	2.1685542697088978
+specialization	troopship	2.1685542697088978
+specialization	Dodgem	2.1685542697088978
+specialization	police boat	2.1685542697088978
+specialization	sport car	2.1685542697088978
+specialization	water waggon	2.1685542697088978
+specialization	cab	2.1685542697088978
+specialization	electric car	2.1685542697088978
+specialization	ordinary	2.1685542697088978
+specialization	mailboat	2.1685542697088978
+specialization	gunboat	2.1685542697088978
+specialization	barrage balloon	2.1685542697088978
+specialization	bogie	2.1685542697088978
+specialization	rig	2.1685542697088978
+specialization	ground-effect machine	2.1685542697088978
+specialization	cruiser	2.1685542697088978
+specialization	tandem	2.1685542697088978
+specialization	tram	2.1685542697088978
+specialization	sister ship	2.1685542697088978
+specialization	car transporter	2.1685542697088978
+specialization	chuck wagon	2.1685542697088978
+specialization	sausage	2.1685542697088978
+specialization	sled	2.1685542697088978
+specialization	passenger ship	2.1685542697088978
+specialization	flagship	2.1685542697088978
+specialization	jetliner	2.1685542697088978
+specialization	ark	2.1685542697088978
+specialization	police cruiser	2.1685542697088978
+specialization	dumper	2.1685542697088978
+specialization	tow car	2.1685542697088978
+specialization	tugboat	2.1685542697088978
+specialization	stock car	2.1685542697088978
+specialization	trackless trolley	2.1685542697088978
+specialization	scow	2.1685542697088978
+specialization	fan-jet	2.1685542697088978
+specialization	turbofan	2.1685542697088978
+specialization	ice-wagon	2.1685542697088978
+specialization	school ship	2.1685542697088978
+specialization	transport ship	2.1685542697088978
+specialization	lugger	2.1685542697088978
+specialization	dump truck	2.1685542697088978
+specialization	push-bike	2.1685542697088978
+specialization	scooter	2.1685542697088978
+specialization	pace car	2.1685542697088978
+specialization	cutter	2.1685542697088978
+specialization	minesweeper	2.1685542697088978
+specialization	sausage balloon	2.1685542697088978
+specialization	electric automobile	2.1685542697088978
+specialization	dirt bike	2.1685542697088978
+specialization	river boat	2.1685542697088978
+specialization	hack	2.1685542697088978
+specialization	limousine	2.1685542697088978
+specialization	bumboat	2.1685542697088978
+specialization	ship's boat	2.1685542697088978
+specialization	shrimper	2.1685542697088978
+specialization	compact car	2.1685542697088978
+specialization	Stanley Steamer	2.1685542697088978
+specialization	horseless carriage	2.1685542697088978
+specialization	blockade-runner	2.1685542697088978
+specialization	longboat	2.1685542697088978
+specialization	fanjet	2.1685542697088978
+specialization	ferryboat	2.1685542697088978
+specialization	motorboat	2.1685542697088978
+specialization	merchant ship	2.1685542697088978
+specialization	prairie schooner	2.1685542697088978
+specialization	angledozer	2.1685542697088978
+specialization	secondhand car	2.1685542697088978
+specialization	tractor trailer	2.1685542697088978
+specialization	pinnace	2.1685542697088978
+specialization	trolley coach	2.1685542697088978
+specialization	bareboat	2.1685542697088978
+specialization	milk wagon	2.1685542697088978
+specialization	dustcart	2.1685542697088978
+specialization	tip truck	2.1685542697088978
+specialization	Model T	2.1685542697088978
+specialization	packet boat	2.1685542697088978
+specialization	wrecker	2.1685542697088978
+specialization	semi	2.1685542697088978
+specialization	cargo ship	2.1685542697088978
+specialization	articulated lorry	2.1685542697088978
+specialization	hulk	2.1685542697088978
+specialization	abandoned ship	2.1685542697088978
+specialization	trucking rig	2.1685542697088978
+specialization	pirate	2.1685542697088978
+specialization	roadster	2.1685542697088978
+specialization	hand mower	2.1685542697088978
+specialization	Conestoga wagon	2.1685542697088978
+specialization	subcompact car	2.1685542697088978
+specialization	mackinaw	2.1685542697088978
+specialization	fishing boat	2.1685542697088978
+specialization	lighter	2.1685542697088978
+specialization	jet-propelled plane	2.1685542697088978
+specialization	small ship	2.1685542697088978
+specialization	whaling ship	2.1685542697088978
+specialization	lightship	2.1685542697088978
+specialization	ordinary bicycle	2.1685542697088978
+specialization	slave ship	2.1685542697088978
+specialization	sledge	2.1685542697088978
+specialization	pedicab	2.1685542697088978
+specialization	towboat	2.1685542697088978
+specialization	packet	2.1685542697088978
+specialization	rocket	2.1685542697088978
+specialization	ballistic capsule	2.1685542697088978
+specialization	van	2.1685542697088978
+specialization	sleigh	2.1685542697088978
+specialization	canal boat	2.1685542697088978
+specialization	fire truck	2.1685542697088978
+specialization	tipper lorry	2.1685542697088978
+specialization	minicab	2.1685542697088978
+specialization	sports car	2.1685542697088978
+specialization	single-rotor helicopter	2.1685542697088978
+specialization	bicycle-built-for-two	2.1685542697088978
+specialization	bulldozer	2.1685542697088978
+specialization	twinjet	2.1685542697088978
+specialization	spacecraft	2.1685542697088978
+specialization	tipper	2.1685542697088978
+specialization	fishing smack	2.1685542697088978
+specialization	horsecar	2.1685542697088978
+specialization	transporter	2.1685542697088978
+specialization	training ship	2.1685542697088978
+specialization	scrambler	2.1685542697088978
+specialization	bandwagon	2.1685542697088978
+specialization	minibike	2.1685542697088978
+specialization	patrol car	2.1685542697088978
+specialization	pickup truck	2.1685542697088978
+specialization	minicar	2.1685542697088978
+specialization	camion	2.1685542697088978
+specialization	derelict	2.1685542697088978
+specialization	used-car	2.1685542697088978
+specialization	taxi	2.1685542697088978
+specialization	ice yacht	2.1685542697088978
+specialization	patrol ship	2.1685542697088978
+specialization	bogey	2.1685542697088978
+specialization	wain	2.1685542697088978
+specialization	three-decker	2.1685542697088978
+specialization	hospital ship	2.1685542697088978
+specialization	hot-rod	2.1685542697088978
+specialization	hatchback	2.1685542697088978
+specialization	two-seater	2.1685542697088978
+specialization	barge	2.1685542697088978
+specialization	shuttle helicopter	2.1685542697088978
+specialization	tow truck	2.1685542697088978
+specialization	motor mower	2.1685542697088978
+specialization	ambulance	2.1685542697088978
+specialization	electric	2.1685542697088978
+specialization	tandem bicycle	2.1685542697088978
+specialization	patrol boat	2.1685542697088978
+specialization	milkwagon	2.1685542697088978
+specialization	cargo vessel	2.1685542697088978
+specialization	treasure ship	2.1685542697088978
+specialization	jumbo jet	2.1685542697088978
+specialization	gondola	2.1685542697088978
+specialization	sea boat	2.1685542697088978
+specialization	police car	2.1685542697088978
+specialization	covered wagon	2.1685542697088978
+specialization	fire engine	2.1685542697088978
+specialization	punt	2.1685542697088978
+specialization	heap	2.1685542697088978
+specialization	blimp	2.1685542697088978
+specialization	sailing ship	2.1685542697088978
+specialization	sailing vessel	2.1685542697088978
+specialization	tower	2.1685542697088978
+specialization	turbojet	2.1685542697088978
+specialization	space vehicle	2.1685542697088978
+specialization	coupe	2.1685542697088978
+specialization	power mower	2.1685542697088978
+specialization	dozer	2.1685542697088978
+specialization	ferry	2.1685542697088978
+specialization	mail boat	2.1685542697088978
+specialization	fishing vessel	2.1685542697088978
+specialization	junk	2.1685542697088978
+specialization	compact	2.1685542697088978
+generalization	watercraft	2.140065712749202
+generalization	combat ship	2.140065712749202
+generalization	war vessel	2.140065712749202
+generalization	military vehicle	2.140065712749202
+generalization	lighter-than-air craft	2.140065712749202
+generalization	tractor	2.140065712749202
+generalization	ship	2.140065712749202
+generalization	warship	2.140065712749202
+purpose	passenger	1.9096359723473362
+part	boat	1.9027823013062735
+generalization	transport	1.7530425896399549
+user	farm	1.615452867942878
+specialization	galley	1.5835917689877417
+part	galley	1.3178198005851172
+specialization	warship	1.1685542697088978
+specialization	boat	1.1685542697088978
+specialization	war vessel	1.1685542697088978
+specialization	ship	1.1685542697088978
+specialization	watercraft	1.1685542697088978
+specialization	tractor	1.1685542697088978
+specialization	lighter-than-air craft	1.1685542697088978
+specialization	military vehicle	1.1685542697088978
+specialization	combat ship	1.1685542697088978
+part	gas	0.9027823013062733
+generalization	wheel	0.8181376178618397
+specialization	heavier-than-air craft	-0.15337382517846448
+specialization	aircraft	-0.41640823101225827
+specialization	vessel	-0.6388006523487062
+specialization	craft	-1.2908773489283993
+specialization	wheeled vehicle	-1.6388006523487062

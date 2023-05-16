@@ -1,0 +1,207 @@
+colorPattern	silver	36
+colorPattern	black	36
+material	metal	29
+colorPattern	white	24
+material	plastic	23
+shape	rectangular	17
+generalization	appliance	17
+generalization	device	15
+part	handle	14
+part	cord	13
+material	glass	12
+material	steel	12
+part	plug	12
+place	office	12
+generalization	instrument	11
+part	push-button	10
+part	knob	9
+part	door	9
+sound	ring	8
+generalization	tool	6
+place	school	6
+supply	fire	6
+place	home	6
+shape	long	6
+efficiency	fragile	6
+supply	petrol	6
+supply	gas	6
+shape	elongated	6
+supply	coal	6
+supply	diesel	6
+place	lab	6
+place	conference room	6
+user	teacher	6
+material	cast iron	6
+supply	electricity	6
+part	rotor	5
+place	kitchen	5
+generalization	household appliance	5
+generalization	electronic equipment	5
+purpose	heat	5
+generalization	home appliance	5
+purpose	speak	4
+part	scale bar	4
+place	restaurant	4
+purpose	experiment	4
+part	display	4
+part	bulb	3
+purpose	teaching	3
+purpose	education	3
+purpose	burn	3
+generalization	white goods	3
+generalization	instrumentality	3
+generalization	equipment	3
+purpose	cooking	3
+generalization	measuring instrument	3
+purpose	communication	3
+generalization	measuring device	3
+generalization	instrumentation	3
+purpose	enlarge	3
+generalization	measuring system	3
+place	room	3
+accessory	tablet	3
+place	hospital	2
+specialization	landline	2
+generalization	electronic device	2
+part	sprayer	2
+part	rack	2
+supply	propane	2
+content	alcohol	2
+generalization	peripheral	2
+specialization	smartphone	2
+place	cinema	2
+generalization	computer peripheral	2
+generalization	peripheral device	2
+specialization	cordless	2
+part	microwave	2
+purpose	cook	2
+part	sensor	2
+place	weather station	2
+generalization	kitchen appliance	2
+place	planetarium	2
+purpose	presentation	2
+generalization	control	1
+part	drip pan	1
+part	oven	1
+part	fireside	1
+purpose	truck	1
+specialization	dial phone	1
+generalization	electronic communication	1
+part	mantel	1
+generalization	telecommunication	1
+generalization	electric lamp	1
+place	theater	1
+specialization	extension phone	1
+purpose	phone	1
+specialization	freemail	1
+specialization	spam	1
+material	alcohol	1
+user	patient	1
+part	mantlepiece	1
+purpose	telephone	1
+generalization	data input device	1
+supply	pellet	1
+specialization	remote terminal	1
+part	telephone receiver	1
+purpose	screen	1
+part	refrigerator	1
+generalization	mechanism	1
+generalization	transmission	1
+generalization	consumer durables	1
+generalization	electro-acoustic transducer	1
+place	factory	1
+shape	pointy	1
+specialization	dial telephone	1
+part	chimneypiece	1
+part	fire iron	1
+specialization	extension	1
+supply	burning	1
+part	mouthpiece	1
+supply	electric	1
+purpose	service	1
+generalization	broadcasting	1
+generalization	printing machine	1
+generalization	durable goods	1
+place	bakery	1
+part	hearthstone	1
+purpose	measure	1
+part	grating	1
+part	capillary tube	1
+generalization	machine	1
+specialization	radiotelephone	1
+generalization	printer	1
+part	hearth	1
+purpose	wash	1
+generalization	source of illumination	1
+part	mantelpiece	1
+accessory	salt	1
+purpose	project	1
+part	light	1
+place	hotel	1
+generalization	receiving system	1
+part	steam whistle	1
+generalization	optical instrument	1
+part	pipe	1
+supply	convection	1
+part	fireplace	1
+specialization	speakerphone	1
+place	baker	1
+generalization	medium	1
+generalization	communicating	1
+specialization	remote station	1
+part	keypad	1
+part	water back	1
+generalization	transducer	1
+place	classroom	1
+part	wire	1
+generalization	navigational instrument	1
+user	doctor	1
+purpose	call	1
+bodyPart	mouth	1
+material	mercury	1
+part	capillary tubing	1
+part	bimetallic strip	1
+part	grate	1
+specialization	link-attached terminal	1
+generalization	telecom	1
+specialization	pay-station	1
+generalization	input device	1
+generalization	durables	1
+content	programmable	1
+specialization	telephone extension	1
+generalization	set	1
+specialization	French telephone	1
+specialization	pay-phone	1
+specialization	link-attached station	1
+part	mantle	1
+generalization	regulator	1
+generalization	display	1
+part	capillary	1
+supply	wood	1
+part	refrigeration system	1
+part	button	1
+part	lens	1
+part	receiver	1
+generalization	lamp	1
+generalization	receiver	1
+specialization	radiophone	1
+part	flashlight battery	1
+part	cable	1
+generalization	consumer goods	1
+specialization	wireless telephone	1
+part	shutter	1
+bodyPart	ear	1
+specialization	handset	1
+generalization	controller	1
+content	mercury	1
+part	screen	1
+purpose	display	1
+specialization	junk e-mail	1
+part	platform	1
+specialization	desk phone	1
+place	car	1
+generalization	electrical device	1
+specialization	job-oriented terminal	1
+generalization	video display	1
+supply	biomass	1
+generalization	communication	1

@@ -1,0 +1,207 @@
+bodyPart	mouth	2.801713821045448
+bodyPart	ear	2.801713821045448
+accessory	tablet	1.0578773518766205
+content	programmable	1.4810282926272689
+accessory	salt	1.4810282926272689
+efficiency	fragile	0.5683482468679323
+content	alcohol	0.9743112803450268
+sound	ring	0.4003213414460215
+user	teacher	0.45751010450973884
+user	doctor	0.7116823847929271
+content	mercury	1.0675235771893907
+user	patient	0.7116823847929271
+specialization	landline	0.15325955136929134
+specialization	cordless	0.15325955136929134
+specialization	smartphone	0.15325955136929134
+specialization	link-attached station	0.1585443634854738
+specialization	French telephone	0.1585443634854738
+specialization	pay-phone	0.1585443634854738
+specialization	link-attached terminal	0.1585443634854738
+specialization	telephone extension	0.1585443634854738
+specialization	pay-station	0.1585443634854738
+specialization	remote station	0.1585443634854738
+specialization	job-oriented terminal	0.1585443634854738
+specialization	desk phone	0.1585443634854738
+specialization	junk e-mail	0.1585443634854738
+specialization	handset	0.1585443634854738
+specialization	wireless telephone	0.1585443634854738
+specialization	radiophone	0.1585443634854738
+specialization	extension	0.1585443634854738
+specialization	dial telephone	0.1585443634854738
+specialization	remote terminal	0.1585443634854738
+specialization	spam	0.1585443634854738
+specialization	freemail	0.1585443634854738
+specialization	extension phone	0.1585443634854738
+specialization	dial phone	0.1585443634854738
+specialization	radiotelephone	0.1585443634854738
+specialization	speakerphone	0.1585443634854738
+shape	rectangular	0.09570746526654947
+shape	elongated	0.12495141298688403
+shape	long	0.12495141298688403
+shape	pointy	0.14510486669444597
+supply	coal	0.07891419688998093
+supply	diesel	0.07891419688998093
+supply	gas	0.07891419688998093
+supply	electricity	0.07891419688998093
+supply	fire	0.07891419688998093
+supply	petrol	0.07891419688998093
+supply	propane	0.08577630096737057
+supply	wood	0.0876824409888677
+supply	biomass	0.0876824409888677
+supply	pellet	0.0876824409888677
+supply	convection	0.0876824409888677
+supply	burning	0.0876824409888677
+supply	electric	0.0876824409888677
+purpose	heat	0.07826576733613338
+purpose	experiment	0.07986302789401366
+purpose	speak	0.07986302789401366
+purpose	cooking	0.08152684097513895
+purpose	enlarge	0.08152684097513895
+purpose	teaching	0.08152684097513895
+purpose	burn	0.08152684097513895
+purpose	education	0.08152684097513895
+purpose	presentation	0.08326145461290785
+purpose	cook	0.08326145461290785
+purpose	service	0.08507148623492759
+purpose	measure	0.08507148623492759
+purpose	telephone	0.08507148623492759
+purpose	phone	0.08507148623492759
+purpose	truck	0.08507148623492759
+purpose	project	0.08507148623492759
+purpose	wash	0.08507148623492759
+purpose	call	0.08507148623492759
+purpose	communication	0.07139287484750664
+place	restaurant	0.05116211253188698
+place	weather station	0.052736331379021964
+place	planetarium	0.052736331379021964
+place	hospital	0.052736331379021964
+place	cinema	0.052736331379021964
+place	classroom	0.05356033655681918
+place	baker	0.05356033655681918
+place	car	0.05356033655681918
+place	factory	0.05356033655681918
+place	theater	0.05356033655681918
+place	hotel	0.05356033655681918
+place	bakery	0.05356033655681918
+place	office	0.04570482052848569
+place	lab	0.049679152748354015
+place	conference room	0.049679152748354015
+place	school	0.049679152748354015
+place	home	0.049679152748354015
+place	kitchen	0.050409728524065105
+place	room	0.05193729605509738
+material	metal	0.026662159649182157
+material	plastic	0.028157234022033493
+material	glass	0.03138358375372483
+material	steel	0.03138358375372483
+material	cast iron	0.03347582267063982
+purpose	screen	0.061984858868227
+colorPattern	black	0.021364992139508997
+colorPattern	silver	0.021364992139508997
+colorPattern	white	0.0235014913534599
+part	handle	0.017137991321731758
+part	cord	0.017260405545458414
+part	plug	0.017384581124922145
+part	push-button	0.01763837063039546
+part	knob	0.017768064532089543
+part	door	0.017768064532089543
+part	rotor	0.01830649073003165
+part	scale bar	0.018446234934077696
+part	bulb	0.018588129048955217
+part	sensor	0.018732223072590527
+part	microwave	0.018732223072590527
+part	rack	0.018732223072590527
+part	sprayer	0.018732223072590527
+part	mantle	0.01887856856534514
+part	capillary	0.01887856856534514
+part	bimetallic strip	0.01887856856534514
+part	grate	0.01887856856534514
+part	capillary tubing	0.01887856856534514
+part	water back	0.01887856856534514
+part	wire	0.01887856856534514
+part	keypad	0.01887856856534514
+part	oven	0.01887856856534514
+part	platform	0.01887856856534514
+part	shutter	0.01887856856534514
+part	flashlight battery	0.01887856856534514
+part	cable	0.01887856856534514
+part	lens	0.01887856856534514
+part	refrigeration system	0.01887856856534514
+part	button	0.01887856856534514
+part	fire iron	0.01887856856534514
+part	chimneypiece	0.01887856856534514
+part	refrigerator	0.01887856856534514
+part	telephone receiver	0.01887856856534514
+part	mantlepiece	0.01887856856534514
+part	mantel	0.01887856856534514
+part	drip pan	0.01887856856534514
+part	fireside	0.01887856856534514
+part	steam whistle	0.01887856856534514
+part	mantelpiece	0.01887856856534514
+part	light	0.01887856856534514
+part	hearth	0.01887856856534514
+part	pipe	0.01887856856534514
+part	fireplace	0.01887856856534514
+part	hearthstone	0.01887856856534514
+part	grating	0.01887856856534514
+part	mouthpiece	0.01887856856534514
+part	capillary tube	0.01887856856534514
+generalization	appliance	0.01639667265556911
+generalization	instrument	0.017099387197950643
+generalization	tool	0.017732697834911777
+generalization	home appliance	0.017865031400843955
+generalization	electronic equipment	0.017865031400843955
+generalization	household appliance	0.017865031400843955
+generalization	measuring instrument	0.018135713694796135
+generalization	measuring system	0.018135713694796135
+generalization	instrumentation	0.018135713694796135
+generalization	measuring device	0.018135713694796135
+generalization	equipment	0.018135713694796135
+generalization	instrumentality	0.018135713694796135
+generalization	white goods	0.018135713694796135
+generalization	kitchen appliance	0.01827415425735183
+generalization	computer peripheral	0.01827415425735183
+generalization	peripheral device	0.01827415425735183
+generalization	electronic device	0.01827415425735183
+generalization	peripheral	0.01827415425735183
+generalization	regulator	0.018414724674716075
+generalization	set	0.018414724674716075
+generalization	telecom	0.018414724674716075
+generalization	durables	0.018414724674716075
+generalization	input device	0.018414724674716075
+generalization	navigational instrument	0.018414724674716075
+generalization	transducer	0.018414724674716075
+generalization	medium	0.018414724674716075
+generalization	video display	0.018414724674716075
+generalization	electrical device	0.018414724674716075
+generalization	controller	0.018414724674716075
+generalization	consumer goods	0.018414724674716075
+generalization	lamp	0.018414724674716075
+generalization	electro-acoustic transducer	0.018414724674716075
+generalization	transmission	0.018414724674716075
+generalization	mechanism	0.018414724674716075
+generalization	consumer durables	0.018414724674716075
+generalization	data input device	0.018414724674716075
+generalization	telecommunication	0.018414724674716075
+generalization	electric lamp	0.018414724674716075
+generalization	electronic communication	0.018414724674716075
+generalization	control	0.018414724674716075
+generalization	communicating	0.018414724674716075
+generalization	receiving system	0.018414724674716075
+generalization	source of illumination	0.018414724674716075
+generalization	optical instrument	0.018414724674716075
+generalization	printer	0.018414724674716075
+generalization	machine	0.018414724674716075
+generalization	durable goods	0.018414724674716075
+generalization	broadcasting	0.018414724674716075
+generalization	printing machine	0.018414724674716075
+generalization	device	0.016624404220229788
+material	mercury	0.023404930701832367
+part	display	0.013770633651451293
+material	alcohol	0.01641220160501641
+part	screen	0.010980285088094403
+part	receiver	0.010980285088094403
+generalization	receiver	0.010640566471092289
+purpose	display	0.026045605217363002
+generalization	communication	0.0029617609602487966
+generalization	display	-0.001415172540800492
