@@ -1,151 +1,158 @@
-bodyPart	shoulder	7.187352073200496
-bodyPart	hand	7.187352073200496
-user	woman	6.60238957247934
-user	waiter	6.60238957247934
-efficiency	impermeable	4.865423978313134
-efficiency	recyclable	4.865423978313134
-efficiency	breakable	4.865423978313134
-colorPattern	green	4.795034650421736
-colorPattern	brown	4.795034650421736
-colorPattern	transparent	4.795034650421736
-colorPattern	cream	4.795034650421736
-efficiency	recycled	4.45038647903429
-purpose	carry	4.432464571037028
-purpose	store	4.432464571037028
-purpose	cleaning	4.432464571037028
-purpose	shopping	4.432464571037028
-purpose	tote	4.432464571037028
-purpose	storage	4.432464571037028
-efficiency	shaped	4.05806905625553
-place	supermarket	3.939424559756911
-place	cafeteria	3.939424559756911
-place	shop	3.939424559756911
-place	restaurant	3.939424559756911
-place	kitchen	3.939424559756911
-place	canteen	3.939424559756911
-place	pub	3.939424559756911
-place	cellar	3.939424559756911
-place	beach	3.939424559756911
-place	garden	3.939424559756911
-purpose	gardening	3.8475020703158713
-part	handle	3.4594316186372973
-part	hoop	3.4594316186372973
-part	bung	3.4594316186372973
-part	lid	3.4594316186372973
-part	label	3.4594316186372973
-part	rim	3.4594316186372973
-part	zipper	3.4594316186372973
-part	stave	3.4594316186372973
-part	mouth	3.4594316186372973
-part	cork	3.4594316186372973
-part	tap	3.4594316186372973
-part	cwt	3.4594316186372973
-part	cap	3.4594316186372973
-part	hundredweight	3.4594316186372973
-part	brim	3.4594316186372973
-part	centner	3.4594316186372973
-part	spout	3.4594316186372973
-part	quintal	3.4594316186372973
-part	bottlecap	3.4594316186372973
-part	pocket	3.4594316186372973
-part	clasp	3.4594316186372973
-part	rear of barrel	3.4594316186372973
-part	rear of tube	3.4594316186372973
-part	zip	3.4594316186372973
-part	stopper	3.4594316186372973
-part	strap	3.4594316186372973
-part	spigot	3.4594316186372973
-part	compartment	3.4594316186372973
-part	cental	3.4594316186372973
-part	neck	3.4594316186372973
-part	base	3.4594316186372973
-part	breech	3.4594316186372973
-part	short hundredweight	3.4594316186372973
-content	liquid	3.1873520732004965
-content	wine	3.1873520732004965
-content	drink	3.1873520732004965
-content	beer	3.1873520732004965
-content	grocery	3.1873520732004965
-content	liquor	3.1873520732004965
-content	sand	3.1873520732004965
-content	soda	3.1873520732004965
-content	biscuit	3.1873520732004965
-content	purse	3.1873520732004965
-content	ice	3.1873520732004965
-content	flower	3.1873520732004965
-content	spray	3.1873520732004965
-content	wallet	3.1873520732004965
-content	lunch	3.1873520732004965
-content	backpack	3.1873520732004965
-content	haversack	3.1873520732004965
-content	water	3.1873520732004965
-content	muffin	3.1873520732004965
-material	wood	2.7950346504217363
-material	canvas	2.7950346504217363
-material	cotton	2.7950346504217363
-material	ceramic	2.7950346504217363
-material	fibre	2.7950346504217363
-material	polyester	2.7950346504217363
-material	fabric	2.7950346504217363
-material	cloth	2.7950346504217363
-material	leather	2.7950346504217363
-material	wicker	2.7950346504217363
-material	paper	2.7950346504217363
-material	aluminum	2.7950346504217363
-material	clay	2.7950346504217363
-material	metal	2.795034650421736
-shape	round	2.663790117143484
-shape	circular	2.663790117143484
-shape	cylindrical	2.663790117143484
-shape	curved	2.663790117143484
-shape	conical	2.663790117143484
-shape	flat	2.663790117143484
-shape	dry	2.663790117143484
-shape	hollow	2.6637901171434835
-shape	square	2.6637901171434835
-shape	rectangular	2.6637901171434835
-efficiency	plastic	2.6430315569766862
-efficiency	reusable	2.5434958834257717
-part	glass	2.4594316186372973
-material	plastic	2.447111347001429
-content	bag	2.1873520732004965
-material	reusable	2.0580690562555297
-material	glass	1.795034650421736
-generalization	instrumentation	1.7444085773517686
-generalization	instrumentality	1.7444085773517686
-generalization	artifact	1.7444085773517686
-generalization	artefact	1.7444085773517686
-generalization	receptacle	1.7444085773517681
-generalization	container	1.7444085773517681
-generalization	vessel	1.7444085773517681
-generalization	unit	1.7444085773517681
-generalization	nutrient	1.7444085773517681
-generalization	whole	1.7444085773517681
-generalization	package	1.7444085773517681
-generalization	mass unit	1.7444085773517681
-generalization	tubing	1.7444085773517681
-generalization	utensil	1.7444085773517681
-generalization	parcel	1.7444085773517681
-generalization	bundle	1.7444085773517681
-generalization	cookware	1.7444085773517681
-generalization	supporting structure	1.7444085773517681
-generalization	foodstuff	1.7444085773517681
-generalization	kitchen utensil	1.7444085773517681
-generalization	construction	1.7444085773517681
-generalization	unit of measurement	1.7444085773517681
-generalization	avoirdupois unit	1.7444085773517681
-generalization	conduit	1.7444085773517681
-generalization	food	1.7444085773517681
-generalization	cooking utensil	1.7444085773517681
-generalization	meal	1.7444085773517681
-generalization	passage	1.7444085773517681
-generalization	framework	1.7444085773517681
-generalization	tube	1.7444085773517681
-generalization	structure	1.7444085773517681
-generalization	food product	1.7444085773517681
-generalization	sheaf	1.7444085773517681
-content	gardening	1.60238957247934
-shape	shaped	1.4413976958070358
-content	reusable	0.865423978313134
-material	recycled	0.795034650421736
-generalization	bag	0.7444085773517681
+bodyPart	shoulder	N	7.187352073200496
+bodyPart	hand	N	7.187352073200496
+user	woman	N	6.60238957247934
+user	waiter	N	6.60238957247934
+efficiency	impermeable	A	4.865423978313134
+efficiency	recycled	V	4.865423978313134
+efficiency	recyclable	A	4.865423978313134
+efficiency	breakable	A	4.865423978313134
+colorPattern	transparent	A	4.795034650421736
+colorPattern	green	A	4.795034650421736
+colorPattern	green	N	4.795034650421736
+colorPattern	brown	N	4.795034650421736
+colorPattern	brown	A	4.795034650421736
+colorPattern	cream	N	4.795034650421736
+purpose	carry	V	4.432464571037028
+purpose	store	V	4.432464571037028
+purpose	cleaning	N	4.432464571037028
+purpose	shopping	N	4.432464571037028
+purpose	gardening	N	4.432464571037028
+purpose	storage	N	4.432464571037028
+purpose	tote	V	4.432464571037028
+efficiency	plastic	A	4.280461477591977
+efficiency	shaped	V	4.280461477591977
+place	cafeteria	N	3.939424559756911
+place	restaurant	N	3.939424559756911
+place	kitchen	N	3.939424559756911
+place	supermarket	N	3.939424559756911
+place	shop	N	3.939424559756911
+place	canteen	N	3.939424559756911
+place	cellar	N	3.939424559756911
+place	pub	N	3.939424559756911
+place	garden	N	3.939424559756911
+place	beach	N	3.939424559756911
+efficiency	shaped	A	3.865423978313134
+efficiency	recycled	A	3.865423978313134
+part	handle	N	3.4594316186372973
+part	hoop	N	3.4594316186372973
+part	bung	N	3.4594316186372973
+part	lid	N	3.4594316186372973
+part	label	N	3.4594316186372973
+part	short hundredweight	N	3.4594316186372973
+part	zipper	N	3.4594316186372973
+part	breech	N	3.4594316186372973
+part	compartment	N	3.4594316186372973
+part	rear of barrel	N	3.4594316186372973
+part	mouth	N	3.4594316186372973
+part	hundredweight	N	3.4594316186372973
+part	cork	N	3.4594316186372973
+part	base	N	3.4594316186372973
+part	bottlecap	N	3.4594316186372973
+part	cental	N	3.4594316186372973
+part	stopper	N	3.4594316186372973
+part	centner	N	3.4594316186372973
+part	clasp	N	3.4594316186372973
+part	zip	N	3.4594316186372973
+part	pocket	N	3.4594316186372973
+part	tap	N	3.4594316186372973
+part	neck	N	3.4594316186372973
+part	spigot	N	3.4594316186372973
+part	brim	N	3.4594316186372973
+part	cwt	N	3.4594316186372973
+part	rear of tube	N	3.4594316186372973
+part	stave	N	3.4594316186372973
+part	cap	N	3.4594316186372973
+part	strap	N	3.4594316186372973
+part	spout	N	3.4594316186372973
+part	quintal	N	3.4594316186372973
+part	rim	N	3.4594316186372973
+content	liquid	N	3.1873520732004965
+content	wine	N	3.1873520732004965
+content	drink	N	3.1873520732004965
+content	beer	N	3.1873520732004965
+content	grocery	N	3.1873520732004965
+content	liquor	N	3.1873520732004965
+content	sand	N	3.1873520732004965
+content	biscuit	N	3.1873520732004965
+content	soda	N	3.1873520732004965
+content	lunch	N	3.1873520732004965
+content	spray	N	3.1873520732004965
+content	purse	N	3.1873520732004965
+content	wallet	N	3.1873520732004965
+content	ice	N	3.1873520732004965
+content	haversack	N	3.1873520732004965
+content	flower	N	3.1873520732004965
+content	gardening	V	3.1873520732004965
+content	muffin	N	3.1873520732004965
+content	water	N	3.1873520732004965
+content	backpack	N	3.1873520732004965
+material	wood	N	2.7950346504217363
+material	canvas	N	2.7950346504217363
+material	fibre	N	2.7950346504217363
+material	polyester	N	2.7950346504217363
+material	cotton	N	2.7950346504217363
+material	ceramic	N	2.7950346504217363
+material	cloth	N	2.7950346504217363
+material	leather	N	2.7950346504217363
+material	fabric	N	2.7950346504217363
+material	wicker	N	2.7950346504217363
+material	aluminum	N	2.7950346504217363
+material	paper	N	2.7950346504217363
+material	clay	N	2.7950346504217363
+material	metal	N	2.795034650421736
+shape	round	A	2.663790117143484
+shape	circular	A	2.663790117143484
+shape	cylindrical	A	2.663790117143484
+shape	conical	A	2.663790117143484
+shape	curved	A	2.663790117143484
+shape	flat	A	2.663790117143484
+shape	dry	A	2.663790117143484
+shape	hollow	A	2.6637901171434835
+shape	square	N	2.6637901171434835
+shape	rectangular	A	2.6637901171434835
+material	plastic	N	2.657531126671801
+efficiency	reusable	A	2.5434958834257717
+part	glass	N	2.4594316186372973
+content	bag	N	2.1873520732004965
+material	reusable	A	2.0580690562555297
+material	glass	N	1.795034650421736
+material	recycled	A	1.795034650421736
+generalization	instrumentation	N	1.7444085773517686
+generalization	instrumentality	N	1.7444085773517686
+generalization	artifact	N	1.7444085773517686
+generalization	artefact	N	1.7444085773517686
+generalization	receptacle	N	1.7444085773517681
+generalization	container	N	1.7444085773517681
+generalization	vessel	N	1.7444085773517681
+generalization	unit	N	1.7444085773517681
+generalization	construction	N	1.7444085773517681
+generalization	kitchen utensil	N	1.7444085773517681
+generalization	utensil	N	1.7444085773517681
+generalization	structure	N	1.7444085773517681
+generalization	package	N	1.7444085773517681
+generalization	food product	N	1.7444085773517681
+generalization	whole	N	1.7444085773517681
+generalization	conduit	N	1.7444085773517681
+generalization	mass unit	N	1.7444085773517681
+generalization	cookware	N	1.7444085773517681
+generalization	food	N	1.7444085773517681
+generalization	tubing	N	1.7444085773517681
+generalization	avoirdupois unit	N	1.7444085773517681
+generalization	sheaf	N	1.7444085773517681
+generalization	passage	N	1.7444085773517681
+generalization	parcel	N	1.7444085773517681
+generalization	tube	N	1.7444085773517681
+generalization	unit of measurement	N	1.7444085773517681
+generalization	framework	N	1.7444085773517681
+generalization	supporting structure	N	1.7444085773517681
+generalization	bundle	N	1.7444085773517681
+generalization	foodstuff	N	1.7444085773517681
+generalization	cooking utensil	N	1.7444085773517681
+generalization	nutrient	N	1.7444085773517681
+generalization	meal	N	1.7444085773517681
+shape	shaped	A	1.6637901171434837
+efficiency	plastic	N	1.4059923596758368
+material	plastic	A	1.2100721497005797
+shape	shaped	V	1.0788276164223272
+content	reusable	A	0.865423978313134
+generalization	bag	N	0.7444085773517681

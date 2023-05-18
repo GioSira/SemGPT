@@ -92,7 +92,10 @@ def get_count_values(category):
                 }
             },{
                 "$group": {
-                    "_id": "$value",
+                    "_id": {
+                        "value": "$value",
+                        "pos": "$pos"
+                    },
                     "count": {
                         "$sum": 1
                     }
@@ -106,7 +109,8 @@ def get_count_values(category):
 
     )
 
-    return [(r['_id'], r['count']) for r in result_freq]
+
+    return [([r['_id']['value'], r['_id']['pos']], r['count']) for r in result_freq]
 
 def get_count_slot_value(category):
 
@@ -122,7 +126,8 @@ def get_count_slot_value(category):
                 "$group": {
                     "_id": {
                         "slot": "$slot",
-                        "value": "$value"
+                        "value": "$value",
+                        "pos": "$pos"
                     },
                     "count": {
                         "$sum": 1
@@ -138,6 +143,6 @@ def get_count_slot_value(category):
 
     )
 
-    return [([r["_id"]["slot"], r["_id"]["value"]], r["count"]) for r in result_freq]
+    return [([r["_id"]["slot"], r["_id"]["value"], r["_id"]["pos"]], r["count"]) for r in result_freq]
 
 

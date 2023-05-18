@@ -1,734 +1,758 @@
-purpose	vision	5.374515691020102
-size	small	0.2985028700549603
-material	unleavened	0.30605253748346867
-material	rye	0.30605253748346867
-material	tasting	0.30605253748346867
-material	yeast	0.30605253748346867
-material	sourdough	0.30605253748346867
-material	salt	0.25708413148611364
-time	autumn	0.21467135951666175
-time	dinner	0.21467135951666175
-time	lunch	0.21467135951666175
-time	April	0.24901877703932762
-time	summer	0.24901877703932762
-time	meal	0.2593945594159663
-material	water	0.2505027411614166
-taste	acid	0.12141398140395455
-taste	cold	0.12706114332971988
-taste	dessert	0.13008640864709417
-taste	sugary	0.13325924788238913
-taste	iced	0.13659072907944886
-taste	fizzy	0.13659072907944886
-taste	soft	0.13659072907944886
-material	milk	0.2261293036313684
-smell	fruity	0.10795101557965114
-smell	spicy	0.11019999507089388
-smell	floral	0.11019999507089388
-smell	cheap	0.11019999507089388
-smell	bitter	0.11019999507089388
-smell	balsamic	0.1125446758170831
-smell	acidic	0.11499129920441101
-smell	aromatic	0.11499129920441101
-smell	tasty	0.11499129920441101
-smell	organic	0.11499129920441101
-smell	elegant	0.11754666140895347
-smell	fresh	0.11754666140895347
-material	wheat	0.20420700769061917
-consistency	firm	0.08906326386085453
-consistency	juicy	0.08906326386085453
-consistency	tart	0.09401122296423534
-consistency	crispy	0.09401122296423534
-consistency	spongy	0.09578501962393789
-consistency	sour	0.09578501962393789
-consistency	rich	0.09578501962393789
-consistency	crisp	0.09762703923209054
-consistency	ripe	0.09762703923209054
-consistency	edible	0.09762703923209054
-consistency	crunchy	0.0875276903460122
-shape	elongated	0.07487388575731212
-shape	long	0.07602579169203999
-shape	circular	0.07721369468722812
-shape	oval	0.07721369468722812
-shape	round	0.07721369468722812
-shape	conical	0.07970445903197741
-shape	thin	0.07970445903197741
-shape	pointed	0.08669607824530877
-taste	sparkling	0.11615873005849521
-material	grape	0.21052786027963846
-user	farmer	0.05791501685414882
-user	adult	0.06784330545771719
-user	wine grower	0.07306202126215698
-user	somellier	0.07306202126215698
-smell	varietal	0.10009866516344149
-accessory	cup	0.058706492058947325
-accessory	barrel	0.058706492058947325
-accessory	barbecue	0.05946891403373885
-accessory	sausage	0.05946891403373885
-accessory	meat	0.05946891403373885
-accessory	oven	0.05946891403373885
-accessory	marmalade	0.061054751741305216
-accessory	cheese	0.06187981595402556
-accessory	macaroni	0.06187981595402556
-accessory	bean	0.06272748466572454
-accessory	pizza	0.06272748466572454
-accessory	extractor	0.06272748466572454
-taste	sweet	0.06442046932558686
-taste	hot	0.1038053293762315
-taste	herbal	0.10886900397995011
-consistency	liquid	0.07114164665413937
-smell	hot	0.08936666173756054
-accessory	butter	0.05479038001735589
-accessory	bottle	0.049567478143513824
-part	stalk	0.03241488127614834
-part	stem	0.03268277285694295
-part	pip	0.03268277285694295
-part	core	0.03380013261273587
-part	flesh	0.03409151306629394
-part	leaf	0.03409151306629394
-part	pulp	0.03409151306629394
-part	husk	0.03438796100600085
-part	fructose	0.03499659748398316
-part	glucose	0.03499659748398316
-part	skin	0.03499659748398316
-part	cucumber	0.03530906710437587
-part	onion	0.03530906710437587
-part	spinach	0.03530906710437587
-part	jacket	0.03530906710437587
-part	sweet corn plant	0.03530906710437587
-part	chou	0.03530906710437587
-part	sugar corn	0.03530906710437587
-part	shell	0.03530906710437587
-part	cheese rind	0.03530906710437587
-part	orange peel	0.03530906710437587
-part	breadstuff	0.03530906710437587
-part	dough	0.03530906710437587
-part	tannin	0.03530906710437587
-part	cabbage	0.03530906710437587
-part	cuke	0.03530906710437587
-part	Zea mays rugosa	0.03530906710437587
-part	Zea saccharata	0.03530906710437587
-part	staff of life	0.03530906710437587
-part	tomato	0.03530906710437587
-part	isothiocyanate	0.03530906710437587
-part	curd	0.03530906710437587
-part	orange rind	0.03530906710437587
-product	cake	0.03274043683020847
-product	sauce	0.03274043683020847
-product	compote	0.03301556655147072
-product	juice	0.03301556655147072
-product	syrup	0.03301556655147072
-product	puree	0.03329535948834759
-product	whiskey	0.033579935210470216
-product	biofuel	0.033579935210470216
-product	cornflake	0.033579935210470216
-product	bioethanol	0.033579935210470216
-product	biodiesel	0.033579935210470216
-product	cob	0.034163934083695786
-product	wine	0.034163934083695786
-product	pie	0.03446361771600891
-product	chowder	0.03446361771600891
-product	gluten	0.03446361771600891
-product	pancake	0.03446361771600891
-product	crumb	0.03446361771600891
-product	tortilla	0.03446361771600891
-colorPattern	yellow	0.02903768945457188
-colorPattern	green	0.03016318129389637
-colorPattern	red	0.03016318129389637
-colorPattern	orange	0.030881352277084377
-colorPattern	yellowish	0.030881352277084377
-colorPattern	brown	0.03189385563043141
-colorPattern	white	0.02665103004734679
-colorPattern	pink	0.03242541989093859
-colorPattern	shiny	0.032975003278920605
-colorPattern	glossy	0.032975003278920605
-place	supermarket	0.026598389894205616
-place	field	0.030158804289492983
-place	underground	0.030158804289492983
-place	garden	0.030158804289492983
-place	France	0.030158804289492983
-place	USA	0.030158804289492983
-place	restaurant	0.030158804289492983
-place	Britain	0.030158804289492983
-place	grocery	0.030398159879092133
-place	plantation	0.03064134515812487
-place	bar	0.030888452780367812
-place	tree	0.031139578412728526
-place	vineyard	0.031139578412728526
-place	store	0.0313948208587345
-place	bakery	0.0313948208587345
-place	shop	0.0313948208587345
-part	seed	0.03128780321262428
-user	greengrocer	0.042602629341365945
-user	fruiterer	0.042602629341365945
-part	root	0.031629009274183474
-colorPattern	rose	0.02976900308376255
-product	cider	0.03088716665240473
-user	cook	0.03882442243073712
-material	fruit	0.13406475426278655
-material	flour	0.13406475426278655
-place	orchard	0.028185747839290322
-product	popcorn	0.030567155294386892
-accessory	rice	0.04709350500786699
-accessory	burger	0.04836630244051204
-accessory	cellar	0.04836630244051204
-accessory	glass	0.04836630244051204
-accessory	cooler	0.04836630244051204
-product	pastry	0.030032606156804892
-product	sandwich	0.030032606156804892
-consistency	sparkling	0.06466006554347319
-product	salad	0.02797920000796547
-product	flour	0.02869521327045645
-product	soup	0.028099915284906383
-product	vinegar	0.028826637231929825
-consistency	sweet	0.04015042355029445
-accessory	soup	0.03838645999841968
-accessory	vinegar	0.03992191839835647
-accessory	bread	0.03992191839835647
-accessory	grape	0.03992191839835647
-accessory	dish	0.03992191839835647
-accessory	corn	0.03992191839835647
-accessory	pasta	0.03992191839835647
-accessory	maize	0.03992191839835647
-howToUse	harvest	0.01238966034581076
-howToUse	cut	0.012494214441555998
-howToUse	eat	0.012600548181484135
-howToUse	boil	0.012654396677986204
-howToUse	stew	0.012654396677986204
-howToUse	slice	0.012708707393342369
-howToUse	pick	0.01287447314195118
-howToUse	bake	0.012987407116880578
-howToUse	roast	0.013044620364091505
-howToUse	grow	0.013044620364091505
-howToUse	wash	0.013044620364091505
-howToUse	press	0.013044620364091505
-howToUse	steam	0.013102339923224654
-howToUse	fry	0.013160572545105652
-howToUse	spiced	0.013160572545105652
-howToUse	grind	0.013219325101110587
-howToUse	knead	0.013219325101110587
-howToUse	caramelize	0.013219325101110587
-howToUse	dip	0.013219325101110587
-howToUse	braise	0.013219325101110587
-howToUse	glaze	0.013278604585868931
-howToUse	sprout	0.013278604585868931
-howToUse	cultivate	0.013278604585868931
-howToUse	taste	0.013278604585868931
-howToUse	melt	0.013278604585868931
-howToUse	break	0.013278604585868931
-howToUse	cream	0.013278604585868931
-howToUse	chop	0.013278604585868931
-howToUse	pickle	0.013338418120039513
-howToUse	crumble	0.013338418120039513
-howToUse	dice	0.013338418120039513
-howToUse	grate	0.013338418120039513
-howToUse	soak	0.013338418120039513
-howToUse	leaven	0.013338418120039513
-howToUse	wilt	0.013338418120039513
-part	sweet corn	0.02614703996185927
-part	green corn	0.02614703996185927
-part	shuck	0.02614703996185927
-product	yield	0.024612205206932903
-product	loaf	0.025468281909782745
-smell	sweet	0.03893821271649583
-howToUse	dry	0.012125394699567194
-place	greengrocer	0.01951840099838351
-place	fruiterer	0.01951840099838351
-place	cellar	0.02300949711191552
-place	glass	0.02300949711191552
-generalization	nutrient	0.010771785194059715
-generalization	drink	0.01111374662879177
-generalization	food	0.010110700904171573
-generalization	vegetable	0.010813375098283883
-generalization	foodstuff	0.010982996668453041
-generalization	food product	0.010982996668453041
-generalization	substance	0.01102623681281703
-generalization	green goods	0.011069818776504054
-generalization	staple food	0.011069818776504054
-generalization	garden truck	0.011069818776504054
-generalization	green groceries	0.011069818776504054
-generalization	produce	0.011069818776504054
-generalization	tracheophyte	0.011158024503806875
-generalization	vascular plant	0.011158024503806875
-generalization	tuber	0.011158024503806875
-generalization	reproductive structure	0.011158024503806875
-generalization	herb	0.011158024503806875
-generalization	herbaceous plant	0.011158024503806875
-generalization	starches	0.011202656601822103
-generalization	fluid	0.011202656601822103
-generalization	plant organ	0.01124764719058444
-generalization	grain	0.01124764719058444
-generalization	matter	0.01124764719058444
-generalization	aliment	0.01124764719058444
-generalization	drug of abuse	0.01124764719058444
-generalization	plant	0.01124764719058444
-generalization	plant life	0.01124764719058444
-generalization	sustenance	0.01124764719058444
-generalization	plant part	0.01124764719058444
-generalization	food grain	0.01124764719058444
-generalization	street drug	0.01124764719058444
-generalization	nourishment	0.01124764719058444
-generalization	alimentation	0.01124764719058444
-generalization	solid	0.01124764719058444
-generalization	plant structure	0.01124764719058444
-generalization	nutrition	0.01124764719058444
-generalization	flora	0.01124764719058444
-generalization	victuals	0.01124764719058444
-generalization	nutriment	0.01124764719058444
-generalization	melon vine	0.011293000606675506
-generalization	gourd vine	0.011293000606675506
-generalization	citrus	0.011293000606675506
-generalization	solanaceous vegetable	0.011293000606675506
-generalization	snack food	0.011293000606675506
-generalization	bulbous plant	0.011293000606675506
-generalization	cruciferous plant	0.011293000606675506
-generalization	graminaceous plant	0.011293000606675506
-generalization	root vegetable	0.011293000606675506
-generalization	dairy product	0.011293000606675506
-generalization	alliaceous plant	0.011293000606675506
-generalization	brew	0.011293000606675506
-generalization	melon	0.011293000606675506
-generalization	baked goods	0.011293000606675506
-generalization	brewage	0.011293000606675506
-generalization	legume	0.011293000606675506
-generalization	citrus fruit	0.011293000606675506
-generalization	vine	0.011293000606675506
-generalization	citrous fruit	0.011293000606675506
-generalization	grass	0.011293000606675506
-generalization	gramineous plant	0.011293000606675506
-generalization	drug	0.011293000606675506
-generalization	crucifer	0.011293000606675506
-generalization	liliaceous plant	0.011293000606675506
-accessory	milk	0.03393561027102489
-accessory	sandwich	0.03393561027102489
-generalization	fruit	0.010150676098894008
-generalization	pome	0.01003015709336653
-generalization	edible fruit	0.009836254188762553
-howToUse	peel	0.01059114999921651
-howToUse	toast	0.010607885365748285
-part	pasta	0.020786429955867904
-part	bread	0.020786429955867904
-part	wheat berry	0.020786429955867904
-product	crop	0.02020594757675741
-product	bread	0.02020594757675741
-product	pasta	0.02020594757675741
-generalization	cereal	0.009115107571989307
-place	grape	0.018106497129390744
-generalization	intoxicant	0.008862806598937479
-generalization	inebriant	0.008862806598937479
-generalization	crop	0.008862806598937479
-generalization	dish	0.008862806598937479
-generalization	alcoholic drink	0.008862806598937479
-generalization	alcoholic beverage	0.008862806598937479
-generalization	maize	0.008862806598937479
-generalization	alcohol	0.008862806598937479
-accessory	salad	0.025538250144103544
-place	bottle	0.01597864542442292
-specialization	oat	0.005023182724598926
-specialization	edible corn	0.005023182724598926
-specialization	malt	0.005023182724598926
-specialization	groats	0.005023182724598926
-specialization	barley	0.005023182724598926
-specialization	barleycorn	0.005023182724598926
-specialization	grist	0.005023182724598926
-specialization	breadstick	0.005023182724598926
-specialization	baguette	0.005023182724598926
-specialization	buckwheat	0.005023182724598926
-specialization	millet	0.005023182724598926
-specialization	ciabatta	0.005023182724598926
-specialization	wild rice	0.005023182724598926
-specialization	brown bread	0.005023182724598926
-specialization	Indian rice	0.005023182724598926
-specialization	coleslaw	0.005035404580376539
-specialization	cambric tea	0.005035404580376539
-specialization	cafe noir	0.005035404580376539
-specialization	hagberry	0.005035404580376539
-specialization	Cheshire cheese	0.005035404580376539
-specialization	bartlett pear	0.005035404580376539
-specialization	Cuban sandwich	0.005035404580376539
-specialization	beach strawberry	0.005035404580376539
-specialization	tabooli	0.005035404580376539
-specialization	goa bean	0.005035404580376539
-specialization	unleavened bread	0.005035404580376539
-specialization	demitasse	0.005035404580376539
-specialization	instant coffee	0.005035404580376539
-specialization	refresher	0.005035404580376539
-specialization	mozzarella	0.005035404580376539
-specialization	spike	0.005035404580376539
-specialization	Chilean strawberry	0.005035404580376539
-specialization	soft drink	0.005035404580376539
-specialization	hominy	0.005035404580376539
-specialization	triple creme	0.005035404580376539
-specialization	English muffin	0.005035404580376539
-specialization	paddy	0.005035404580376539
-specialization	pasta salad	0.005035404580376539
-specialization	brioche	0.005035404580376539
-specialization	drip coffee	0.005035404580376539
-specialization	loaf of bread	0.005035404580376539
-specialization	beefburger	0.005035404580376539
-specialization	acorn	0.005035404580376539
-specialization	Pinot Noir	0.005035404580376539
-specialization	Liederkranz	0.005035404580376539
-specialization	chokecherry	0.005035404580376539
-specialization	mate	0.005035404580376539
-specialization	stone fruit	0.005035404580376539
-specialization	berry	0.005035404580376539
-specialization	french fries	0.005035404580376539
-specialization	coffee cappuccino	0.005035404580376539
-specialization	Italian sandwich	0.005035404580376539
-specialization	Edam	0.005035404580376539
-specialization	cream cheese	0.005035404580376539
-specialization	string cheese	0.005035404580376539
-specialization	potato salad	0.005035404580376539
-specialization	fruit crush	0.005035404580376539
-specialization	slaw	0.005035404580376539
-specialization	cupper	0.005035404580376539
-specialization	seckel pear	0.005035404580376539
-specialization	coffee royal	0.005035404580376539
-specialization	baked potato	0.005035404580376539
-specialization	Turkish coffee	0.005035404580376539
-specialization	garden strawberry	0.005035404580376539
-specialization	macaroni wheat	0.005035404580376539
-specialization	hot dog	0.005035404580376539
-specialization	home fries	0.005035404580376539
-specialization	light bread	0.005035404580376539
-specialization	sweet orange	0.005035404580376539
-specialization	three-decker	0.005035404580376539
-specialization	french-fried potatoes	0.005035404580376539
-specialization	Chardonnay	0.005035404580376539
-specialization	pink wine	0.005035404580376539
-specialization	dessert wine	0.005035404580376539
-specialization	herring salad	0.005035404580376539
-specialization	open sandwich	0.005035404580376539
-specialization	ice coffee	0.005035404580376539
-specialization	common bean	0.005035404580376539
-specialization	hoagie	0.005035404580376539
-specialization	tuna salad	0.005035404580376539
-specialization	wild wheat	0.005035404580376539
-specialization	rose hip	0.005035404580376539
-specialization	Riesling	0.005035404580376539
-specialization	bap	0.005035404580376539
-specialization	generic wine	0.005035404580376539
-specialization	bartlett	0.005035404580376539
-specialization	club sandwich	0.005035404580376539
-specialization	Gouda cheese	0.005035404580376539
-specialization	matzo	0.005035404580376539
-specialization	soy	0.005035404580376539
-specialization	quandong	0.005035404580376539
-specialization	fizz	0.005035404580376539
-specialization	Red Delicious	0.005035404580376539
-specialization	Reuben	0.005035404580376539
-specialization	drupe	0.005035404580376539
-specialization	process cheese	0.005035404580376539
-specialization	polished rice	0.005035404580376539
-specialization	chicken sandwich	0.005035404580376539
-specialization	ale	0.005035404580376539
-specialization	gluten bread	0.005035404580376539
-specialization	Muenster	0.005035404580376539
-specialization	fruit salad	0.005035404580376539
-specialization	cyder	0.005035404580376539
-specialization	crabapple	0.005035404580376539
-specialization	false fruit	0.005035404580376539
-specialization	pseudocarp	0.005035404580376539
-specialization	American cheese	0.005035404580376539
-specialization	salad nicoise	0.005035404580376539
-specialization	dark bread	0.005035404580376539
-specialization	Boston brown bread	0.005035404580376539
-specialization	iced coffee	0.005035404580376539
-specialization	seedpod	0.005035404580376539
-specialization	flatbread	0.005035404580376539
-specialization	mulled wine	0.005035404580376539
-specialization	May apple	0.005035404580376539
-specialization	crouton	0.005035404580376539
-specialization	Host	0.005035404580376539
-specialization	hard wheat	0.005035404580376539
-specialization	yellow berry	0.005035404580376539
-specialization	Fuji	0.005035404580376539
-specialization	mocha	0.005035404580376539
-specialization	Virginia strawberry	0.005035404580376539
-specialization	hallah	0.005035404580376539
-specialization	herb tea	0.005035404580376539
-specialization	pyxis	0.005035404580376539
-specialization	Burgundy wine	0.005035404580376539
-specialization	papaya juice	0.005035404580376539
-specialization	cheddar cheese	0.005035404580376539
-specialization	salmagundi	0.005035404580376539
-specialization	soybean	0.005035404580376539
-specialization	simnel	0.005035404580376539
-specialization	pot cheese	0.005035404580376539
-specialization	juniper berry	0.005035404580376539
-specialization	coffee	0.005035404580376539
-specialization	bitter orange	0.005035404580376539
-specialization	multiple fruit	0.005035404580376539
-specialization	fortified wine	0.005035404580376539
-specialization	hero sandwich	0.005035404580376539
-specialization	Golden Delicious	0.005035404580376539
-specialization	barmbrack	0.005035404580376539
-specialization	lager	0.005035404580376539
-specialization	sparkling wine	0.005035404580376539
-specialization	Gala	0.005035404580376539
-specialization	whole wheat bread	0.005035404580376539
-specialization	cultivated strawberry	0.005035404580376539
-specialization	mixer	0.005035404580376539
-specialization	chips	0.005035404580376539
-specialization	wedge	0.005035404580376539
-specialization	hotdog	0.005035404580376539
-specialization	Fragaria ananassa	0.005035404580376539
-specialization	near beer	0.005035404580376539
-specialization	Limburger	0.005035404580376539
-specialization	cinnamon bread	0.005035404580376539
-specialization	oil nut	0.005035404580376539
-specialization	syncarp	0.005035404580376539
-specialization	triple-decker	0.005035404580376539
-specialization	bosc	0.005035404580376539
-specialization	whole meal bread	0.005035404580376539
-specialization	western	0.005035404580376539
-specialization	poor boy	0.005035404580376539
-specialization	Sloppy Joe	0.005035404580376539
-specialization	zep	0.005035404580376539
-specialization	cheddar	0.005035404580376539
-specialization	crab Louis	0.005035404580376539
-specialization	wish-wash	0.005035404580376539
-specialization	macon	0.005035404580376539
-specialization	tuna fish salad	0.005035404580376539
-specialization	white bread	0.005035404580376539
-specialization	anadama bread	0.005035404580376539
-specialization	roll	0.005035404580376539
-specialization	durum wheat	0.005035404580376539
-specialization	raisin bread	0.005035404580376539
-specialization	vintage	0.005035404580376539
-specialization	fries	0.005035404580376539
-specialization	table wine	0.005035404580376539
-specialization	Fragaria chiloensis	0.005035404580376539
-specialization	cuppa	0.005035404580376539
-specialization	BLT	0.005035404580376539
-specialization	common wheat	0.005035404580376539
-specialization	cocoa	0.005035404580376539
-specialization	cafe au lait	0.005035404580376539
-specialization	soya bean	0.005035404580376539
-specialization	elk nut	0.005035404580376539
-specialization	eating apple	0.005035404580376539
-specialization	Bordeaux wine	0.005035404580376539
-specialization	quick bread	0.005035404580376539
-specialization	capitulum	0.005035404580376539
-specialization	tabbouleh	0.005035404580376539
-specialization	Uruguay potato	0.005035404580376539
-specialization	aggregate fruit	0.005035404580376539
-specialization	submarine sandwich	0.005035404580376539
-specialization	Cabernet Sauvignon	0.005035404580376539
-specialization	anjou	0.005035404580376539
-specialization	Triticum turgidum	0.005035404580376539
-specialization	caraway seed bread	0.005035404580376539
-specialization	matzah	0.005035404580376539
-specialization	emmer	0.005035404580376539
-specialization	dessert apple	0.005035404580376539
-specialization	soya	0.005035404580376539
-specialization	home-fried potatoes	0.005035404580376539
-specialization	farm cheese	0.005035404580376539
-specialization	mashed potato	0.005035404580376539
-specialization	California wine	0.005035404580376539
-specialization	ginger beer	0.005035404580376539
-specialization	jug wine	0.005035404580376539
-specialization	wild cherry	0.005035404580376539
-specialization	fruit juice	0.005035404580376539
-specialization	cottage cheese	0.005035404580376539
-specialization	Armerican cheddar	0.005035404580376539
-specialization	Seville orange	0.005035404580376539
-specialization	durum	0.005035404580376539
-specialization	wild emmer	0.005035404580376539
-specialization	tea	0.005035404580376539
-specialization	quark cheese	0.005035404580376539
-specialization	challah	0.005035404580376539
-specialization	sour bread	0.005035404580376539
-specialization	rose wine	0.005035404580376539
-specialization	draft beer	0.005035404580376539
-specialization	Tokay	0.005035404580376539
-specialization	schizocarp	0.005035404580376539
-specialization	grated cheese	0.005035404580376539
-specialization	matzoh	0.005035404580376539
-specialization	wrap	0.005035404580376539
-specialization	ear	0.005035404580376539
-specialization	blue fig	0.005035404580376539
-specialization	oenomel	0.005035404580376539
-specialization	garlic bread	0.005035404580376539
-specialization	lager beer	0.005035404580376539
-specialization	chocolate	0.005035404580376539
-specialization	open-face sandwich	0.005035404580376539
-specialization	cappuccino coffee	0.005035404580376539
-specialization	retsina	0.005035404580376539
-specialization	wood strawberry	0.005035404580376539
-specialization	pretzel	0.005035404580376539
-specialization	ice tea	0.005035404580376539
-specialization	buffalo nut	0.005035404580376539
-specialization	brick cheese	0.005035404580376539
-specialization	double Gloucester	0.005035404580376539
-specialization	blue cheese	0.005035404580376539
-specialization	two-grain spelt	0.005035404580376539
-specialization	tea-like drink	0.005035404580376539
-specialization	vermouth	0.005035404580376539
-specialization	red wine	0.005035404580376539
-specialization	smoothie	0.005035404580376539
-specialization	western sandwich	0.005035404580376539
-specialization	hero	0.005035404580376539
-specialization	drinking water	0.005035404580376539
-specialization	goat cheese	0.005035404580376539
-specialization	grinder	0.005035404580376539
-specialization	hip	0.005035404580376539
-specialization	rowanberry	0.005035404580376539
-specialization	tunaburger	0.005035404580376539
-specialization	sourdough bread	0.005035404580376539
-specialization	white wine	0.005035404580376539
-specialization	cappuccino	0.005035404580376539
-specialization	tossed salad	0.005035404580376539
-specialization	gyro	0.005035404580376539
-specialization	lime juice	0.005035404580376539
-specialization	achene	0.005035404580376539
-specialization	suds	0.005035404580376539
-specialization	generic	0.005035404580376539
-specialization	hand cheese	0.005035404580376539
-specialization	Velveeta	0.005035404580376539
-specialization	quark	0.005035404580376539
-specialization	chicken salad	0.005035404580376539
-specialization	spelt	0.005035404580376539
-specialization	pan gravy	0.005035404580376539
-specialization	Triticum dicoccum	0.005035404580376539
-specialization	molded salad	0.005035404580376539
-specialization	triple cream	0.005035404580376539
-specialization	sub	0.005035404580376539
-specialization	nan	0.005035404580376539
-specialization	scarlet strawberry	0.005035404580376539
-specialization	white rice	0.005035404580376539
-specialization	Triticum dicoccum dicoccoides	0.005035404580376539
-specialization	sun tea	0.005035404580376539
-specialization	hoagy	0.005035404580376539
-specialization	blush wine	0.005035404580376539
-specialization	pod	0.005035404580376539
-specialization	salt-rising bread	0.005035404580376539
-specialization	hot chocolate	0.005035404580376539
-specialization	java	0.005035404580376539
-specialization	Triticum spelta	0.005035404580376539
-specialization	sacramental wine	0.005035404580376539
-specialization	Burgundy	0.005035404580376539
-specialization	Triticum aestivum	0.005035404580376539
-specialization	hamburger	0.005035404580376539
-specialization	processed cheese	0.005035404580376539
-specialization	iced tea	0.005035404580376539
-specialization	maconnais	0.005035404580376539
-specialization	lemon juice	0.005035404580376539
-specialization	tomato juice	0.005035404580376539
-specialization	butty	0.005035404580376539
-specialization	fruitlet	0.005035404580376539
-specialization	torpedo	0.005035404580376539
-specialization	decaf	0.005035404580376539
-specialization	crab apple	0.005035404580376539
-specialization	varietal wine	0.005035404580376539
-specialization	herbal tea	0.005035404580376539
-specialization	olive	0.005035404580376539
-specialization	Cripps Pink	0.005035404580376539
-specialization	onion bread	0.005035404580376539
-specialization	Triticum aestivum spelta	0.005035404580376539
-specialization	submarine	0.005035404580376539
-specialization	rosehip	0.005035404580376539
-specialization	Cotes de Provence	0.005035404580376539
-specialization	draught beer	0.005035404580376539
-specialization	temple orange	0.005035404580376539
-specialization	Merlot	0.005035404580376539
-specialization	Gouda	0.005035404580376539
-specialization	Sauvignon Blanc	0.005035404580376539
-specialization	brown rice	0.005035404580376539
-specialization	drinking chocolate	0.005035404580376539
-specialization	espresso	0.005035404580376539
-specialization	potion	0.005035404580376539
-specialization	bleu	0.005035404580376539
-specialization	Fragaria virginiana	0.005035404580376539
-specialization	cubeb	0.005035404580376539
-specialization	ricotta	0.005035404580376539
-specialization	Triticum durum	0.005035404580376539
-specialization	V-8 juice	0.005035404580376539
-specialization	accessory fruit	0.005035404580376539
-specialization	sour orange	0.005035404580376539
-specialization	soft wheat	0.005035404580376539
-specialization	starch wheat	0.005035404580376539
-specialization	altar wine	0.005035404580376539
-specialization	rye bread	0.005035404580376539
-specialization	naan	0.005035404580376539
-specialization	Parmesan	0.005035404580376539
-specialization	marasca	0.005035404580376539
-specialization	carrot juice	0.005035404580376539
-specialization	buckthorn berry	0.005035404580376539
-specialization	hydromel	0.005035404580376539
-specialization	Irish coffee	0.005035404580376539
-specialization	Honeycrisp	0.005035404580376539
-specialization	Brie	0.005035404580376539
-specialization	wafer	0.005035404580376539
-specialization	cooking apple	0.005035404580376539
-specialization	Swiss cheese	0.005035404580376539
-specialization	Rhone wine	0.005035404580376539
-specialization	wild strawberry	0.005035404580376539
-specialization	cafe royale	0.005035404580376539
-specialization	cracked-wheat bread	0.005035404580376539
-specialization	cracker	0.005035404580376539
-specialization	plonk	0.005035404580376539
-specialization	Bordeaux	0.005035404580376539
-specialization	Camembert	0.005035404580376539
-specialization	bomber	0.005035404580376539
-specialization	bun	0.005035404580376539
-specialization	gravy	0.005035404580376539
-specialization	ham sandwich	0.005035404580376539
-specialization	prairie gourd	0.005035404580376539
-specialization	red hot	0.005035404580376539
-specialization	pyxidium	0.005035404580376539
-specialization	bacon-lettuce-tomato sandwich	0.005035404580376539
-specialization	fruit drink	0.005035404580376539
-specialization	ade	0.005035404580376539
-specialization	decaffeinated coffee	0.005035404580376539
-specialization	coffee substitute	0.005035404580376539
-specialization	Granny Smith	0.005035404580376539
-specialization	chevre	0.005035404580376539
-specialization	seckel	0.005035404580376539
-specialization	mocha coffee	0.005035404580376539
-specialization	farmer's cheese	0.005035404580376539
-specialization	Fragaria vesca	0.005035404580376539
-specialization	Dubonnet	0.005035404580376539
-howToUse	cook	0.008184216043985072
-howToUse	yield	0.008639334020479172
-howToUse	shuck	0.008794299653133506
-part	pastry	0.01699665665817476
-part	water	0.01699665665817476
-generalization	gourd	0.007231582933556328
-accessory	cereal	0.022427233652408698
-part	peel	0.013493284469444092
-product	wheat	0.013618002752014012
-specialization	wheat berry	0.0035946459608077515
-specialization	corn	0.0035946459608077515
-generalization	liquid	0.0057538367920940215
-consistency	dry	0.017722961279699842
-part	flour	0.0097225474036652
-product	cereal	0.00934581247972843
-product	orchard	0.00934581247972843
-specialization	rice	0.0025834572041902363
-specialization	burger	0.002595998258579509
-specialization	cooler	0.002595998258579509
-specialization	sweet corn	0.002595998258579509
-specialization	loaf	0.002595998258579509
-specialization	green corn	0.002595998258579509
-specialization	herbal	0.002595998258579509
-specialization	gourd	0.002595998258579509
-howToUse	butter	0.004271683656216763
-specialization	wheat	0.0018015016569816744
-product	peel	0.004934344103558157
-specialization	alcoholic drink	0.0011733384547544827
-specialization	toast	0.0011733384547544827
-specialization	inebriant	0.0011733384547544827
-specialization	varietal	0.0011733384547544827
-specialization	alcohol	0.0011733384547544827
-specialization	alcoholic beverage	0.0011733384547544827
-specialization	intoxicant	0.0011733384547544827
-place	salad	0.0028086100464266026
-specialization	milk	0.00016799826699216835
-generalization	root	-2.634162048062335e-05
-specialization	popcorn	-0.000608136897235193
-specialization	edible fruit	-0.000608136897235193
-specialization	pome	-0.0012389692744865356
-specialization	cider	-0.0017693132842274497
-specialization	rose	-0.0026261902599225653
-specialization	seed	-0.003301378470552351
+purpose	vision	N	5.374515691020102
+size	small	A	0.2985028700549603
+material	unleavened	A	0.30605253748346867
+material	yeast	N	0.30605253748346867
+material	sourdough	N	0.30605253748346867
+material	tasting	V	0.30605253748346867
+material	rye	N	0.30605253748346867
+material	salt	N	0.25708413148611364
+time	lunch	N	0.21467135951666175
+time	autumn	N	0.21467135951666175
+time	dinner	N	0.21467135951666175
+time	summer	N	0.24901877703932762
+time	April	N	0.24901877703932762
+time	meal	N	0.2593945594159663
+material	water	N	0.2505027411614166
+taste	acid	A	0.12141398140395455
+taste	cold	A	0.12706114332971988
+taste	dessert	N	0.13008640864709417
+taste	sparkling	V	0.13325924788238913
+taste	sugary	A	0.13325924788238913
+taste	iced	A	0.13659072907944886
+taste	herbal	A	0.13659072907944886
+taste	soft	A	0.13659072907944886
+taste	fizzy	A	0.13659072907944886
+material	milk	N	0.2261293036313684
+smell	fruity	A	0.10795101557965114
+smell	spicy	A	0.11019999507089388
+smell	cheap	A	0.11019999507089388
+smell	bitter	A	0.11019999507089388
+smell	floral	A	0.11019999507089388
+smell	balsamic	A	0.1125446758170831
+smell	acidic	A	0.11499129920441101
+smell	aromatic	A	0.11499129920441101
+smell	tasty	A	0.11499129920441101
+smell	organic	A	0.11499129920441101
+smell	varietal	A	0.11754666140895347
+smell	fresh	A	0.11754666140895347
+smell	elegant	A	0.11754666140895347
+material	wheat	N	0.20420700769061917
+consistency	firm	A	0.08906326386085453
+consistency	liquid	A	0.08906326386085453
+consistency	tart	A	0.09401122296423534
+consistency	crispy	A	0.09401122296423534
+consistency	rich	A	0.09578501962393789
+consistency	sour	A	0.09578501962393789
+consistency	spongy	A	0.09578501962393789
+consistency	crisp	A	0.09762703923209054
+consistency	sparkling	A	0.09762703923209054
+consistency	ripe	A	0.09762703923209054
+consistency	juicy	N	0.09762703923209054
+consistency	edible	A	0.09762703923209054
+consistency	crunchy	A	0.0875276903460122
+consistency	juicy	A	0.09065367928694121
+shape	elongated	A	0.07487388575731212
+shape	long	A	0.07602579169203999
+shape	round	A	0.07721369468722812
+shape	circular	A	0.07721369468722812
+shape	conical	A	0.07970445903197741
+shape	thin	A	0.07970445903197741
+shape	oval	A	0.08236127433304333
+shape	oval	N	0.08236127433304333
+shape	pointed	A	0.08669607824530877
+material	grape	N	0.21052786027963846
+user	farmer	N	0.05791501685414882
+user	cook	N	0.06088501771846415
+user	adult	N	0.06784330545771719
+user	wine grower	N	0.07306202126215698
+user	somellier	N	0.07306202126215698
+accessory	barrel	N	0.058706492058947325
+accessory	cup	N	0.058706492058947325
+accessory	barbecue	N	0.05946891403373885
+accessory	meat	N	0.05946891403373885
+accessory	oven	N	0.05946891403373885
+accessory	sausage	N	0.05946891403373885
+accessory	marmalade	N	0.061054751741305216
+accessory	macaroni	N	0.06187981595402556
+accessory	cheese	N	0.06187981595402556
+accessory	extractor	N	0.06272748466572454
+accessory	bean	N	0.06272748466572454
+accessory	pizza	N	0.06272748466572454
+taste	sweet	A	0.06442046932558686
+taste	hot	A	0.1038053293762315
+smell	hot	A	0.08936666173756054
+smell	varietal	N	0.0932521687696284
+accessory	bottle	N	0.05205086101648809
+accessory	butter	N	0.05479038001735589
+part	stalk	N	0.03241488127614834
+part	stem	N	0.03268277285694295
+part	pip	N	0.03268277285694295
+part	core	N	0.03380013261273587
+part	leaf	N	0.03409151306629394
+part	flesh	N	0.03409151306629394
+part	pulp	N	0.03409151306629394
+part	husk	N	0.03438796100600085
+part	fructose	N	0.03499659748398316
+part	skin	N	0.03499659748398316
+part	glucose	N	0.03499659748398316
+part	onion	N	0.03530906710437587
+part	cucumber	N	0.03530906710437587
+part	breadstuff	N	0.03530906710437587
+part	cuke	N	0.03530906710437587
+part	isothiocyanate	N	0.03530906710437587
+part	cheese rind	N	0.03530906710437587
+part	dough	N	0.03530906710437587
+part	shell	V	0.03530906710437587
+part	jacket	N	0.03530906710437587
+part	curd	N	0.03530906710437587
+part	cabbage	N	0.03530906710437587
+part	sweet corn plant	N	0.03530906710437587
+part	Zea saccharata	N	0.03530906710437587
+part	tomato	N	0.03530906710437587
+part	spinach	N	0.03530906710437587
+part	sugar corn	N	0.03530906710437587
+part	Zea mays rugosa	N	0.03530906710437587
+part	staff of life	N	0.03530906710437587
+part	orange rind	N	0.03530906710437587
+part	orange peel	N	0.03530906710437587
+part	chou	N	0.03530906710437587
+part	tannin	N	0.03530906710437587
+product	sauce	N	0.03274043683020847
+product	cake	N	0.03274043683020847
+product	syrup	N	0.03301556655147072
+product	compote	N	0.03301556655147072
+product	juice	N	0.03301556655147072
+product	puree	N	0.03329535948834759
+product	cornflake	N	0.033579935210470216
+product	whiskey	N	0.033579935210470216
+product	biodiesel	N	0.033579935210470216
+product	biofuel	N	0.033579935210470216
+product	bioethanol	N	0.033579935210470216
+product	wine	N	0.034163934083695786
+product	cob	N	0.034163934083695786
+product	pie	N	0.03446361771600891
+product	chowder	N	0.03446361771600891
+product	gluten	N	0.03446361771600891
+product	tortilla	N	0.03446361771600891
+product	crumb	N	0.03446361771600891
+product	pancake	N	0.03446361771600891
+colorPattern	yellow	A	0.031128403095301054
+colorPattern	yellow	N	0.031128403095301054
+colorPattern	red	N	0.03189385563043141
+colorPattern	yellowish	A	0.03215744121415398
+colorPattern	orange	N	0.03215744121415398
+colorPattern	yellowish	N	0.03215744121415398
+colorPattern	green	N	0.03215744121415398
+colorPattern	orange	A	0.03215744121415398
+colorPattern	brown	A	0.032697902411030516
+colorPattern	brown	N	0.032697902411030516
+colorPattern	white	A	0.029702674709256728
+colorPattern	white	N	0.029702674709256728
+colorPattern	green	A	0.03137943860413412
+colorPattern	red	A	0.0316345559911596
+colorPattern	rose	A	0.03242541989093859
+colorPattern	glossy	A	0.032975003278920605
+colorPattern	pink	N	0.032975003278920605
+colorPattern	pink	A	0.032975003278920605
+colorPattern	shiny	A	0.032975003278920605
+place	supermarket	N	0.026598389894205616
+place	field	N	0.030158804289492983
+place	USA	N	0.030158804289492983
+place	underground	R	0.030158804289492983
+place	Britain	N	0.030158804289492983
+place	restaurant	N	0.030158804289492983
+place	garden	N	0.030158804289492983
+place	France	N	0.030158804289492983
+place	grocery	N	0.030398159879092133
+place	plantation	N	0.03064134515812487
+place	bar	N	0.030888452780367812
+place	tree	N	0.031139578412728526
+place	vineyard	N	0.031139578412728526
+place	store	N	0.0313948208587345
+place	shop	N	0.0313948208587345
+place	bakery	N	0.0313948208587345
+part	seed	N	0.03128780321262428
+user	fruiterer	N	0.042602629341365945
+user	greengrocer	N	0.042602629341365945
+part	root	N	0.031629009274183474
+product	cider	N	0.03088716665240473
+material	fruit	N	0.13406475426278655
+material	flour	N	0.13406475426278655
+place	orchard	N	0.028185747839290322
+product	popcorn	N	0.030567155294386892
+accessory	rice	N	0.04709350500786699
+accessory	burger	N	0.04836630244051204
+accessory	cellar	N	0.04836630244051204
+accessory	cooler	N	0.04836630244051204
+accessory	bottle	V	0.04836630244051204
+accessory	glass	N	0.04836630244051204
+colorPattern	rose	N	0.029496878446489825
+product	pastry	N	0.030032606156804892
+product	sandwich	N	0.030032606156804892
+product	salad	N	0.02797920000796547
+product	flour	N	0.02869521327045645
+product	soup	N	0.028099915284906383
+product	vinegar	N	0.028826637231929825
+consistency	sweet	A	0.04015042355029445
+accessory	soup	N	0.03838645999841968
+accessory	bread	N	0.03992191839835647
+accessory	maize	N	0.03992191839835647
+accessory	vinegar	N	0.03992191839835647
+accessory	dish	N	0.03992191839835647
+accessory	pasta	N	0.03992191839835647
+accessory	corn	N	0.03992191839835647
+accessory	grape	N	0.03992191839835647
+howToUse	cut	V	0.012494214441555998
+howToUse	cook	V	0.012494214441555998
+howToUse	eat	V	0.012600548181484135
+howToUse	stew	V	0.012654396677986204
+howToUse	boil	V	0.012654396677986204
+howToUse	slice	N	0.012763486304520568
+howToUse	harvest	V	0.012763486304520568
+howToUse	pick	V	0.01287447314195118
+howToUse	dry	V	0.01287447314195118
+howToUse	bake	V	0.012987407116880578
+howToUse	harvest	N	0.012987407116880578
+howToUse	press	V	0.013044620364091505
+howToUse	roast	V	0.013044620364091505
+howToUse	wash	V	0.013044620364091505
+howToUse	grow	V	0.013044620364091505
+howToUse	spiced	V	0.013160572545105652
+howToUse	peel	V	0.013160572545105652
+howToUse	fry	V	0.013160572545105652
+howToUse	steam	V	0.013160572545105652
+howToUse	grind	V	0.013219325101110587
+howToUse	knead	N	0.013219325101110587
+howToUse	braise	V	0.013219325101110587
+howToUse	caramelize	V	0.013219325101110587
+howToUse	sprout	V	0.013278604585868931
+howToUse	dip	N	0.013278604585868931
+howToUse	cream	N	0.013278604585868931
+howToUse	melt	V	0.013278604585868931
+howToUse	chop	V	0.013278604585868931
+howToUse	cultivate	V	0.013278604585868931
+howToUse	glaze	V	0.013278604585868931
+howToUse	break	V	0.013278604585868931
+howToUse	taste	V	0.013338418120039513
+howToUse	crumble	V	0.013338418120039513
+howToUse	grate	V	0.013338418120039513
+howToUse	soak	V	0.013338418120039513
+howToUse	leaven	V	0.013338418120039513
+howToUse	taste	N	0.013338418120039513
+howToUse	dip	V	0.013338418120039513
+howToUse	dice	N	0.013338418120039513
+howToUse	steam	N	0.013338418120039513
+howToUse	pickle	N	0.013338418120039513
+howToUse	slice	V	0.013338418120039513
+howToUse	toast	V	0.013338418120039513
+howToUse	wilt	N	0.013338418120039513
+part	green corn	N	0.02614703996185927
+part	sweet corn	N	0.02614703996185927
+part	shuck	V	0.02614703996185927
+product	yield	N	0.02503292666346167
+product	yield	V	0.025468281909782745
+product	loaf	N	0.025468281909782745
+smell	sweet	A	0.03893821271649583
+place	fruiterer	N	0.01951840099838351
+place	greengrocer	N	0.01951840099838351
+place	cellar	N	0.02300949711191552
+place	glass	N	0.02300949711191552
+place	bottle	V	0.02300949711191552
+generalization	nutrient	N	0.010771785194059715
+generalization	drink	N	0.01111374662879177
+generalization	food	N	0.010110700904171573
+generalization	vegetable	N	0.010813375098283883
+generalization	foodstuff	N	0.010982996668453041
+generalization	food product	N	0.010982996668453041
+generalization	substance	N	0.01102623681281703
+generalization	garden truck	N	0.011069818776504054
+generalization	green groceries	N	0.011069818776504054
+generalization	staple food	N	0.011069818776504054
+generalization	green goods	N	0.011069818776504054
+generalization	produce	N	0.011069818776504054
+generalization	vascular plant	N	0.011158024503806875
+generalization	herb	N	0.011158024503806875
+generalization	tuber	N	0.011158024503806875
+generalization	herbaceous plant	N	0.011158024503806875
+generalization	tracheophyte	N	0.011158024503806875
+generalization	reproductive structure	N	0.011158024503806875
+generalization	liquid	N	0.011158024503806875
+generalization	fluid	N	0.011202656601822103
+generalization	starches	N	0.011202656601822103
+generalization	alimentation	N	0.01124764719058444
+generalization	sustenance	N	0.01124764719058444
+generalization	drug of abuse	N	0.01124764719058444
+generalization	plant life	N	0.01124764719058444
+generalization	nutrition	N	0.01124764719058444
+generalization	plant structure	N	0.01124764719058444
+generalization	nourishment	N	0.01124764719058444
+generalization	plant organ	N	0.01124764719058444
+generalization	plant	N	0.01124764719058444
+generalization	plant part	N	0.01124764719058444
+generalization	victuals	N	0.01124764719058444
+generalization	solid	N	0.01124764719058444
+generalization	grain	N	0.01124764719058444
+generalization	flora	N	0.01124764719058444
+generalization	matter	N	0.01124764719058444
+generalization	food grain	N	0.01124764719058444
+generalization	nutriment	N	0.01124764719058444
+generalization	aliment	N	0.01124764719058444
+generalization	street drug	N	0.01124764719058444
+generalization	gramineous plant	N	0.011293000606675506
+generalization	baked goods	N	0.011293000606675506
+generalization	grass	N	0.011293000606675506
+generalization	drug	N	0.011293000606675506
+generalization	bulbous plant	N	0.011293000606675506
+generalization	crucifer	N	0.011293000606675506
+generalization	melon vine	N	0.011293000606675506
+generalization	vine	N	0.011293000606675506
+generalization	cruciferous plant	N	0.011293000606675506
+generalization	brew	N	0.011293000606675506
+generalization	gourd vine	N	0.011293000606675506
+generalization	dairy product	N	0.011293000606675506
+generalization	citrus fruit	N	0.011293000606675506
+generalization	solanaceous vegetable	N	0.011293000606675506
+generalization	legume	N	0.011293000606675506
+generalization	melon	N	0.011293000606675506
+generalization	graminaceous plant	N	0.011293000606675506
+generalization	liliaceous plant	N	0.011293000606675506
+generalization	alliaceous plant	N	0.011293000606675506
+generalization	citrus	N	0.011293000606675506
+generalization	brewage	N	0.011293000606675506
+generalization	citrous fruit	N	0.011293000606675506
+generalization	snack food	N	0.011293000606675506
+generalization	root vegetable	N	0.011293000606675506
+howToUse	dry	A	0.01188587848817171
+accessory	milk	N	0.03393561027102489
+accessory	sandwich	N	0.03393561027102489
+generalization	fruit	N	0.010150676098894008
+generalization	pome	N	0.01003015709336653
+consistency	dry	A	0.04371304454995705
+generalization	edible fruit	N	0.009836254188762553
+part	peel	N	0.02025344457238411
+part	pasta	N	0.020786429955867904
+part	bread	N	0.020786429955867904
+part	wheat berry	N	0.020786429955867904
+product	pasta	N	0.02020594757675741
+product	bread	N	0.02020594757675741
+product	crop	N	0.02020594757675741
+generalization	cereal	N	0.009115107571989307
+place	grape	N	0.018106497129390744
+generalization	dish	N	0.008862806598937479
+generalization	crop	N	0.008862806598937479
+generalization	alcoholic drink	N	0.008862806598937479
+generalization	alcohol	N	0.008862806598937479
+generalization	intoxicant	N	0.008862806598937479
+generalization	alcoholic beverage	N	0.008862806598937479
+generalization	inebriant	N	0.008862806598937479
+generalization	maize	N	0.008862806598937479
+accessory	salad	N	0.025538250144103544
+specialization	edible corn	N	0.005023182724598926
+specialization	breadstick	N	0.005023182724598926
+specialization	oat	N	0.005023182724598926
+specialization	buckwheat	N	0.005023182724598926
+specialization	Indian rice	N	0.005023182724598926
+specialization	brown bread	N	0.005023182724598926
+specialization	barleycorn	N	0.005023182724598926
+specialization	ciabatta	N	0.005023182724598926
+specialization	baguette	N	0.005023182724598926
+specialization	groats	N	0.005023182724598926
+specialization	wild rice	N	0.005023182724598926
+specialization	millet	N	0.005023182724598926
+specialization	grist	N	0.005023182724598926
+specialization	malt	N	0.005023182724598926
+specialization	barley	N	0.005023182724598926
+specialization	brown rice	N	0.005035404580376539
+specialization	decaf	N	0.005035404580376539
+specialization	cafe au lait	N	0.005035404580376539
+specialization	bleu	N	0.005035404580376539
+specialization	quandong	N	0.005035404580376539
+specialization	seckel pear	N	0.005035404580376539
+specialization	club sandwich	N	0.005035404580376539
+specialization	wish-wash	N	0.005035404580376539
+specialization	Burgundy	N	0.005035404580376539
+specialization	emmer	N	0.005035404580376539
+specialization	gyro	N	0.005035404580376539
+specialization	dessert wine	N	0.005035404580376539
+specialization	ricotta	N	0.005035404580376539
+specialization	rowanberry	N	0.005035404580376539
+specialization	Reuben	N	0.005035404580376539
+specialization	tuna fish salad	N	0.005035404580376539
+specialization	Turkish coffee	N	0.005035404580376539
+specialization	tabooli	N	0.005035404580376539
+specialization	Triticum dicoccum	N	0.005035404580376539
+specialization	cappuccino coffee	N	0.005035404580376539
+specialization	Burgundy wine	N	0.005035404580376539
+specialization	three-decker	N	0.005035404580376539
+specialization	Boston brown bread	N	0.005035404580376539
+specialization	western sandwich	N	0.005035404580376539
+specialization	Liederkranz	N	0.005035404580376539
+specialization	maconnais	N	0.005035404580376539
+specialization	hand cheese	N	0.005035404580376539
+specialization	fizz	N	0.005035404580376539
+specialization	unleavened bread	N	0.005035404580376539
+specialization	Cheshire cheese	N	0.005035404580376539
+specialization	hagberry	N	0.005035404580376539
+specialization	wild cherry	N	0.005035404580376539
+specialization	double Gloucester	N	0.005035404580376539
+specialization	soy	N	0.005035404580376539
+specialization	baked potato	N	0.005035404580376539
+specialization	coffee cappuccino	N	0.005035404580376539
+specialization	naan	N	0.005035404580376539
+specialization	tunaburger	N	0.005035404580376539
+specialization	anjou	N	0.005035404580376539
+specialization	slaw	N	0.005035404580376539
+specialization	cheddar	N	0.005035404580376539
+specialization	submarine	N	0.005035404580376539
+specialization	hoagy	N	0.005035404580376539
+specialization	whole meal bread	N	0.005035404580376539
+specialization	plonk	N	0.005035404580376539
+specialization	coffee substitute	N	0.005035404580376539
+specialization	bacon-lettuce-tomato sandwich	N	0.005035404580376539
+specialization	cultivated strawberry	N	0.005035404580376539
+specialization	java	N	0.005035404580376539
+specialization	nan	N	0.005035404580376539
+specialization	crab apple	N	0.005035404580376539
+specialization	Riesling	N	0.005035404580376539
+specialization	California wine	N	0.005035404580376539
+specialization	eating apple	N	0.005035404580376539
+specialization	cocoa	N	0.005035404580376539
+specialization	yellow berry	N	0.005035404580376539
+specialization	lager	N	0.005035404580376539
+specialization	Sloppy Joe	N	0.005035404580376539
+specialization	instant coffee	N	0.005035404580376539
+specialization	Host	N	0.005035404580376539
+specialization	raisin bread	N	0.005035404580376539
+specialization	quick bread	N	0.005035404580376539
+specialization	generic	N	0.005035404580376539
+specialization	ice tea	N	0.005035404580376539
+specialization	juniper berry	N	0.005035404580376539
+specialization	salt-rising bread	N	0.005035404580376539
+specialization	hot dog	N	0.005035404580376539
+specialization	goa bean	N	0.005035404580376539
+specialization	tea-like drink	N	0.005035404580376539
+specialization	farmer's cheese	N	0.005035404580376539
+specialization	rye bread	N	0.005035404580376539
+specialization	soya bean	N	0.005035404580376539
+specialization	V-8 juice	N	0.005035404580376539
+specialization	bun	N	0.005035404580376539
+specialization	white rice	N	0.005035404580376539
+specialization	fruit salad	N	0.005035404580376539
+specialization	loaf of bread	N	0.005035404580376539
+specialization	aggregate fruit	N	0.005035404580376539
+specialization	mashed potato	N	0.005035404580376539
+specialization	poor boy	N	0.005035404580376539
+specialization	Irish coffee	N	0.005035404580376539
+specialization	false fruit	N	0.005035404580376539
+specialization	herbal	N	0.005035404580376539
+specialization	Fragaria virginiana	N	0.005035404580376539
+specialization	macaroni wheat	N	0.005035404580376539
+specialization	coffee	N	0.005035404580376539
+specialization	cracked-wheat bread	N	0.005035404580376539
+specialization	onion bread	N	0.005035404580376539
+specialization	seedpod	N	0.005035404580376539
+specialization	brick cheese	N	0.005035404580376539
+specialization	Chilean strawberry	N	0.005035404580376539
+specialization	oil nut	N	0.005035404580376539
+specialization	paddy	N	0.005035404580376539
+specialization	Gouda	N	0.005035404580376539
+specialization	fruit drink	N	0.005035404580376539
+specialization	wedge	N	0.005035404580376539
+specialization	bartlett	N	0.005035404580376539
+specialization	American cheese	N	0.005035404580376539
+specialization	Bordeaux wine	N	0.005035404580376539
+specialization	coleslaw	N	0.005035404580376539
+specialization	sweet orange	N	0.005035404580376539
+specialization	roll	N	0.005035404580376539
+specialization	hallah	N	0.005035404580376539
+specialization	Sauvignon Blanc	N	0.005035404580376539
+specialization	cupper	N	0.005035404580376539
+specialization	marasca	N	0.005035404580376539
+specialization	retsina	N	0.005035404580376539
+specialization	tuna salad	N	0.005035404580376539
+specialization	Cuban sandwich	N	0.005035404580376539
+specialization	Triticum durum	N	0.005035404580376539
+specialization	buffalo nut	N	0.005035404580376539
+specialization	herb tea	N	0.005035404580376539
+specialization	temple orange	N	0.005035404580376539
+specialization	rose wine	N	0.005035404580376539
+specialization	wafer	N	0.005035404580376539
+specialization	wild emmer	N	0.005035404580376539
+specialization	rosehip	N	0.005035404580376539
+specialization	Triticum spelta	N	0.005035404580376539
+specialization	sour bread	N	0.005035404580376539
+specialization	cubeb	N	0.005035404580376539
+specialization	chevre	N	0.005035404580376539
+specialization	Gala	N	0.005035404580376539
+specialization	jug wine	N	0.005035404580376539
+specialization	common wheat	N	0.005035404580376539
+specialization	barmbrack	N	0.005035404580376539
+specialization	blue fig	N	0.005035404580376539
+specialization	bartlett pear	N	0.005035404580376539
+specialization	drupe	N	0.005035404580376539
+specialization	open sandwich	N	0.005035404580376539
+specialization	spike	N	0.005035404580376539
+specialization	cafe noir	N	0.005035404580376539
+specialization	garden strawberry	N	0.005035404580376539
+specialization	Muenster	N	0.005035404580376539
+specialization	chicken salad	N	0.005035404580376539
+specialization	pyxidium	N	0.005035404580376539
+specialization	schizocarp	N	0.005035404580376539
+specialization	Cripps Pink	N	0.005035404580376539
+specialization	May apple	N	0.005035404580376539
+specialization	beefburger	N	0.005035404580376539
+specialization	macon	N	0.005035404580376539
+specialization	triple cream	N	0.005035404580376539
+specialization	fruit juice	N	0.005035404580376539
+specialization	cottage cheese	N	0.005035404580376539
+specialization	coffee royal	N	0.005035404580376539
+specialization	vintage	N	0.005035404580376539
+specialization	chokecherry	N	0.005035404580376539
+specialization	open-face sandwich	N	0.005035404580376539
+specialization	durum	N	0.005035404580376539
+specialization	challah	N	0.005035404580376539
+specialization	blue cheese	N	0.005035404580376539
+specialization	wood strawberry	N	0.005035404580376539
+specialization	near beer	N	0.005035404580376539
+specialization	matzoh	N	0.005035404580376539
+specialization	soft wheat	N	0.005035404580376539
+specialization	triple-decker	N	0.005035404580376539
+specialization	fruitlet	N	0.005035404580376539
+specialization	french fries	N	0.005035404580376539
+specialization	white wine	N	0.005035404580376539
+specialization	oenomel	N	0.005035404580376539
+specialization	string cheese	N	0.005035404580376539
+specialization	Limburger	N	0.005035404580376539
+specialization	lager beer	N	0.005035404580376539
+specialization	Italian sandwich	N	0.005035404580376539
+specialization	anadama bread	N	0.005035404580376539
+specialization	Cotes de Provence	N	0.005035404580376539
+specialization	zep	N	0.005035404580376539
+specialization	generic wine	N	0.005035404580376539
+specialization	carrot juice	N	0.005035404580376539
+specialization	bomber	N	0.005035404580376539
+specialization	elk nut	N	0.005035404580376539
+specialization	chocolate	N	0.005035404580376539
+specialization	cappuccino	N	0.005035404580376539
+specialization	accessory fruit	N	0.005035404580376539
+specialization	Merlot	N	0.005035404580376539
+specialization	farm cheese	N	0.005035404580376539
+specialization	scarlet strawberry	N	0.005035404580376539
+specialization	Parmesan	N	0.005035404580376539
+specialization	ginger beer	N	0.005035404580376539
+specialization	draft beer	N	0.005035404580376539
+specialization	chicken sandwich	N	0.005035404580376539
+specialization	Velveeta	N	0.005035404580376539
+specialization	pseudocarp	N	0.005035404580376539
+specialization	drinking water	N	0.005035404580376539
+specialization	Seville orange	N	0.005035404580376539
+specialization	tea	N	0.005035404580376539
+specialization	home-fried potatoes	N	0.005035404580376539
+specialization	hip	N	0.005035404580376539
+specialization	ear	N	0.005035404580376539
+specialization	mocha	N	0.005035404580376539
+specialization	pasta salad	N	0.005035404580376539
+specialization	Uruguay potato	N	0.005035404580376539
+specialization	Fragaria chiloensis	N	0.005035404580376539
+specialization	cafe royale	N	0.005035404580376539
+specialization	soya	N	0.005035404580376539
+specialization	matzah	N	0.005035404580376539
+specialization	hero	N	0.005035404580376539
+specialization	red hot	N	0.005035404580376539
+specialization	cyder	N	0.005035404580376539
+specialization	gluten bread	N	0.005035404580376539
+specialization	fruit crush	N	0.005035404580376539
+specialization	bap	N	0.005035404580376539
+specialization	acorn	N	0.005035404580376539
+specialization	buckthorn berry	N	0.005035404580376539
+specialization	durum wheat	N	0.005035404580376539
+specialization	brioche	N	0.005035404580376539
+specialization	syncarp	N	0.005035404580376539
+specialization	hotdog	N	0.005035404580376539
+specialization	refresher	N	0.005035404580376539
+specialization	grinder	N	0.005035404580376539
+specialization	Cabernet Sauvignon	N	0.005035404580376539
+specialization	Rhone wine	N	0.005035404580376539
+specialization	common bean	N	0.005035404580376539
+specialization	fries	N	0.005035404580376539
+specialization	multiple fruit	N	0.005035404580376539
+specialization	crouton	N	0.005035404580376539
+specialization	table wine	N	0.005035404580376539
+specialization	french-fried potatoes	N	0.005035404580376539
+specialization	gravy	N	0.005035404580376539
+specialization	Chardonnay	N	0.005035404580376539
+specialization	processed cheese	N	0.005035404580376539
+specialization	mate	N	0.005035404580376539
+specialization	butty	N	0.005035404580376539
+specialization	soft drink	N	0.005035404580376539
+specialization	goat cheese	N	0.005035404580376539
+specialization	Brie	N	0.005035404580376539
+specialization	tossed salad	N	0.005035404580376539
+specialization	process cheese	N	0.005035404580376539
+specialization	hominy	N	0.005035404580376539
+specialization	Armerican cheddar	N	0.005035404580376539
+specialization	bosc	N	0.005035404580376539
+specialization	molded salad	N	0.005035404580376539
+specialization	red wine	N	0.005035404580376539
+specialization	ale	N	0.005035404580376539
+specialization	simnel	N	0.005035404580376539
+specialization	Swiss cheese	N	0.005035404580376539
+specialization	Golden Delicious	N	0.005035404580376539
+specialization	vermouth	N	0.005035404580376539
+specialization	garlic bread	N	0.005035404580376539
+specialization	Fuji	N	0.005035404580376539
+specialization	triple creme	N	0.005035404580376539
+specialization	hard wheat	N	0.005035404580376539
+specialization	blush wine	N	0.005035404580376539
+specialization	Honeycrisp	N	0.005035404580376539
+specialization	stone fruit	N	0.005035404580376539
+specialization	polished rice	N	0.005035404580376539
+specialization	home fries	N	0.005035404580376539
+specialization	Granny Smith	N	0.005035404580376539
+specialization	pink wine	N	0.005035404580376539
+specialization	altar wine	N	0.005035404580376539
+specialization	mozzarella	N	0.005035404580376539
+specialization	Triticum dicoccum dicoccoides	N	0.005035404580376539
+specialization	Dubonnet	N	0.005035404580376539
+specialization	herring salad	N	0.005035404580376539
+specialization	tabbouleh	N	0.005035404580376539
+specialization	two-grain spelt	N	0.005035404580376539
+specialization	BLT	N	0.005035404580376539
+specialization	starch wheat	N	0.005035404580376539
+specialization	cheddar cheese	N	0.005035404580376539
+specialization	bitter orange	N	0.005035404580376539
+specialization	sub	N	0.005035404580376539
+specialization	ade	N	0.005035404580376539
+specialization	smoothie	N	0.005035404580376539
+specialization	spelt	N	0.005035404580376539
+specialization	beach strawberry	N	0.005035404580376539
+specialization	hoagie	N	0.005035404580376539
+specialization	drinking chocolate	N	0.005035404580376539
+specialization	iced coffee	N	0.005035404580376539
+specialization	pyxis	N	0.005035404580376539
+specialization	grated cheese	N	0.005035404580376539
+specialization	sour orange	N	0.005035404580376539
+specialization	wild strawberry	N	0.005035404580376539
+specialization	capitulum	N	0.005035404580376539
+specialization	espresso	N	0.005035404580376539
+specialization	cinnamon bread	N	0.005035404580376539
+specialization	ham sandwich	N	0.005035404580376539
+specialization	cooking apple	N	0.005035404580376539
+specialization	pretzel	N	0.005035404580376539
+specialization	hot chocolate	N	0.005035404580376539
+specialization	Gouda cheese	N	0.005035404580376539
+specialization	soybean	N	0.005035404580376539
+specialization	decaffeinated coffee	N	0.005035404580376539
+specialization	whole wheat bread	N	0.005035404580376539
+specialization	salmagundi	N	0.005035404580376539
+specialization	Fragaria vesca	N	0.005035404580376539
+specialization	berry	N	0.005035404580376539
+specialization	caraway seed bread	N	0.005035404580376539
+specialization	mocha coffee	N	0.005035404580376539
+specialization	rose hip	N	0.005035404580376539
+specialization	wild wheat	N	0.005035404580376539
+specialization	pod	N	0.005035404580376539
+specialization	potion	N	0.005035404580376539
+specialization	mulled wine	N	0.005035404580376539
+specialization	papaya juice	N	0.005035404580376539
+specialization	western	N	0.005035404580376539
+specialization	flatbread	N	0.005035404580376539
+specialization	seckel	N	0.005035404580376539
+specialization	ice coffee	N	0.005035404580376539
+specialization	pan gravy	N	0.005035404580376539
+specialization	mixer	N	0.005035404580376539
+specialization	sourdough bread	N	0.005035404580376539
+specialization	sun tea	N	0.005035404580376539
+specialization	cuppa	N	0.005035404580376539
+specialization	demitasse	N	0.005035404580376539
+specialization	pot cheese	N	0.005035404580376539
+specialization	iced tea	N	0.005035404580376539
+specialization	sparkling wine	N	0.005035404580376539
+specialization	Fragaria ananassa	N	0.005035404580376539
+specialization	Triticum aestivum spelta	N	0.005035404580376539
+specialization	Bordeaux	N	0.005035404580376539
+specialization	Pinot Noir	N	0.005035404580376539
+specialization	crab Louis	N	0.005035404580376539
+specialization	torpedo	N	0.005035404580376539
+specialization	achene	N	0.005035404580376539
+specialization	Triticum aestivum	N	0.005035404580376539
+specialization	prairie gourd	N	0.005035404580376539
+specialization	salad nicoise	N	0.005035404580376539
+specialization	Camembert	N	0.005035404580376539
+specialization	potato salad	N	0.005035404580376539
+specialization	sacramental wine	N	0.005035404580376539
+specialization	hydromel	N	0.005035404580376539
+specialization	cambric tea	N	0.005035404580376539
+specialization	varietal wine	N	0.005035404580376539
+specialization	cracker	N	0.005035404580376539
+specialization	hamburger	N	0.005035404580376539
+specialization	Virginia strawberry	N	0.005035404580376539
+specialization	crabapple	N	0.005035404580376539
+specialization	matzo	N	0.005035404580376539
+specialization	white bread	N	0.005035404580376539
+specialization	cream cheese	N	0.005035404580376539
+specialization	herbal tea	N	0.005035404580376539
+specialization	Red Delicious	N	0.005035404580376539
+specialization	lime juice	N	0.005035404580376539
+specialization	hero sandwich	N	0.005035404580376539
+specialization	lemon juice	N	0.005035404580376539
+specialization	tomato juice	N	0.005035404580376539
+specialization	quark cheese	N	0.005035404580376539
+specialization	chips	N	0.005035404580376539
+specialization	olive	N	0.005035404580376539
+specialization	draught beer	N	0.005035404580376539
+specialization	drip coffee	N	0.005035404580376539
+specialization	Tokay	N	0.005035404580376539
+specialization	English muffin	N	0.005035404580376539
+specialization	fortified wine	N	0.005035404580376539
+specialization	submarine sandwich	N	0.005035404580376539
+specialization	wrap	N	0.005035404580376539
+specialization	Triticum turgidum	N	0.005035404580376539
+specialization	suds	N	0.005035404580376539
+specialization	dessert apple	N	0.005035404580376539
+specialization	dark bread	N	0.005035404580376539
+specialization	quark	N	0.005035404580376539
+specialization	light bread	N	0.005035404580376539
+specialization	Edam	N	0.005035404580376539
+howToUse	peel	N	0.008639334020479172
+howToUse	yield	N	0.008716128100661209
+howToUse	shuck	V	0.008794299653133506
+howToUse	toast	N	0.008794299653133506
+howToUse	yield	V	0.008794299653133506
+part	water	N	0.01699665665817476
+part	pastry	N	0.01699665665817476
+place	bottle	N	0.014187349959423326
+generalization	gourd	N	0.007231582933556328
+accessory	cereal	N	0.022427233652408698
+product	wheat	N	0.013618002752014012
+specialization	wheat berry	N	0.0035946459608077515
+specialization	corn	N	0.0035946459608077515
+product	peel	N	0.011293192595830753
+part	flour	N	0.0097225474036652
+product	orchard	N	0.00934581247972843
+product	cereal	N	0.00934581247972843
+specialization	rice	N	0.0025834572041902363
+specialization	varietal	N	0.002595998258579509
+specialization	sweet corn	N	0.002595998258579509
+specialization	green corn	N	0.002595998258579509
+specialization	gourd	N	0.002595998258579509
+specialization	toast	N	0.002595998258579509
+specialization	cooler	N	0.002595998258579509
+specialization	loaf	N	0.002595998258579509
+specialization	burger	N	0.002595998258579509
+howToUse	butter	N	0.004271683656216763
+specialization	wheat	N	0.0018015016569816744
+specialization	inebriant	N	0.0011733384547544827
+specialization	alcohol	N	0.0011733384547544827
+specialization	intoxicant	N	0.0011733384547544827
+specialization	alcoholic beverage	N	0.0011733384547544827
+specialization	alcoholic drink	N	0.0011733384547544827
+place	salad	N	0.0028086100464266026
+specialization	milk	N	0.00016799826699216835
+generalization	root	N	-2.634162048062335e-05
+specialization	rose	N	-0.000608136897235193
+specialization	edible fruit	N	-0.000608136897235193
+specialization	popcorn	N	-0.000608136897235193
+specialization	pome	N	-0.0012389692744865356
+specialization	cider	N	-0.0017693132842274497
+specialization	seed	N	-0.003301378470552351

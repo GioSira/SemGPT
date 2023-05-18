@@ -42,8 +42,8 @@ def slot2prompt(slot, pos):
     elif slot == Slots.PLACE:
         return "can be found in"
 
-    elif slot == Slots.PRODUCT:
-        return "are used for"
+    elif slot == Slots.PRODUCT: # "are used for" va bene?
+        return "produce"
 
     elif slot == Slots.SUPPLY:
         return "use"

@@ -1,7 +1,7 @@
 from it.unito.prompt.slots_to_prompt import slot2prompt, value2prompt
 from it.unito.prompt.categories_to_prompt import category2prompt, get_all_categories
 from it.unito.semagram.concepts import categories_dict
-from random import choices, randint
+from random import choices, randint, choice
 from it.unito.db.query_semagram import *
 import math
 
@@ -39,6 +39,14 @@ def __list2prompt(slot_value_list):
     return "; ".join(prompt_list[:-1]) + "; and " + prompt_list[-1]
 
 
+def __pair2prompt(slot, value, pos):
+
+    slot_prompt = slot2prompt(slot, pos)
+    value_prompt = value2prompt(value, slot)
+
+    return f"{slot_prompt} {value_prompt}"
+
+
 def __select_random_concepts(list_of_concepts):
 
     num_concepts = randint(1, 10)
@@ -51,6 +59,15 @@ def __select_random_slots(list_of_slots):
     slots = choices(list_of_slots, k=num_slots)
     return slots
 
+def __select_random_value(list_of_tuples, slot_chosen):
+    list_of_values = []
+
+    for slot, value, pos, _ in list_of_tuples:
+        if slot == slot_chosen:
+            list_of_values.append((value, pos))
+
+    return choice(list_of_values)
+    
 
 def generate_prompt(num_elems, category, semagram_base):
 
@@ -90,10 +107,33 @@ def generate_prompt_db(num_elems, category):
 
     return prompt
 
-def get_count(counts, val):
+
+def generate_prompt_ranking(num_elems, category, ranking):
+    
+    slot = ranking[0][0]
+    value, pos = __select_random_value(ranking, slot)
+
+
+    value_prompt = __pair2prompt(slot, value, pos)
+    category_string = category2prompt(category)
+
+    prompt = f"give me a list of {num_elems} {category_string}, separated by comma, " \
+             f"that meet at least one of the following criteria: {value_prompt}"
+
+    return prompt
+
+
+
+def get_count(counts, val, pos):
+
+    for [v, p], c in counts:
+        if v == val and p == pos:
+            return p, c
+            
+def get_count_slot(counts, slot):
 
     for v, c in counts:
-        if v == val:
+        if v == slot:
             return c
 
 def pmi_slot_value_by_category(category):
@@ -115,38 +155,60 @@ def pmi_slot_value_by_category(category):
 
     print("total pair slot-value: " + str(total_semagram_category) + " for category: " + category)
 
-    for [slot, value], count_slot_value in co_occurrence:
-        count_slot = get_count(count_slots, slot)
-        count_value = get_count(count_values, value)
+    for [slot, value, pos], count_slot_value in co_occurrence:
+        count_slot = get_count_slot(count_slots, slot)
+        pos, count_value = get_count(count_values, value, pos)
         pmi = math.log2((count_slot_value / total_semagram_category) / ((count_slot / total_semagram_category) * (count_value / total_semagram_category)))
-        pmis.append(([slot, value], pmi))
+        pmis.append(([slot, value, pos], pmi))
 
     pmis.sort(key= lambda x: x[1], reverse=True)
+
+    path = f"it/data/{category}/pmi_{category}.txt"
+    with open(path, "w", encoding="utf8") as f:
+        for [slot, value, pos], pmi in pmis:
+            f.write(f"{slot}\t{value}\t{pos}\t{pmi}\n")
+
     return pmis, count_slots, count_values, co_occurrence
 
 
 def ranking_slot_value_by_category(category, pmis, count_slots, count_values): 
 
     ranking = []
-    for [slot, value], pmi in pmis:
-        count_slot = get_count(count_slots, slot)
-        count_value = get_count(count_values, value)
+    for [slot, value, pos], pmi in pmis:
+        count_slot = get_count_slot(count_slots, slot)
+        pos, count_value = get_count(count_values, value, pos)
         rank = pmi / (count_slot + count_value)
 
-        ranking.append(([slot, value], rank))
+        ranking.append(([slot, value, pos], rank))
 
 
     path = f"it/data/{category}/ranking.txt"
 
     with open(path, "w", encoding="utf8") as f:
-        for [slot, value], rank in ranking:
-            f.write(f"{slot}\t{value}\t{rank}\n")
+        for [slot, value, pos], rank in ranking:
+            f.write(f"{slot}\t{value}\t{pos}\t{rank}\n")
 
 
     return ranking
     
 
-# ALGO: parto da slots in ordine decrescente di frequenza, e per ogni slot scelgo casualmente il valore dall'insieme di pmi?
+def get_slot_value_to_ask(concept):
+    
+    path = f"it/data/{concept}/ranking.txt"
+    slot_values = []
+    with open(path, "r", encoding="utf8") as f:
+        
+        for line in f.readlines():
+            slot, value, pos, rank = line.split("\t")
+            slot_values.append((slot, value, pos, rank))
+
+    return slot_values
+
+def clean_gen_spec(ranking): 
+
+    for slot, value, pos, rank in ranking: 
+        if slot == "generalization" or slot == "specialization": 
+            ranking.remove((slot, value, pos, rank))
 
 if __name__ == '__main__':
 
@@ -154,10 +216,21 @@ if __name__ == '__main__':
     categories = get_all_categories()
     
     for category in categories:
+        
+        
+        print("category: " + category)
+        ranking = get_slot_value_to_ask(category) 
 
-        pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
+        clean_gen_spec(ranking)
 
-        ranking = ranking_slot_value_by_category(category, pmis, count_slots, count_values)
+        prompt = generate_prompt_ranking(10, category, ranking)
+
+        print(prompt)
+    
+        
+        #pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
+
+        #ranking = ranking_slot_value_by_category(category, pmis, count_slots, count_values)
 
 
         

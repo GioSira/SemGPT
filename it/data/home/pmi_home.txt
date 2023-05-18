@@ -1,212 +1,218 @@
-user	gate-keeper	8.112005025513131
-movement	slide	8.112005025513131
-movement	swing	8.112005025513131
-time	morning	7.696967526234287
-sound	creak	7.3750394313469245
-sound	clink	7.3750394313469245
-accessory	tap	6.696967526234287
-accessory	key	6.696967526234287
-accessory	clicker	6.696967526234287
-efficiency	leaking	5.889612604176683
-efficiency	breakable	5.889612604176683
-efficiency	impermeable	5.889612604176683
-content	water	4.024542184262791
-content	liquid	4.024542184262791
-content	soup	4.024542184262791
-content	yoghurt	4.024542184262791
-content	dessert	4.024542184262791
-content	food	4.024542184262791
-content	hot chocolate	4.024542184262791
-content	claret	4.024542184262791
-content	tea	4.024542184262791
-content	absinthe	4.024542184262791
-content	cookie	4.024542184262791
-content	coffee	4.024542184262791
-content	beer	4.024542184262791
-content	greasy	4.024542184262791
-content	flower	4.024542184262791
-content	milk	4.024542184262791
-shape	concave	3.4875141606053375
-shape	circular	3.4875141606053375
-shape	long	3.4875141606053375
-shape	rectangular	3.4875141606053375
-shape	elongated	3.4875141606053375
-shape	curved	3.4875141606053375
-shape	cylindrical	3.4875141606053375
-shape	round	3.387978487054423
-part	arm	3.3571175233496624
-part	leg	3.3571175233496624
-part	strainer	3.3571175233496624
-part	footstool	3.3571175233496624
-part	handle	3.3571175233496624
-part	seatback	3.3571175233496624
-part	jamb	3.3571175233496624
-part	latch	3.3571175233496624
-part	hinge	3.3571175233496624
-part	lock	3.3571175233496624
-part	can	3.3571175233496624
-part	bottom	3.3571175233496624
-part	wall	3.3571175233496624
-part	floor	3.3571175233496624
-part	toilet bowl	3.3571175233496624
-part	drain	3.3571175233496624
-part	potty	3.3571175233496624
-part	showerhead	3.3571175233496624
-part	basin	3.3571175233496624
-part	base	3.3571175233496624
-part	rocker	3.3571175233496624
-part	rung	3.3571175233496624
-part	edge	3.3571175233496624
-part	toilet seat	3.3571175233496624
-part	arch	3.3571175233496624
-part	back	3.3571175233496624
-part	crapper	3.3571175233496624
-part	pot	3.3571175233496624
-part	flooring	3.3571175233496624
-part	ceiling	3.3571175233496624
-part	throne	3.3571175233496624
-part	pier	3.3571175233496624
-part	trestle	3.3571175233496624
-part	stave	3.3571175233496624
-part	stool	3.3571175233496624
-part	toilet	3.3571175233496624
-part	rim	3.3571175233496624
-part	backrest	3.3571175233496624
-part	drain basket	3.3571175233496624
-part	plughole	3.3571175233496624
-part	commode	3.3571175233496624
-place	kitchen	3.2375359075969903
-place	veranda	3.23753590759699
-place	porch	3.23753590759699
-place	restaurant	3.23753590759699
-place	courtyard	3.23753590759699
-place	palace	3.23753590759699
-place	building	3.23753590759699
-place	living room	3.23753590759699
-place	castle	3.23753590759699
-place	bathroom	3.23753590759699
-place	cafeteria	3.23753590759699
-place	garden	3.23753590759699
-place	memorial	3.23753590759699
-place	field	3.23753590759699
-place	venue	3.23753590759699
-place	department	3.23753590759699
-place	monument	3.23753590759699
-place	driveway	3.23753590759699
-place	car	3.23753590759699
-part	support	3.1347251020132143
-material	wood	3.0531113364595623
-material	plastic	3.0531113364595623
-material	steel	3.0531113364595623
-material	metal	3.0531113364595623
-material	porcelain	3.0531113364595623
-material	glass	3.0531113364595623
-material	china	3.0531113364595623
-material	pottery	3.0531113364595623
-material	wrought iron	3.0531113364595623
-material	marble	3.0531113364595623
-material	ceramic	3.0531113364595623
-material	copper	3.0531113364595623
-material	enamel	3.0531113364595623
-material	glassware	3.0531113364595623
-material	wooden	3.0531113364595623
-material	iron	3.0531113364595623
-colorPattern	white	2.915607812709627
-colorPattern	black	2.915607812709627
-colorPattern	brown	2.915607812709627
-purpose	hold	2.915607812709627
-purpose	contain	2.915607812709627
-colorPattern	patterned	2.915607812709627
-colorPattern	glossy	2.915607812709627
-colorPattern	shiny	2.915607812709627
-purpose	sleep	2.915607812709627
-purpose	cookery	2.915607812709627
-purpose	eat	2.915607812709627
-purpose	relaxing	2.915607812709627
-purpose	sit	2.915607812709627
-purpose	pick up	2.915607812709627
-purpose	delimit	2.915607812709627
-purpose	blend	2.915607812709627
-purpose	protection	2.915607812709627
-purpose	separate	2.915607812709627
-purpose	security	2.915607812709627
-purpose	stir	2.915607812709627
-purpose	exit	2.915607812709627
-purpose	drink	2.915607812709627
-purpose	guard	2.915607812709627
-purpose	rinse	2.915607812709627
-purpose	wash	2.915607812709627
-purpose	insulate	2.915607812709627
-purpose	feed	2.915607812709627
-purpose	bar	2.915607812709627
-colorPattern	silver	2.856714123656059
-purpose	entrance	2.6525734068758338
-purpose	access	2.6525734068758338
-place	room	2.6525734068758338
-purpose	measure	2.5005703134307833
-generalization	artefact	2.2131517489700308
-generalization	artifact	2.2131517489700308
-generalization	container	2.2131517489700308
-generalization	implement	2.2131517489700308
-generalization	utensil	2.2131517489700308
-generalization	tool	2.2131517489700308
-generalization	furniture	2.2131517489700308
-generalization	barrier	2.2131517489700308
-generalization	tableware	2.2131517489700308
-generalization	whole	2.2131517489700308
-generalization	unit	2.2131517489700308
-generalization	cutlery	2.2131517489700303
-generalization	vessel	2.2131517489700303
-generalization	receptacle	2.2131517489700303
-generalization	structure	2.2131517489700303
-generalization	construction	2.2131517489700303
-generalization	fixture	2.2131517489700303
-generalization	ware	2.2131517489700303
-generalization	instrumentality	2.2131517489700303
-generalization	chair	2.2131517489700303
-generalization	instrumentation	2.2131517489700303
-generalization	closing	2.2131517489700303
-generalization	plumbing fixture	2.2131517489700303
-generalization	impediment	2.2131517489700303
-generalization	obstructer	2.2131517489700303
-generalization	eating utensil	2.2131517489700303
-generalization	movable barrier	2.2131517489700303
-generalization	drinking vessel	2.2131517489700303
-generalization	impedimenta	2.2131517489700303
-generalization	obstruction	2.2131517489700303
-generalization	obstructor	2.2131517489700303
-generalization	article	2.2131517489700303
-generalization	control	2.2131517489700303
-generalization	jar	2.2131517489700303
-generalization	corridor	2.2131517489700303
-generalization	way	2.2131517489700303
-generalization	passage	2.2131517489700303
-generalization	crockery	2.2131517489700303
-generalization	cutter	2.2131517489700303
-generalization	spigot	2.2131517489700303
-generalization	cup	2.2131517489700303
-generalization	amount	2.2131517489700303
-generalization	cutting implement	2.2131517489700303
-generalization	approach	2.2131517489700303
-generalization	containerful	2.2131517489700303
-generalization	device	2.2131517489700303
-generalization	bottle	2.2131517489700303
-generalization	passageway	2.2131517489700303
-generalization	faucet	2.2131517489700303
-generalization	edge tool	2.2131517489700303
-generalization	furnishing	2.2131517489700303
-generalization	quantity	2.2131517489700303
-generalization	indefinite quantity	2.2131517489700303
-generalization	regulator	2.2131517489700303
-generalization	cutting tool	2.2131517489700303
-generalization	controller	2.2131517489700303
-generalization	area	2.2131517489700303
-part	seat	2.1871925219073503
-generalization	seat	1.3651548424150808
-place	entrance	0.6525734068758338
-generalization	room	0.6281892482488746
-generalization	measure	0.2131517489700305
-generalization	access	-0.3718107517511255
-part	round	-0.549773072258856
-generalization	support	-0.5942031730875735
-material	silver	-1.5907448533151622
+user	gate-keeper	N	8.112005025513131
+movement	slide	V	8.112005025513131
+movement	swing	N	8.112005025513131
+time	morning	N	7.696967526234287
+sound	creak	V	7.3750394313469245
+sound	clink	N	7.3750394313469245
+accessory	tap	N	6.696967526234287
+accessory	key	N	6.696967526234287
+accessory	clicker	N	6.696967526234287
+efficiency	breakable	A	5.889612604176683
+efficiency	leaking	N	5.889612604176683
+efficiency	impermeable	A	5.889612604176683
+content	liquid	N	4.024542184262791
+content	water	N	4.024542184262791
+content	soup	N	4.024542184262791
+content	dessert	N	4.024542184262791
+content	food	N	4.024542184262791
+content	yoghurt	N	4.024542184262791
+content	tea	N	4.024542184262791
+content	hot chocolate	N	4.024542184262791
+content	cookie	N	4.024542184262791
+content	claret	N	4.024542184262791
+content	flower	N	4.024542184262791
+content	absinthe	N	4.024542184262791
+content	milk	N	4.024542184262791
+content	beer	N	4.024542184262791
+content	coffee	N	4.024542184262791
+content	greasy	A	4.024542184262791
+content	claret	A	4.024542184262791
+shape	concave	A	3.4875141606053375
+shape	round	A	3.4875141606053375
+shape	circular	A	3.4875141606053375
+shape	rectangular	A	3.4875141606053375
+shape	cylindrical	A	3.4875141606053375
+shape	long	A	3.4875141606053375
+shape	curved	A	3.4875141606053375
+shape	elongated	A	3.4875141606053375
+part	arm	N	3.3571175233496624
+part	strainer	N	3.3571175233496624
+part	leg	N	3.3571175233496624
+part	footstool	N	3.3571175233496624
+part	handle	N	3.3571175233496624
+part	seatback	N	3.3571175233496624
+part	latch	N	3.3571175233496624
+part	hinge	N	3.3571175233496624
+part	lock	N	3.3571175233496624
+part	jamb	N	3.3571175233496624
+part	pot	N	3.3571175233496624
+part	basin	N	3.3571175233496624
+part	ceiling	N	3.3571175233496624
+part	throne	N	3.3571175233496624
+part	arch	N	3.3571175233496624
+part	toilet seat	N	3.3571175233496624
+part	crapper	N	3.3571175233496624
+part	flooring	N	3.3571175233496624
+part	toilet	N	3.3571175233496624
+part	wall	N	3.3571175233496624
+part	stool	N	3.3571175233496624
+part	base	N	3.3571175233496624
+part	showerhead	N	3.3571175233496624
+part	trestle	N	3.3571175233496624
+part	potty	N	3.3571175233496624
+part	round	N	3.3571175233496624
+part	commode	N	3.3571175233496624
+part	floor	N	3.3571175233496624
+part	pier	N	3.3571175233496624
+part	toilet bowl	N	3.3571175233496624
+part	backrest	N	3.3571175233496624
+part	rim	N	3.3571175233496624
+part	edge	N	3.3571175233496624
+part	bottom	N	3.3571175233496624
+part	stave	N	3.3571175233496624
+part	rung	N	3.3571175233496624
+part	drain basket	N	3.3571175233496624
+part	plughole	N	3.3571175233496624
+part	back	N	3.3571175233496624
+part	drain	N	3.3571175233496624
+part	rocker	N	3.3571175233496624
+part	can	N	3.3571175233496624
+place	kitchen	N	3.2375359075969903
+place	castle	N	3.23753590759699
+place	building	N	3.23753590759699
+place	courtyard	N	3.23753590759699
+place	porch	N	3.23753590759699
+place	veranda	N	3.23753590759699
+place	restaurant	N	3.23753590759699
+place	living room	N	3.23753590759699
+place	palace	N	3.23753590759699
+place	bathroom	N	3.23753590759699
+place	cafeteria	N	3.23753590759699
+place	garden	N	3.23753590759699
+place	venue	N	3.23753590759699
+place	field	N	3.23753590759699
+place	memorial	N	3.23753590759699
+place	department	N	3.23753590759699
+place	monument	N	3.23753590759699
+place	car	N	3.23753590759699
+place	driveway	N	3.23753590759699
+part	support	N	3.1347251020132143
+material	wood	N	3.0531113364595623
+material	steel	N	3.0531113364595623
+material	plastic	N	3.0531113364595623
+material	metal	N	3.0531113364595623
+material	porcelain	N	3.0531113364595623
+material	china	N	3.0531113364595623
+material	pottery	N	3.0531113364595623
+material	glass	N	3.0531113364595623
+material	wrought iron	N	3.0531113364595623
+material	marble	N	3.0531113364595623
+material	copper	N	3.0531113364595623
+material	enamel	N	3.0531113364595623
+material	wooden	A	3.0531113364595623
+material	ceramic	A	3.0531113364595623
+material	glassware	N	3.0531113364595623
+material	ceramic	N	3.0531113364595623
+material	iron	N	3.0531113364595623
+colorPattern	white	N	2.915607812709627
+colorPattern	silver	A	2.915607812709627
+colorPattern	white	A	2.915607812709627
+colorPattern	brown	A	2.915607812709627
+colorPattern	black	N	2.915607812709627
+colorPattern	brown	N	2.915607812709627
+colorPattern	black	A	2.915607812709627
+purpose	hold	V	2.915607812709627
+purpose	contain	V	2.915607812709627
+purpose	cookery	N	2.915607812709627
+colorPattern	glossy	A	2.915607812709627
+purpose	eat	V	2.915607812709627
+purpose	sit	V	2.915607812709627
+purpose	sleep	N	2.915607812709627
+colorPattern	patterned	A	2.915607812709627
+colorPattern	shiny	A	2.915607812709627
+purpose	relaxing	N	2.915607812709627
+purpose	pick up	V	2.915607812709627
+purpose	protection	N	2.915607812709627
+purpose	security	N	2.915607812709627
+purpose	delimit	V	2.915607812709627
+purpose	separate	V	2.915607812709627
+purpose	blend	V	2.915607812709627
+purpose	stir	V	2.915607812709627
+purpose	exit	N	2.915607812709627
+purpose	measure	V	2.915607812709627
+purpose	drink	V	2.915607812709627
+purpose	guard	N	2.915607812709627
+purpose	insulate	V	2.915607812709627
+purpose	bar	V	2.915607812709627
+purpose	feed	V	2.915607812709627
+purpose	wash	V	2.915607812709627
+purpose	rinse	V	2.915607812709627
+colorPattern	silver	N	2.800130595289691
+purpose	access	N	2.6525734068758338
+purpose	entrance	N	2.6525734068758338
+place	room	N	2.6525734068758338
+generalization	artifact	N	2.2131517489700308
+generalization	artefact	N	2.2131517489700308
+generalization	container	N	2.2131517489700308
+generalization	implement	N	2.2131517489700308
+generalization	tool	N	2.2131517489700308
+generalization	utensil	N	2.2131517489700308
+generalization	furniture	N	2.2131517489700308
+generalization	whole	N	2.2131517489700308
+generalization	unit	N	2.2131517489700308
+generalization	tableware	N	2.2131517489700308
+generalization	barrier	N	2.2131517489700308
+generalization	vessel	N	2.2131517489700303
+generalization	receptacle	N	2.2131517489700303
+generalization	cutlery	N	2.2131517489700303
+generalization	ware	N	2.2131517489700303
+generalization	instrumentation	N	2.2131517489700303
+generalization	instrumentality	N	2.2131517489700303
+generalization	plumbing fixture	N	2.2131517489700303
+generalization	structure	N	2.2131517489700303
+generalization	closing	N	2.2131517489700303
+generalization	construction	N	2.2131517489700303
+generalization	fixture	N	2.2131517489700303
+generalization	chair	N	2.2131517489700303
+generalization	article	N	2.2131517489700303
+generalization	impediment	N	2.2131517489700303
+generalization	obstructer	N	2.2131517489700303
+generalization	impedimenta	N	2.2131517489700303
+generalization	obstructor	N	2.2131517489700303
+generalization	drinking vessel	N	2.2131517489700303
+generalization	eating utensil	N	2.2131517489700303
+generalization	movable barrier	N	2.2131517489700303
+generalization	obstruction	N	2.2131517489700303
+generalization	approach	N	2.2131517489700303
+generalization	corridor	N	2.2131517489700303
+generalization	bottle	N	2.2131517489700303
+generalization	cutter	N	2.2131517489700303
+generalization	controller	N	2.2131517489700303
+generalization	passageway	N	2.2131517489700303
+generalization	regulator	N	2.2131517489700303
+generalization	area	N	2.2131517489700303
+generalization	way	N	2.2131517489700303
+generalization	cup	N	2.2131517489700303
+generalization	containerful	N	2.2131517489700303
+generalization	control	N	2.2131517489700303
+generalization	edge tool	N	2.2131517489700303
+generalization	furnishing	N	2.2131517489700303
+generalization	cutting tool	N	2.2131517489700303
+generalization	measure	N	2.2131517489700303
+generalization	quantity	N	2.2131517489700303
+generalization	spigot	N	2.2131517489700303
+generalization	indefinite quantity	N	2.2131517489700303
+generalization	cutting implement	N	2.2131517489700303
+generalization	crockery	N	2.2131517489700303
+generalization	amount	N	2.2131517489700303
+generalization	device	N	2.2131517489700303
+generalization	passage	N	2.2131517489700303
+generalization	faucet	N	2.2131517489700303
+generalization	jar	N	2.2131517489700303
+part	seat	N	2.1871925219073503
+generalization	seat	N	1.3651548424150808
+place	entrance	N	0.6525734068758338
+generalization	room	N	0.6281892482488746
+generalization	access	N	-0.3718107517511255
+generalization	support	N	-0.5942031730875735
+material	silver	N	-0.6473283816815296
