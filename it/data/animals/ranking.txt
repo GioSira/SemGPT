@@ -1,392 +1,137 @@
-product	wax	N	1.715107849366906
-product	propolis	N	1.715107849366906
-product	honey	N	1.715107849366906
-product	mucus	N	1.715107849366906
-time	summer	N	0.5411099462024664
-time	night	N	0.7575539246834531
-sound	growl	N	0.46603844974089165
-sound	cry	V	0.5377366727779519
-sound	trumpeting	N	0.5377366727779519
-sound	bark	N	0.5377366727779519
-sound	croaking	N	0.5377366727779519
-shape	long	A	0.3334324325613006
-shape	elongated	A	0.3334324325613006
-accessory	leash	N	0.37048048062366734
-accessory	muzzle	N	0.37048048062366734
-shape	round	A	0.39227345007211833
-shape	circular	A	0.39227345007211833
-accessory	dog	N	0.41679054070162574
-shape	pear	N	0.41679054070162574
-group	herd	N	0.32877696234172654
-group	swarm	N	0.34608101299129107
-group	infestation	N	0.3653077359352517
-sound	yelp	V	0.3328098192285208
-group	hive	N	0.3152935129533355
-sound	howl	N	0.4278983390080982
-accessory	collar	N	0.2965841528529903
-user	cook	N	0.15882106254741551
-user	lover	N	0.16816347799138115
-user	hunter	N	0.17867369536584246
-user	policeman	N	0.184437362958289
-user	poacher	N	0.184437362958289
-user	blind	N	0.184437362958289
-user	shepherd	N	0.184437362958289
-user	beekeeper	N	0.184437362958289
-user	owner	N	0.19058527505689862
-accessory	kennel	N	0.2699356500583815
-accessory	trainer	N	0.3334499206603536
-accessory	handler	N	0.3334499206603536
-purpose	food	N	0.1328355178021845
-purpose	attraction	N	0.1361564057472391
-purpose	research	N	0.13964759563819396
-purpose	guard	V	0.14332253236551484
-purpose	guard	N	0.14332253236551484
-purpose	hunting	N	0.14332253236551484
-purpose	wild	A	0.14719611432133958
-purpose	stray	A	0.15128489527471012
-purpose	haulage	N	0.15128489527471012
-purpose	beast of burden	N	0.15128489527471012
-purpose	transport	N	0.15128489527471012
-behavior	faithful	A	0.13514035613480546
-behavior	loyal	A	0.13514035613480546
-behavior	obedient	A	0.13514035613480546
-behavior	playful	A	0.13514035613480546
-behavior	cute	A	0.13514035613480546
-behavior	affectionate	A	0.13860549347159534
-behavior	healthy	A	0.14225300645768996
-behavior	happy	A	0.1460976823078978
-behavior	aggressive	A	0.1460976823078978
-behavior	feral	A	0.1460976823078978
-behavior	rabid	A	0.1460976823078978
-behavior	cunning	V	0.1460976823078978
-behavior	friendly	A	0.1460976823078978
-behavior	submissive	A	0.13184424988761506
-group	colony	N	0.23274551415209052
-movement	slow	A	0.09715340943802918
-movement	attack	V	0.10748887852718123
-movement	chase	N	0.10748887852718123
-movement	attack	N	0.10748887852718123
-size	small	A	0.07071761119939286
-size	large	A	0.08965982848494451
-size	big	A	0.08965982848494451
-size	medium	A	0.09655673836840178
-group	larva	N	0.2626619340059671
-user	handler	N	0.15217929844215997
-user	trainer	N	0.15217929844215997
-purpose	pet	N	0.11773226589308394
-sound	pet	N	0.27462639124858895
-group	nest	N	0.22877696234172654
-purpose	prey	N	0.12016908729431255
-part	eye	N	0.04629053678552032
-part	mouth	N	0.046810655176368864
-part	head	N	0.046810655176368864
-part	skin	N	0.046810655176368864
-part	leg	N	0.046810655176368864
-part	fur	N	0.04734259443973669
-part	paw	N	0.04734259443973669
-part	coat	N	0.04734259443973669
-part	tongue	N	0.04734259443973669
-part	ear	N	0.04734259443973669
-part	hair	N	0.04734259443973669
-part	tail	N	0.04734259443973669
-part	tooth	N	0.04788676219191757
-part	tusk	N	0.04788676219191757
-part	flesh	N	0.04788676219191757
-part	abdomen	N	0.04788676219191757
-part	neck	N	0.04788676219191757
-part	foot	N	0.04788676219191757
-part	stinger	N	0.04788676219191757
-part	bone	N	0.04788676219191757
-part	toe	N	0.04788676219191757
-part	antenna	N	0.04788676219191757
-part	nose	N	0.04844358500810266
-part	trunk	N	0.04844358500810266
-part	wing	N	0.04844358500810266
-part	horn	N	0.04844358500810266
-part	jaw	N	0.04844358500810266
-part	sting	N	0.04844358500810266
-part	claw	N	0.04844358500810266
-part	fang	N	0.04844358500810266
-part	beak	N	0.04844358500810266
-part	shell	N	0.04844358500810266
-part	legs	N	0.04844358500810266
-part	pad	N	0.04844358500810266
-part	nail	N	0.04844358500810266
-part	whisker	N	0.04844358500810266
-part	tentacle	N	0.04844358500810266
-part	belly	N	0.04844358500810266
-part	body	N	0.04844358500810266
-part	egg	N	0.04844358500810266
-part	sac	N	0.04844358500810266
-part	feeler	N	0.04844358500810266
-part	flag	N	0.04844358500810266
-movement	run	V	0.05788538986825025
-movement	fly	V	0.07235673733531281
-movement	swim	V	0.08103954581555035
-movement	creep	V	0.08441619355786495
-movement	leap	N	0.08441619355786495
-movement	fly	N	0.08441619355786495
-movement	hop	V	0.08441619355786495
-movement	leap	V	0.08441619355786495
-movement	jump	V	0.08441619355786495
-movement	crawl	V	0.06867497836890496
-place	land	N	0.03381772799696793
-place	garden	N	0.03472355999688671
-place	ditch	N	0.035679254308727634
-place	Asia	N	0.03600961777454919
-place	sea	N	0.03600961777454919
-place	underwater	A	0.03600961777454919
-place	Tanzania	N	0.036346156258423475
-place	Africa	N	0.036346156258423475
-place	India	N	0.036346156258423475
-place	terrarium	N	0.036346156258423475
-place	Kenia	N	0.036346156258423475
-place	Namibia	N	0.036346156258423475
-place	zoo	N	0.036346156258423475
-place	Sri Lanka	N	0.036346156258423475
-place	Thailand	N	0.036346156258423475
-place	tropic	N	0.03668904452501238
-place	pond	N	0.03668904452501238
-place	water	N	0.03668904452501238
-place	sanctuary	N	0.03703846399667916
-place	circus	N	0.03326609462217907
-movement	walk	V	0.05556007229833133
-user	circus	N	0.08950273574245149
-place	colony	N	0.02801530725085189
-place	kennel	N	0.02650494238212213
-colorPattern	black	N	0.01253066212754437
-colorPattern	black	A	0.01253066212754437
-colorPattern	brown	A	0.01264058021638248
-colorPattern	brown	N	0.01264058021638248
-colorPattern	spotted	A	0.013220423345574337
-colorPattern	yellow	N	0.013281346955461777
-colorPattern	yellow	A	0.013281346955461777
-colorPattern	grey	A	0.013342834672848173
-colorPattern	grey	N	0.013342834672848173
-colorPattern	green	N	0.013530761921761527
-colorPattern	orange	N	0.013530761921761527
-colorPattern	white	A	0.013530761921761527
-colorPattern	orange	A	0.013530761921761527
-colorPattern	green	A	0.013530761921761527
-colorPattern	white	N	0.013530761921761527
-colorPattern	red	A	0.013594586270449082
-colorPattern	red	N	0.013594586270449082
-colorPattern	solid	A	0.013594586270449082
-colorPattern	beige	A	0.013659015589266377
-colorPattern	striped	A	0.013659015589266377
-colorPattern	beige	N	0.013659015589266377
-colorPattern	blue	N	0.013724058520643836
-colorPattern	blue	A	0.013724058520643836
-colorPattern	leopard	N	0.013856020621803872
-activity	breathe	V	0.01205117695274642
-activity	drink	V	0.012978190564496145
-activity	play	V	0.013340372626761155
-activity	fetch	V	0.013340372626761155
-activity	bury	V	0.013340372626761155
-activity	chew	V	0.013340372626761155
-activity	chase	V	0.013340372626761155
-activity	bath	V	0.013465634341566423
-activity	kill	V	0.01352915148468702
-activity	roam	V	0.01352915148468702
-activity	live	A	0.01352915148468702
-activity	growl	V	0.01352915148468702
-activity	feed	V	0.013593270686036246
-activity	browse	V	0.013593270686036246
-activity	die	V	0.013593270686036246
-activity	roar	N	0.013593270686036246
-activity	hunt	N	0.013593270686036246
-activity	trot	N	0.013593270686036246
-activity	migrate	V	0.013593270686036246
-activity	graze	V	0.013593270686036246
-activity	forage	N	0.013593270686036246
-activity	suffer	V	0.013593270686036246
-activity	bite	V	0.013593270686036246
-activity	bite	N	0.013593270686036246
-activity	sting	V	0.013658000546445944
-activity	bait	N	0.013658000546445944
-activity	sleep	N	0.013658000546445944
-activity	feed	N	0.013658000546445944
-activity	overwinter	V	0.013658000546445944
-activity	watch	V	0.013658000546445944
-activity	kill	N	0.013658000546445944
-activity	love	N	0.013658000546445944
-activity	watch	N	0.013658000546445944
-activity	slither	V	0.013658000546445944
-activity	lick	V	0.013658000546445944
-activity	funnel	V	0.013658000546445944
-activity	live	V	0.013658000546445944
-activity	trumpet	V	0.013658000546445944
-activity	croak	V	0.013658000546445944
-activity	forage	V	0.013658000546445944
-activity	sing	V	0.013658000546445944
-activity	pollinate	V	0.013658000546445944
-activity	fuck	V	0.013658000546445944
-activity	bark	V	0.013658000546445944
-activity	eat	V	0.012102025800648302
-part	collar	N	0.03160244684232741
-generalization	mammal	N	0.012288157268078826
-generalization	eutherian	N	0.012506613397289116
-generalization	eutherian mammal	N	0.012506613397289116
-generalization	placental mammal	N	0.012506613397289116
-generalization	placental	N	0.012506613397289116
-generalization	carnivore	N	0.012562446492812728
-generalization	insect	N	0.012618780333587673
-generalization	gastropod	N	0.012618780333587673
-generalization	vertebrate	N	0.012732977440678965
-generalization	craniate	N	0.012732977440678965
-generalization	organism	N	0.012790854610863869
-generalization	feline	N	0.012790854610863869
-generalization	oviparous	N	0.012790854610863869
-generalization	canine	N	0.012790854610863869
-generalization	reptilian	N	0.012790854610863869
-generalization	canid	N	0.012790854610863869
-generalization	amphibian	N	0.012790854610863869
-generalization	being	N	0.012790854610863869
-generalization	felid	N	0.012790854610863869
-generalization	reptile	N	0.012790854610863869
-generalization	animate thing	N	0.012849260339680599
-generalization	diapsid	N	0.012849260339680599
-generalization	living thing	N	0.012849260339680599
-generalization	big cat	N	0.012849260339680599
-generalization	cat	N	0.012849260339680599
-generalization	diapsid reptile	N	0.012849260339680599
-generalization	leporid	N	0.012908201900871793
-generalization	lagomorph	N	0.012908201900871793
-generalization	arachnoid	N	0.012908201900871793
-generalization	chelonian reptile	N	0.012908201900871793
-generalization	unit	N	0.012908201900871793
-generalization	pachyderm	N	0.012908201900871793
-generalization	anapsid	N	0.012908201900871793
-generalization	lamellibranch	N	0.012908201900871793
-generalization	leporid mammal	N	0.012908201900871793
-generalization	bivalve	N	0.012908201900871793
-generalization	herbivorous	N	0.012908201900871793
-generalization	hermaphrodite	N	0.012908201900871793
-generalization	whole	N	0.012908201900871793
-generalization	mussel	N	0.012908201900871793
-generalization	even-toed ungulate	N	0.012908201900871793
-generalization	saurian	N	0.012908201900871793
-generalization	crustacean	N	0.012908201900871793
-generalization	primate	N	0.012908201900871793
-generalization	arachnid	N	0.012908201900871793
-generalization	chelonian	N	0.012908201900871793
-generalization	artiodactyl	N	0.012908201900871793
-generalization	anapsid reptile	N	0.012908201900871793
-generalization	gnawing mammal	N	0.012908201900871793
-generalization	hoofed mammal	N	0.012908201900871793
-generalization	pelecypod	N	0.012908201900871793
-generalization	ungulate	N	0.012908201900871793
-generalization	proboscidian	N	0.012908201900871793
-generalization	artiodactyl mammal	N	0.012908201900871793
-generalization	mytilid	N	0.012908201900871793
-generalization	marine mussel	N	0.012908201900871793
-generalization	ruminant	N	0.012908201900871793
-generalization	proboscidean	N	0.012908201900871793
-generalization	animal	N	0.011155977014563284
-generalization	arthropod	N	0.011726805819140974
-generalization	invertebrate	N	0.011569623183275013
-activity	nest	N	0.011517101481102365
-generalization	chordate	N	0.010854979706385553
-generalization	hymenopterous insect	N	0.010854979706385553
-generalization	hymenopteron	N	0.010854979706385553
-generalization	hymenopteran	N	0.010854979706385553
-generalization	hymenopter	N	0.010854979706385553
-place	hive	N	0.021736568103114678
-place	larva	N	0.021736568103114678
-generalization	herbivore	N	0.010131934153040431
-generalization	mollusk	N	0.010131934153040431
-activity	walk	V	0.009671996061540433
-activity	crawl	V	0.009062322712897756
-activity	run	V	0.008017940406668016
-activity	fly	V	0.008530502807094283
-activity	yelp	V	0.008689209836063479
-activity	swim	V	0.008770798660815248
-activity	howl	N	0.00885393419314525
-activity	creep	V	0.00885393419314525
-activity	fly	N	0.00885393419314525
-activity	hop	V	0.00885393419314525
-activity	leap	V	0.00885393419314525
-activity	leap	N	0.00885393419314525
-activity	jump	V	0.00885393419314525
-generalization	lepidopteron	N	0.008283050294018499
-generalization	decapod	N	0.008283050294018499
-generalization	ectotherm	N	0.008283050294018499
-generalization	lepidopteran	N	0.008283050294018499
-generalization	domestic animal	N	0.008283050294018499
-generalization	lepidopterous insect	N	0.008283050294018499
-generalization	decapod crustacean	N	0.008283050294018499
-generalization	domesticated animal	N	0.008283050294018499
+specialization	arthropod	N	-0.003394450016469609
+specialization	invertebrate	N	-0.002271087382214934
+specialization	pet	N	-0.00119528279070305
+specialization	hymenopteron	N	-0.00047615092501547367
+specialization	hymenopteran	N	-0.00047615092501547367
+specialization	chordate	N	-0.00047615092501547367
+specialization	hymenopterous insect	N	-0.00047615092501547367
+specialization	hymenopter	N	-0.00047615092501547367
+specialization	mollusk	N	0.00045544761061110757
+specialization	herbivore	N	0.00045544761061110757
+specialization	larva	N	0.00045544761061110757
+purpose	animal	N	0.007455453325798316
+specialization	lepidopteron	N	0.0017739565032502227
+specialization	ectotherm	N	0.0017739565032502227
+specialization	prey	N	0.0017739565032502227
+specialization	domesticated animal	N	0.0017739565032502227
+specialization	lepidopterous insect	N	0.0017739565032502227
+specialization	decapod	N	0.0017739565032502227
+specialization	domestic animal	N	0.0017739565032502227
+specialization	decapod crustacean	N	0.0017739565032502227
+specialization	lepidopteran	N	0.0017739565032502227
 specialization	worker	N	0.003990260463042632
-specialization	drone	N	0.00401716109537775
 specialization	queen	N	0.00401716109537775
-specialization	Yorkshire Terrier	N	0.004026208755502475
+specialization	drone	N	0.00401716109537775
+specialization	Boxer	N	0.004026208755502475
+specialization	Golden Retriever	N	0.004026208755502475
 specialization	Beagle	N	0.004026208755502475
 specialization	Rottweiler	N	0.004026208755502475
 specialization	Bulldog	N	0.004026208755502475
 specialization	German Shepherd	N	0.004026208755502475
-specialization	Boxer	N	0.004026208755502475
-specialization	Golden Retriever	N	0.004026208755502475
-specialization	Poodle	N	0.004026208755502475
+specialization	Yorkshire Terrier	N	0.004026208755502475
+specialization	red fox	N	0.004026208755502475
+specialization	louse	N	0.004026208755502475
 specialization	kit fox	N	0.004026208755502475
 specialization	Labrador	N	0.004026208755502475
 specialization	bug	N	0.004026208755502475
-specialization	red fox	N	0.004026208755502475
-specialization	louse	N	0.004026208755502475
-specialization	Newfoundland	N	0.004035297262851239
-specialization	racer	N	0.004035297262851239
-specialization	sipunculid	N	0.004035297262851239
-specialization	Sinornis	N	0.004035297262851239
-specialization	Vulpes vulpes	N	0.004035297262851239
-specialization	lapin	N	0.004035297262851239
-specialization	Felis catus	N	0.004035297262851239
-specialization	slave-maker	N	0.004035297262851239
-specialization	leaf miner	N	0.004035297262851239
-specialization	gallfly	N	0.004035297262851239
-specialization	Arctic fox	N	0.004035297262851239
-specialization	varment	N	0.004035297262851239
-specialization	biting louse	N	0.004035297262851239
-specialization	ostracod	N	0.004035297262851239
-specialization	giant	N	0.004035297262851239
-specialization	nonpasserine bird	N	0.004035297262851239
-specialization	ratite	N	0.004035297262851239
-specialization	young	N	0.004035297262851239
-specialization	pug	N	0.004035297262851239
-specialization	quarry	N	0.004035297262851239
-specialization	Alopex lagopus	N	0.004035297262851239
-specialization	working dog	N	0.004035297262851239
-specialization	holometabola	N	0.004035297262851239
-specialization	leaf-cutting bee	N	0.004035297262851239
-specialization	prairie wolf	N	0.004035297262851239
-specialization	elaterid beetle	N	0.004035297262851239
-specialization	pollinator	N	0.004035297262851239
-specialization	Angora rabbit	N	0.004035297262851239
-specialization	conceptus	N	0.004035297262851239
-specialization	wood rabbit	N	0.004035297262851239
-specialization	domestic cat	N	0.004035297262851239
-specialization	homopteran	N	0.004035297262851239
-specialization	Fenusa pusilla	N	0.004035297262851239
-specialization	deathwatch beetle	N	0.004035297262851239
-specialization	varmint	N	0.004035297262851239
-specialization	lapdog	N	0.004035297262851239
-specialization	Urocyon cinereoargenteus	N	0.004035297262851239
-specialization	cuculiform bird	N	0.004035297262851239
-specialization	rabbit ears	N	0.004035297262851239
-specialization	cnidarian	N	0.004035297262851239
-specialization	thysanopter	N	0.004035297262851239
-specialization	ladybug	N	0.004035297262851239
-specialization	gray fox	N	0.004035297262851239
-specialization	coelenterate	N	0.004035297262851239
-specialization	plecopteran	N	0.004035297262851239
-specialization	birch leaf miner	N	0.004035297262851239
-specialization	Leonberg	N	0.004035297262851239
-specialization	doggie	N	0.004035297262851239
-specialization	biped	N	0.004035297262851239
-specialization	thysanuran insect	N	0.004035297262851239
-specialization	dipterous insect	N	0.004035297262851239
-specialization	mutant	N	0.004035297262851239
-specialization	range animal	N	0.004035297262851239
-specialization	creepy-crawly	N	0.004035297262851239
-specialization	offspring	N	0.004035297262851239
+specialization	Poodle	N	0.004026208755502475
+specialization	Alaska king crab	N	0.004035297262851239
+specialization	caprimulgiform bird	N	0.004035297262851239
+specialization	gray wolf	N	0.004035297262851239
+specialization	homoiotherm	N	0.004035297262851239
+specialization	pharaoh ant	N	0.004035297262851239
+specialization	honeybee	N	0.004035297262851239
+specialization	slave ant	N	0.004035297262851239
+specialization	tiger beetle	N	0.004035297262851239
+specialization	pupa	N	0.004035297262851239
+specialization	danaid butterfly	N	0.004035297262851239
+specialization	fictional animal	N	0.004035297262851239
+specialization	bird of passage	N	0.004035297262851239
+specialization	gallinacean	N	0.004035297262851239
+specialization	whirligig beetle	N	0.004035297262851239
+specialization	Menippe mercenaria	N	0.004035297262851239
+specialization	white ant	N	0.004035297262851239
+specialization	bunny rabbit	N	0.004035297262851239
+specialization	neuropteron	N	0.004035297262851239
+specialization	poikilotherm	N	0.004035297262851239
+specialization	driver ant	N	0.004035297262851239
+specialization	bird louse	N	0.004035297262851239
+specialization	lady beetle	N	0.004035297262851239
+specialization	work animal	N	0.004035297262851239
+specialization	phasmid	N	0.004035297262851239
+specialization	metabola	N	0.004035297262851239
+specialization	stone fly	N	0.004035297262851239
+specialization	branchiopod	N	0.004035297262851239
+specialization	archeopteryx	N	0.004035297262851239
+specialization	Cancer irroratus	N	0.004035297262851239
+specialization	lampshell	N	0.004035297262851239
+specialization	adult	N	0.004035297262851239
+specialization	bird of prey	N	0.004035297262851239
+specialization	metazoan	N	0.004035297262851239
+specialization	wolf pup	N	0.004035297262851239
+specialization	hen	N	0.004035297262851239
+specialization	andrena	N	0.004035297262851239
+specialization	doggy	N	0.004035297262851239
+specialization	blister beetle	N	0.004035297262851239
+specialization	elaterid	N	0.004035297262851239
+specialization	feeder	N	0.004035297262851239
+specialization	red wolf	N	0.004035297262851239
+specialization	two-winged insects	N	0.004035297262851239
+specialization	dictyopterous insect	N	0.004035297262851239
+specialization	dickeybird	N	0.004035297262851239
+specialization	ladybird	N	0.004035297262851239
+specialization	hunting dog	N	0.004035297262851239
+specialization	coraciiform bird	N	0.004035297262851239
+specialization	female	N	0.004035297262851239
+specialization	timber wolf	N	0.004035297262851239
+specialization	clerid beetle	N	0.004035297262851239
+specialization	Alaska crab	N	0.004035297262851239
+specialization	raptor	N	0.004035297262851239
+specialization	Angora	N	0.004035297262851239
+specialization	chrysomelid	N	0.004035297262851239
+specialization	gallinaceous bird	N	0.004035297262851239
+specialization	dalmatian	N	0.004035297262851239
+specialization	Canis lupus	N	0.004035297262851239
+specialization	ratite bird	N	0.004035297262851239
+specialization	nymphalid butterfly	N	0.004035297262851239
+specialization	Reynard	N	0.004035297262851239
+specialization	twitterer	N	0.004035297262851239
+specialization	brush wolf	N	0.004035297262851239
+specialization	sulphur butterfly	N	0.004035297262851239
+specialization	Belgian hare	N	0.004035297262851239
+specialization	Canis lupus tundrarum	N	0.004035297262851239
+specialization	bumblebee	N	0.004035297262851239
+specialization	brush-footed butterfly	N	0.004035297262851239
+specialization	barnacle	N	0.004035297262851239
+specialization	hard-shell crab	N	0.004035297262851239
+specialization	scavenger	N	0.004035297262851239
+specialization	ground beetle	N	0.004035297262851239
+specialization	nester	N	0.004035297262851239
+specialization	bow-wow	N	0.004035297262851239
+specialization	Great Pyrenees	N	0.004035297262851239
+specialization	Xestobium rufovillosum	N	0.004035297262851239
+specialization	sea mat	N	0.004035297262851239
+specialization	water beetle	N	0.004035297262851239
+specialization	ephemerid	N	0.004035297262851239
+specialization	zoophyte	N	0.004035297262851239
+specialization	web spinner	N	0.004035297262851239
+specialization	longicorn	N	0.004035297262851239
+specialization	Belgian griffon	N	0.004035297262851239
+specialization	apodiform bird	N	0.004035297262851239
+specialization	acrodont	N	0.004035297262851239
+specialization	dipteron	N	0.004035297262851239
+specialization	trichopteran	N	0.004035297262851239
+specialization	long-horned beetle	N	0.004035297262851239
+specialization	hexapod	N	0.004035297262851239
+specialization	ephemeropteran	N	0.004035297262851239
+specialization	fire ant	N	0.004035297262851239
+specialization	ephemeral	N	0.004035297262851239
+specialization	pest	N	0.004035297262851239
+specialization	sucking louse	N	0.004035297262851239
+specialization	ringlet	N	0.004035297262851239
+specialization	pleurodont	N	0.004035297262851239
+specialization	puppy	N	0.004035297262851239
+specialization	ladybird beetle	N	0.004035297262851239
 specialization	cuckoo-bumblebee	N	0.004035297262851239
 specialization	prairie fox	N	0.004035297262851239
 specialization	homeotherm	N	0.004035297262851239
@@ -402,224 +147,142 @@ specialization	stunt	N	0.004035297262851239
 specialization	trichopteron	N	0.004035297262851239
 specialization	ringlet butterfly	N	0.004035297262851239
 specialization	woodborer	N	0.004035297262851239
-specialization	parazoan	N	0.004035297262851239
 specialization	potter bee	N	0.004035297262851239
-specialization	seed shrimp	N	0.004035297262851239
+specialization	parazoan	N	0.004035297262851239
 specialization	mollusc	N	0.004035297262851239
+specialization	seed shrimp	N	0.004035297262851239
 specialization	Mexican hairless	N	0.004035297262851239
 specialization	mongrel	N	0.004035297262851239
 specialization	Helix pomatia	N	0.004035297262851239
 specialization	carinate bird	N	0.004035297262851239
-specialization	imago	N	0.004035297262851239
+specialization	danaid	N	0.004035297262851239
 specialization	protoavis	N	0.004035297262851239
 specialization	bulldog ant	N	0.004035297262851239
-specialization	danaid	N	0.004035297262851239
+specialization	imago	N	0.004035297262851239
 specialization	aquatic bird	N	0.004035297262851239
 specialization	archaeopteryx	N	0.004035297262851239
 specialization	alkali bee	N	0.004035297262851239
 specialization	cirripede	N	0.004035297262851239
-specialization	army ant	N	0.004035297262851239
 specialization	mutt	N	0.004035297262851239
+specialization	army ant	N	0.004035297262851239
 specialization	beetle	N	0.004035297262851239
 specialization	bunny	N	0.004035297262851239
 specialization	dickybird	N	0.004035297262851239
+specialization	meloid	N	0.004035297262851239
 specialization	Anoplophora glabripennis	N	0.004035297262851239
 specialization	sea moss	N	0.004035297262851239
-specialization	meloid	N	0.004035297262851239
-specialization	passeriform bird	N	0.004035297262851239
 specialization	rotifer	N	0.004035297262851239
+specialization	passeriform bird	N	0.004035297262851239
 specialization	pureblood	N	0.004035297262851239
 specialization	vixen	N	0.004035297262851239
 specialization	cirriped	N	0.004035297262851239
+specialization	racer	N	0.004035297262851239
+specialization	sipunculid	N	0.004035297262851239
 specialization	rove beetle	N	0.004035297262851239
-specialization	chrysomelid	N	0.004035297262851239
+specialization	Vulpes vulpes	N	0.004035297262851239
+specialization	lapin	N	0.004035297262851239
+specialization	Felis catus	N	0.004035297262851239
+specialization	leaf miner	N	0.004035297262851239
+specialization	slave-maker	N	0.004035297262851239
+specialization	Arctic fox	N	0.004035297262851239
+specialization	gallfly	N	0.004035297262851239
+specialization	ostracod	N	0.004035297262851239
+specialization	biting louse	N	0.004035297262851239
+specialization	varment	N	0.004035297262851239
 specialization	cock	N	0.004035297262851239
-specialization	gallinaceous bird	N	0.004035297262851239
-specialization	dalmatian	N	0.004035297262851239
+specialization	nonpasserine bird	N	0.004035297262851239
+specialization	giant	N	0.004035297262851239
+specialization	young	N	0.004035297262851239
+specialization	ratite	N	0.004035297262851239
+specialization	Sinornis	N	0.004035297262851239
+specialization	quarry	N	0.004035297262851239
+specialization	Alopex lagopus	N	0.004035297262851239
+specialization	holometabola	N	0.004035297262851239
+specialization	pug	N	0.004035297262851239
+specialization	leaf-cutting bee	N	0.004035297262851239
+specialization	working dog	N	0.004035297262851239
+specialization	prairie wolf	N	0.004035297262851239
+specialization	elaterid beetle	N	0.004035297262851239
+specialization	pollinator	N	0.004035297262851239
+specialization	conceptus	N	0.004035297262851239
+specialization	Angora rabbit	N	0.004035297262851239
 specialization	pooch	N	0.004035297262851239
-specialization	Canis lupus	N	0.004035297262851239
-specialization	ratite bird	N	0.004035297262851239
-specialization	nymphalid butterfly	N	0.004035297262851239
-specialization	Reynard	N	0.004035297262851239
-specialization	twitterer	N	0.004035297262851239
-specialization	brush wolf	N	0.004035297262851239
-specialization	sulphur butterfly	N	0.004035297262851239
-specialization	Canis lupus tundrarum	N	0.004035297262851239
-specialization	Belgian hare	N	0.004035297262851239
-specialization	brush-footed butterfly	N	0.004035297262851239
-specialization	bumblebee	N	0.004035297262851239
-specialization	hard-shell crab	N	0.004035297262851239
-specialization	barnacle	N	0.004035297262851239
-specialization	scavenger	N	0.004035297262851239
-specialization	ground beetle	N	0.004035297262851239
-specialization	nester	N	0.004035297262851239
-specialization	bow-wow	N	0.004035297262851239
-specialization	Great Pyrenees	N	0.004035297262851239
-specialization	sea mat	N	0.004035297262851239
-specialization	Xestobium rufovillosum	N	0.004035297262851239
-specialization	water beetle	N	0.004035297262851239
-specialization	ephemerid	N	0.004035297262851239
-specialization	zoophyte	N	0.004035297262851239
-specialization	web spinner	N	0.004035297262851239
-specialization	Belgian griffon	N	0.004035297262851239
-specialization	longicorn	N	0.004035297262851239
-specialization	apodiform bird	N	0.004035297262851239
-specialization	acrodont	N	0.004035297262851239
-specialization	dipteron	N	0.004035297262851239
-specialization	trichopteran	N	0.004035297262851239
-specialization	long-horned beetle	N	0.004035297262851239
-specialization	hexapod	N	0.004035297262851239
-specialization	ephemeral	N	0.004035297262851239
-specialization	fire ant	N	0.004035297262851239
-specialization	ephemeropteran	N	0.004035297262851239
-specialization	pest	N	0.004035297262851239
-specialization	sucking louse	N	0.004035297262851239
-specialization	ringlet	N	0.004035297262851239
-specialization	pleurodont	N	0.004035297262851239
-specialization	puppy	N	0.004035297262851239
-specialization	ladybird beetle	N	0.004035297262851239
-specialization	Alaska king crab	N	0.004035297262851239
-specialization	gray wolf	N	0.004035297262851239
-specialization	homoiotherm	N	0.004035297262851239
-specialization	honeybee	N	0.004035297262851239
-specialization	pharaoh ant	N	0.004035297262851239
-specialization	slave ant	N	0.004035297262851239
-specialization	danaid butterfly	N	0.004035297262851239
-specialization	tiger beetle	N	0.004035297262851239
-specialization	pupa	N	0.004035297262851239
-specialization	fictional animal	N	0.004035297262851239
-specialization	bird of passage	N	0.004035297262851239
-specialization	gallinacean	N	0.004035297262851239
-specialization	whirligig beetle	N	0.004035297262851239
-specialization	white ant	N	0.004035297262851239
-specialization	Menippe mercenaria	N	0.004035297262851239
-specialization	neuropteron	N	0.004035297262851239
-specialization	bunny rabbit	N	0.004035297262851239
-specialization	driver ant	N	0.004035297262851239
-specialization	poikilotherm	N	0.004035297262851239
-specialization	bird louse	N	0.004035297262851239
-specialization	lady beetle	N	0.004035297262851239
-specialization	work animal	N	0.004035297262851239
-specialization	phasmid	N	0.004035297262851239
-specialization	stone fly	N	0.004035297262851239
-specialization	archeopteryx	N	0.004035297262851239
-specialization	metabola	N	0.004035297262851239
-specialization	branchiopod	N	0.004035297262851239
-specialization	Cancer irroratus	N	0.004035297262851239
-specialization	lampshell	N	0.004035297262851239
-specialization	bird of prey	N	0.004035297262851239
-specialization	adult	N	0.004035297262851239
-specialization	wolf pup	N	0.004035297262851239
-specialization	metazoan	N	0.004035297262851239
-specialization	hen	N	0.004035297262851239
-specialization	andrena	N	0.004035297262851239
-specialization	doggy	N	0.004035297262851239
-specialization	elaterid	N	0.004035297262851239
-specialization	blister beetle	N	0.004035297262851239
-specialization	feeder	N	0.004035297262851239
-specialization	red wolf	N	0.004035297262851239
-specialization	two-winged insects	N	0.004035297262851239
-specialization	dictyopterous insect	N	0.004035297262851239
-specialization	dickeybird	N	0.004035297262851239
-specialization	ladybird	N	0.004035297262851239
-specialization	hunting dog	N	0.004035297262851239
-specialization	coraciiform bird	N	0.004035297262851239
-specialization	female	N	0.004035297262851239
-specialization	timber wolf	N	0.004035297262851239
-specialization	clerid beetle	N	0.004035297262851239
-specialization	Alaska crab	N	0.004035297262851239
-specialization	raptor	N	0.004035297262851239
-specialization	Angora	N	0.004035297262851239
-specialization	lightning bug	N	0.004035297262851239
-specialization	defoliator	N	0.004035297262851239
-specialization	grey fox	N	0.004035297262851239
-specialization	omnivore	N	0.004035297262851239
-specialization	stonefly	N	0.004035297262851239
-specialization	proturan	N	0.004035297262851239
-specialization	lycaenid	N	0.004035297262851239
-specialization	house cat	N	0.004035297262851239
-specialization	branchiopodan	N	0.004035297262851239
-specialization	worm	N	0.004035297262851239
-specialization	thysanuron	N	0.004035297262851239
-specialization	bark beetle	N	0.004035297262851239
-specialization	Nomia melanderi	N	0.004035297262851239
-specialization	lamp shell	N	0.004035297262851239
-specialization	European rabbit	N	0.004035297262851239
-specialization	Alaskan king crab	N	0.004035297262851239
-specialization	leporide	N	0.004035297262851239
-specialization	dipteran	N	0.004035297262851239
-specialization	Arctic wolf	N	0.004035297262851239
-specialization	basenji	N	0.004035297262851239
-specialization	Asian longhorned beetle	N	0.004035297262851239
-specialization	lamellicorn beetle	N	0.004035297262851239
-specialization	mussel shrimp	N	0.004035297262851239
-specialization	rock crab	N	0.004035297262851239
-specialization	cottontail rabbit	N	0.004035297262851239
-specialization	grey wolf	N	0.004035297262851239
-specialization	neuropteran	N	0.004035297262851239
-specialization	Canis rufus	N	0.004035297262851239
-specialization	corgi	N	0.004035297262851239
-specialization	little black ant	N	0.004035297262851239
-specialization	Canis latrans	N	0.004035297262851239
-specialization	slave-making ant	N	0.004035297262851239
-specialization	Old World rabbit	N	0.004035297262851239
-specialization	purebred	N	0.004035297262851239
-specialization	predator	N	0.004035297262851239
-specialization	carpenter ant	N	0.004035297262851239
-specialization	mason bee	N	0.004035297262851239
-specialization	Cancer borealis	N	0.004035297262851239
-specialization	caprimulgiform bird	N	0.004035297262851239
-specialization	toy	N	0.004035297262851239
-specialization	stomatopod	N	0.004035297262851239
-specialization	carpet bug	N	0.004035297262851239
-specialization	lycaenid butterfly	N	0.004035297262851239
-specialization	flightless bird	N	0.004035297262851239
-specialization	cottontail	N	0.004035297262851239
-specialization	marine creature	N	0.004035297262851239
-specialization	hemipteran	N	0.004035297262851239
-specialization	stone crab	N	0.004035297262851239
-specialization	Felis domesticus	N	0.004035297262851239
-specialization	telsontail	N	0.004035297262851239
-specialization	pea crab	N	0.004035297262851239
-specialization	game	N	0.004035297262851239
-specialization	comb jelly	N	0.004035297262851239
-specialization	polyzoan	N	0.004035297262851239
-specialization	carabid beetle	N	0.004035297262851239
-specialization	swimming crab	N	0.004035297262851239
-specialization	social insect	N	0.004035297262851239
-specialization	Vulpes macrotis	N	0.004035297262851239
-specialization	heteropterous insect	N	0.004035297262851239
-specialization	carriage dog	N	0.004035297262851239
-specialization	toy dog	N	0.004035297262851239
-specialization	nymphalid	N	0.004035297262851239
-specialization	parrot	N	0.004035297262851239
-specialization	Ibero-mesornis	N	0.004035297262851239
-specialization	barker	N	0.004035297262851239
-specialization	phasmid insect	N	0.004035297262851239
-specialization	Dungeness crab	N	0.004035297262851239
-specialization	carpet beetle	N	0.004035297262851239
-specialization	garden snail	N	0.004035297262851239
-specialization	weevil	N	0.004035297262851239
-specialization	darter	N	0.004035297262851239
-specialization	odonate	N	0.004035297262851239
-specialization	maned wolf	N	0.004035297262851239
-specialization	Newfoundland dog	N	0.004035297262851239
-specialization	thoroughbred	N	0.004035297262851239
-specialization	phoronid	N	0.004035297262851239
-specialization	peanut worm	N	0.004035297262851239
-specialization	neuropterous insect	N	0.004035297262851239
-specialization	Jonah crab	N	0.004035297262851239
-specialization	Paralithodes camtschatica	N	0.004035297262851239
-specialization	mate	N	0.004035297262851239
-specialization	entoproct	N	0.004035297262851239
-specialization	stomatopod crustacean	N	0.004035297262851239
-specialization	Oryctolagus cuniculus	N	0.004035297262851239
-specialization	andrenid	N	0.004035297262851239
-specialization	griffon	N	0.004035297262851239
-specialization	ephemeron	N	0.004035297262851239
-specialization	Canis niger	N	0.004035297262851239
-specialization	longicorn beetle	N	0.004035297262851239
-specialization	fiddler crab	N	0.004035297262851239
+specialization	wood rabbit	N	0.004035297262851239
+specialization	domestic cat	N	0.004035297262851239
+specialization	Fenusa pusilla	N	0.004035297262851239
+specialization	homopteran	N	0.004035297262851239
+specialization	deathwatch beetle	N	0.004035297262851239
+specialization	lapdog	N	0.004035297262851239
+specialization	varmint	N	0.004035297262851239
+specialization	Urocyon cinereoargenteus	N	0.004035297262851239
+specialization	cuculiform bird	N	0.004035297262851239
+specialization	cnidarian	N	0.004035297262851239
+specialization	rabbit ears	N	0.004035297262851239
+specialization	ladybug	N	0.004035297262851239
+specialization	thysanopter	N	0.004035297262851239
+specialization	gray fox	N	0.004035297262851239
+specialization	plecopteran	N	0.004035297262851239
+specialization	coelenterate	N	0.004035297262851239
+specialization	birch leaf miner	N	0.004035297262851239
+specialization	Leonberg	N	0.004035297262851239
+specialization	doggie	N	0.004035297262851239
+specialization	dipterous insect	N	0.004035297262851239
+specialization	biped	N	0.004035297262851239
+specialization	thysanuran insect	N	0.004035297262851239
+specialization	mutant	N	0.004035297262851239
+specialization	range animal	N	0.004035297262851239
+specialization	creepy-crawly	N	0.004035297262851239
+specialization	offspring	N	0.004035297262851239
+specialization	bryozoan	N	0.004035297262851239
+specialization	coyote	N	0.004035297262851239
+specialization	piciform bird	N	0.004035297262851239
+specialization	sea creature	N	0.004035297262851239
+specialization	pierid butterfly	N	0.004035297262851239
+specialization	moulter	N	0.004035297262851239
+specialization	male	N	0.004035297262851239
+specialization	moss animal	N	0.004035297262851239
+specialization	archaeornis	N	0.004035297262851239
+specialization	elater	N	0.004035297262851239
+specialization	white fox	N	0.004035297262851239
+specialization	migrator	N	0.004035297262851239
+specialization	king crab	N	0.004035297262851239
+specialization	night bird	N	0.004035297262851239
+specialization	termite	N	0.004035297262851239
+specialization	leaf-cutter	N	0.004035297262851239
+specialization	hemipteron	N	0.004035297262851239
+specialization	sea animal	N	0.004035297262851239
+specialization	Symbion pandora	N	0.004035297262851239
+specialization	poriferan	N	0.004035297262851239
+specialization	hemipterous insect	N	0.004035297262851239
+specialization	wildcat	N	0.004035297262851239
+specialization	fertilized egg	N	0.004035297262851239
+specialization	clerid	N	0.004035297262851239
+specialization	spider crab	N	0.004035297262851239
+specialization	coach dog	N	0.004035297262851239
+specialization	pug-dog	N	0.004035297262851239
+specialization	Brussels griffon	N	0.004035297262851239
+specialization	marine animal	N	0.004035297262851239
+specialization	ctenophore	N	0.004035297262851239
+specialization	pharaoh's ant	N	0.004035297262851239
+specialization	sulfur butterfly	N	0.004035297262851239
+specialization	mecopteran	N	0.004035297262851239
+specialization	homotherm	N	0.004035297262851239
+specialization	orthopteran	N	0.004035297262851239
+specialization	mining bee	N	0.004035297262851239
+specialization	soft-shelled crab	N	0.004035297262851239
+specialization	Vulpes fulva	N	0.004035297262851239
+specialization	survivor	N	0.004035297262851239
+specialization	collembolan	N	0.004035297262851239
+specialization	copepod crustacean	N	0.004035297262851239
+specialization	molter	N	0.004035297262851239
+specialization	Welsh corgi	N	0.004035297262851239
+specialization	psocopterous insect	N	0.004035297262851239
+specialization	shellfish	N	0.004035297262851239
+specialization	zooplankton	N	0.004035297262851239
+specialization	dicky-bird	N	0.004035297262851239
+specialization	leaf-miner	N	0.004035297262851239
+specialization	Newfoundland	N	0.004035297262851239
+specialization	brachyuran	N	0.004035297262851239
 specialization	leaf-cutter bee	N	0.004035297262851239
 specialization	scorpion shell	N	0.004035297262851239
 specialization	captive	N	0.004035297262851239
@@ -636,104 +299,441 @@ specialization	stayer	N	0.004035297262851239
 specialization	malacostracan crustacean	N	0.004035297262851239
 specialization	pierid	N	0.004035297262851239
 specialization	embryo	N	0.004035297262851239
-specialization	white wolf	N	0.004035297262851239
-specialization	predatory animal	N	0.004035297262851239
 specialization	ectoproct	N	0.004035297262851239
 specialization	trichopterous insect	N	0.004035297262851239
-specialization	legionary ant	N	0.004035297262851239
+specialization	white wolf	N	0.004035297262851239
+specialization	predatory animal	N	0.004035297262851239
 specialization	ladybeetle	N	0.004035297262851239
-specialization	insectivore	N	0.004035297262851239
+specialization	legionary ant	N	0.004035297262851239
 specialization	earwig	N	0.004035297262851239
+specialization	insectivore	N	0.004035297262851239
 specialization	flying bird	N	0.004035297262851239
 specialization	flea	N	0.004035297262851239
-specialization	branchiopod crustacean	N	0.004035297262851239
-specialization	brachiopod	N	0.004035297262851239
+specialization	carpenter bee	N	0.004035297262851239
 specialization	echinoderm	N	0.004035297262851239
+specialization	brachiopod	N	0.004035297262851239
 specialization	borer	N	0.004035297262851239
+specialization	branchiopod crustacean	N	0.004035297262851239
 specialization	leaf beetle	N	0.004035297262851239
 specialization	homopterous insect	N	0.004035297262851239
 specialization	dickey-bird	N	0.004035297262851239
 specialization	humblebee	N	0.004035297262851239
-specialization	carpenter bee	N	0.004035297262851239
 specialization	carinate	N	0.004035297262851239
 specialization	orthopteron	N	0.004035297262851239
-specialization	soft-shell crab	N	0.004035297262851239
 specialization	edible snail	N	0.004035297262851239
+specialization	soft-shell crab	N	0.004035297262851239
 specialization	firefly	N	0.004035297262851239
 specialization	cur	N	0.004035297262851239
 specialization	Archaeopteryx lithographica	N	0.004035297262851239
 specialization	four-footed butterfly	N	0.004035297262851239
 specialization	orthopterous insect	N	0.004035297262851239
-specialization	wood ant	N	0.004035297262851239
-specialization	spitz	N	0.004035297262851239
 specialization	passerine	N	0.004035297262851239
-specialization	bryozoan	N	0.004035297262851239
-specialization	coyote	N	0.004035297262851239
-specialization	piciform bird	N	0.004035297262851239
-specialization	sea creature	N	0.004035297262851239
-specialization	moulter	N	0.004035297262851239
-specialization	pierid butterfly	N	0.004035297262851239
-specialization	moss animal	N	0.004035297262851239
-specialization	male	N	0.004035297262851239
-specialization	elater	N	0.004035297262851239
-specialization	archaeornis	N	0.004035297262851239
-specialization	white fox	N	0.004035297262851239
-specialization	migrator	N	0.004035297262851239
-specialization	night bird	N	0.004035297262851239
-specialization	king crab	N	0.004035297262851239
-specialization	termite	N	0.004035297262851239
-specialization	leaf-cutter	N	0.004035297262851239
-specialization	hemipteron	N	0.004035297262851239
-specialization	sea animal	N	0.004035297262851239
-specialization	Symbion pandora	N	0.004035297262851239
-specialization	poriferan	N	0.004035297262851239
-specialization	hemipterous insect	N	0.004035297262851239
-specialization	wildcat	N	0.004035297262851239
-specialization	fertilized egg	N	0.004035297262851239
-specialization	clerid	N	0.004035297262851239
-specialization	pug-dog	N	0.004035297262851239
-specialization	spider crab	N	0.004035297262851239
-specialization	coach dog	N	0.004035297262851239
-specialization	Brussels griffon	N	0.004035297262851239
-specialization	marine animal	N	0.004035297262851239
-specialization	ctenophore	N	0.004035297262851239
-specialization	pharaoh's ant	N	0.004035297262851239
-specialization	sulfur butterfly	N	0.004035297262851239
-specialization	mecopteran	N	0.004035297262851239
-specialization	homotherm	N	0.004035297262851239
-specialization	orthopteran	N	0.004035297262851239
-specialization	soft-shelled crab	N	0.004035297262851239
-specialization	mining bee	N	0.004035297262851239
-specialization	Vulpes fulva	N	0.004035297262851239
-specialization	survivor	N	0.004035297262851239
-specialization	collembolan	N	0.004035297262851239
-specialization	molter	N	0.004035297262851239
-specialization	copepod crustacean	N	0.004035297262851239
-specialization	Welsh corgi	N	0.004035297262851239
-specialization	psocopterous insect	N	0.004035297262851239
-specialization	shellfish	N	0.004035297262851239
-specialization	zooplankton	N	0.004035297262851239
-specialization	leaf-miner	N	0.004035297262851239
-specialization	dicky-bird	N	0.004035297262851239
-specialization	brachyuran	N	0.004035297262851239
-specialization	domesticated animal	N	0.0017739565032502227
-specialization	decapod	N	0.0017739565032502227
-specialization	ectotherm	N	0.0017739565032502227
-specialization	prey	N	0.0017739565032502227
-specialization	lepidopterous insect	N	0.0017739565032502227
-specialization	lepidopteron	N	0.0017739565032502227
-specialization	lepidopteran	N	0.0017739565032502227
-specialization	domestic animal	N	0.0017739565032502227
-specialization	decapod crustacean	N	0.0017739565032502227
-purpose	animal	N	0.007455453325798316
-specialization	herbivore	N	0.00045544761061110757
-specialization	mollusk	N	0.00045544761061110757
-specialization	larva	N	0.00045544761061110757
-specialization	chordate	N	-0.00047615092501547367
-specialization	hymenopteran	N	-0.00047615092501547367
-specialization	hymenopteron	N	-0.00047615092501547367
-specialization	hymenopter	N	-0.00047615092501547367
-specialization	hymenopterous insect	N	-0.00047615092501547367
-specialization	pet	N	-0.00119528279070305
-specialization	invertebrate	N	-0.002271087382214934
-specialization	arthropod	N	-0.003394450016469609
+specialization	wood ant	N	0.004035297262851239
+specialization	toy	N	0.004035297262851239
+specialization	spitz	N	0.004035297262851239
+specialization	stomatopod	N	0.004035297262851239
+specialization	carpet bug	N	0.004035297262851239
+specialization	cottontail	N	0.004035297262851239
+specialization	lycaenid butterfly	N	0.004035297262851239
+specialization	marine creature	N	0.004035297262851239
+specialization	hemipteran	N	0.004035297262851239
+specialization	flightless bird	N	0.004035297262851239
+specialization	stone crab	N	0.004035297262851239
+specialization	Felis domesticus	N	0.004035297262851239
+specialization	telsontail	N	0.004035297262851239
+specialization	game	N	0.004035297262851239
+specialization	pea crab	N	0.004035297262851239
+specialization	polyzoan	N	0.004035297262851239
+specialization	comb jelly	N	0.004035297262851239
+specialization	carabid beetle	N	0.004035297262851239
+specialization	heteropterous insect	N	0.004035297262851239
+specialization	swimming crab	N	0.004035297262851239
+specialization	Vulpes macrotis	N	0.004035297262851239
+specialization	social insect	N	0.004035297262851239
+specialization	carriage dog	N	0.004035297262851239
+specialization	toy dog	N	0.004035297262851239
+specialization	nymphalid	N	0.004035297262851239
+specialization	parrot	N	0.004035297262851239
+specialization	Ibero-mesornis	N	0.004035297262851239
+specialization	barker	N	0.004035297262851239
+specialization	phasmid insect	N	0.004035297262851239
+specialization	Dungeness crab	N	0.004035297262851239
+specialization	carpet beetle	N	0.004035297262851239
+specialization	garden snail	N	0.004035297262851239
+specialization	weevil	N	0.004035297262851239
+specialization	odonate	N	0.004035297262851239
+specialization	darter	N	0.004035297262851239
+specialization	maned wolf	N	0.004035297262851239
+specialization	Newfoundland dog	N	0.004035297262851239
+specialization	thoroughbred	N	0.004035297262851239
+specialization	phoronid	N	0.004035297262851239
+specialization	peanut worm	N	0.004035297262851239
+specialization	neuropterous insect	N	0.004035297262851239
+specialization	Jonah crab	N	0.004035297262851239
+specialization	mate	N	0.004035297262851239
+specialization	Paralithodes camtschatica	N	0.004035297262851239
+specialization	entoproct	N	0.004035297262851239
+specialization	stomatopod crustacean	N	0.004035297262851239
+specialization	Oryctolagus cuniculus	N	0.004035297262851239
+specialization	andrenid	N	0.004035297262851239
+specialization	griffon	N	0.004035297262851239
+specialization	ephemeron	N	0.004035297262851239
+specialization	Canis niger	N	0.004035297262851239
+specialization	longicorn beetle	N	0.004035297262851239
+specialization	fiddler crab	N	0.004035297262851239
+specialization	defoliator	N	0.004035297262851239
+specialization	lightning bug	N	0.004035297262851239
+specialization	grey fox	N	0.004035297262851239
+specialization	omnivore	N	0.004035297262851239
+specialization	stonefly	N	0.004035297262851239
+specialization	proturan	N	0.004035297262851239
+specialization	lycaenid	N	0.004035297262851239
+specialization	house cat	N	0.004035297262851239
+specialization	branchiopodan	N	0.004035297262851239
+specialization	worm	N	0.004035297262851239
+specialization	thysanuron	N	0.004035297262851239
+specialization	bark beetle	N	0.004035297262851239
+specialization	Nomia melanderi	N	0.004035297262851239
+specialization	Alaskan king crab	N	0.004035297262851239
+specialization	lamp shell	N	0.004035297262851239
+specialization	European rabbit	N	0.004035297262851239
+specialization	basenji	N	0.004035297262851239
+specialization	leporide	N	0.004035297262851239
+specialization	dipteran	N	0.004035297262851239
+specialization	Arctic wolf	N	0.004035297262851239
+specialization	Asian longhorned beetle	N	0.004035297262851239
+specialization	lamellicorn beetle	N	0.004035297262851239
+specialization	mussel shrimp	N	0.004035297262851239
+specialization	rock crab	N	0.004035297262851239
+specialization	cottontail rabbit	N	0.004035297262851239
+specialization	grey wolf	N	0.004035297262851239
+specialization	neuropteran	N	0.004035297262851239
+specialization	Canis rufus	N	0.004035297262851239
+specialization	corgi	N	0.004035297262851239
+specialization	little black ant	N	0.004035297262851239
+specialization	slave-making ant	N	0.004035297262851239
+specialization	Canis latrans	N	0.004035297262851239
+specialization	Old World rabbit	N	0.004035297262851239
+specialization	purebred	N	0.004035297262851239
+specialization	carpenter ant	N	0.004035297262851239
+specialization	predator	N	0.004035297262851239
+specialization	mason bee	N	0.004035297262851239
+specialization	Cancer borealis	N	0.004035297262851239
+generalization	ectotherm	N	0.008283050294018499
+generalization	lepidopteron	N	0.008283050294018499
+generalization	decapod	N	0.008283050294018499
+generalization	lepidopterous insect	N	0.008283050294018499
+generalization	decapod crustacean	N	0.008283050294018499
+generalization	domesticated animal	N	0.008283050294018499
+generalization	domestic animal	N	0.008283050294018499
+generalization	lepidopteran	N	0.008283050294018499
+activity	run	V	0.008017940406668016
+activity	fly	V	0.008530502807094283
+activity	yelp	V	0.008689209836063479
+activity	swim	V	0.008770798660815248
+activity	fly	N	0.00885393419314525
+activity	howl	N	0.00885393419314525
+activity	creep	V	0.00885393419314525
+activity	jump	V	0.00885393419314525
+activity	leap	V	0.00885393419314525
+activity	leap	N	0.00885393419314525
+activity	hop	V	0.00885393419314525
+activity	crawl	V	0.009062322712897756
+activity	walk	V	0.009671996061540433
+generalization	mollusk	N	0.010131934153040431
+generalization	herbivore	N	0.010131934153040431
+place	hive	N	0.021736568103114678
+place	larva	N	0.021736568103114678
+generalization	hymenopteron	N	0.010854979706385553
+generalization	hymenopteran	N	0.010854979706385553
+generalization	hymenopterous insect	N	0.010854979706385553
+generalization	chordate	N	0.010854979706385553
+generalization	hymenopter	N	0.010854979706385553
+activity	nest	N	0.011517101481102365
+generalization	invertebrate	N	0.011569623183275013
+generalization	arthropod	N	0.011726805819140974
+generalization	animal	N	0.011155977014563284
+generalization	mammal	N	0.012288157268078826
+generalization	placental	N	0.012506613397289116
+generalization	eutherian	N	0.012506613397289116
+generalization	eutherian mammal	N	0.012506613397289116
+generalization	placental mammal	N	0.012506613397289116
+generalization	carnivore	N	0.012562446492812728
+generalization	gastropod	N	0.012618780333587673
+generalization	insect	N	0.012618780333587673
+generalization	vertebrate	N	0.012732977440678965
+generalization	craniate	N	0.012732977440678965
+generalization	canine	N	0.012790854610863869
+generalization	feline	N	0.012790854610863869
+generalization	oviparous	N	0.012790854610863869
+generalization	organism	N	0.012790854610863869
+generalization	being	N	0.012790854610863869
+generalization	felid	N	0.012790854610863869
+generalization	reptile	N	0.012790854610863869
+generalization	amphibian	N	0.012790854610863869
+generalization	canid	N	0.012790854610863869
+generalization	reptilian	N	0.012790854610863869
+generalization	animate thing	N	0.012849260339680599
+generalization	diapsid reptile	N	0.012849260339680599
+generalization	big cat	N	0.012849260339680599
+generalization	cat	N	0.012849260339680599
+generalization	diapsid	N	0.012849260339680599
+generalization	living thing	N	0.012849260339680599
+generalization	crustacean	N	0.012908201900871793
+generalization	primate	N	0.012908201900871793
+generalization	hermaphrodite	N	0.012908201900871793
+generalization	whole	N	0.012908201900871793
+generalization	mussel	N	0.012908201900871793
+generalization	even-toed ungulate	N	0.012908201900871793
+generalization	saurian	N	0.012908201900871793
+generalization	leporid mammal	N	0.012908201900871793
+generalization	bivalve	N	0.012908201900871793
+generalization	herbivorous	N	0.012908201900871793
+generalization	leporid	N	0.012908201900871793
+generalization	lagomorph	N	0.012908201900871793
+generalization	arachnoid	N	0.012908201900871793
+generalization	chelonian reptile	N	0.012908201900871793
+generalization	unit	N	0.012908201900871793
+generalization	pachyderm	N	0.012908201900871793
+generalization	anapsid	N	0.012908201900871793
+generalization	lamellibranch	N	0.012908201900871793
+generalization	mytilid	N	0.012908201900871793
+generalization	marine mussel	N	0.012908201900871793
+generalization	ruminant	N	0.012908201900871793
+generalization	proboscidean	N	0.012908201900871793
+generalization	ungulate	N	0.012908201900871793
+generalization	proboscidian	N	0.012908201900871793
+generalization	artiodactyl mammal	N	0.012908201900871793
+generalization	hoofed mammal	N	0.012908201900871793
+generalization	pelecypod	N	0.012908201900871793
+generalization	arachnid	N	0.012908201900871793
+generalization	chelonian	N	0.012908201900871793
+generalization	artiodactyl	N	0.012908201900871793
+generalization	anapsid reptile	N	0.012908201900871793
+generalization	gnawing mammal	N	0.012908201900871793
+part	collar	N	0.03160244684232741
+activity	eat	V	0.012102025800648302
+activity	breathe	V	0.01205117695274642
+activity	drink	V	0.012978190564496145
+activity	play	V	0.013340372626761155
+activity	chase	V	0.013340372626761155
+activity	chew	V	0.013340372626761155
+activity	fetch	V	0.013340372626761155
+activity	bury	V	0.013340372626761155
+activity	bath	V	0.013465634341566423
+activity	kill	V	0.01352915148468702
+activity	growl	V	0.01352915148468702
+activity	roam	V	0.01352915148468702
+activity	live	A	0.01352915148468702
+activity	hunt	N	0.013593270686036246
+activity	trot	N	0.013593270686036246
+activity	roar	N	0.013593270686036246
+activity	feed	V	0.013593270686036246
+activity	browse	V	0.013593270686036246
+activity	die	V	0.013593270686036246
+activity	suffer	V	0.013593270686036246
+activity	bite	V	0.013593270686036246
+activity	bite	N	0.013593270686036246
+activity	forage	N	0.013593270686036246
+activity	migrate	V	0.013593270686036246
+activity	graze	V	0.013593270686036246
+activity	love	N	0.013658000546445944
+activity	watch	V	0.013658000546445944
+activity	kill	N	0.013658000546445944
+activity	overwinter	V	0.013658000546445944
+activity	sting	V	0.013658000546445944
+activity	bait	N	0.013658000546445944
+activity	sleep	N	0.013658000546445944
+activity	feed	N	0.013658000546445944
+activity	fuck	V	0.013658000546445944
+activity	bark	V	0.013658000546445944
+activity	pollinate	V	0.013658000546445944
+activity	croak	V	0.013658000546445944
+activity	live	V	0.013658000546445944
+activity	trumpet	V	0.013658000546445944
+activity	forage	V	0.013658000546445944
+activity	sing	V	0.013658000546445944
+activity	watch	N	0.013658000546445944
+activity	slither	V	0.013658000546445944
+activity	lick	V	0.013658000546445944
+activity	funnel	V	0.013658000546445944
+colorPattern	black	A	0.01253066212754437
+colorPattern	black	N	0.01253066212754437
+colorPattern	brown	A	0.01264058021638248
+colorPattern	brown	N	0.01264058021638248
+colorPattern	spotted	A	0.013220423345574337
+colorPattern	yellow	N	0.013281346955461777
+colorPattern	yellow	A	0.013281346955461777
+colorPattern	grey	N	0.013342834672848173
+colorPattern	grey	A	0.013342834672848173
+colorPattern	green	N	0.013530761921761527
+colorPattern	orange	N	0.013530761921761527
+colorPattern	white	N	0.013530761921761527
+colorPattern	white	A	0.013530761921761527
+colorPattern	orange	A	0.013530761921761527
+colorPattern	green	A	0.013530761921761527
+colorPattern	red	N	0.013594586270449082
+colorPattern	red	A	0.013594586270449082
+colorPattern	solid	A	0.013594586270449082
+colorPattern	beige	A	0.013659015589266377
+colorPattern	beige	N	0.013659015589266377
+colorPattern	striped	A	0.013659015589266377
+colorPattern	blue	A	0.013724058520643836
+colorPattern	blue	N	0.013724058520643836
+colorPattern	leopard	N	0.013856020621803872
+place	kennel	N	0.02650494238212213
+place	colony	N	0.02801530725085189
+user	circus	N	0.08950273574245149
+movement	walk	V	0.05556007229833133
+place	circus	N	0.03326609462217907
+place	land	N	0.03381772799696793
+place	garden	N	0.03472355999688671
+place	ditch	N	0.035679254308727634
+place	underwater	A	0.03600961777454919
+place	sea	N	0.03600961777454919
+place	Asia	N	0.03600961777454919
+place	Africa	N	0.036346156258423475
+place	Tanzania	N	0.036346156258423475
+place	Sri Lanka	N	0.036346156258423475
+place	Thailand	N	0.036346156258423475
+place	zoo	N	0.036346156258423475
+place	Namibia	N	0.036346156258423475
+place	India	N	0.036346156258423475
+place	terrarium	N	0.036346156258423475
+place	Kenia	N	0.036346156258423475
+place	tropic	N	0.03668904452501238
+place	water	N	0.03668904452501238
+place	pond	N	0.03668904452501238
+place	sanctuary	N	0.03703846399667916
+movement	crawl	V	0.06867497836890496
+movement	run	V	0.05788538986825025
+movement	fly	V	0.07235673733531281
+movement	swim	V	0.08103954581555035
+movement	leap	V	0.08441619355786495
+movement	fly	N	0.08441619355786495
+movement	leap	N	0.08441619355786495
+movement	creep	V	0.08441619355786495
+movement	jump	V	0.08441619355786495
+movement	hop	V	0.08441619355786495
+part	eye	N	0.04629053678552032
+part	head	N	0.046810655176368864
+part	skin	N	0.046810655176368864
+part	leg	N	0.046810655176368864
+part	mouth	N	0.046810655176368864
+part	paw	N	0.04734259443973669
+part	fur	N	0.04734259443973669
+part	tail	N	0.04734259443973669
+part	ear	N	0.04734259443973669
+part	hair	N	0.04734259443973669
+part	coat	N	0.04734259443973669
+part	tongue	N	0.04734259443973669
+part	abdomen	N	0.04788676219191757
+part	flesh	N	0.04788676219191757
+part	tooth	N	0.04788676219191757
+part	tusk	N	0.04788676219191757
+part	toe	N	0.04788676219191757
+part	antenna	N	0.04788676219191757
+part	bone	N	0.04788676219191757
+part	stinger	N	0.04788676219191757
+part	neck	N	0.04788676219191757
+part	foot	N	0.04788676219191757
+part	pad	N	0.04844358500810266
+part	body	N	0.04844358500810266
+part	nail	N	0.04844358500810266
+part	beak	N	0.04844358500810266
+part	shell	N	0.04844358500810266
+part	legs	N	0.04844358500810266
+part	claw	N	0.04844358500810266
+part	fang	N	0.04844358500810266
+part	nose	N	0.04844358500810266
+part	wing	N	0.04844358500810266
+part	trunk	N	0.04844358500810266
+part	horn	N	0.04844358500810266
+part	jaw	N	0.04844358500810266
+part	sting	N	0.04844358500810266
+part	feeler	N	0.04844358500810266
+part	flag	N	0.04844358500810266
+part	egg	N	0.04844358500810266
+part	sac	N	0.04844358500810266
+part	whisker	N	0.04844358500810266
+part	tentacle	N	0.04844358500810266
+part	belly	N	0.04844358500810266
+purpose	prey	N	0.12016908729431255
+group	nest	N	0.22877696234172654
+sound	pet	N	0.27462639124858895
+purpose	pet	N	0.11773226589308394
+user	handler	N	0.15217929844215997
+user	trainer	N	0.15217929844215997
+group	larva	N	0.2626619340059671
+size	small	A	0.07071761119939286
+size	large	A	0.08965982848494451
+size	big	A	0.08965982848494451
+size	medium	A	0.09655673836840178
+movement	slow	A	0.09715340943802918
+movement	chase	N	0.10748887852718123
+movement	attack	N	0.10748887852718123
+movement	attack	V	0.10748887852718123
+group	colony	N	0.23274551415209052
+behavior	submissive	A	0.13184424988761506
+behavior	playful	A	0.13514035613480546
+behavior	obedient	A	0.13514035613480546
+behavior	loyal	A	0.13514035613480546
+behavior	faithful	A	0.13514035613480546
+behavior	cute	A	0.13514035613480546
+behavior	affectionate	A	0.13860549347159534
+behavior	healthy	A	0.14225300645768996
+behavior	rabid	A	0.1460976823078978
+behavior	feral	A	0.1460976823078978
+behavior	happy	A	0.1460976823078978
+behavior	aggressive	A	0.1460976823078978
+behavior	friendly	A	0.1460976823078978
+behavior	cunning	V	0.1460976823078978
+purpose	food	N	0.1328355178021845
+purpose	attraction	N	0.1361564057472391
+purpose	research	N	0.13964759563819396
+purpose	guard	N	0.14332253236551484
+purpose	guard	V	0.14332253236551484
+purpose	hunting	N	0.14332253236551484
+purpose	wild	A	0.14719611432133958
+purpose	transport	N	0.15128489527471012
+purpose	haulage	N	0.15128489527471012
+purpose	beast of burden	N	0.15128489527471012
+purpose	stray	A	0.15128489527471012
+accessory	kennel	N	0.2699356500583815
+accessory	handler	N	0.3334499206603536
+accessory	trainer	N	0.3334499206603536
+user	cook	N	0.15882106254741551
+user	lover	N	0.16816347799138115
+user	hunter	N	0.17867369536584246
+user	beekeeper	N	0.184437362958289
+user	policeman	N	0.184437362958289
+user	poacher	N	0.184437362958289
+user	blind	N	0.184437362958289
+user	shepherd	N	0.184437362958289
+user	owner	N	0.19058527505689862
+accessory	collar	N	0.2965841528529903
+sound	yelp	V	0.3328098192285208
+group	hive	N	0.3152935129533355
+sound	howl	N	0.4278983390080982
+group	herd	N	0.32877696234172654
+group	swarm	N	0.34608101299129107
+group	infestation	N	0.3653077359352517
+shape	elongated	A	0.3334324325613006
+shape	long	A	0.3334324325613006
+accessory	muzzle	N	0.37048048062366734
+accessory	leash	N	0.37048048062366734
+shape	circular	A	0.39227345007211833
+shape	round	A	0.39227345007211833
+accessory	dog	N	0.41679054070162574
+shape	pear	N	0.41679054070162574
+sound	growl	N	0.46603844974089165
+sound	cry	V	0.5377366727779519
+sound	croaking	N	0.5377366727779519
+sound	bark	N	0.5377366727779519
+sound	trumpeting	N	0.5377366727779519
+time	summer	N	0.5411099462024664
+time	night	N	0.7575539246834531
+product	wax	N	1.715107849366906
+product	honey	N	1.715107849366906
+product	mucus	N	1.715107849366906
+product	propolis	N	1.715107849366906

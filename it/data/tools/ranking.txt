@@ -1,115 +1,51 @@
-user	sailor	N	1.5189893178587557
-user	farmer	N	1.8987366473234446
-size	small	A	0.5495788824411482
-howToUse	stand up	V	0.3108303660718766
-howToUse	hold	V	0.3108303660718766
-place	kitchen	N	0.15734924904592124
-accessory	toolbox	N	0.1685884811206299
-place	garden	N	0.17483249893991248
-place	shed	N	0.17483249893991248
-accessory	screwdriver	N	0.18155682582221683
-accessory	rod	N	0.18881909885510548
-accessory	staple	N	0.19668656130740156
-place	laboratory	N	0.19668656130740156
-accessory	bolt	N	0.19668656130740156
-place	hairdresser	N	0.19668656130740156
-accessory	knob	N	0.19668656130740156
-purpose	build	V	0.10999760763197196
-purpose	cooking	N	0.11297051594634958
-purpose	agriculture	N	0.11610858583374818
-purpose	weeding	N	0.12293850264749807
-purpose	lock	V	0.12293850264749807
-purpose	moor	V	0.12666391181863437
-purpose	secure	V	0.12666391181863437
-purpose	cut	V	0.12666391181863437
-purpose	fasten	N	0.12666391181863437
-purpose	pick up	V	0.12666391181863437
-purpose	secure	A	0.12666391181863437
-purpose	serve	V	0.12666391181863437
-purpose	grip	V	0.12666391181863437
-purpose	clamp	V	0.12666391181863437
-purpose	dock	V	0.12666391181863437
-purpose	clamp	N	0.12666391181863437
-purpose	tighten	V	0.12666391181863437
-purpose	dig	V	0.12666391181863437
-accessory	screw	N	0.16542059882625926
-shape	long	A	0.06705889623503247
-shape	elongated	A	0.06705889623503247
-shape	curved	A	0.08309471924775762
-shape	cylindrical	A	0.08889202524178723
-shape	triangular	A	0.08889202524178723
-part	handle	N	0.05228537502292731
-part	blade	N	0.05228537502292731
-part	head	N	0.055713924204758604
-part	edge	N	0.055713924204758604
-part	shank	N	0.057602531804919914
-part	stem	N	0.06068838172304063
-part	clinch	N	0.06068838172304063
-part	thread	N	0.06068838172304063
-part	slot	N	0.06068838172304063
-part	pinhead	N	0.06068838172304063
-part	hammerhead	N	0.06068838172304063
-part	razorblade	N	0.06068838172304063
-part	rake handle	N	0.06068838172304063
-part	ring	N	0.06068838172304063
-part	fluke	N	0.06068838172304063
-part	hoe handle	N	0.06068838172304063
-part	point	N	0.06068838172304063
-part	stock	N	0.06068838172304063
-part	arm	N	0.05122833798635205
-material	metal	N	0.029509647927182567
-material	steel	N	0.03307674822607277
-material	plastic	N	0.03583314391157883
-material	iron	N	0.038589539597084895
-material	wood	N	0.03909070244899509
-colorPattern	silver	N	0.01990066466701142
-colorPattern	silver	A	0.01990066466701142
-colorPattern	brown	N	0.021995471474065255
-colorPattern	black	N	0.021995471474065255
-colorPattern	brown	A	0.021995471474065255
-colorPattern	black	A	0.021995471474065255
-colorPattern	golden	A	0.023217442111513324
-accessory	fastener	N	0.08883516209223241
+generalization	arm	N	-0.00619161569212958
+generalization	screw	N	-0.000647051069129908
+generalization	fastener	N	0.005152620985787769
+generalization	tool	N	0.005922948646676624
+generalization	utensil	N	0.0060978880581818405
+generalization	implement	N	0.006149784977825941
+generalization	hand tool	N	0.006599084336936512
+generalization	object	N	0.006599084336936512
+generalization	instrumentality	N	0.006599084336936512
+generalization	instrumentation	N	0.006599084336936512
+generalization	device	N	0.006599084336936512
+generalization	restraint	N	0.006629355366005028
+generalization	constraint	N	0.006629355366005028
+generalization	mechanical device	N	0.006690738286060631
+generalization	artifact	N	0.006690738286060631
+generalization	cutter	N	0.006690738286060631
+generalization	cutting tool	N	0.006690738286060631
+generalization	artefact	N	0.006690738286060631
+generalization	cutlery	N	0.006690738286060631
 generalization	fastening	N	0.0066599053907331635
-generalization	holdfast	N	0.0066599053907331635
-generalization	fixing	N	0.0066599053907331635
 generalization	edge tool	N	0.0066599053907331635
+generalization	fixing	N	0.0066599053907331635
+generalization	holdfast	N	0.0066599053907331635
+generalization	simple machine	N	0.006721857999019053
 generalization	machine	N	0.006721857999019053
 generalization	mechanism	N	0.006721857999019053
-generalization	simple machine	N	0.006721857999019053
-generalization	knife	N	0.006721857999019053
+generalization	lever	N	0.006721857999019053
 generalization	compound lever	N	0.006721857999019053
 generalization	cutting implement	N	0.006721857999019053
-generalization	lever	N	0.006721857999019053
+generalization	knife	N	0.006721857999019053
+generalization	connexion	N	0.006753268550416338
+generalization	obstructer	N	0.006753268550416338
+generalization	opener	N	0.006753268550416338
+generalization	impediment	N	0.006753268550416338
+generalization	bar	N	0.006753268550416338
+generalization	medical instrument	N	0.006753268550416338
 generalization	attachment	N	0.006753268550416338
 generalization	inclined plane	N	0.006753268550416338
-generalization	card	N	0.006753268550416338
-generalization	strainer	N	0.006753268550416338
 generalization	line	N	0.006753268550416338
+generalization	strainer	N	0.006753268550416338
+generalization	card	N	0.006753268550416338
+generalization	kitchen utensil	N	0.006753268550416338
+generalization	playing card	N	0.006753268550416338
+generalization	connection	N	0.006753268550416338
+generalization	connector	N	0.006753268550416338
 generalization	shape	N	0.006753268550416338
 generalization	bottle opener	N	0.006753268550416338
-generalization	connector	N	0.006753268550416338
-generalization	connection	N	0.006753268550416338
-generalization	playing card	N	0.006753268550416338
-generalization	kitchen utensil	N	0.006753268550416338
 generalization	structure	N	0.006753268550416338
-generalization	obstructer	N	0.006753268550416338
-generalization	connexion	N	0.006753268550416338
-generalization	impediment	N	0.006753268550416338
-generalization	opener	N	0.006753268550416338
-generalization	medical instrument	N	0.006753268550416338
-generalization	bar	N	0.006753268550416338
-generalization	filter	N	0.006753268550416338
-generalization	tumbler	N	0.006753268550416338
-generalization	weapon	N	0.006753268550416338
-generalization	ligament	N	0.006753268550416338
-generalization	pair of scissors	N	0.006753268550416338
-generalization	scissors	N	0.006753268550416338
-generalization	instrument	N	0.006753268550416338
-generalization	obstruction	N	0.006753268550416338
-generalization	surgical instrument	N	0.006753268550416338
-generalization	bond	N	0.006753268550416338
-generalization	connecter	N	0.006753268550416338
 generalization	impedimenta	N	0.006753268550416338
 generalization	curve	N	0.006753268550416338
 generalization	form	N	0.006753268550416338
@@ -121,24 +57,88 @@ generalization	curved shape	N	0.006753268550416338
 generalization	connective	N	0.006753268550416338
 generalization	obstructor	N	0.006753268550416338
 generalization	hook	N	0.006753268550416338
-generalization	weapon system	N	0.006753268550416338
 generalization	paper	N	0.006753268550416338
-generalization	tool	N	0.005922948646676624
-generalization	utensil	N	0.0060978880581818405
-generalization	implement	N	0.006149784977825941
-generalization	instrumentality	N	0.006599084336936512
-generalization	instrumentation	N	0.006599084336936512
-generalization	hand tool	N	0.006599084336936512
-generalization	object	N	0.006599084336936512
-generalization	device	N	0.006599084336936512
-generalization	restraint	N	0.006629355366005028
-generalization	constraint	N	0.006629355366005028
-generalization	artifact	N	0.006690738286060631
-generalization	cutter	N	0.006690738286060631
-generalization	cutlery	N	0.006690738286060631
-generalization	mechanical device	N	0.006690738286060631
-generalization	cutting tool	N	0.006690738286060631
-generalization	artefact	N	0.006690738286060631
-generalization	fastener	N	0.005152620985787769
-generalization	screw	N	-0.000647051069129908
-generalization	arm	N	-0.00619161569212958
+generalization	weapon system	N	0.006753268550416338
+generalization	ligament	N	0.006753268550416338
+generalization	tumbler	N	0.006753268550416338
+generalization	weapon	N	0.006753268550416338
+generalization	filter	N	0.006753268550416338
+generalization	pair of scissors	N	0.006753268550416338
+generalization	scissors	N	0.006753268550416338
+generalization	instrument	N	0.006753268550416338
+generalization	obstruction	N	0.006753268550416338
+generalization	surgical instrument	N	0.006753268550416338
+generalization	connecter	N	0.006753268550416338
+generalization	bond	N	0.006753268550416338
+accessory	fastener	N	0.08883516209223241
+colorPattern	silver	N	0.01990066466701142
+colorPattern	silver	A	0.01990066466701142
+colorPattern	black	N	0.021995471474065255
+colorPattern	brown	A	0.021995471474065255
+colorPattern	brown	N	0.021995471474065255
+colorPattern	black	A	0.021995471474065255
+colorPattern	golden	A	0.023217442111513324
+material	metal	N	0.029509647927182567
+material	steel	N	0.03307674822607277
+material	plastic	N	0.03583314391157883
+material	iron	N	0.038589539597084895
+material	wood	N	0.03909070244899509
+part	arm	N	0.05122833798635205
+part	handle	N	0.05228537502292731
+part	blade	N	0.05228537502292731
+part	head	N	0.055713924204758604
+part	edge	N	0.055713924204758604
+part	shank	N	0.057602531804919914
+part	rake handle	N	0.06068838172304063
+part	ring	N	0.06068838172304063
+part	fluke	N	0.06068838172304063
+part	hoe handle	N	0.06068838172304063
+part	clinch	N	0.06068838172304063
+part	thread	N	0.06068838172304063
+part	pinhead	N	0.06068838172304063
+part	hammerhead	N	0.06068838172304063
+part	slot	N	0.06068838172304063
+part	razorblade	N	0.06068838172304063
+part	stock	N	0.06068838172304063
+part	stem	N	0.06068838172304063
+part	point	N	0.06068838172304063
+shape	long	A	0.06705889623503247
+shape	elongated	A	0.06705889623503247
+shape	curved	A	0.08309471924775762
+shape	cylindrical	A	0.08889202524178723
+shape	triangular	A	0.08889202524178723
+accessory	screw	N	0.16542059882625926
+purpose	build	V	0.10999760763197196
+purpose	cooking	N	0.11297051594634958
+purpose	agriculture	N	0.11610858583374818
+purpose	weeding	N	0.12293850264749807
+purpose	lock	V	0.12293850264749807
+purpose	fasten	N	0.12666391181863437
+purpose	pick up	V	0.12666391181863437
+purpose	secure	A	0.12666391181863437
+purpose	grip	V	0.12666391181863437
+purpose	serve	V	0.12666391181863437
+purpose	moor	V	0.12666391181863437
+purpose	secure	V	0.12666391181863437
+purpose	cut	V	0.12666391181863437
+purpose	clamp	N	0.12666391181863437
+purpose	tighten	V	0.12666391181863437
+purpose	dig	V	0.12666391181863437
+purpose	clamp	V	0.12666391181863437
+purpose	dock	V	0.12666391181863437
+place	kitchen	N	0.15734924904592124
+accessory	toolbox	N	0.1685884811206299
+place	shed	N	0.17483249893991248
+place	garden	N	0.17483249893991248
+accessory	screwdriver	N	0.18155682582221683
+accessory	rod	N	0.18881909885510548
+accessory	staple	N	0.19668656130740156
+place	laboratory	N	0.19668656130740156
+accessory	knob	N	0.19668656130740156
+place	hairdresser	N	0.19668656130740156
+accessory	bolt	N	0.19668656130740156
+howToUse	hold	V	0.3108303660718766
+howToUse	stand up	V	0.3108303660718766
+size	small	A	0.5495788824411482
+user	sailor	N	1.5189893178587557
+user	farmer	N	1.8987366473234446

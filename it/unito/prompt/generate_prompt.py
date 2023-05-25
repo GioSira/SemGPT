@@ -161,7 +161,7 @@ def pmi_slot_value_by_category(category):
         pmi = math.log2((count_slot_value / total_semagram_category) / ((count_slot / total_semagram_category) * (count_value / total_semagram_category)))
         pmis.append(([slot, value, pos], pmi))
 
-    pmis.sort(key= lambda x: x[1], reverse=True)
+    pmis.sort(key= lambda x: x[1], reverse=False)
 
     path = f"it/data/{category}/pmi_{category}.txt"
     with open(path, "w", encoding="utf8") as f:
@@ -217,7 +217,7 @@ if __name__ == '__main__':
     
     for category in categories:
         
-        
+        """
         print("category: " + category)
         ranking = get_slot_value_to_ask(category) 
 
@@ -226,11 +226,11 @@ if __name__ == '__main__':
         prompt = generate_prompt_ranking(10, category, ranking)
 
         print(prompt)
-    
+    """
         
-        #pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
+        pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
 
-        #ranking = ranking_slot_value_by_category(category, pmis, count_slots, count_values)
+        ranking = ranking_slot_value_by_category(category, pmis, count_slots, count_values)
 
 
         
