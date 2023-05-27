@@ -7,6 +7,8 @@ def one_shot_template_slot_value(category, slot, value):
         Text: they {slot} {value}." 
 
     # TODO: COME GESTISCO GLI ESEMPI NELL'ELENCO PUNTATO? 
+    # vorrei risultati al singolare+
+    
     return prompt
 
 def few_shot_template_slot_value(category, slot, value): 
