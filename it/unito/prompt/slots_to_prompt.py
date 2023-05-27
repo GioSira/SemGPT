@@ -12,16 +12,30 @@ def slot2prompt(slot, pos):
     if slot in [Slots.PART, Slots.BODY_PART]:
         return "have"
 
-    elif slot == Slots.ACTIVITY:
-        return "can"
-
     elif slot == Slots.MATERIAL:
-        return "are made of"
+        return "can be made of"
 
-    elif slot in [Slots.COLOR_PATTERN, Slots.GENERALIZATION, Slots.SPECIALIZATION,
-        Slots.CONSISTENCY, Slots.SIZE, Slots.SHAPE, Slots.EFFICIENCY,
-        Slots.HOW_TO_USE, Slots.TASTE, Slots.SMELL, Slots.BEHAVIOUR]:
+    elif slot in [Slots.GENERALIZATION, Slots.SPECIALIZATION,
+        Slots.SIZE, Slots.EFFICIENCY,
+        Slots.BEHAVIOUR]:
         return "are"
+    
+    elif slot in [Slots.TASTE, Slots.SHAPE, Slots.COLOR_PATTERN, Slots.ACTIVITY]: 
+        return "can be"
+
+    elif slot == Slots.SMELL:
+        return "can smell"
+
+    elif slot == Slots.CONSISTENCY: 
+        return "can have a consistency or taste"
+    
+    elif slot == Slots.HOW_TO_USE:
+        if pos == "V":
+            return "can be"
+        elif pos == "N":
+            return "can be or be used for"
+        elif pos == "A":
+            return "can be used when"
 
     elif slot == Slots.PURPOSE:
 
@@ -42,8 +56,8 @@ def slot2prompt(slot, pos):
     elif slot == Slots.PLACE:
         return "can be found in"
 
-    elif slot == Slots.PRODUCT: # "are used for" va bene?
-        return "produce"
+    elif slot == Slots.PRODUCT:
+        return "make or are made from"
 
     elif slot == Slots.SUPPLY:
         return "use"
@@ -64,11 +78,11 @@ def slot2prompt(slot, pos):
         elif pos == "A":
             return "are"
 
-    elif slot == Slots.TIME:
-        return "during"
+    elif slot == Slots.TIME: # TODO: prima era solo during -> per food ho cambiato
+        return "can be consumed during"
 
-    elif slot == Slots.ACCESSORY:
-        return "are used with"
+    elif slot == Slots.ACCESSORY: 
+        return "may have to do with"
 
 
 def value2prompt(value, slot):

@@ -12,7 +12,7 @@ def category2prompt(cat):
         return "animals"
 
     elif cat == Category.FOOD:
-        return "foods"
+        return "foods" # TODO: AGGIUNGERE DRINKS??
 
     elif cat == Category.VEHICLES:
         return "vehicles"
