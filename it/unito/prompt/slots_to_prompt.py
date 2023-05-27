@@ -9,7 +9,7 @@ def slot2prompt(slot, pos):
 
     assert isinstance(slot, Slots), "input should be a slot"
 
-    if slot in [Slots.PART, Slots.BODY_PART]:
+    if slot == Slots.PART:
         return "can have "
     
     elif slot == Slots.BODY_PART: # la seconda parte nasce per gli instruments! 
@@ -24,6 +24,9 @@ def slot2prompt(slot, pos):
     
     elif slot in [Slots.EFFICIENCY, Slots.TASTE, Slots.SHAPE, Slots.COLOR_PATTERN, Slots.ACTIVITY]: 
         return "can be"
+
+    elif slot == Slots.SHAPE:
+        return "can have a shape"
 
     elif slot == Slots.SMELL:
         return "can smell"
@@ -54,7 +57,7 @@ def slot2prompt(slot, pos):
         return "contain"
 
     elif slot == Slots.PLACE:
-        return "can be found in"
+        return "can be found or used in"
 
     elif slot == Slots.PRODUCT:
         return "make or are made from"

@@ -20,7 +20,7 @@ def category2prompt(cat):
     elif cat == Category.CLOTHES:
         return "clothes"
 
-    elif cat == Category.HOME:
+    elif cat == Category.HOME: # home items???
         return "house furniture and kitchen utensils"
 
     elif cat == Category.APPLIANCE:
