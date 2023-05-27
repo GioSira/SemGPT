@@ -1,212 +1,212 @@
-generalization	display	N	0.07198611282572767
-generalization	communication	N	0.39391420771308994
-generalization	receiver	N	1.39391420771309
-part	screen	N	1.416456776364178
-part	receiver	N	1.416456776364178
-material	alcohol	N	1.4278615396364276
-material	mercury	N	2.0128240403575837
-part	display	N	2.094528681476816
-generalization	device	N	2.3939142077130895
-generalization	appliance	N	2.39391420771309
-generalization	instrument	N	2.39391420771309
-generalization	tool	N	2.39391420771309
-generalization	home appliance	N	2.39391420771309
-generalization	household appliance	N	2.39391420771309
-generalization	electronic equipment	N	2.39391420771309
-generalization	equipment	N	2.39391420771309
-generalization	measuring device	N	2.39391420771309
-generalization	instrumentation	N	2.39391420771309
-generalization	instrumentality	N	2.39391420771309
-generalization	measuring instrument	N	2.39391420771309
-generalization	white goods	N	2.39391420771309
-generalization	measuring system	N	2.39391420771309
-generalization	computer peripheral	N	2.39391420771309
-generalization	kitchen appliance	N	2.39391420771309
-generalization	peripheral	N	2.39391420771309
-generalization	electronic device	N	2.39391420771309
-generalization	peripheral device	N	2.39391420771309
-generalization	controller	N	2.39391420771309
-generalization	source of illumination	N	2.39391420771309
-generalization	telecommunication	N	2.39391420771309
-generalization	durables	N	2.39391420771309
-generalization	data input device	N	2.39391420771309
-generalization	broadcasting	N	2.39391420771309
-generalization	navigational instrument	N	2.39391420771309
-generalization	electric lamp	N	2.39391420771309
-generalization	mechanism	N	2.39391420771309
-generalization	lamp	N	2.39391420771309
-generalization	transmission	N	2.39391420771309
-generalization	machine	N	2.39391420771309
-generalization	input device	N	2.39391420771309
-generalization	regulator	N	2.39391420771309
-generalization	medium	N	2.39391420771309
-generalization	durable goods	N	2.39391420771309
-generalization	receiving system	N	2.39391420771309
-generalization	transducer	N	2.39391420771309
-generalization	electro-acoustic transducer	N	2.39391420771309
-generalization	electronic communication	N	2.39391420771309
-generalization	printer	N	2.39391420771309
-generalization	video display	N	2.39391420771309
-generalization	set	N	2.39391420771309
-generalization	electrical device	N	2.39391420771309
-generalization	control	N	2.39391420771309
-generalization	optical instrument	N	2.39391420771309
-generalization	communicating	N	2.39391420771309
-generalization	consumer durables	N	2.39391420771309
-generalization	telecom	N	2.39391420771309
-generalization	printing machine	N	2.39391420771309
-generalization	consumer goods	N	2.39391420771309
-part	handle	N	2.416456776364178
-part	cord	N	2.416456776364178
-part	plug	N	2.416456776364178
-part	push-button	N	2.416456776364178
-part	knob	N	2.416456776364178
-part	door	N	2.416456776364178
-part	rotor	N	2.416456776364178
-part	scale bar	N	2.416456776364178
-part	bulb	N	2.416456776364178
-part	rack	N	2.416456776364178
-part	sprayer	N	2.416456776364178
-part	sensor	N	2.416456776364178
-part	microwave	N	2.416456776364178
-part	mantlepiece	N	2.416456776364178
-part	steam whistle	N	2.416456776364178
-part	oven	N	2.416456776364178
-part	fireside	N	2.416456776364178
-part	mantel	N	2.416456776364178
-part	capillary tubing	N	2.416456776364178
-part	bimetallic strip	N	2.416456776364178
-part	wire	N	2.416456776364178
-part	light	N	2.416456776364178
-part	flashlight battery	N	2.416456776364178
-part	lens	N	2.416456776364178
-part	capillary tube	N	2.416456776364178
-part	keypad	N	2.416456776364178
-part	grate	N	2.416456776364178
-part	drip pan	N	2.416456776364178
-part	button	N	2.416456776364178
-part	hearth	N	2.416456776364178
-part	refrigerator	N	2.416456776364178
-part	shutter	N	2.416456776364178
-part	grating	N	2.416456776364178
-part	chimneypiece	N	2.416456776364178
-part	mantle	N	2.416456776364178
-part	pipe	N	2.416456776364178
-part	platform	N	2.416456776364178
-part	refrigeration system	N	2.416456776364178
-part	hearthstone	N	2.416456776364178
-part	mantelpiece	N	2.416456776364178
-part	capillary	N	2.416456776364178
-part	fire iron	N	2.416456776364178
-part	cable	N	2.416456776364178
-part	telephone receiver	N	2.416456776364178
-part	fireplace	N	2.416456776364178
-part	water back	N	2.416456776364178
-part	mouthpiece	N	2.416456776364178
-colorPattern	black	N	2.820178962415188
-colorPattern	silver	N	2.820178962415188
-colorPattern	black	A	2.820178962415188
-colorPattern	silver	A	2.820178962415188
-colorPattern	white	N	2.820178962415188
-colorPattern	white	A	2.820178962415188
-purpose	screen	N	2.913288366806669
-material	metal	N	3.0128240403575837
-material	plastic	N	3.0128240403575837
-material	steel	N	3.0128240403575837
-material	glass	N	3.0128240403575837
-material	cast iron	N	3.0128240403575837
-place	office	N	3.427861539636427
-place	lab	N	3.427861539636427
-place	conference room	N	3.427861539636427
-place	school	N	3.427861539636427
-place	home	N	3.427861539636427
-place	kitchen	N	3.427861539636427
-place	room	N	3.427861539636427
-place	restaurant	N	3.4278615396364276
-place	cinema	N	3.4278615396364276
-place	weather station	N	3.4278615396364276
-place	planetarium	N	3.4278615396364276
-place	hospital	N	3.4278615396364276
-place	bakery	N	3.4278615396364276
-place	car	N	3.4278615396364276
-place	classroom	N	3.4278615396364276
-place	factory	N	3.4278615396364276
-place	hotel	N	3.4278615396364276
-place	baker	N	3.4278615396364276
-place	theater	N	3.4278615396364276
-purpose	communication	N	3.498250867527825
-purpose	heat	N	3.913288366806669
-purpose	speak	V	3.913288366806669
-purpose	experiment	N	3.913288366806669
-purpose	burn	V	3.913288366806669
-purpose	cooking	N	3.913288366806669
-purpose	education	N	3.913288366806669
-purpose	enlarge	V	3.913288366806669
-purpose	teaching	N	3.913288366806669
-purpose	presentation	N	3.913288366806669
-purpose	phone	N	3.913288366806669
-purpose	telephone	N	3.913288366806669
-purpose	wash	N	3.913288366806669
-purpose	project	V	3.913288366806669
-purpose	cook	V	3.913288366806669
-purpose	call	N	3.913288366806669
-purpose	display	V	3.913288366806669
-purpose	measure	V	3.913288366806669
-purpose	cook	N	3.913288366806669
-purpose	service	N	3.913288366806669
-purpose	truck	N	3.913288366806669
-supply	fire	N	3.9457098444990466
-supply	petrol	N	3.9457098444990466
-supply	coal	N	3.9457098444990466
-supply	gas	N	3.9457098444990466
-supply	electricity	N	3.9457098444990466
-supply	diesel	N	3.9457098444990466
-supply	propane	N	3.9457098444990466
-supply	convection	N	3.9457098444990466
-supply	pellet	N	3.9457098444990466
-supply	electric	A	3.9457098444990466
-supply	burning	V	3.9457098444990466
-supply	biomass	N	3.9457098444990466
-supply	wood	N	3.9457098444990466
-shape	rectangular	A	4.498250867527825
-shape	elongated	A	4.498250867527825
-shape	long	A	4.498250867527825
-shape	pointy	A	4.498250867527825
-specialization	smartphone	N	4.59778654107874
-specialization	landline	N	4.59778654107874
-specialization	cordless	N	4.59778654107874
-specialization	radiotelephone	N	4.59778654107874
-specialization	freemail	N	4.59778654107874
-specialization	dial phone	N	4.59778654107874
-specialization	extension phone	N	4.59778654107874
-specialization	spam	N	4.59778654107874
-specialization	job-oriented terminal	N	4.59778654107874
-specialization	French telephone	N	4.59778654107874
-specialization	telephone extension	N	4.59778654107874
-specialization	wireless telephone	N	4.59778654107874
-specialization	remote terminal	N	4.59778654107874
-specialization	link-attached station	N	4.59778654107874
-specialization	junk e-mail	N	4.59778654107874
-specialization	extension	N	4.59778654107874
-specialization	speakerphone	N	4.59778654107874
-specialization	link-attached terminal	N	4.59778654107874
-specialization	handset	N	4.59778654107874
-specialization	remote station	N	4.59778654107874
-specialization	pay-phone	N	4.59778654107874
-specialization	desk phone	N	4.59778654107874
-specialization	dial telephone	N	4.59778654107874
-specialization	radiophone	N	4.59778654107874
-specialization	pay-station	N	4.59778654107874
+bodyPart	mouth	N	8.405141463136344
+bodyPart	ear	N	8.405141463136344
+accessory	tablet	N	7.405141463136344
+accessory	salt	N	7.405141463136344
+content	programmable	A	7.405141463136344
+efficiency	fragile	A	6.820178962415188
+content	alcohol	N	6.820178962415188
 user	teacher	N	6.405141463136344
 sound	ring	N	6.405141463136344
 sound	ring	V	6.405141463136344
 user	doctor	N	6.405141463136344
 content	mercury	N	6.405141463136344
 user	patient	N	6.405141463136344
-efficiency	fragile	A	6.820178962415188
-content	alcohol	N	6.820178962415188
-accessory	tablet	N	7.405141463136344
-accessory	salt	N	7.405141463136344
-content	programmable	A	7.405141463136344
-bodyPart	ear	N	8.405141463136344
-bodyPart	mouth	N	8.405141463136344
+specialization	cordless	N	4.59778654107874
+specialization	smartphone	N	4.59778654107874
+specialization	landline	N	4.59778654107874
+specialization	link-attached terminal	N	4.59778654107874
+specialization	radiophone	N	4.59778654107874
+specialization	dial phone	N	4.59778654107874
+specialization	remote terminal	N	4.59778654107874
+specialization	link-attached station	N	4.59778654107874
+specialization	radiotelephone	N	4.59778654107874
+specialization	dial telephone	N	4.59778654107874
+specialization	remote station	N	4.59778654107874
+specialization	French telephone	N	4.59778654107874
+specialization	pay-station	N	4.59778654107874
+specialization	pay-phone	N	4.59778654107874
+specialization	extension phone	N	4.59778654107874
+specialization	freemail	N	4.59778654107874
+specialization	extension	N	4.59778654107874
+specialization	junk e-mail	N	4.59778654107874
+specialization	job-oriented terminal	N	4.59778654107874
+specialization	telephone extension	N	4.59778654107874
+specialization	desk phone	N	4.59778654107874
+specialization	wireless telephone	N	4.59778654107874
+specialization	spam	N	4.59778654107874
+specialization	speakerphone	N	4.59778654107874
+specialization	handset	N	4.59778654107874
+shape	rectangular	A	4.498250867527825
+shape	long	A	4.498250867527825
+shape	elongated	A	4.498250867527825
+shape	pointy	A	4.498250867527825
+supply	petrol	N	3.9457098444990466
+supply	fire	N	3.9457098444990466
+supply	coal	N	3.9457098444990466
+supply	electricity	N	3.9457098444990466
+supply	gas	N	3.9457098444990466
+supply	diesel	N	3.9457098444990466
+supply	propane	N	3.9457098444990466
+supply	pellet	N	3.9457098444990466
+supply	biomass	N	3.9457098444990466
+supply	wood	N	3.9457098444990466
+supply	convection	N	3.9457098444990466
+supply	electric	A	3.9457098444990466
+supply	burning	V	3.9457098444990466
+purpose	heat	N	3.913288366806669
+purpose	speak	V	3.913288366806669
+purpose	experiment	N	3.913288366806669
+purpose	cooking	N	3.913288366806669
+purpose	teaching	N	3.913288366806669
+purpose	burn	V	3.913288366806669
+purpose	education	N	3.913288366806669
+purpose	enlarge	V	3.913288366806669
+purpose	presentation	N	3.913288366806669
+purpose	wash	N	3.913288366806669
+purpose	cook	V	3.913288366806669
+purpose	call	N	3.913288366806669
+purpose	display	V	3.913288366806669
+purpose	service	N	3.913288366806669
+purpose	project	V	3.913288366806669
+purpose	phone	N	3.913288366806669
+purpose	truck	N	3.913288366806669
+purpose	cook	N	3.913288366806669
+purpose	telephone	N	3.913288366806669
+purpose	measure	V	3.913288366806669
+purpose	communication	N	3.498250867527825
+place	restaurant	N	3.4278615396364276
+place	cinema	N	3.4278615396364276
+place	planetarium	N	3.4278615396364276
+place	hospital	N	3.4278615396364276
+place	weather station	N	3.4278615396364276
+place	hotel	N	3.4278615396364276
+place	baker	N	3.4278615396364276
+place	classroom	N	3.4278615396364276
+place	factory	N	3.4278615396364276
+place	car	N	3.4278615396364276
+place	bakery	N	3.4278615396364276
+place	theater	N	3.4278615396364276
+place	office	N	3.427861539636427
+place	lab	N	3.427861539636427
+place	school	N	3.427861539636427
+place	home	N	3.427861539636427
+place	conference room	N	3.427861539636427
+place	kitchen	N	3.427861539636427
+place	room	N	3.427861539636427
+material	metal	N	3.0128240403575837
+material	plastic	N	3.0128240403575837
+material	glass	N	3.0128240403575837
+material	steel	N	3.0128240403575837
+material	cast iron	N	3.0128240403575837
+purpose	screen	N	2.913288366806669
+colorPattern	silver	A	2.820178962415188
+colorPattern	silver	N	2.820178962415188
+colorPattern	black	N	2.820178962415188
+colorPattern	black	A	2.820178962415188
+colorPattern	white	A	2.820178962415188
+colorPattern	white	N	2.820178962415188
+part	handle	N	2.416456776364178
+part	cord	N	2.416456776364178
+part	plug	N	2.416456776364178
+part	push-button	N	2.416456776364178
+part	door	N	2.416456776364178
+part	knob	N	2.416456776364178
+part	rotor	N	2.416456776364178
+part	scale bar	N	2.416456776364178
+part	bulb	N	2.416456776364178
+part	sprayer	N	2.416456776364178
+part	microwave	N	2.416456776364178
+part	sensor	N	2.416456776364178
+part	rack	N	2.416456776364178
+part	water back	N	2.416456776364178
+part	wire	N	2.416456776364178
+part	drip pan	N	2.416456776364178
+part	hearthstone	N	2.416456776364178
+part	grate	N	2.416456776364178
+part	fireplace	N	2.416456776364178
+part	capillary tube	N	2.416456776364178
+part	mantelpiece	N	2.416456776364178
+part	lens	N	2.416456776364178
+part	shutter	N	2.416456776364178
+part	fireside	N	2.416456776364178
+part	mantle	N	2.416456776364178
+part	steam whistle	N	2.416456776364178
+part	bimetallic strip	N	2.416456776364178
+part	refrigerator	N	2.416456776364178
+part	refrigeration system	N	2.416456776364178
+part	hearth	N	2.416456776364178
+part	button	N	2.416456776364178
+part	mantel	N	2.416456776364178
+part	flashlight battery	N	2.416456776364178
+part	chimneypiece	N	2.416456776364178
+part	oven	N	2.416456776364178
+part	mouthpiece	N	2.416456776364178
+part	capillary tubing	N	2.416456776364178
+part	grating	N	2.416456776364178
+part	light	N	2.416456776364178
+part	telephone receiver	N	2.416456776364178
+part	pipe	N	2.416456776364178
+part	platform	N	2.416456776364178
+part	fire iron	N	2.416456776364178
+part	cable	N	2.416456776364178
+part	capillary	N	2.416456776364178
+part	mantlepiece	N	2.416456776364178
+part	keypad	N	2.416456776364178
+generalization	appliance	N	2.39391420771309
+generalization	instrument	N	2.39391420771309
+generalization	tool	N	2.39391420771309
+generalization	electronic equipment	N	2.39391420771309
+generalization	household appliance	N	2.39391420771309
+generalization	home appliance	N	2.39391420771309
+generalization	measuring instrument	N	2.39391420771309
+generalization	equipment	N	2.39391420771309
+generalization	instrumentation	N	2.39391420771309
+generalization	measuring system	N	2.39391420771309
+generalization	white goods	N	2.39391420771309
+generalization	instrumentality	N	2.39391420771309
+generalization	measuring device	N	2.39391420771309
+generalization	kitchen appliance	N	2.39391420771309
+generalization	peripheral	N	2.39391420771309
+generalization	peripheral device	N	2.39391420771309
+generalization	electronic device	N	2.39391420771309
+generalization	computer peripheral	N	2.39391420771309
+generalization	printing machine	N	2.39391420771309
+generalization	source of illumination	N	2.39391420771309
+generalization	control	N	2.39391420771309
+generalization	consumer goods	N	2.39391420771309
+generalization	set	N	2.39391420771309
+generalization	broadcasting	N	2.39391420771309
+generalization	telecom	N	2.39391420771309
+generalization	printer	N	2.39391420771309
+generalization	navigational instrument	N	2.39391420771309
+generalization	transmission	N	2.39391420771309
+generalization	communicating	N	2.39391420771309
+generalization	video display	N	2.39391420771309
+generalization	electro-acoustic transducer	N	2.39391420771309
+generalization	telecommunication	N	2.39391420771309
+generalization	transducer	N	2.39391420771309
+generalization	medium	N	2.39391420771309
+generalization	regulator	N	2.39391420771309
+generalization	input device	N	2.39391420771309
+generalization	electric lamp	N	2.39391420771309
+generalization	electronic communication	N	2.39391420771309
+generalization	durables	N	2.39391420771309
+generalization	machine	N	2.39391420771309
+generalization	receiving system	N	2.39391420771309
+generalization	durable goods	N	2.39391420771309
+generalization	lamp	N	2.39391420771309
+generalization	data input device	N	2.39391420771309
+generalization	consumer durables	N	2.39391420771309
+generalization	controller	N	2.39391420771309
+generalization	mechanism	N	2.39391420771309
+generalization	optical instrument	N	2.39391420771309
+generalization	electrical device	N	2.39391420771309
+generalization	device	N	2.3939142077130895
+part	display	N	2.094528681476816
+material	mercury	N	2.0128240403575837
+material	alcohol	N	1.4278615396364276
+part	receiver	N	1.416456776364178
+part	screen	N	1.416456776364178
+generalization	receiver	N	1.39391420771309
+generalization	communication	N	0.39391420771308994
+generalization	display	N	0.07198611282572767

@@ -158,10 +158,11 @@ def pmi_slot_value_by_category(category):
     for [slot, value, pos], count_slot_value in co_occurrence:
         count_slot = get_count_slot(count_slots, slot)
         pos, count_value = get_count(count_values, value, pos)
-        pmi = math.log2((count_slot_value / total_semagram_category) / ((count_slot / total_semagram_category) * (count_value / total_semagram_category)))
+        pmi = math.log2((count_slot_value / total_semagram_category) / 
+                        ((count_slot / total_semagram_category) * (count_value / total_semagram_category)))
         pmis.append(([slot, value, pos], pmi))
 
-    pmis.sort(key= lambda x: x[1], reverse=False)
+    pmis.sort(key= lambda x: x[1], reverse=True)
 
     path = f"it/data/{category}/pmi_{category}.txt"
     with open(path, "w", encoding="utf8") as f:
@@ -169,27 +170,6 @@ def pmi_slot_value_by_category(category):
             f.write(f"{slot}\t{value}\t{pos}\t{pmi}\n")
 
     return pmis, count_slots, count_values, co_occurrence
-
-
-def ranking_slot_value_by_category(category, pmis, count_slots, count_values): 
-
-    ranking = []
-    for [slot, value, pos], pmi in pmis:
-        count_slot = get_count_slot(count_slots, slot)
-        pos, count_value = get_count(count_values, value, pos)
-        rank = pmi / (count_slot + count_value)
-
-        ranking.append(([slot, value, pos], rank))
-
-
-    path = f"it/data/{category}/ranking.txt"
-
-    with open(path, "w", encoding="utf8") as f:
-        for [slot, value, pos], rank in ranking:
-            f.write(f"{slot}\t{value}\t{pos}\t{rank}\n")
-
-
-    return ranking
     
 
 def get_slot_value_to_ask(concept):
@@ -197,7 +177,7 @@ def get_slot_value_to_ask(concept):
     path = f"it/data/{concept}/ranking.txt"
     slot_values = []
     with open(path, "r", encoding="utf8") as f:
-        
+    
         for line in f.readlines():
             slot, value, pos, rank = line.split("\t")
             slot_values.append((slot, value, pos, rank))
@@ -229,8 +209,6 @@ if __name__ == '__main__':
     """
         
         pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
-
-        ranking = ranking_slot_value_by_category(category, pmis, count_slots, count_values)
 
 
         

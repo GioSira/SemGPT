@@ -6,7 +6,7 @@ class Slots(Enum):
 
     ACCESSORY = auto()
     ACTIVITY = auto()
-    BEHAVIOUR = auto()
+    BEHAVIOR = auto()
     BODY_PART = auto()
     COLOR_PATTERN = auto()
     CONSISTENCY = auto()
@@ -39,7 +39,7 @@ class Slots(Enum):
         elif label == 'activity':
             return Slots.ACTIVITY
         elif label == 'behavior':
-            return Slots.BEHAVIOUR
+            return Slots.BEHAVIOR
         elif label == 'bodyPart':
             return Slots.BODY_PART
         elif label == 'colorPattern':

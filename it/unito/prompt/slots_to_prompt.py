@@ -12,17 +12,16 @@ def slot2prompt(slot, pos):
     if slot == Slots.PART:
         return "can have "
     
-    elif slot == Slots.BODY_PART: # la seconda parte nasce per gli instruments! 
+    elif slot == Slots.BODY_PART: 
         return "can have or be used with"
 
     elif slot == Slots.MATERIAL:
         return "can be made of"
 
-    elif slot in [Slots.GENERALIZATION, Slots.SPECIALIZATION,
-        Slots.SIZE, Slots.BEHAVIOUR]:
+    elif slot in [Slots.GENERALIZATION, Slots.SPECIALIZATION]:
         return "are"
     
-    elif slot in [Slots.EFFICIENCY, Slots.TASTE, Slots.SHAPE, Slots.COLOR_PATTERN, Slots.ACTIVITY]: 
+    elif slot in [Slots.BEHAVIOR, Slots.SIZE, Slots.EFFICIENCY, Slots.TASTE, Slots.SHAPE, Slots.COLOR_PATTERN, Slots.ACTIVITY]: 
         return "can be"
 
     elif slot == Slots.SHAPE:
@@ -35,6 +34,7 @@ def slot2prompt(slot, pos):
         return "can have a consistency or taste"
     
     elif slot == Slots.HOW_TO_USE:
+
         if pos == "V" or pos == "N":
             return "can be or be used for"
         elif pos == "A":
@@ -69,7 +69,6 @@ def slot2prompt(slot, pos):
 
         if pos == "A":
             return "sound"
-
         elif pos in ["V", "N"]:
             return "can"
 
@@ -77,11 +76,10 @@ def slot2prompt(slot, pos):
 
         if pos in ["N", "V"]:
             return "can"
-
         elif pos == "A":
             return "are"
 
-    elif slot == Slots.TIME: # TODO: prima era solo during -> per food ho cambiato
+    elif slot == Slots.TIME:
         return "can be consumed or used during"
 
     elif slot == Slots.ACCESSORY: 
