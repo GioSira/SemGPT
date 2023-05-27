@@ -11,6 +11,9 @@ def slot2prompt(slot, pos):
 
     if slot in [Slots.PART, Slots.BODY_PART]:
         return "can have "
+    
+    elif slot == Slots.BODY_PART: # la seconda parte nasce per gli instruments! 
+        return "can have or be used with"
 
     elif slot == Slots.MATERIAL:
         return "can be made of"
@@ -29,9 +32,7 @@ def slot2prompt(slot, pos):
         return "can have a consistency or taste"
     
     elif slot == Slots.HOW_TO_USE:
-        if pos == "V":
-            return "can be"
-        elif pos == "N":
+        if pos == "V" or pos == "N":
             return "can be or be used for"
         elif pos == "A":
             return "can be used when"
