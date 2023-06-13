@@ -7,8 +7,8 @@ efficiency	recyclable	A	4.865423978313134
 efficiency	recycled	V	4.865423978313134
 efficiency	breakable	A	4.865423978313134
 colorPattern	transparent	A	4.795034650421736
-colorPattern	green	A	4.795034650421736
 colorPattern	green	N	4.795034650421736
+colorPattern	green	A	4.795034650421736
 colorPattern	brown	A	4.795034650421736
 colorPattern	brown	N	4.795034650421736
 colorPattern	cream	N	4.795034650421736
@@ -21,13 +21,13 @@ purpose	storage	N	4.432464571037028
 purpose	tote	V	4.432464571037028
 efficiency	plastic	A	4.280461477591977
 efficiency	shaped	V	4.280461477591977
-place	cafeteria	N	3.939424559756911
 place	kitchen	N	3.939424559756911
-place	restaurant	N	3.939424559756911
+place	cafeteria	N	3.939424559756911
 place	supermarket	N	3.939424559756911
+place	restaurant	N	3.939424559756911
 place	shop	N	3.939424559756911
-place	canteen	N	3.939424559756911
 place	pub	N	3.939424559756911
+place	canteen	N	3.939424559756911
 place	cellar	N	3.939424559756911
 place	garden	N	3.939424559756911
 place	beach	N	3.939424559756911
@@ -38,34 +38,34 @@ part	bung	N	3.4594316186372973
 part	lid	N	3.4594316186372973
 part	hoop	N	3.4594316186372973
 part	label	N	3.4594316186372973
-part	stave	N	3.4594316186372973
+part	cwt	N	3.4594316186372973
 part	compartment	N	3.4594316186372973
 part	centner	N	3.4594316186372973
-part	cwt	N	3.4594316186372973
+part	spigot	N	3.4594316186372973
+part	bottlecap	N	3.4594316186372973
 part	quintal	N	3.4594316186372973
 part	brim	N	3.4594316186372973
 part	cental	N	3.4594316186372973
-part	spigot	N	3.4594316186372973
-part	bottlecap	N	3.4594316186372973
-part	neck	N	3.4594316186372973
-part	strap	N	3.4594316186372973
-part	zipper	N	3.4594316186372973
-part	base	N	3.4594316186372973
 part	rim	N	3.4594316186372973
 part	breech	N	3.4594316186372973
+part	neck	N	3.4594316186372973
+part	zipper	N	3.4594316186372973
+part	base	N	3.4594316186372973
+part	strap	N	3.4594316186372973
 part	rear of barrel	N	3.4594316186372973
-part	mouth	N	3.4594316186372973
 part	pocket	N	3.4594316186372973
-part	tap	N	3.4594316186372973
 part	zip	N	3.4594316186372973
+part	tap	N	3.4594316186372973
 part	rear of tube	N	3.4594316186372973
-part	spout	N	3.4594316186372973
+part	mouth	N	3.4594316186372973
 part	stopper	N	3.4594316186372973
 part	cork	N	3.4594316186372973
+part	spout	N	3.4594316186372973
 part	clasp	N	3.4594316186372973
 part	cap	N	3.4594316186372973
-part	hundredweight	N	3.4594316186372973
 part	short hundredweight	N	3.4594316186372973
+part	stave	N	3.4594316186372973
+part	hundredweight	N	3.4594316186372973
 content	liquid	N	3.1873520732004965
 content	wine	N	3.1873520732004965
 content	drink	N	3.1873520732004965
@@ -75,12 +75,12 @@ content	sand	N	3.1873520732004965
 content	liquor	N	3.1873520732004965
 content	biscuit	N	3.1873520732004965
 content	soda	N	3.1873520732004965
+content	backpack	N	3.1873520732004965
 content	gardening	V	3.1873520732004965
 content	ice	N	3.1873520732004965
-content	backpack	N	3.1873520732004965
+content	purse	N	3.1873520732004965
 content	wallet	N	3.1873520732004965
 content	spray	N	3.1873520732004965
-content	purse	N	3.1873520732004965
 content	flower	N	3.1873520732004965
 content	lunch	N	3.1873520732004965
 content	water	N	3.1873520732004965
@@ -125,31 +125,31 @@ generalization	container	N	1.7444085773517681
 generalization	receptacle	N	1.7444085773517681
 generalization	vessel	N	1.7444085773517681
 generalization	unit	N	1.7444085773517681
-generalization	framework	N	1.7444085773517681
+generalization	foodstuff	N	1.7444085773517681
 generalization	package	N	1.7444085773517681
-generalization	structure	N	1.7444085773517681
+generalization	framework	N	1.7444085773517681
 generalization	whole	N	1.7444085773517681
-generalization	avoirdupois unit	N	1.7444085773517681
 generalization	supporting structure	N	1.7444085773517681
+generalization	avoirdupois unit	N	1.7444085773517681
+generalization	structure	N	1.7444085773517681
+generalization	tubing	N	1.7444085773517681
 generalization	mass unit	N	1.7444085773517681
 generalization	food product	N	1.7444085773517681
-generalization	tubing	N	1.7444085773517681
+generalization	meal	N	1.7444085773517681
 generalization	construction	N	1.7444085773517681
 generalization	cookware	N	1.7444085773517681
-generalization	meal	N	1.7444085773517681
-generalization	cooking utensil	N	1.7444085773517681
 generalization	tube	N	1.7444085773517681
 generalization	utensil	N	1.7444085773517681
+generalization	cooking utensil	N	1.7444085773517681
 generalization	conduit	N	1.7444085773517681
+generalization	food	N	1.7444085773517681
 generalization	parcel	N	1.7444085773517681
 generalization	nutrient	N	1.7444085773517681
-generalization	food	N	1.7444085773517681
-generalization	foodstuff	N	1.7444085773517681
+generalization	bundle	N	1.7444085773517681
+generalization	kitchen utensil	N	1.7444085773517681
+generalization	passage	N	1.7444085773517681
 generalization	sheaf	N	1.7444085773517681
 generalization	unit of measurement	N	1.7444085773517681
-generalization	kitchen utensil	N	1.7444085773517681
-generalization	bundle	N	1.7444085773517681
-generalization	passage	N	1.7444085773517681
 shape	shaped	A	1.6637901171434837
 efficiency	plastic	N	1.4059923596758368
 material	plastic	A	1.2100721497005797

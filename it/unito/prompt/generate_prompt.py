@@ -1,9 +1,11 @@
 from it.unito.prompt.slots_to_prompt import slot2prompt, value2prompt
 from it.unito.prompt.categories_to_prompt import category2prompt, get_all_categories
 from it.unito.semagram.concepts import categories_dict
+from it.unito.prompt.prompts_template import zero_shot_template_slot_value
 from random import choices, randint, choice
 from it.unito.db.query_semagram import *
 import math
+import json
 
 def __list2string(key, elems):
 
@@ -107,6 +109,15 @@ def generate_prompt_db(num_elems, category):
 
     return prompt
 
+def generate_prompt_slot_value(num_elem, category, slot, value, pos):
+    value_prompt = value2prompt(value, slot)
+    category_string = category2prompt(category)
+    slot_prompt = slot2prompt(slot, pos, category)
+
+    prompt = zero_shot_template_slot_value(num_elem, category_string, slot_prompt, value_prompt)
+
+    return prompt
+
 
 def generate_prompt_ranking(num_elems, category, ranking):
     
@@ -194,6 +205,8 @@ if __name__ == '__main__':
 
     
     categories = get_all_categories()
+
+    prompts = []
     
     for category in categories:
         
@@ -206,11 +219,26 @@ if __name__ == '__main__':
         prompt = generate_prompt_ranking(10, category, ranking)
 
         print(prompt)
-    """
-        
+        """
+        # TODO: pmi da fare in ordine opposto?
         pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
 
+        # crea il prompt per ognuno
 
+        for pmi in pmis: 
+            slot, value, pos = pmi[0]
+            prompt_text = generate_prompt_slot_value(10, category, slot, value, pos)
+            prompt = {
+                "cat": category2prompt(category), 
+                "slot": slot,
+                "value": value,
+                "prompt": prompt_text}
+            
+            prompts.append(prompt)
+
+    # salva lista in un file json
+    with open("it/data/prompts.json", "w", encoding="utf8") as f:
+        json.dump(prompts, f, indent=4, ensure_ascii=False)
         
 
     #qty = 10

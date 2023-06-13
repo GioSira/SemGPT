@@ -1,8 +1,9 @@
 from it.unito.skeleton.slots import Slots
+from it.unito.skeleton.categories import Category
 from it.unito.utils.utils import pluralize_word, conjugate_verb
 
 
-def slot2prompt(slot, pos):
+def slot2prompt(slot, pos, category=None):
 
     if isinstance(slot, str):
         slot = Slots.from_str(slot)
@@ -79,6 +80,9 @@ def slot2prompt(slot, pos):
         elif pos == "A":
             return "are"
 
+    elif slot == Slots.TIME and category == "animals":
+        return "live during"
+    
     elif slot == Slots.TIME:
         return "can be consumed or used during"
 
@@ -95,7 +99,5 @@ def value2prompt(value, slot):
 
     if slot in [Slots.USER, Slots.PLACE, Slots.CONTENT]:
         return pluralize_word(value)
-    elif slot in [Slots.HOW_TO_USE]:
-        return conjugate_verb(value)
     else:
         return value

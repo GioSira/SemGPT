@@ -1,173 +1,173 @@
 accessory	seat	N	7.185866545311334
 accessory	bow	N	7.185866545311334
 place	France	N	6.92283213947754
-specialization	bass viol	N	5.420331798948357
-specialization	bombardon	N	5.420331798948357
-specialization	bombard	N	5.420331798948357
-specialization	bull fiddle	N	5.420331798948357
-specialization	string bass	N	5.420331798948357
-specialization	tuba	N	5.420331798948357
-specialization	mechanical piano	N	5.420331798948357
+specialization	bass fiddle	N	5.420331798948357
+specialization	sousaphone	N	5.420331798948357
+specialization	double bass	N	5.420331798948357
+specialization	contrabass	N	5.420331798948357
+specialization	upright piano	N	5.420331798948357
+specialization	bass horn	N	5.420331798948357
+specialization	Pianola	N	5.420331798948357
 specialization	grand piano	N	5.420331798948357
 specialization	bass guitar	N	5.420331798948357
 specialization	player piano	N	5.420331798948357
-specialization	bass fiddle	N	5.420331798948357
-specialization	double bass	N	5.420331798948357
-specialization	sousaphone	N	5.420331798948357
-specialization	contrabass	N	5.420331798948357
-specialization	upright piano	N	5.420331798948357
-specialization	Pianola	N	5.420331798948357
-specialization	bass horn	N	5.420331798948357
+specialization	tuba	N	5.420331798948357
+specialization	string bass	N	5.420331798948357
+specialization	mechanical piano	N	5.420331798948357
+specialization	bass viol	N	5.420331798948357
+specialization	bull fiddle	N	5.420331798948357
+specialization	bombard	N	5.420331798948357
+specialization	bombardon	N	5.420331798948357
 bodyPart	finger	N	4.507794640198696
-bodyPart	mouth	N	4.507794640198696
 bodyPart	hand	N	4.507794640198696
+bodyPart	mouth	N	4.507794640198696
 bodyPart	foot	N	4.507794640198696
 bodyPart	knee	N	4.507794640198696
 shape	cylindrical	A	4.37851162325373
-shape	thin	A	4.37851162325373
 shape	elongated	A	4.37851162325373
 shape	long	A	4.37851162325373
-shape	circular	A	4.37851162325373
+shape	thin	A	4.37851162325373
 shape	hollow	A	4.37851162325373
 shape	round	A	4.37851162325373
+shape	circular	A	4.37851162325373
 howToUse	sit	V	4.259867126755111
 howToUse	hold	V	4.25986712675511
 howToUse	blow	V	4.25986712675511
 howToUse	press	V	4.25986712675511
 howToUse	sing	V	4.25986712675511
-howToUse	riff	N	4.25986712675511
-howToUse	fill	V	4.25986712675511
-howToUse	fill	N	4.25986712675511
-howToUse	compress	V	4.25986712675511
 howToUse	expand	V	4.25986712675511
+howToUse	compress	V	4.25986712675511
+howToUse	fill	N	4.25986712675511
+howToUse	fill	V	4.25986712675511
+howToUse	riff	N	4.25986712675511
 sound	mechanical	A	4.150242635580613
-sound	sad	A	4.150242635580613
-sound	acute	A	4.150242635580613
-sound	mournful	A	4.150242635580613
-sound	versatile	A	4.150242635580613
 sound	deep	A	4.150242635580613
 sound	melancholy	A	4.150242635580613
 sound	high	A	4.150242635580613
+sound	versatile	A	4.150242635580613
+sound	mournful	A	4.150242635580613
+sound	sad	A	4.150242635580613
+sound	acute	A	4.150242635580613
 user	orchestra	N	3.726434926674037
 user	musician	N	3.726434926674037
-user	busker	N	3.726434926674037
-user	accordionist	N	3.726434926674037
 user	band	N	3.726434926674037
+user	accordionist	N	3.726434926674037
+user	busker	N	3.726434926674037
 user	pianist	N	3.726434926674037
 user	cellist	N	3.726434926674037
 user	drummer	N	3.726434926674037
-purpose	groove	N	3.358047520694014
 purpose	rhythm	N	3.358047520694014
-purpose	classical music	N	3.358047520694014
-purpose	light music	N	3.358047520694014
+purpose	groove	N	3.358047520694014
 purpose	solo	N	3.358047520694014
 purpose	jazz	N	3.358047520694014
-purpose	beat	N	3.358047520694014
-purpose	playing	V	3.358047520694014
+purpose	light music	N	3.358047520694014
+purpose	classical music	N	3.358047520694014
 purpose	sound	N	3.358047520694014
-purpose	accompaniment	N	3.358047520694014
-purpose	trio	N	3.358047520694014
-purpose	sonata	N	3.358047520694014
+purpose	playing	V	3.358047520694014
+purpose	beat	N	3.358047520694014
+purpose	beat	V	3.358047520694014
+purpose	improvise	V	3.358047520694014
+purpose	recital	N	3.358047520694014
 purpose	concerto	N	3.358047520694014
 purpose	practice	N	3.358047520694014
-purpose	beat	V	3.358047520694014
-purpose	recital	N	3.358047520694014
-purpose	improvise	V	3.358047520694014
+purpose	sonata	N	3.358047520694014
+purpose	trio	N	3.358047520694014
+purpose	accompaniment	N	3.358047520694014
 part	fingerboard	N	3.1502426355806126
-part	register key	N	3.1502426355806126
-part	mouthpiece	N	3.1502426355806126
 part	ligature	N	3.1502426355806126
+part	mouthpiece	N	3.1502426355806126
+part	register key	N	3.1502426355806126
 part	scroll	N	3.1502426355806126
-part	piano keyboard	N	3.1502426355806126
-part	bridge	N	3.1502426355806126
-part	fine tuner	N	3.1502426355806126
+part	tailpiece	N	3.1502426355806126
+part	neck	N	3.1502426355806126
+part	body	N	3.1502426355806126
+part	f-hole	N	3.1502426355806126
+part	strap	N	3.1502426355806126
+part	endpin	N	3.1502426355806126
 part	clavier	N	3.1502426355806126
 part	resonance chamber	N	3.1502426355806126
 part	tuning peg	N	3.1502426355806126
-part	strap	N	3.1502426355806126
-part	f-hole	N	3.1502426355806126
-part	neck	N	3.1502426355806126
-part	body	N	3.1502426355806126
-part	endpin	N	3.1502426355806126
-part	tailpiece	N	3.1502426355806126
+part	piano keyboard	N	3.1502426355806126
+part	bridge	N	3.1502426355806126
+part	fine tuner	N	3.1502426355806126
+part	key	N	3.1502426355806126
 part	soft pedal	N	3.1502426355806126
-part	handle	N	3.1502426355806126
-part	hammer	N	3.1502426355806126
-part	piano action	N	3.1502426355806126
-part	fiddlestick	N	3.1502426355806126
-part	fallboard	N	3.1502426355806126
-part	finger hole	N	3.1502426355806126
-part	sustaining pedal	N	3.1502426355806126
-part	soundboard	N	3.1502426355806126
-part	rope	N	3.1502426355806126
-part	skin	N	3.1502426355806126
+part	thumbhole	N	3.1502426355806126
+part	chin rest	N	3.1502426355806126
+part	head	N	3.1502426355806126
+part	drumhead	N	3.1502426355806126
+part	bellows	N	3.1502426355806126
+part	pedal	N	3.1502426355806126
+part	membrane	N	3.1502426355806126
+part	violin bow	N	3.1502426355806126
+part	loud pedal	N	3.1502426355806126
 part	surface	N	3.1502426355806126
 part	fall-board	N	3.1502426355806126
-part	leg	N	3.1502426355806126
 part	music rack	N	3.1502426355806126
+part	leg	N	3.1502426355806126
 part	button	N	3.1502426355806126
 part	pleat	N	3.1502426355806126
 part	screw	N	3.1502426355806126
-part	chin rest	N	3.1502426355806126
-part	drumhead	N	3.1502426355806126
-part	head	N	3.1502426355806126
-part	bellows	N	3.1502426355806126
-part	pedal	N	3.1502426355806126
-part	loud pedal	N	3.1502426355806126
-part	violin bow	N	3.1502426355806126
-part	membrane	N	3.1502426355806126
-part	key	N	3.1502426355806126
-part	thumbhole	N	3.1502426355806126
-colorPattern	black	N	2.9842326841416833
-colorPattern	black	A	2.9842326841416833
-colorPattern	white	N	2.9842326841416833
+part	hammer	N	3.1502426355806126
+part	handle	N	3.1502426355806126
+part	fallboard	N	3.1502426355806126
+part	piano action	N	3.1502426355806126
+part	fiddlestick	N	3.1502426355806126
+part	finger hole	N	3.1502426355806126
+part	sustaining pedal	N	3.1502426355806126
+part	skin	N	3.1502426355806126
+part	rope	N	3.1502426355806126
+part	soundboard	N	3.1502426355806126
 colorPattern	white	A	2.9842326841416833
+colorPattern	white	N	2.9842326841416833
+colorPattern	black	A	2.9842326841416833
+colorPattern	black	N	2.9842326841416833
+colorPattern	brown	A	2.9842326841416833
+colorPattern	silver	A	2.9842326841416833
 colorPattern	silver	N	2.9842326841416833
 colorPattern	brown	N	2.9842326841416833
-colorPattern	silver	A	2.9842326841416833
-colorPattern	brown	A	2.9842326841416833
 purpose	play	V	2.9575095911102856
 material	metal	N	2.8495831574469013
 material	steel	N	2.8495831574469013
 material	plastic	N	2.8495831574469013
-material	felt	N	2.8495831574469013
-material	ivory	N	2.8495831574469013
 material	aluminium	N	2.8495831574469013
-material	cork	N	2.8495831574469013
-material	ebony	N	2.8495831574469013
+material	ivory	N	2.8495831574469013
+material	felt	N	2.8495831574469013
 material	leather	N	2.8495831574469013
+material	ebony	N	2.8495831574469013
+material	cork	N	2.8495831574469013
 material	wood	N	2.527655062559539
 material	brass	N	2.434545658168058
 part	string	N	2.4132770414144065
 generalization	musical instrument	N	2.2504067975060447
 generalization	device	N	2.2504067975060447
 generalization	stringed instrument	N	2.2504067975060447
-generalization	wind	N	2.2504067975060447
 generalization	wind instrument	N	2.2504067975060447
-generalization	woodwind	N	2.2504067975060447
+generalization	wind	N	2.2504067975060447
+generalization	instrument	N	2.2504067975060447
+generalization	percussion	N	2.2504067975060447
 generalization	percussion instrument	N	2.2504067975060447
 generalization	percussive instrument	N	2.2504067975060447
 generalization	woodwind instrument	N	2.2504067975060447
-generalization	percussion	N	2.2504067975060447
-generalization	instrument	N	2.2504067975060447
+generalization	woodwind	N	2.2504067975060447
+generalization	reed instrument	N	2.2504067975060447
 generalization	keyboard instrument	N	2.2504067975060447
 generalization	beating-reed instrument	N	2.2504067975060447
-generalization	reed instrument	N	2.2504067975060447
-generalization	instrumentality	N	2.2504067975060447
 generalization	instrumentation	N	2.2504067975060447
-generalization	single-reed instrument	N	2.2504067975060447
+generalization	instrumentality	N	2.2504067975060447
+generalization	bowed stringed instrument	N	2.2504067975060447
+generalization	free-reed instrument	N	2.2504067975060447
+generalization	single-reed woodwind	N	2.2504067975060447
 generalization	double-reed instrument	N	2.2504067975060447
 generalization	double reed	N	2.2504067975060447
-generalization	bowed stringed instrument	N	2.2504067975060447
-generalization	single-reed woodwind	N	2.2504067975060447
-generalization	free-reed instrument	N	2.2504067975060447
-generalization	brass instrument	N	2.2504067975060447
+generalization	single-reed instrument	N	2.2504067975060447
+generalization	electronic instrument	N	2.2504067975060447
+generalization	chordophone	N	2.2504067975060447
 generalization	transverse flute	N	2.2504067975060447
+generalization	brass instrument	N	2.2504067975060447
 generalization	electronic musical instrument	N	2.2504067975060447
 generalization	flute	N	2.2504067975060447
 generalization	guitar	N	2.2504067975060447
-generalization	chordophone	N	2.2504067975060447
-generalization	electronic instrument	N	2.2504067975060447
 howToUse	play	V	2.2154730073966573
 part	reed	N	2.1502426355806126
 part	keyboard	N	2.1502426355806126

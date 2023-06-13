@@ -146,3 +146,13 @@ def get_count_slot_value(category):
     return [([r["_id"]["slot"], r["_id"]["value"], r["_id"]["pos"]], r["count"]) for r in result_freq]
 
 
+def get_concept_with_slot_value(concepts, slot, value):
+
+    q = {"concept": {"$in": concepts}, "slot": slot, "value": value}
+    results = sem_collection.find(q)
+
+    results = results.distinct("concept")
+
+    return results
+
+

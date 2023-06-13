@@ -1,17 +1,17 @@
-size	short	A	6.8836615421968625
 size	tall	A	6.8836615421968625
+size	short	A	6.8836615421968625
 time	winter	N	6.468624042918019
 time	summer	N	6.468624042918019
 place	outdoors	R	5.945062086861006
 place	hospital	N	5.945062086861006
 place	surgery	N	5.945062086861006
-bodyPart	neck	N	5.339341025973052
 bodyPart	waist	N	5.339341025973052
+bodyPart	neck	N	5.339341025973052
 bodyPart	head	N	5.339341025973052
 bodyPart	calf	N	5.339341025973052
-bodyPart	knee	N	5.339341025973052
-bodyPart	foot	N	5.339341025973052
 bodyPart	ankle	N	5.339341025973052
+bodyPart	foot	N	5.339341025973052
+bodyPart	knee	N	5.339341025973052
 bodyPart	throat	N	5.116948604636604
 shape	elongated	A	5.009192424280721
 shape	long	A	5.009192424280721
@@ -29,26 +29,26 @@ purpose	hygiene	N	4.6357340287532764
 purpose	gardening	N	4.6357340287532764
 purpose	ride	N	4.6357340287532764
 purpose	run	V	4.6357340287532764
-purpose	tie	V	4.6357340287532764
-purpose	ride	V	4.6357340287532764
 purpose	walk	V	4.6357340287532764
+purpose	ride	V	4.6357340287532764
+purpose	tie	V	4.6357340287532764
 user	woman	N	4.446256229889564
 user	man	N	4.446256229889564
 user	horseman	N	4.446256229889564
-user	doctor	N	4.446256229889564
-user	workman	N	4.446256229889564
 user	surgeon	N	4.446256229889564
+user	workman	N	4.446256229889564
+user	doctor	N	4.446256229889564
 user	gardener	N	4.446256229889564
 user	men	N	4.446256229889564
-user	baseman	N	4.446256229889564
 user	lady	N	4.446256229889564
 user	cowboy	N	4.446256229889564
 user	falconer	N	4.446256229889564
-user	goalkeeper	N	4.446256229889564
-user	soldier	N	4.446256229889564
-user	women	N	4.446256229889564
+user	baseman	N	4.446256229889564
 user	catcher	N	4.446256229889564
 user	fielder	N	4.446256229889564
+user	goalkeeper	N	4.446256229889564
+user	women	N	4.446256229889564
+user	soldier	N	4.446256229889564
 purpose	disposable	A	3.635734028753277
 shape	hand	N	3.424229923559565
 material	cotton	N	3.3188769234133364
@@ -65,88 +65,88 @@ material	fabric	N	3.3188769234133364
 material	felt	N	3.3188769234133364
 material	cloth	N	3.3188769234133364
 material	velvet	N	3.3188769234133364
-material	rubber	N	3.3188769234133364
 material	chiffon	N	3.3188769234133364
+material	rubber	N	3.3188769234133364
 material	fleece	N	3.3188769234133364
-material	cashmere	N	3.3188769234133364
 material	latex	N	3.3188769234133364
+material	cashmere	N	3.3188769234133364
 material	straw	N	3.3188769234133364
 material	sheepskin	N	3.3188769234133364
 part	hem	N	3.033995815281294
-part	tongue	N	3.033995815281294
 part	heel	N	3.033995815281294
+part	tongue	N	3.033995815281294
 part	seam	N	3.0339958152812936
 part	button	N	3.0339958152812936
+part	pocket	N	3.0339958152812936
 part	sole	N	3.0339958152812936
 part	fur	N	3.0339958152812936
-part	pocket	N	3.0339958152812936
 part	upper	N	3.0339958152812936
 part	zip	N	3.0339958152812936
-part	strap	N	3.0339958152812936
 part	waistband	N	3.0339958152812936
-part	belt loop	N	3.0339958152812936
-part	collar	N	3.0339958152812936
+part	strap	N	3.0339958152812936
 part	visor	N	3.0339958152812936
+part	collar	N	3.0339958152812936
+part	belt loop	N	3.0339958152812936
 part	neckline	N	3.0339958152812936
+part	shoe collar	N	3.0339958152812936
+part	instep	N	3.0339958152812936
+part	trouser leg	N	3.0339958152812936
 part	lap	N	3.0339958152812936
 part	pant leg	N	3.0339958152812936
 part	hemline	N	3.0339958152812936
 part	shirtfront	N	3.0339958152812936
 part	heel counter	N	3.0339958152812936
 part	trouser cuff	N	3.0339958152812936
-part	trouser leg	N	3.0339958152812936
-part	shoe collar	N	3.0339958152812936
-part	instep	N	3.0339958152812936
-part	outsole	N	3.0339958152812936
-part	counter	N	3.0339958152812936
-part	hip pocket	N	3.0339958152812936
-part	toecap	N	3.0339958152812936
-part	innersole	N	3.0339958152812936
 part	seat	N	3.0339958152812936
-part	insole	N	3.0339958152812936
+part	innersole	N	3.0339958152812936
 part	lap covering	N	3.0339958152812936
 part	trouser	N	3.0339958152812936
 part	toe box	N	3.0339958152812936
+part	insole	N	3.0339958152812936
+part	counter	N	3.0339958152812936
+part	hip pocket	N	3.0339958152812936
+part	outsole	N	3.0339958152812936
+part	toecap	N	3.0339958152812936
+part	shirt button	N	3.0339958152812936
+part	thumb	N	3.0339958152812936
+part	box pleat	N	3.0339958152812936
+part	crown	N	3.0339958152812936
+part	earflap	N	3.0339958152812936
+part	shirttail	N	3.0339958152812936
+part	sunray pleat	N	3.0339958152812936
+part	gad	N	3.0339958152812936
+part	shirting	N	3.0339958152812936
+part	shoe string	N	3.0339958152812936
+part	lacing	N	3.0339958152812936
+part	brim	N	3.0339958152812936
+part	buckle	N	3.0339958152812936
 part	spur	N	3.0339958152812936
 part	bodice	N	3.0339958152812936
 part	saddle	N	3.0339958152812936
 part	shoestring	N	3.0339958152812936
 part	placket	N	3.0339958152812936
-part	shoe string	N	3.0339958152812936
-part	lacing	N	3.0339958152812936
-part	brim	N	3.0339958152812936
-part	buckle	N	3.0339958152812936
-part	toe	N	3.0339958152812936
-part	bootleg	N	3.0339958152812936
 part	finger	N	3.0339958152812936
 part	shoelace	N	3.0339958152812936
 part	pleat	N	3.0339958152812936
-part	crown	N	3.0339958152812936
-part	earflap	N	3.0339958152812936
-part	shirt button	N	3.0339958152812936
-part	thumb	N	3.0339958152812936
-part	box pleat	N	3.0339958152812936
-part	sunray pleat	N	3.0339958152812936
-part	gad	N	3.0339958152812936
-part	shirting	N	3.0339958152812936
-part	shirttail	N	3.0339958152812936
+part	toe	N	3.0339958152812936
+part	bootleg	N	3.0339958152812936
+part	eyehole	N	3.0339958152812936
+part	dickie	N	3.0339958152812936
+part	hatband	N	3.0339958152812936
+part	eyelet	N	3.0339958152812936
+part	spike	N	3.0339958152812936
+part	sleeve	N	3.0339958152812936
+part	sunburst pleat	N	3.0339958152812936
+part	ruffle	N	3.0339958152812936
 part	kick pleat	N	3.0339958152812936
 part	shoe lace	N	3.0339958152812936
-part	ruffle	N	3.0339958152812936
+part	dicky	N	3.0339958152812936
+part	half sole	N	3.0339958152812936
 part	bootlace	N	3.0339958152812936
 part	earlap	N	3.0339958152812936
 part	neckband	N	3.0339958152812936
 part	shirtsleeve	N	3.0339958152812936
 part	dickey	N	3.0339958152812936
-part	dicky	N	3.0339958152812936
-part	half sole	N	3.0339958152812936
-part	dickie	N	3.0339958152812936
-part	eyehole	N	3.0339958152812936
-part	hatband	N	3.0339958152812936
-part	eyelet	N	3.0339958152812936
-part	sunburst pleat	N	3.0339958152812936
-part	spike	N	3.0339958152812936
-part	sleeve	N	3.0339958152812936
 material	lace	N	2.833450096243095
 material	coat	N	2.7339144226921803
 generalization	garment	N	2.4856304682237083
@@ -154,99 +154,168 @@ generalization	clothing	N	2.4856304682237083
 generalization	covering	N	2.4856304682237083
 generalization	consumer goods	N	2.4856304682237083
 generalization	footwear	N	2.4856304682237083
+generalization	habiliment	N	2.4856304682237083
 generalization	vesture	N	2.4856304682237083
 generalization	article of clothing	N	2.4856304682237083
-generalization	habiliment	N	2.4856304682237083
 generalization	wearable	N	2.4856304682237083
 generalization	wear	N	2.4856304682237083
 generalization	artifact	N	2.4856304682237083
 generalization	artefact	N	2.4856304682237083
 generalization	shoe	N	2.4856304682237083
 generalization	headwear	N	2.4856304682237083
+generalization	headdress	N	2.4856304682237083
 generalization	footgear	N	2.4856304682237083
 generalization	headgear	N	2.4856304682237083
-generalization	headdress	N	2.4856304682237083
-generalization	hand wear	N	2.4856304682237083
 generalization	handwear	N	2.4856304682237083
-generalization	whole	N	2.4856304682237083
+generalization	hand wear	N	2.4856304682237083
 generalization	trade good	N	2.4856304682237083
 generalization	commodity	N	2.4856304682237083
-generalization	woman's clothing	N	2.4856304682237083
-generalization	overgarment	N	2.4856304682237083
-generalization	unit	N	2.4856304682237083
+generalization	whole	N	2.4856304682237083
 generalization	outer garment	N	2.4856304682237083
 generalization	good	N	2.4856304682237083
-generalization	garb	N	2.4856304682237083
+generalization	overgarment	N	2.4856304682237083
+generalization	woman's clothing	N	2.4856304682237083
+generalization	unit	N	2.4856304682237083
+generalization	hose	N	2.4856304682237083
+generalization	attire	N	2.4856304682237083
+generalization	cloak	N	2.4856304682237083
 generalization	disguise	N	2.4856304682237083
 generalization	top	N	2.4856304682237083
+generalization	garb	N	2.4856304682237083
 generalization	dress	N	2.4856304682237083
-generalization	attire	N	2.4856304682237083
-generalization	hose	N	2.4856304682237083
-generalization	cloak	N	2.4856304682237083
 generalization	hosiery	N	2.4856304682237083
 generalization	neckwear	N	2.4856304682237083
 colorPattern	patterned	A	2.3239658000861363
-colorPattern	black	N	2.3239658000861363
 colorPattern	black	A	2.3239658000861363
+colorPattern	black	N	2.3239658000861363
 colorPattern	blue	A	2.3239658000861363
 colorPattern	blue	N	2.3239658000861363
+colorPattern	green	A	2.3239658000861363
 colorPattern	pink	A	2.3239658000861363
 colorPattern	pink	N	2.3239658000861363
 colorPattern	green	N	2.3239658000861363
-colorPattern	green	A	2.3239658000861363
-colorPattern	brown	A	2.3239658000861363
-colorPattern	red	A	2.3239658000861363
 colorPattern	striped	A	2.3239658000861363
 colorPattern	red	N	2.3239658000861363
-colorPattern	brown	N	2.3239658000861363
+colorPattern	brown	A	2.3239658000861363
+colorPattern	red	A	2.3239658000861363
 colorPattern	white	A	2.3239658000861363
+colorPattern	brown	N	2.3239658000861363
 colorPattern	grey	N	2.3239658000861363
 colorPattern	grey	A	2.3239658000861363
 colorPattern	shiny	A	2.3239658000861363
 colorPattern	glossy	A	2.3239658000861363
 material	disposable	A	2.3188769234133364
-specialization	flannel	N	2.1740032940263916
-specialization	shorts	N	2.1740032940263916
+specialization	pantaloon	N	2.1740032940263916
+specialization	jodhpurs	N	2.1740032940263916
+specialization	short pants	N	2.1740032940263916
+specialization	churidars	N	2.1740032940263916
+specialization	blue jean	N	2.1740032940263916
+specialization	shalwar	N	2.1740032940263916
+specialization	knee pants	N	2.1740032940263916
+specialization	bellbottom trousers	N	2.1740032940263916
+specialization	sack	N	2.1740032940263916
+specialization	chino	N	2.1740032940263916
+specialization	riding breeches	N	2.1740032940263916
+specialization	long pants	N	2.1740032940263916
+specialization	corduroys	N	2.1740032940263916
 specialization	gabardine	N	2.1740032940263916
 specialization	mitten	N	2.1740032940263916
 specialization	bell-bottoms	N	2.1740032940263916
 specialization	tweed	N	2.1740032940263916
+specialization	flannel	N	2.1740032940263916
+specialization	shorts	N	2.1740032940263916
+specialization	pyjama	N	2.1740032940263916
+specialization	sweatpants	N	2.1740032940263916
 specialization	knickerbockers	N	2.1740032940263916
 specialization	gantlet	N	2.1740032940263916
 specialization	jodhpur breeches	N	2.1740032940263916
-specialization	pyjama	N	2.1740032940263916
-specialization	sweatpants	N	2.1740032940263916
-specialization	churidars	N	2.1740032940263916
-specialization	blue jean	N	2.1740032940263916
-specialization	shalwar	N	2.1740032940263916
-specialization	pantaloon	N	2.1740032940263916
-specialization	jodhpurs	N	2.1740032940263916
-specialization	short pants	N	2.1740032940263916
-specialization	knee pants	N	2.1740032940263916
-specialization	sack	N	2.1740032940263916
-specialization	bellbottom trousers	N	2.1740032940263916
-specialization	chino	N	2.1740032940263916
-specialization	corduroys	N	2.1740032940263916
-specialization	riding breeches	N	2.1740032940263916
-specialization	long pants	N	2.1740032940263916
-specialization	sweat pants	N	2.1740032940263916
+specialization	gauntlet	N	2.1740032940263916
+specialization	long trousers	N	2.1740032940263916
+specialization	salwar	N	2.1740032940263916
+specialization	trunks	N	2.1740032940263916
+specialization	stretch pants	N	2.1740032940263916
+specialization	breeches	N	2.1740032940263916
+specialization	toreador pants	N	2.1740032940263916
+specialization	jumper	N	2.1740032940263916
 specialization	pajama	N	2.1740032940263916
 specialization	trews	N	2.1740032940263916
+specialization	sweat pants	N	2.1740032940263916
+specialization	slacks	N	2.1740032940263916
+specialization	knee breeches	N	2.1740032940263916
 specialization	pedal pusher	N	2.1740032940263916
 specialization	jean	N	2.1740032940263916
 specialization	cords	N	2.1740032940263916
 specialization	knickers	N	2.1740032940263916
 specialization	bellbottom pants	N	2.1740032940263916
-specialization	slacks	N	2.1740032940263916
-specialization	knee breeches	N	2.1740032940263916
-specialization	salwar	N	2.1740032940263916
-specialization	trunks	N	2.1740032940263916
-specialization	stretch pants	N	2.1740032940263916
-specialization	breeches	N	2.1740032940263916
-specialization	gauntlet	N	2.1740032940263916
-specialization	long trousers	N	2.1740032940263916
-specialization	toreador pants	N	2.1740032940263916
-specialization	jumper	N	2.1740032940263916
+specialization	shako	N	2.1740032940263916
+specialization	pinny	N	2.1740032940263916
+specialization	kurta	N	2.1740032940263916
+specialization	swallow-tailed coat	N	2.1740032940263916
+specialization	Eton jacket	N	2.1740032940263916
+specialization	half mask	N	2.1740032940263916
+specialization	turban	N	2.1740032940263916
+specialization	argyle	N	2.1740032940263916
+specialization	baseball cap	N	2.1740032940263916
+specialization	helmet	N	2.1740032940263916
+specialization	crinoline	N	2.1740032940263916
+specialization	miniskirt	N	2.1740032940263916
+specialization	Glengarry	N	2.1740032940263916
+specialization	windcheater	N	2.1740032940263916
+specialization	dressing sacque	N	2.1740032940263916
+specialization	top hat	N	2.1740032940263916
+specialization	Balmoral	N	2.1740032940263916
+specialization	sport coat	N	2.1740032940263916
+specialization	banian	N	2.1740032940263916
+specialization	anorak	N	2.1740032940263916
+specialization	dunce cap	N	2.1740032940263916
+specialization	flat cap	N	2.1740032940263916
+specialization	opera hat	N	2.1740032940263916
+specialization	muumuu	N	2.1740032940263916
+specialization	work-shirt	N	2.1740032940263916
+specialization	jeweled headdress	N	2.1740032940263916
+specialization	golf cap	N	2.1740032940263916
+specialization	pea jacket	N	2.1740032940263916
+specialization	donkey jacket	N	2.1740032940263916
+specialization	T-shirt	N	2.1740032940263916
+specialization	biretta	N	2.1740032940263916
+specialization	evening shirt	N	2.1740032940263916
+specialization	silk hat	N	2.1740032940263916
+specialization	dressing sack	N	2.1740032940263916
+specialization	ten-gallon hat	N	2.1740032940263916
+specialization	jewelled headdress	N	2.1740032940263916
+specialization	balaclava	N	2.1740032940263916
+specialization	shovel hat	N	2.1740032940263916
+specialization	fedora	N	2.1740032940263916
+specialization	swallowtail	N	2.1740032940263916
+specialization	overskirt	N	2.1740032940263916
+specialization	tabi	N	2.1740032940263916
+specialization	cockscomb	N	2.1740032940263916
+specialization	mess jacket	N	2.1740032940263916
+specialization	toque	N	2.1740032940263916
+specialization	bush jacket	N	2.1740032940263916
+specialization	peaked cap	N	2.1740032940263916
+specialization	trilby	N	2.1740032940263916
+specialization	peacoat	N	2.1740032940263916
+specialization	kaffiyeh	N	2.1740032940263916
+specialization	skullcap	N	2.1740032940263916
+specialization	cavalier hat	N	2.1740032940263916
+specialization	campaign hat	N	2.1740032940263916
+specialization	sari	N	2.1740032940263916
+specialization	felt hat	N	2.1740032940263916
+specialization	wimple	N	2.1740032940263916
+specialization	tarboosh	N	2.1740032940263916
+specialization	hood	N	2.1740032940263916
+specialization	sun hat	N	2.1740032940263916
+specialization	mobcap	N	2.1740032940263916
+specialization	pinafore	N	2.1740032940263916
+specialization	polo shirt	N	2.1740032940263916
+specialization	culotte	N	2.1740032940263916
+specialization	leghorn	N	2.1740032940263916
+specialization	lumberjack	N	2.1740032940263916
+specialization	woman's hat	N	2.1740032940263916
+specialization	athletic sock	N	2.1740032940263916
+specialization	overseas cap	N	2.1740032940263916
+specialization	cloth cap	N	2.1740032940263916
 specialization	stovepipe	N	2.1740032940263916
 specialization	domino	N	2.1740032940263916
 specialization	balaclava helmet	N	2.1740032940263916
@@ -255,212 +324,75 @@ specialization	fur hat	N	2.1740032940263916
 specialization	straw hat	N	2.1740032940263916
 specialization	skimmer	N	2.1740032940263916
 specialization	bobbysocks	N	2.1740032940263916
-specialization	bolero	N	2.1740032940263916
 specialization	tutu	N	2.1740032940263916
+specialization	bolero	N	2.1740032940263916
 specialization	beret	N	2.1740032940263916
-specialization	cap	N	2.1740032940263916
 specialization	sports jacket	N	2.1740032940263916
 specialization	golf glove	N	2.1740032940263916
-specialization	felt hat	N	2.1740032940263916
-specialization	tarboosh	N	2.1740032940263916
-specialization	wimple	N	2.1740032940263916
-specialization	hood	N	2.1740032940263916
-specialization	sun hat	N	2.1740032940263916
-specialization	mobcap	N	2.1740032940263916
-specialization	pinafore	N	2.1740032940263916
-specialization	polo shirt	N	2.1740032940263916
-specialization	culotte	N	2.1740032940263916
-specialization	leghorn	N	2.1740032940263916
-specialization	woman's hat	N	2.1740032940263916
-specialization	lumberjack	N	2.1740032940263916
-specialization	athletic sock	N	2.1740032940263916
-specialization	overseas cap	N	2.1740032940263916
-specialization	cloth cap	N	2.1740032940263916
-specialization	dashiki	N	2.1740032940263916
-specialization	full skirt	N	2.1740032940263916
-specialization	tam	N	2.1740032940263916
-specialization	sombrero	N	2.1740032940263916
-specialization	Norfolk jacket	N	2.1740032940263916
-specialization	blazer	N	2.1740032940263916
-specialization	sports coat	N	2.1740032940263916
-specialization	lumber jacket	N	2.1740032940263916
-specialization	shell jacket	N	2.1740032940263916
-specialization	cowboy hat	N	2.1740032940263916
-specialization	monkey jacket	N	2.1740032940263916
+specialization	cap	N	2.1740032940263916
 specialization	slouch hat	N	2.1740032940263916
 specialization	cocktail dress	N	2.1740032940263916
-specialization	kalansuwa	N	2.1740032940263916
 specialization	kepi	N	2.1740032940263916
+specialization	kalansuwa	N	2.1740032940263916
 specialization	sailor	N	2.1740032940263916
-specialization	shirtdress	N	2.1740032940263916
 specialization	bobbysock	N	2.1740032940263916
+specialization	shirtdress	N	2.1740032940263916
 specialization	mini	N	2.1740032940263916
 specialization	sailor cap	N	2.1740032940263916
-specialization	sarong	N	2.1740032940263916
-specialization	muff	N	2.1740032940263916
 specialization	kid glove	N	2.1740032940263916
+specialization	sarong	N	2.1740032940263916
 specialization	hoopskirt	N	2.1740032940263916
-specialization	tee shirt	N	2.1740032940263916
+specialization	muff	N	2.1740032940263916
 specialization	tammy	N	2.1740032940263916
+specialization	tee shirt	N	2.1740032940263916
 specialization	shift	N	2.1740032940263916
 specialization	bomber jacket	N	2.1740032940263916
 specialization	hair shirt	N	2.1740032940263916
-specialization	Balmoral	N	2.1740032940263916
-specialization	sport coat	N	2.1740032940263916
-specialization	banian	N	2.1740032940263916
-specialization	anorak	N	2.1740032940263916
-specialization	dunce cap	N	2.1740032940263916
-specialization	opera hat	N	2.1740032940263916
-specialization	flat cap	N	2.1740032940263916
-specialization	muumuu	N	2.1740032940263916
-specialization	work-shirt	N	2.1740032940263916
-specialization	pea jacket	N	2.1740032940263916
-specialization	golf cap	N	2.1740032940263916
-specialization	jeweled headdress	N	2.1740032940263916
-specialization	donkey jacket	N	2.1740032940263916
-specialization	T-shirt	N	2.1740032940263916
-specialization	biretta	N	2.1740032940263916
-specialization	evening shirt	N	2.1740032940263916
-specialization	silk hat	N	2.1740032940263916
-specialization	shako	N	2.1740032940263916
-specialization	kurta	N	2.1740032940263916
-specialization	pinny	N	2.1740032940263916
-specialization	swallow-tailed coat	N	2.1740032940263916
-specialization	Eton jacket	N	2.1740032940263916
-specialization	argyle	N	2.1740032940263916
-specialization	turban	N	2.1740032940263916
-specialization	baseball cap	N	2.1740032940263916
-specialization	half mask	N	2.1740032940263916
-specialization	crinoline	N	2.1740032940263916
-specialization	Glengarry	N	2.1740032940263916
-specialization	helmet	N	2.1740032940263916
-specialization	dressing sacque	N	2.1740032940263916
-specialization	miniskirt	N	2.1740032940263916
-specialization	windcheater	N	2.1740032940263916
-specialization	top hat	N	2.1740032940263916
-specialization	cockscomb	N	2.1740032940263916
-specialization	mess jacket	N	2.1740032940263916
-specialization	toque	N	2.1740032940263916
-specialization	bush jacket	N	2.1740032940263916
-specialization	trilby	N	2.1740032940263916
-specialization	peaked cap	N	2.1740032940263916
-specialization	kaffiyeh	N	2.1740032940263916
-specialization	peacoat	N	2.1740032940263916
-specialization	cavalier hat	N	2.1740032940263916
-specialization	skullcap	N	2.1740032940263916
-specialization	campaign hat	N	2.1740032940263916
-specialization	sari	N	2.1740032940263916
-specialization	dressing sack	N	2.1740032940263916
-specialization	ten-gallon hat	N	2.1740032940263916
-specialization	jewelled headdress	N	2.1740032940263916
-specialization	balaclava	N	2.1740032940263916
-specialization	shovel hat	N	2.1740032940263916
-specialization	swallowtail	N	2.1740032940263916
-specialization	fedora	N	2.1740032940263916
-specialization	overskirt	N	2.1740032940263916
-specialization	tabi	N	2.1740032940263916
-specialization	poke bonnet	N	2.1740032940263916
-specialization	titfer	N	2.1740032940263916
-specialization	ballet skirt	N	2.1740032940263916
-specialization	kaftan	N	2.1740032940263916
-specialization	snap-brim hat	N	2.1740032940263916
-specialization	gown	N	2.1740032940263916
-specialization	double-breasted jacket	N	2.1740032940263916
-specialization	windbreaker	N	2.1740032940263916
-specialization	anklets	N	2.1740032940263916
-specialization	bowler	N	2.1740032940263916
-specialization	false face	N	2.1740032940263916
-specialization	bathing cap	N	2.1740032940263916
-specialization	Mao jacket	N	2.1740032940263916
-specialization	anklet	N	2.1740032940263916
-specialization	coatdress	N	2.1740032940263916
-specialization	hug-me-tight	N	2.1740032940263916
-specialization	tam-o'-shanter	N	2.1740032940263916
-specialization	dress shirt	N	2.1740032940263916
-specialization	tirolean	N	2.1740032940263916
-specialization	dolman jacket	N	2.1740032940263916
-specialization	calpac	N	2.1740032940263916
-specialization	varsity sock	N	2.1740032940263916
-specialization	berretta	N	2.1740032940263916
-specialization	jerkin	N	2.1740032940263916
-specialization	sport shirt	N	2.1740032940263916
-specialization	topknot	N	2.1740032940263916
-specialization	stocking cap	N	2.1740032940263916
-specialization	chemise	N	2.1740032940263916
-specialization	liberty cap	N	2.1740032940263916
-specialization	toboggan cap	N	2.1740032940263916
-specialization	maxi	N	2.1740032940263916
-specialization	sou'wester	N	2.1740032940263916
-specialization	high hat	N	2.1740032940263916
-specialization	cocked hat	N	2.1740032940263916
-specialization	yachting cap	N	2.1740032940263916
-specialization	argyll	N	2.1740032940263916
-specialization	saree	N	2.1740032940263916
-specialization	wishing cap	N	2.1740032940263916
-specialization	biggin	N	2.1740032940263916
-specialization	gathered skirt	N	2.1740032940263916
-specialization	Stetson	N	2.1740032940263916
-specialization	polonaise	N	2.1740032940263916
-specialization	homburg	N	2.1740032940263916
-specialization	pinner	N	2.1740032940263916
-specialization	boater	N	2.1740032940263916
-specialization	fool's cap	N	2.1740032940263916
-specialization	strapless	N	2.1740032940263916
-specialization	dunce's cap	N	2.1740032940263916
-specialization	suede glove	N	2.1740032940263916
-specialization	caftan	N	2.1740032940263916
-specialization	Panama	N	2.1740032940263916
-specialization	tyrolean	N	2.1740032940263916
-specialization	batting glove	N	2.1740032940263916
-specialization	grass skirt	N	2.1740032940263916
-specialization	bonnet	N	2.1740032940263916
-specialization	knee-high	N	2.1740032940263916
-specialization	busby	N	2.1740032940263916
-specialization	beaver	N	2.1740032940263916
-specialization	bluebonnet	N	2.1740032940263916
-specialization	nightcap	N	2.1740032940263916
-specialization	ski cap	N	2.1740032940263916
-specialization	sport jacket	N	2.1740032940263916
-specialization	dolman	N	2.1740032940263916
-specialization	calpack	N	2.1740032940263916
-specialization	coonskin	N	2.1740032940263916
-specialization	bearskin	N	2.1740032940263916
-specialization	mitre	N	2.1740032940263916
-specialization	hobble skirt	N	2.1740032940263916
+specialization	full skirt	N	2.1740032940263916
+specialization	dashiki	N	2.1740032940263916
+specialization	sombrero	N	2.1740032940263916
+specialization	tam	N	2.1740032940263916
+specialization	Norfolk jacket	N	2.1740032940263916
+specialization	blazer	N	2.1740032940263916
+specialization	lumber jacket	N	2.1740032940263916
+specialization	sports coat	N	2.1740032940263916
+specialization	shell jacket	N	2.1740032940263916
+specialization	cowboy hat	N	2.1740032940263916
+specialization	monkey jacket	N	2.1740032940263916
 specialization	sundress	N	2.1740032940263916
-specialization	birretta	N	2.1740032940263916
 specialization	sheath	N	2.1740032940263916
-specialization	dirndl	N	2.1740032940263916
+specialization	birretta	N	2.1740032940263916
 specialization	sunhat	N	2.1740032940263916
-specialization	morning coat	N	2.1740032940263916
+specialization	dirndl	N	2.1740032940263916
 specialization	mortarboard	N	2.1740032940263916
+specialization	morning coat	N	2.1740032940263916
 specialization	lavalava	N	2.1740032940263916
 specialization	garrison cap	N	2.1740032940263916
 specialization	swimming cap	N	2.1740032940263916
 specialization	service cap	N	2.1740032940263916
 specialization	kilt	N	2.1740032940263916
-specialization	deerstalker	N	2.1740032940263916
-specialization	Mother Hubbard	N	2.1740032940263916
-specialization	eye mask	N	2.1740032940263916
-specialization	single-breasted jacket	N	2.1740032940263916
-specialization	jockey cap	N	2.1740032940263916
-specialization	daishiki	N	2.1740032940263916
-specialization	jersey	N	2.1740032940263916
-specialization	Panama hat	N	2.1740032940263916
-specialization	sweat sock	N	2.1740032940263916
-specialization	coxcomb	N	2.1740032940263916
-specialization	miter	N	2.1740032940263916
-specialization	tabis	N	2.1740032940263916
-specialization	camise	N	2.1740032940263916
-specialization	parka	N	2.1740032940263916
-specialization	bed jacket	N	2.1740032940263916
-specialization	shower cap	N	2.1740032940263916
-specialization	topper	N	2.1740032940263916
+specialization	tyrolean	N	2.1740032940263916
+specialization	batting glove	N	2.1740032940263916
+specialization	knee-high	N	2.1740032940263916
+specialization	grass skirt	N	2.1740032940263916
+specialization	bonnet	N	2.1740032940263916
+specialization	beaver	N	2.1740032940263916
+specialization	busby	N	2.1740032940263916
+specialization	nightcap	N	2.1740032940263916
+specialization	bluebonnet	N	2.1740032940263916
+specialization	ski cap	N	2.1740032940263916
+specialization	calpack	N	2.1740032940263916
+specialization	coonskin	N	2.1740032940263916
+specialization	sport jacket	N	2.1740032940263916
+specialization	dolman	N	2.1740032940263916
+specialization	bearskin	N	2.1740032940263916
+specialization	mitre	N	2.1740032940263916
+specialization	hobble skirt	N	2.1740032940263916
 specialization	metal glove	N	2.1740032940263916
 specialization	coonskin cap	N	2.1740032940263916
 specialization	kirtle	N	2.1740032940263916
-specialization	dress hat	N	2.1740032940263916
 specialization	tank top	N	2.1740032940263916
+specialization	dress hat	N	2.1740032940263916
 specialization	sacque	N	2.1740032940263916
 specialization	knee-hi	N	2.1740032940263916
 specialization	kalpac	N	2.1740032940263916
@@ -469,19 +401,87 @@ specialization	fez	N	2.1740032940263916
 specialization	banyan	N	2.1740032940263916
 specialization	morning dress	N	2.1740032940263916
 specialization	millinery	N	2.1740032940263916
+specialization	deerstalker	N	2.1740032940263916
+specialization	single-breasted jacket	N	2.1740032940263916
+specialization	Mother Hubbard	N	2.1740032940263916
+specialization	eye mask	N	2.1740032940263916
+specialization	Panama hat	N	2.1740032940263916
+specialization	jockey cap	N	2.1740032940263916
+specialization	daishiki	N	2.1740032940263916
+specialization	jersey	N	2.1740032940263916
+specialization	coxcomb	N	2.1740032940263916
+specialization	sweat sock	N	2.1740032940263916
+specialization	miter	N	2.1740032940263916
+specialization	tabis	N	2.1740032940263916
+specialization	camise	N	2.1740032940263916
+specialization	parka	N	2.1740032940263916
+specialization	shower cap	N	2.1740032940263916
+specialization	bed jacket	N	2.1740032940263916
+specialization	topper	N	2.1740032940263916
+specialization	Mao jacket	N	2.1740032940263916
+specialization	hug-me-tight	N	2.1740032940263916
+specialization	coatdress	N	2.1740032940263916
+specialization	anklet	N	2.1740032940263916
+specialization	dress shirt	N	2.1740032940263916
+specialization	tam-o'-shanter	N	2.1740032940263916
+specialization	dolman jacket	N	2.1740032940263916
+specialization	tirolean	N	2.1740032940263916
+specialization	calpac	N	2.1740032940263916
+specialization	berretta	N	2.1740032940263916
+specialization	varsity sock	N	2.1740032940263916
+specialization	jerkin	N	2.1740032940263916
+specialization	sport shirt	N	2.1740032940263916
+specialization	topknot	N	2.1740032940263916
+specialization	stocking cap	N	2.1740032940263916
+specialization	chemise	N	2.1740032940263916
+specialization	poke bonnet	N	2.1740032940263916
+specialization	titfer	N	2.1740032940263916
+specialization	ballet skirt	N	2.1740032940263916
+specialization	kaftan	N	2.1740032940263916
+specialization	snap-brim hat	N	2.1740032940263916
+specialization	gown	N	2.1740032940263916
+specialization	anklets	N	2.1740032940263916
+specialization	windbreaker	N	2.1740032940263916
+specialization	double-breasted jacket	N	2.1740032940263916
+specialization	bowler	N	2.1740032940263916
+specialization	false face	N	2.1740032940263916
+specialization	bathing cap	N	2.1740032940263916
+specialization	biggin	N	2.1740032940263916
+specialization	gathered skirt	N	2.1740032940263916
+specialization	Stetson	N	2.1740032940263916
+specialization	polonaise	N	2.1740032940263916
+specialization	homburg	N	2.1740032940263916
+specialization	boater	N	2.1740032940263916
+specialization	pinner	N	2.1740032940263916
+specialization	fool's cap	N	2.1740032940263916
+specialization	strapless	N	2.1740032940263916
+specialization	dunce's cap	N	2.1740032940263916
+specialization	suede glove	N	2.1740032940263916
+specialization	caftan	N	2.1740032940263916
+specialization	Panama	N	2.1740032940263916
+specialization	toboggan cap	N	2.1740032940263916
+specialization	liberty cap	N	2.1740032940263916
+specialization	sou'wester	N	2.1740032940263916
+specialization	maxi	N	2.1740032940263916
+specialization	high hat	N	2.1740032940263916
+specialization	argyll	N	2.1740032940263916
+specialization	yachting cap	N	2.1740032940263916
+specialization	cocked hat	N	2.1740032940263916
+specialization	saree	N	2.1740032940263916
+specialization	wishing cap	N	2.1740032940263916
 colorPattern	white	N	2.101573378749688
-generalization	lid	N	1.9006679675025522
 generalization	chapeau	N	1.9006679675025522
 generalization	glove	N	1.9006679675025522
+generalization	lid	N	1.9006679675025522
 generalization	hat	N	1.9006679675025522
 material	denim	N	1.7339144226921803
 specialization	denim	N	1.5890407933052353
 part	lace	N	1.2266408932236896
 part	leg	N	1.0339958152812936
 generalization	coat	N	0.9006679675025521
-specialization	lid	N	0.5890407933052353
-specialization	chapeau	N	0.5890407933052353
 specialization	glove	N	0.5890407933052353
+specialization	chapeau	N	0.5890407933052353
 specialization	hat	N	0.5890407933052353
+specialization	lid	N	0.5890407933052353
 part	throat	N	0.22664089322368972
 specialization	white	N	-0.6333516280312127

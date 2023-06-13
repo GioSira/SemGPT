@@ -9,34 +9,34 @@ def category2prompt(cat):
     assert isinstance(cat, Category), "input should be a category"
 
     if cat == Category.ANIMALS:
-        return "animals"
+        return "animal"
 
     elif cat == Category.FOOD:
-        return "foods" # TODO: AGGIUNGERE DRINKS??
+        return "food" # TODO: AGGIUNGERE DRINKS??
 
     elif cat == Category.VEHICLES:
-        return "vehicles"
+        return "vehicle"
 
     elif cat == Category.CLOTHES:
-        return "clothes"
+        return "clothe"
 
     elif cat == Category.HOME: # home items???
-        return "house furniture and kitchen utensils"
+        return "home item"
 
     elif cat == Category.APPLIANCE:
-        return "appliances, equipments and devices"
+        return "appliance, equipment and device"
 
     elif cat == Category.INSTRUMENTS:
-        return "music instruments"
+        return "music instrument"
 
     elif cat == Category.ARTIFACTS:
-        return "objects"
+        return "object"
 
     elif cat == Category.TOOLS:
-        return "tools"
+        return "tool"
 
     elif cat == Category.CONTAINERS:
-        return "containers"
+        return "container"
     
 
 def get_all_categories():
