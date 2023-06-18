@@ -229,7 +229,7 @@ if __name__ == '__main__':
             slot, value, pos = pmi[0]
             prompt_text = generate_prompt_slot_value(10, category, slot, value, pos)
             prompt = {
-                "cat": category2prompt(category), 
+                "cat": category, 
                 "slot": slot,
                 "value": value,
                 "prompt": prompt_text}
