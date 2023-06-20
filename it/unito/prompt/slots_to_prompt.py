@@ -37,7 +37,7 @@ def slot2prompt(slot, pos, category=None):
     elif slot == Slots.PURPOSE:
         if pos == "V":
             return "are used to"
-        elif pos == "N":
+        elif pos == "N" or pos == "A":
             return "are used for"
 
     elif slot == Slots.USER:
