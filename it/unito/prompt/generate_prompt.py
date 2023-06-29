@@ -246,3 +246,4 @@ if __name__ == '__main__':
     #prompt = generate_prompt_db(qty, category)
     #print(prompt)
  
+ 

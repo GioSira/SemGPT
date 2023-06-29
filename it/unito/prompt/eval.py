@@ -9,11 +9,6 @@ def evaluation(category, slot, value, results = None):
     # 1. prendere tutti gli elementi della categoria
     # 2. mantenere solo gli elementi che hanno quello slot-value 
 
-
-    # fare query sul db: 
-    # 1. prendere tutti gli elementi della categoria
-    # 2. mantenere solo gli elementi che hanno quello slot-value 
-
     concepts_category = qs.get_concepts_by_category(category) 
     concepts_eval = qs.get_concept_with_slot_value(concepts_category, slot, value)
 
@@ -24,9 +19,9 @@ def evaluation(category, slot, value, results = None):
         print("value: " , value)
 
     if len(results) == 0:
-        precision = 0.0
-        recall = 0.0
-        f_score = 0.0
+        precision = None
+        recall = None
+        f_score = None
 
     else: 
         already_known = set(results).intersection(set(concepts_eval))
@@ -125,14 +120,15 @@ def evaluation_(list_to_eval):
         value = elem["value"]
         results = elem["result"]
         prec, rec, f_score = evaluation(category, slot, value, results)
-        res.append((prec, rec, f_score))
+        if prec is not None:
+            res.append((prec, rec, f_score))
 
     return res
 
 if __name__ == '__main__':
     #evaluation("animals", "time", "summer")
 
-    file = "prompts_result__t_0.35__top_p_0.7__max_new_tokens_128_2.jsonl"
+    file = "mpt_result__t_0.35__top_p_0.7__max_new_tokens_128.jsonl"
 
     results = read_results(file)
 
