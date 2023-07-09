@@ -22,9 +22,13 @@ def slot2prompt(slot, pos, category=None):
     elif slot in [Slots.GENERALIZATION, Slots.SPECIALIZATION]:
         return "are"
     
-    elif slot in [Slots.BEHAVIOR, Slots.SIZE, Slots.EFFICIENCY, Slots.TASTE, Slots.SHAPE, Slots.COLOR_PATTERN, Slots.ACTIVITY, Slots.CONSISTENCY, Slots.SHAPE]: 
+    elif slot in [Slots.BEHAVIOR, Slots.SIZE, Slots.EFFICIENCY, Slots.TASTE, Slots.SHAPE, Slots.COLOR_PATTERN, Slots.ACTIVITY, Slots.CONSISTENCY]: 
         return "can be"
 
+    #TODO: shape potrebbe essere tradotto come "are SHAPE"/"have a SHAPE shape"
+
+    #TODO: size potrebbe essere tradotto come "are SIZE size"
+    
     elif slot == Slots.SMELL:
         return "can smell"
     
@@ -37,14 +41,14 @@ def slot2prompt(slot, pos, category=None):
     elif slot == Slots.PURPOSE:
         if pos == "V":
             return "are used to"
-        elif pos == "N" or pos == "A":
+        elif pos == "N" or pos == "A": # nel caso di aggettivo potrebbe essere "[VALUE] purpose"
             return "are used for"
 
     elif slot == Slots.USER:
         return "are used by"
 
     elif slot == Slots.GROUP:
-        return "belong to"
+        return "are grouped in"
 
     elif slot == Slots.CONTENT:
         return "contain"
@@ -52,8 +56,8 @@ def slot2prompt(slot, pos, category=None):
     elif slot == Slots.PLACE:
         return "can be found or used in"
 
-    elif slot == Slots.PRODUCT: #"make or are made from"
-        return "can be used to make"
+    elif slot == Slots.PRODUCT: 
+        return "can produce"
 
     elif slot == Slots.SUPPLY:
         return "use"
@@ -61,8 +65,10 @@ def slot2prompt(slot, pos, category=None):
     elif slot == Slots.SOUND:
         if pos == "A":
             return "sound"
-        elif pos in ["V", "N"]:
+        elif pos in "N":
             return "can"
+        elif pos == "V":
+            return ""
 
     elif slot == Slots.MOVEMENT:
         if pos in ["N", "V"]:
@@ -71,13 +77,13 @@ def slot2prompt(slot, pos, category=None):
             return "are"
 
     elif slot == Slots.TIME and category == "animals":
-        return "live during"
+        return "are active during" 
     
     elif slot == Slots.TIME:
         return "can be consumed or used during"
 
     elif slot == Slots.ACCESSORY: 
-        return "may have to do with"
+        return "are related with"
 
 
 def value2prompt(value, slot):

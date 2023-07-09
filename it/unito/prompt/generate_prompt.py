@@ -220,7 +220,6 @@ if __name__ == '__main__':
 
         print(prompt)
         """
-        # TODO: pmi da fare in ordine opposto?
         pmis, count_slots, count_values, co_occurence  = pmi_slot_value_by_category(category)
 
         # crea il prompt per ognuno
