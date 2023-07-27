@@ -1,0 +1,2488 @@
+accelerometer is a [MASK]. measuring instrument
+accelerometer is a [MASK]. transducer
+an accordion is used for [MASK]. make music
+an accordion is a [MASK]. instrument
+an accordion is used for [MASK]. polka music
+button accordion is a [MASK]. accordion
+accordion is a [MASK]. free-reed instrument
+accordion is a [MASK]. keyboard instrument
+piano keyboard is a part of [MASK]. accordion
+accordion is a [MASK]. accordion
+lighter-than-air craft is a [MASK]. aircraft
+Bombers is a [MASK]. aircraft
+bogy is a [MASK]. aircraft
+blackout is used in the context of [MASK]. aircraft
+lighter-than-air is used in the context of [MASK]. aircraft
+skin is a part of [MASK]. aircraft
+aircraft is a typical location for [MASK]. sky
+cockpit is a part of [MASK]. aircraft
+bay is a part of [MASK]. aircraft
+airplane is a typical location for [MASK]. the sky
+an airplane is used for [MASK]. traveling
+a airplane is a typical location for [MASK]. the air
+an airplane seat is a typical location for [MASK]. an airplane
+an airplane is capable of [MASK]. arrive at the airport
+An airplane is a [MASK]. a form of transportation
+an airplane belongs to [MASK]. propellers
+An airplane is a [MASK]. a large machine with wings
+a beverage service is a typical location for [MASK]. an airplane
+roll-on roll-off is used in the context of [MASK]. airplane
+wing is a part of [MASK]. airplane
+monoplane is a [MASK]. airplane
+airliner is a [MASK]. airplane
+jet is a [MASK]. airplane
+delta wing is a [MASK]. airplane
+log is used in the context of [MASK]. airplane
+audio amplifier is a [MASK]. amplifier
+boosters is a [MASK]. amplifier
+amplifier is a [MASK]. electronic equipment
+shank is a part of [MASK]. anchor
+anchor is a [MASK]. hook
+lynchpin is a synonym of [MASK]. anchor
+squirrel is related to [MASK]. animal
+sheep is related to [MASK]. animal
+horse is related to [MASK]. animal
+bear is related to [MASK]. animal
+dog is related to [MASK]. animal
+fish is related to [MASK]. animal
+cow is related to [MASK]. animal
+bird is related to [MASK]. animal
+pig is related to [MASK]. animal
+rabbit is related to [MASK]. animal
+chicken is related to [MASK]. animal
+an animal is a typical location for [MASK]. a zoo
+a lion is a [MASK]. an animal
+mole is related to [MASK]. animal
+cat is related to [MASK]. animal
+bat is related to [MASK]. animal
+duck is related to [MASK]. animal
+farm is related to [MASK]. animal
+creature is related to [MASK]. animal
+a fish is a [MASK]. an animal
+colony is related to [MASK]. ant
+ant is a [MASK]. insect
+An ant is a [MASK]. one type of insect
+pismire is a synonym of [MASK]. ant
+fire ant is a [MASK]. ant
+bulldog ant is a [MASK]. ant
+slave-making ant is a [MASK]. ant
+ant is a [MASK]. hymenopterous insect
+emmet is a synonym of [MASK]. ant
+apple is related to [MASK]. fruit
+apple can be described as [MASK]. red
+apple is related to [MASK]. red
+apple can be described as [MASK]. green
+an apple can be done to [MASK]. eaten
+an apple is a typical location for [MASK]. apple tree
+apple is used for [MASK]. eating
+an apple is capable of [MASK]. fall from a tree
+An apple belongs to [MASK]. a core
+apple is related to [MASK]. red fruit
+apple is related to [MASK]. green
+apple is related to [MASK]. core
+apple is related to [MASK]. eve
+apple is related to [MASK]. tree
+apple is related to [MASK]. computer
+apple is related to [MASK]. round
+an apple is a typical location for [MASK]. a grocery store
+apple is related to [MASK]. mac
+apple is related to [MASK]. adam
+apple is related to [MASK]. pie
+a television is a [MASK]. an appliance
+gadgetry is a [MASK]. appliance
+An armchair is a [MASK]. a chair
+an armchair is used for [MASK]. sitting in
+an armchair is a typical location for [MASK]. furniture store
+armchair is a [MASK]. chair
+captain's chair is a [MASK]. armchair
+ash tray is a form of [MASK]. ashtray
+ashtray is a [MASK]. receptacle
+a cigarette is a typical location for [MASK]. an ashtray
+A satchel is a [MASK]. a bag
+a bag is used for [MASK]. carrying things
+a bag is a typical location for [MASK]. a drawer
+a bag is a typical location for [MASK]. a supermarket
+a cat is a typical location for [MASK]. bag
+a bag is used for [MASK]. carrying groceries
+a potato is a typical location for [MASK]. a bag
+sack is related to [MASK]. bag
+book bag is a [MASK]. bag
+evening bag is a [MASK]. bag
+A banana can be described as [MASK]. yellow
+slip is related to [MASK]. banana
+a monkey is an entity that tipically wants [MASK]. a banana
+banana is a [MASK]. edible fruit
+banana pudding is made of [MASK]. banana
+banana is a [MASK]. herb
+Japanese banana is a [MASK]. banana
+banana tree is a synonym of [MASK]. banana
+A banjo is a [MASK]. a stringed instrument
+A banjo belongs to [MASK]. strings
+A banjo is a [MASK]. a musical instrument
+a banjo is used for [MASK]. strumming
+a banjo is a [MASK]. a guitar-like musical instrument
+a banjo is used for [MASK]. making music
+a banjo is a typical location for [MASK]. a band
+a banjo is a typical location for [MASK]. the United States
+fingerboard is a part of [MASK]. banjo
+gun is related to [MASK]. barrel
+a monkey is a typical location for [MASK]. a barrel
+barrel is a specific way to do [MASK]. put
+pickle barrel is a [MASK]. barrel
+keg is a [MASK]. barrel
+cirque is a [MASK]. basin
+aspersorium is a [MASK]. basin
+basin is a [MASK]. natural depression
+basin is a synonym of [MASK]. catchment area
+a small dog is a typical location for [MASK]. a basket
+a basket is used for [MASK]. carrying something
+wicker basket is a [MASK]. basket
+breadbasket is a [MASK]. basket
+basket is a [MASK]. container
+bushel is a [MASK]. basket
+punnet is a [MASK]. basket
+A bass is a [MASK]. fish
+Bass is a [MASK]. a species of fish
+a bass is used for [MASK]. eat
+bass is related to [MASK]. guitar
+bass is related to [MASK]. fish
+basso is a synonym of [MASK]. bass
+bass is a [MASK]. singing voice
+freshwater bass is a [MASK]. bass
+a bass is used for [MASK]. eating
+bass fiddle is a [MASK]. bass
+a bassoon is a [MASK]. a musical instrument
+bassoon is a [MASK]. double-reed instrument
+a bassoon is used for [MASK]. play music
+contrabassoon is a [MASK]. bassoon
+a bassoon is a typical location for [MASK]. an orchestra
+bead is a specific way to do [MASK]. decorate
+bead is a synonym of [MASK]. drop
+a bean is a typical location for [MASK]. soup
+A bean is a [MASK]. a vegetable
+a bean is used for [MASK]. cooking
+bean is a [MASK]. legume
+bean plant is a synonym of [MASK]. bean
+shell bean is a [MASK]. bean
+bear is related to [MASK]. animal
+bear is related to [MASK]. grizzly
+bear is related to [MASK]. polar
+bear is related to [MASK]. big
+bear is related to [MASK]. brown
+bear is related to [MASK]. mammal
+bear is related to [MASK]. large
+bear is related to [MASK]. forest
+A bear is a [MASK]. a mammal
+bear is related to [MASK]. claws
+bear is related to [MASK]. furry
+bear is related to [MASK]. woods
+endure is a synonym of [MASK]. bear
+bear is related to [MASK]. ursine
+bear is related to [MASK]. fur
+bear is related to [MASK]. big animal
+grizzly is related to [MASK]. bear
+bear is related to [MASK]. panda
+bear is related to [MASK]. grizzly polar
+a bee is a typical location for [MASK]. a meadow
+a bee is a typical location for [MASK]. any garden
+a bee is a typical location for [MASK]. the sky
+wax is related to [MASK]. bee
+leaf-cutting bee is a [MASK]. bee
+andrena is a [MASK]. bee
+bees is a form of [MASK]. bee
+Beer is a [MASK]. an alcoholic beverage
+beer is a typical location for [MASK]. a bar
+beer is used for [MASK]. drinking
+beer is a typical location for [MASK]. the refrigerator
+beer is a typical location for [MASK]. a hockey game
+Beer is a [MASK]. a beverage
+alcohol is a typical location for [MASK]. beer
+beer is a typical location for [MASK]. a bottle
+bar is related to [MASK]. beer
+keg is related to [MASK]. beer
+beer can be described as [MASK]. harmful
+beer is a typical location for [MASK]. a keg
+beer is a typical location for [MASK]. a casino
+water is a typical location for [MASK]. beer
+drink is related to [MASK]. beer
+weevil is a [MASK]. beetle
+firefly is a [MASK]. beetle
+tiger beetle is a [MASK]. beetle
+whirligig beetle is a [MASK]. beetle
+beetle is a synonym of [MASK]. beetling
+clerid beetle is a [MASK]. beetle
+carpet beetle is a [MASK]. beetle
+ladybug is a [MASK]. beetle
+bell is related to [MASK]. ringing
+bell is related to [MASK]. church
+a bell is a typical location for [MASK]. church
+bell is related to [MASK]. ring
+bell is related to [MASK]. instrument
+a bell is a typical location for [MASK]. school
+a bell is used for [MASK]. ring
+bell is related to [MASK]. liberty
+bell is related to [MASK]. ringer
+bell is related to [MASK]. ding
+A bell is capable of [MASK]. ring
+a bell is used for [MASK]. ringing
+a bell is used for [MASK]. making noise
+the bell is a typical location for [MASK]. the front door
+a bell is used for [MASK]. getting attention
+bell is related to [MASK]. noise
+bell is related to [MASK]. tower
+bell is related to [MASK]. clapper
+bell is related to [MASK]. chime
+bell is related to [MASK]. churches
+a bicycle is a typical location for [MASK]. the garage
+A bicycle belongs to [MASK]. two wheels
+a bicycle is used for [MASK]. transportation
+a bicycle is a typical location for [MASK]. the street
+A bicycle is a [MASK]. a two wheel vehicle
+a bicycle is used for [MASK]. riding
+a bicycle is made of [MASK]. metal
+a wheel is a part of [MASK]. a bicycle
+a bicycle belongs to [MASK]. a chain
+A bicycle belongs to [MASK]. two tires
+a bicycle is a typical location for [MASK]. a toy store
+a bicycle is used for [MASK]. Racing
+ordinary is a [MASK]. bicycle
+a bicycle is a [MASK]. transportation
+pedal is a part of [MASK]. bicycle
+A bin is a [MASK]. a container
+trash is a typical location for [MASK]. a bin
+bin is related to [MASK]. container
+recycling bin is a [MASK]. bin
+binful is a synonym of [MASK]. bin
+litterbin is a [MASK]. bin
+coalbin is a [MASK]. bin
+nest is related to [MASK]. bird
+chicken is related to [MASK]. bird
+bird is related to [MASK]. animal
+duck is related to [MASK]. bird
+chick is related to [MASK]. bird
+canary is related to [MASK]. bird
+bird is related to [MASK]. flying
+a bird is capable of [MASK]. sing
+A finch is a [MASK]. bird
+A robin is a [MASK]. bird
+An ostrich is a [MASK]. bird
+A parakeet is a [MASK]. bird
+a swan is a [MASK]. a bird
+a feather is a typical location for [MASK]. bird
+bird is related to [MASK]. wings
+egg is related to [MASK]. bird
+A pheasant is a [MASK]. bird
+crow is a [MASK]. bird
+a bird is a typical location for [MASK]. a tree
+owl is related to [MASK]. bird
+cover is related to [MASK]. blanket
+a blanket is a typical location for [MASK]. a bedroom
+A blanket is capable of [MASK]. warm a person
+a blanket is used for [MASK]. sleeping under
+quilt is related to [MASK]. blanket
+electric blanket is a [MASK]. blanket
+blanket is a synonym of [MASK]. across-the-board
+mantle is a synonym of [MASK]. blanket
+a comforter is a [MASK]. a blanket
+blanket is a part of [MASK]. breeder reactor
+shirtwaist is a [MASK]. blouse
+neckline is a part of [MASK]. blouse
+blouse is a [MASK]. top
+guimpe is a [MASK]. blouse
+crêpe de chine is related to [MASK]. blouse
+middy is a [MASK]. blouse
+a boat is a typical location for [MASK]. the water
+boat is related to [MASK]. water
+boat is related to [MASK]. ship
+a boat is used for [MASK]. travel on the water
+captain is related to [MASK]. boat
+sail is related to [MASK]. boat
+boat is related to [MASK]. vessel
+A submarine is a [MASK]. a boat
+rope is a typical location for [MASK]. a boat
+boat is related to [MASK]. vehicle
+a boat is used for [MASK]. fishing
+boat is related to [MASK]. floating
+a boat is used for [MASK]. sailing
+a rudder is a typical location for [MASK]. a boat
+a boat is a typical location for [MASK]. a lake
+A boat is a [MASK]. a form of transportation
+a boat is used for [MASK]. floating on the water
+boat is related to [MASK]. small
+ferry is related to [MASK]. boat
+boat is related to [MASK]. sailing
+boiler is a part of [MASK]. steam engine
+boiler is a synonym of [MASK]. kettle
+steam whistle is a part of [MASK]. boiler
+carriage bolt is a [MASK]. bolt
+bolt is used for [MASK]. fasten
+bolt is a synonym of [MASK]. run off
+deadbolt is a synonym of [MASK]. bolt
+bolt is a synonym of [MASK]. slapdash
+a boot is used for [MASK]. walking
+bring up is a synonym of [MASK]. boot
+riding boot is a [MASK]. boot
+iron heel is a synonym of [MASK]. boot
+bootlace is a part of [MASK]. boot
+toe box is a part of [MASK]. boot
+cowboy boot is a [MASK]. boot
+iron boot is a synonym of [MASK]. boot
+a bottle is used for [MASK]. storing liquids
+water is a typical location for [MASK]. a bottle
+beer is a typical location for [MASK]. a bottle
+a bottle is used for [MASK]. storing liquid
+a bottle is a [MASK]. container
+shampoo is a typical location for [MASK]. a bottle
+bottle is made of [MASK]. plastic
+a bottle is a part of [MASK]. a bottle of wine
+bottle is a specific way to do [MASK]. put
+water bottle is a [MASK]. bottle
+smelling bottle is a [MASK]. bottle
+a bowl is a typical location for [MASK]. the cupboard
+plate is related to [MASK]. bowl
+soup is related to [MASK]. bowl
+nest is related to [MASK]. bowl
+a spoon is a typical location for [MASK]. bowl
+plate is distinct from [MASK]. bowl
+salad bowl is a [MASK]. bowl
+a bowl is used for [MASK]. hold peanuts
+bowl is used in the context of [MASK]. cricket
+a bowl is used for [MASK]. hold spice
+a bowl is used for [MASK]. hold cereal
+a bowl is used for [MASK]. hold mush
+a bowl is used for [MASK]. hold sugar
+box is related to [MASK]. container
+a box is a [MASK]. a container
+box is related to [MASK]. cardboard
+box is related to [MASK]. cube
+box is related to [MASK]. square
+a box is a typical location for [MASK]. any garage
+a box is used for [MASK]. storing something in
+a chocolate is a typical location for [MASK]. a box
+case is related to [MASK]. box
+a box is a typical location for [MASK]. a closet
+a box is a typical location for [MASK]. a post office
+safe is related to [MASK]. box
+box is related to [MASK]. sides
+box is related to [MASK]. cardboard container
+box is related to [MASK]. storage
+a box is used for [MASK]. storage
+a space is a typical location for [MASK]. a box
+A coffin is a [MASK]. a box
+a fox is a typical location for [MASK]. a box
+a sheet of paper is a typical location for [MASK]. a box
+armilla is a [MASK]. bracelet
+clasp is a part of [MASK]. bracelet
+bangle is a synonym of [MASK]. bracelet
+bread is related to [MASK]. food
+bread is a typical location for [MASK]. breadbox
+bread is related to [MASK]. loaf
+roll is related to [MASK]. bread
+bread is related to [MASK]. wheat
+bread  is used for [MASK]. eating
+bread is related to [MASK]. baked
+bread belongs to [MASK]. yeast
+bread is related to [MASK]. sandwich
+cake is related to [MASK]. bread
+bread is a typical location for [MASK]. a store
+bread is a typical location for [MASK]. the supermarket
+bread is a typical location for [MASK]. a market
+bread is related to [MASK]. yeast
+bread is related to [MASK]. flour
+bread is related to [MASK]. grain
+bread is related to [MASK]. dough
+bread is a typical location for [MASK]. dinner
+Bread can be done to [MASK]. made from flour
+bread is related to [MASK]. sandwiches
+bridge is related to [MASK]. water
+bridge is related to [MASK]. crossing
+bridge is related to [MASK]. over
+river is a typical location for [MASK]. a bridge
+bridge is related to [MASK]. river
+a bridge is used for [MASK]. crossing a river
+trolls is a typical location for [MASK]. a bridge
+bridge is related to [MASK]. road
+a bridge is used for [MASK]. cross a river
+a bridge is used for [MASK]. cross over a body of water
+homeless person is a typical location for [MASK]. a bridge
+a bridge is used for [MASK]. cross a bay
+bridge is related to [MASK]. over water
+a beam is a typical location for [MASK]. a bridge
+homeless is a typical location for [MASK]. a bridge
+a hobo is a typical location for [MASK]. a bridge
+a bum is a typical location for [MASK]. a bridge
+a bridge is a typical location for [MASK]. a river
+A bridge  is created by [MASK]. man kind
+a bridge is used for [MASK]. cross water
+a bucket is used for [MASK]. carrying liquids
+pail is a synonym of [MASK]. bucket
+bucket is a synonym of [MASK]. pail
+a bucket is used for [MASK]. carry water
+a bucket is a typical location for [MASK]. a janitors closet
+a bucket is a [MASK]. a container
+bucket is a specific way to do [MASK]. put
+bucket is related to [MASK]. liquid
+bucketful is a synonym of [MASK]. bucket
+a bulldozer is capable of [MASK]. move dirt
+a bus is a typical location for [MASK]. a bus stop
+bus is a [MASK]. a form of public transportation
+a human is a typical location for [MASK]. a bus
+a bus is a [MASK]. a form of mass transit
+a bus seat is a typical location for [MASK]. bus
+a bus is used for [MASK]. travel
+a bus is a typical location for [MASK]. the bus station
+an advertisement is a typical location for [MASK]. a bus
+a bus is a typical location for [MASK]. the city
+a bus is used for [MASK]. transportation
+bus is used for [MASK]. transport
+passenger is used in the context of [MASK]. bus
+A butterfly is a [MASK]. an insect
+moth is related to [MASK]. butterfly
+danaid is a [MASK]. butterfly
+butterfly is a [MASK]. lepidopterous insect
+butterfly is used in the context of [MASK]. cooking
+a caterpillar turning into a cocoon causes [MASK]. a butterfly
+butterfly is a specific way to do [MASK]. unfold
+Cabbage is a [MASK]. a plant
+bok choy is related to [MASK]. cabbage
+head cabbage is a [MASK]. cabbage
+cabbage is a [MASK]. crucifer
+cake is related to [MASK]. birthday
+cake is related to [MASK]. dessert
+cake is related to [MASK]. food
+birthday is related to [MASK]. cake
+cake is related to [MASK]. icing
+cake is related to [MASK]. candles
+cake is related to [MASK]. sweet
+cake is related to [MASK]. frosting
+cake is related to [MASK]. pastry
+cake is related to [MASK]. desert
+cake is related to [MASK]. birthdays
+cake is related to [MASK]. baked
+cake is related to [MASK]. birthday food
+cake is related to [MASK]. birthday dessert
+cake is related to [MASK]. treat
+cake is related to [MASK]. round
+a cake is a typical location for [MASK]. a bakery
+cake is related to [MASK]. confection
+cake is related to [MASK]. pie
+Cake can be described as [MASK]. sweet
+tin is related to [MASK]. can
+can is related to [MASK]. container
+can is related to [MASK]. tin
+can is related to [MASK]. soda
+can is related to [MASK]. food
+can is related to [MASK]. aluminum
+can is related to [MASK]. metal
+a can is a typical location for [MASK]. a cupboard
+soda is a typical location for [MASK]. a can
+a drink is a typical location for [MASK]. a can
+can is related to [MASK]. cylinder
+can is related to [MASK]. able
+paint is related to [MASK]. can
+able is related to [MASK]. can
+tuna fish is a typical location for [MASK]. a can
+oilcan is a [MASK]. can
+awning is a [MASK]. canopy
+canopy is a part of [MASK]. parachute
+canopy is a [MASK]. shelter
+canopy is a [MASK]. covering
+canopy is a part of [MASK]. cockpit
+a feather is a typical location for [MASK]. a cap
+cap is a [MASK]. protective covering
+pinner is a [MASK]. cap
+kalansuwa is a [MASK]. cap
+cloth cap is a [MASK]. cap
+drive is related to [MASK]. car
+a car is a typical location for [MASK]. the city
+a car is a typical location for [MASK]. a parking lot
+car is related to [MASK]. vehicle
+A car is capable of [MASK]. go fast
+a car is capable of [MASK]. crash
+a car belongs to [MASK]. seats
+a car is a typical location for [MASK]. the repair shop
+A car is capable of [MASK]. roll over
+motor is related to [MASK]. car
+car is related to [MASK]. automobile
+a car is capable of [MASK]. slow down
+A tire is a part of [MASK]. a car
+a car is a typical location for [MASK]. the road
+A volvo is a [MASK]. car
+stereo is a typical location for [MASK]. a car
+car is a typical location for [MASK]. a freeway
+car is a typical location for [MASK]. a car show
+my car can be described as [MASK]. red
+An engine  is a part of [MASK]. a car 
+carrier is a synonym of [MASK]. carrier wave
+carrot is a [MASK]. root
+carrot is a [MASK]. root vegetable
+a cat is a typical location for [MASK]. my lap
+a cat is a typical location for [MASK]. a bed
+a cat is a typical location for [MASK]. the windowsill
+Cat is capable of [MASK]. hunt mice
+A cat belongs to [MASK]. four legs
+a cat is capable of [MASK]. drink water
+a cat is capable of [MASK]. catch a mouse
+cat is related to [MASK]. feline
+cat is related to [MASK]. animal
+A cat is capable of [MASK]. climb up a tree
+cat is related to [MASK]. pet
+a cat is an entity that tipically wants [MASK]. milk to drink
+A cat is capable of [MASK]. corner a mouse
+dog is distinct from [MASK]. cat
+kitten is related to [MASK]. cat
+a cat is a typical location for [MASK]. a vet
+a cat is capable of [MASK]. look at a king
+a cat is a typical location for [MASK]. a chair
+a cat is a typical location for [MASK]. a table
+A cat can be described as [MASK]. a feline
+violin is related to [MASK]. cello
+cello is a [MASK]. bowed stringed instrument
+violoncello is a synonym of [MASK]. cello
+a cello is a [MASK]. an instrument
+cellos is a form of [MASK]. cello
+violoncello is a synonym of [MASK]. cello
+cereal is a typical location for [MASK]. the cupboard
+corn is related to [MASK]. cereal
+rice is a [MASK]. cereal
+grain is a [MASK]. cereal
+oat is a [MASK]. cereal
+Pablum is a [MASK]. cereal
+Cereal is a [MASK]. typically
+a chair is a typical location for [MASK]. the office
+chair is related to [MASK]. sitting
+seat is related to [MASK]. chair
+chair is related to [MASK]. seat
+a chair is a typical location for [MASK]. a desk
+chair is related to [MASK]. furniture
+chair is related to [MASK]. sit
+a cat is a typical location for [MASK]. a chair
+chair is related to [MASK]. table
+chair is related to [MASK]. legs
+An armchair is a [MASK]. a chair
+sitting on a chair is an event that requires [MASK]. a chair
+a chair is a typical location for [MASK]. a cubicle
+a chair is used for [MASK]. resting
+a chair is a typical location for [MASK]. the porch
+chair is related to [MASK]. sitting furniture
+table is related to [MASK]. chair
+chair is related to [MASK]. four
+chair is related to [MASK]. seating
+desk is related to [MASK]. chair
+calash is a part of [MASK]. chaise
+chaise is a [MASK]. carriage
+shay is a synonym of [MASK]. chaise
+chaise is a synonym of [MASK]. chaise longue
+chaise is a [MASK]. carriage
+shay is related to [MASK]. chaise
+chaise is related to [MASK]. chaise longue
+chay is related to [MASK]. chaise
+chaise is related to [MASK]. carriage
+chaisemaker is derived from [MASK]. chaise
+chaises is a form of [MASK]. chaise
+Cheese is a [MASK]. a food
+cheese is capable of [MASK]. age well
+cheese is a typical location for [MASK]. the refrigerator
+Brie is a [MASK]. cheese
+some cheese belongs to [MASK]. a strong odor
+cheese is a typical location for [MASK]. a pizza
+cheese is a [MASK]. a dairy product from cows
+cheese is a typical location for [MASK]. the market
+macaroni is related to [MASK]. cheese
+Cheese is a [MASK]. a noun
+Cheese belongs to [MASK]. a flavor
+cheese is a typical location for [MASK]. the fridge
+Cheese is a [MASK]. a good protein food
+cheese is a typical location for [MASK]. a plate
+Parmesan is a [MASK]. cheese
+Edam is a [MASK]. cheese
+Limburger is a [MASK]. cheese
+mozzarella is a [MASK]. cheese
+A clarinet is a [MASK]. an instrument
+a clarinet is a typical location for [MASK]. orchestra
+a clarinet is a typical location for [MASK]. a band
+a clarinet is a [MASK]. a musical instrument
+A clarinet is a [MASK]. a woodwind instrument
+a clarinet is used for [MASK]. making music
+B-flat clarinet is a [MASK]. clarinet
+a clarinet is used for [MASK]. make music
+clarinetist is related to [MASK]. clarinet
+clavier is a [MASK]. stringed instrument
+clavier is a [MASK]. keyboard instrument
+Klavier is a synonym of [MASK]. clavier
+harpsichord is a [MASK]. clavier
+clavier is a synonym of [MASK]. piano keyboard
+clavier is related to [MASK]. pianoforte
+clavieristic is derived from [MASK]. clavier
+claviers is a form of [MASK]. clavier
+claviers is related to [MASK]. clavier
+clavicytherium is related to [MASK]. clavier
+clipper is a synonym of [MASK]. limiter
+stuff is a specific way to do [MASK]. clog
+clog is a [MASK]. footwear
+clog is a specific way to do [MASK]. coalesce
+clog is a specific way to do [MASK]. restrain
+sabot is a synonym of [MASK]. clog
+gum up is a specific way to do [MASK]. clog
+silt up is a specific way to do [MASK]. clog
+coffee is a [MASK]. a stimulant
+Coffee belongs to [MASK]. caffeine
+Coffee can be described as [MASK]. served hot
+coffee is a typical location for [MASK]. a coffee shop
+a sugar is a typical location for [MASK]. coffee
+a mug is used for [MASK]. coffee
+Coffee can be done to [MASK]. made from coffee beans
+sugar is related to [MASK]. coffee
+coffee is a [MASK]. a popular drink
+coffee is a typical location for [MASK]. a internet cafe
+a compass is a typical location for [MASK]. a backpack
+east is related to [MASK]. compass
+sight is a [MASK]. compass
+compass is a [MASK]. drafting instrument
+box is related to [MASK]. container
+a box is a [MASK]. a container
+can is related to [MASK]. container
+a container is used for [MASK]. holding something
+case is related to [MASK]. container
+a is capable of [MASK]. is a container
+glass is related to [MASK]. container
+A bin is a [MASK]. a container
+A drawer is a [MASK]. a container
+a container is a typical location for [MASK]. a pantry
+a container is a typical location for [MASK]. a refrigerator
+a pitcher is a [MASK]. a container
+tin is related to [MASK]. container
+vessel is related to [MASK]. container
+a bucket is a [MASK]. a container
+A flask is a [MASK]. a container
+a container is a typical location for [MASK]. the cupboard
+soup is a typical location for [MASK]. a container
+a stored item is a typical location for [MASK]. a container
+A jug is a [MASK]. a container
+contrabass is a synonym of [MASK]. bass fiddle
+double bass is a synonym of [MASK]. contrabass
+contrabass is a synonym of [MASK]. double-bass
+contrabass is related to [MASK]. contra
+subcontrabass is derived from [MASK]. contrabass
+contrabassist is related to [MASK]. contrabass
+triple contrabass viol is derived from [MASK]. contrabass
+contrabassist is derived from [MASK]. contrabass
+subcontrabass is related to [MASK]. contrabass
+contrabass is related to [MASK]. string bass
+contra is related to [MASK]. contrabass
+a copier is a typical location for [MASK]. the office
+copier is a synonym of [MASK]. duplicator
+spirit duplicator is related to [MASK]. copier
+copiers is a form of [MASK]. copier
+photocopier is a [MASK]. copier
+copier is related to [MASK]. machine
+copiers is related to [MASK]. copier
+copier is related to [MASK]. material
+copier is a synonym of [MASK]. xeroxer
+bottle screw is a synonym of [MASK]. corkscrew
+corkscrew is a [MASK]. bottle opener
+corn is related to [MASK]. yellow
+Corn is a [MASK]. a vegetable
+corn is related to [MASK]. vegetable
+corn is related to [MASK]. cob
+Corn is a [MASK]. a food
+corn is related to [MASK]. food
+corn is related to [MASK]. crop
+corn is related to [MASK]. maize
+corn is related to [MASK]. grain
+corn is related to [MASK]. kernels
+crop is related to [MASK]. corn
+corn is related to [MASK]. ears
+corn is a typical location for [MASK]. a field
+corn is related to [MASK]. ear
+corn is related to [MASK]. plant
+corn is related to [MASK]. on cob
+corn is related to [MASK]. yellow vegetable
+corn is a typical location for [MASK]. a silo\
+corn is a typical location for [MASK]. a supermarket
+a crab is a typical location for [MASK]. sand
+a crab is a typical location for [MASK]. a bay
+a crab is a typical location for [MASK]. a crab salad
+a crab is a typical location for [MASK]. the bottom of the sea
+a crab is a typical location for [MASK]. the chesapeak bay
+a crab is a typical location for [MASK]. salad
+a crab is a typical location for [MASK]. the sand at a beach
+a crab is a typical location for [MASK]. tidepools
+crab is used in the context of [MASK]. air travel
+Crab is a [MASK]. person
+spider crab is a [MASK]. crab
+a crab is a typical location for [MASK]. a fish market
+Jonah crab is a [MASK]. crab
+boat is related to [MASK]. craft
+sewing is a [MASK]. a craft
+craft is a [MASK]. vehicle
+craft is a specific way to do [MASK]. fashion
+wiliness is a synonym of [MASK]. craft
+ascot is a [MASK]. cravat
+neckcloth is a [MASK]. cravat
+cravat is a [MASK]. neckwear
+regatte is related to [MASK]. cravat
+cravat is used in the context of [MASK]. historical
+cravat is related to [MASK]. triangular
+cravat is related to [MASK]. scarf
+cravats is a form of [MASK]. cravat
+cravatted is related to [MASK]. cravat
+cravat is related to [MASK]. band
+cravating is related to [MASK]. cravat
+brachyuran is a [MASK]. crustacean
+barnacle is a [MASK]. crustacean
+crustacean is a [MASK]. animal
+copepod is a [MASK]. crustacean
+barnacle is a [MASK]. crustacean
+malacostracan crustacean is a [MASK]. crustacean
+crustacean is a synonym of [MASK]. crustaceous
+green gland is a part of [MASK]. crustacean
+A cucumber is a [MASK]. a vegetable
+cucumber is related to [MASK]. vegetable
+cucumber is a part of [MASK]. cucumber
+cutlery is a typical location for [MASK]. a table
+eating utensil is a synonym of [MASK]. cutlery
+cutlery is a synonym of [MASK]. silverware
+silverware is a synonym of [MASK]. cutlery
+buck is a [MASK]. deer
+A deer is a [MASK]. an animal
+Virginia deer is a [MASK]. deer
+wapiti is a [MASK]. deer
+scut is a part of [MASK]. deer
+doe is a [MASK]. deer
+pricket is a [MASK]. deer
+mule deer is a [MASK]. deer
+a deer belongs to [MASK]. four legs
+zeppelin is similar to [MASK]. dirigible
+steerable is a synonym of [MASK]. dirigible
+manageable is similar to [MASK]. dirigible
+dirigible is a synonym of [MASK]. airship
+dirigible is similar to [MASK]. manageable
+balloon is related to [MASK]. dirigible
+zeppelin is a [MASK]. dirigible
+a cup is a typical location for [MASK]. a dishwasher
+dishwasher is a [MASK]. laborer
+dog is capable of [MASK]. bark
+A dog is capable of [MASK]. guard your house
+dog is related to [MASK]. pet
+dog is related to [MASK]. animal
+a dog is a typical location for [MASK]. a kennel
+flea is related to [MASK]. dog
+dog is related to [MASK]. canine
+A dog is capable of [MASK]. be a pet
+A dog is a [MASK]. a loyal friend
+a dog is used for [MASK]. companionship
+a dog is a [MASK]. pet
+a dog is capable of [MASK]. run
+the dog is a typical location for [MASK]. the table
+a dog is an entity that tipically wants [MASK]. a bone
+a dog is a [MASK]. mammal
+A dog belongs to [MASK]. four legs
+A dog is capable of [MASK]. guide a blind person
+a dog is an entity that tipically wants [MASK]. be petted
+puppy is a [MASK]. dog
+A dog is a [MASK]. a canine
+door is related to [MASK]. entrance
+door is related to [MASK]. opening
+door is related to [MASK]. house
+a door is a typical location for [MASK]. a building
+door is related to [MASK]. portal
+door is related to [MASK]. knob
+door is related to [MASK]. entry
+a knob is a typical location for [MASK]. a door
+window is related to [MASK]. door
+gate is related to [MASK]. door
+door is related to [MASK]. room
+A handle is a part of [MASK]. a door
+a lock is a typical location for [MASK]. a door
+a house belongs to [MASK]. a door
+door is related to [MASK]. wall
+a door is a typical location for [MASK]. the wall
+a door can be done to [MASK]. opened
+door is related to [MASK]. exit
+door is related to [MASK]. open
+door is related to [MASK]. handle
+dress is related to [MASK]. clothing
+dress is related to [MASK]. skirt
+dress is related to [MASK]. clothes
+dress is related to [MASK]. women
+dress is related to [MASK]. female
+dress is related to [MASK]. woman
+dress is related to [MASK]. long
+dress is related to [MASK]. garment
+dress is related to [MASK]. gown
+dress is related to [MASK]. girls
+dress is related to [MASK]. womans
+dress is related to [MASK]. girl
+dress is related to [MASK]. wear
+dress is related to [MASK]. frock
+dress is related to [MASK]. long skirt
+dress is related to [MASK]. attire
+dress is related to [MASK]. female clothing
+dress is related to [MASK]. clothe
+drink is related to [MASK]. liquid
+water is used for [MASK]. drink
+drink is related to [MASK]. beverage
+milk is related to [MASK]. drink
+soda is a [MASK]. a drink
+drink is an event that requires [MASK]. open your mouth
+A screwdriver is a [MASK]. a drink
+drink is related to [MASK]. water
+wine is related to [MASK]. drink
+tea is a [MASK]. a drink
+Cappuccino is a [MASK]. a drink
+drink is related to [MASK]. imbibe
+drink is an event that is motivated by the goal [MASK]. quench your thirst
+shake is related to [MASK]. drink
+drink is related to [MASK]. swallow
+drink is related to [MASK]. action
+drink is related to [MASK]. thirst
+drink is an event that is motivated by the goal [MASK]. you were thirsty
+being thirsty makes someone want [MASK]. drink
+drink is related to [MASK]. glass
+drum is a [MASK]. percussion instrument
+a drum is used for [MASK]. making music
+drum is a specific way to do [MASK]. sound
+drum is a specific way to do [MASK]. play
+tambour is a [MASK]. drum
+a dryer is capable of [MASK]. dry wet clothes
+a dryer is a typical location for [MASK]. the basement
+a dryer is capable of [MASK]. dry clothing
+dryer is a [MASK]. appliance
+dryers is a form of [MASK]. dryer
+clothes dryer is a [MASK]. dryer
+dustpanful is a synonym of [MASK]. dustpan
+dustpan is a [MASK]. containerful
+dustpan is a [MASK]. receptacle
+earring is a [MASK]. jewelry
+an earring is a [MASK]. a piece of jewlery
+pendant earring is a [MASK]. earring
+an elephant is a typical location for [MASK]. a circus
+tusk is related to [MASK]. elephant
+an elephant belongs to [MASK]. a trunk
+an elephant is a typical location for [MASK]. Africa
+An elephant belongs to [MASK]. tusks
+an elephant is a typical location for [MASK]. a zoo
+elephant is a [MASK]. pachyderm
+mammoth is a [MASK]. elephant
+door is related to [MASK]. entrance
+an entrance is used for [MASK]. entering a building
+an entrance is used for [MASK]. entering
+gate is related to [MASK]. entrance
+pithead is a [MASK]. entrance
+naval equipment is a [MASK]. equipment
+test equipment is a [MASK]. equipment
+fuel system is a [MASK]. equipment
+sports equipment is a [MASK]. equipment
+technology is a [MASK]. equipment
+stock-in-trade is a [MASK]. equipment
+hook and eye is a [MASK]. fastener
+locker is a [MASK]. fastener
+slide fastener is a [MASK]. fastener
+toggle bolt is a [MASK]. fastener
+seal is a [MASK]. fastener
+fastener is a [MASK]. person
+fire is a typical location for [MASK]. a fireplace
+a fireplace is a typical location for [MASK]. the living room
+A fireplace is capable of [MASK]. heat the room
+a fireplace is used for [MASK]. warmth
+fireplace is a part of [MASK]. chimney
+hearthstone is a part of [MASK]. fireplace
+mantel is a part of [MASK]. fireplace
+flagon is a [MASK]. vessel
+flagon is related to [MASK]. cider
+flacket is related to [MASK]. flagon
+goon is related to [MASK]. flagon
+flagship is a [MASK]. ship
+flagship is a [MASK]. thing
+flashlight is a synonym of [MASK]. torch
+penlight is a [MASK]. flashlight
+flashlight is a [MASK]. electric lamp
+A flute is a [MASK]. a wind instrument
+A flute is a [MASK]. an instrument
+A flute is used for [MASK]. make music
+flute is a specific way to do [MASK]. crimp
+nose flute is a [MASK]. flute
+a flute is used for [MASK]. making music
+a flute is used for [MASK]. creating music
+a flute is a typical location for [MASK]. a musical instrument store
+shoe is related to [MASK]. footwear
+sock is related to [MASK]. footwear
+flats is a [MASK]. footwear
+clog is a [MASK]. footwear
+footgear is a synonym of [MASK]. footwear
+hosiery is a [MASK]. footwear
+shoe is a [MASK]. footwear
+a fork is a typical location for [MASK]. the kitchen
+a fork is a typical location for [MASK]. a table
+a fork is used for [MASK]. eating food
+a fork is a typical location for [MASK]. drawer
+a fork is a typical location for [MASK]. the road
+a fork is a typical location for [MASK]. a plate
+plate is related to [MASK]. fork
+fork is a synonym of [MASK]. branch
+salad fork is a [MASK]. fork
+a fork is used for [MASK]. eat food
+carving fork is a [MASK]. fork
+A fork is a [MASK]. eating utensil
+a forklift is used for [MASK]. move heavy objects
+a forklift is used for [MASK]. lifting
+a forklift is used for [MASK]. move heavy items
+a forklift is used for [MASK]. lifting heavy things
+a forklift is used for [MASK]. lift heavy items
+a forklift is used for [MASK]. carry things
+a forklift is used for [MASK]. load a truck
+a forklift is used for [MASK]. raise heavy items
+a forklift is used for [MASK]. store pallets of merchandise
+forklift is a synonym of [MASK]. fork truck
+forklift is a synonym of [MASK]. trailer loader
+a forklift is used for [MASK]. lifting pallets
+a forklift is used for [MASK]. remove pallets of merchandise from storage
+fountain is related to [MASK]. water
+fountain is a [MASK]. plumbing fixture
+fountain is a synonym of [MASK]. spring
+fount is a synonym of [MASK]. fountain
+fox is related to [MASK]. animal
+A fox is a [MASK]. an animal
+a fox is a typical location for [MASK]. the hen house
+a fox is a typical location for [MASK]. england
+a fox is a typical location for [MASK]. foxhunt
+a fox is a typical location for [MASK]. the mountains
+a fox is a typical location for [MASK]. the wild
+A fox belongs to [MASK]. four legs
+a fox is a typical location for [MASK]. the stump of a tree
+a fox is a typical location for [MASK]. a fox hole
+a fox is a typical location for [MASK]. a burrow
+a fox is a typical location for [MASK]. meadow
+a fox is a typical location for [MASK]. a fox hunt
+a fox is a typical location for [MASK]. a box
+a fox is a typical location for [MASK]. a wooded area
+fox is related to [MASK]. red
+toad is related to [MASK]. frog
+a frog is a typical location for [MASK]. a pond
+South American poison toad is a [MASK]. frog
+eastern narrow-mouthed toad is a [MASK]. frog
+tree toad is a [MASK]. frog
+obstetrical toad is a [MASK]. frog
+apple is related to [MASK]. fruit
+a fruit is used for [MASK]. eating
+fruit can be described as [MASK]. good for you
+fruit is a [MASK]. a good source of vitamins
+fruit can be described as [MASK]. good for health
+Pineapple is a [MASK]. fruit
+Fruit can be done to [MASK]. eaten
+fruit is a typical location for [MASK]. a tree
+a fruit is a typical location for [MASK]. a market
+grape is related to [MASK]. fruit
+produce is related to [MASK]. fruit
+orange is related to [MASK]. fruit
+lemon is related to [MASK]. fruit
+lime is related to [MASK]. fruit
+A mango is a [MASK]. a fruit
+fruit is a [MASK]. a better snack than candy
+Plums is a [MASK]. fruit
+watermelon is a [MASK]. a fruit
+raspberry is related to [MASK]. fruit
+peach is related to [MASK]. fruit
+waste is related to [MASK]. garbage
+garbage is a typical location for [MASK]. the trash
+Garbage can be done to [MASK]. recycled
+garbage is used for [MASK]. recycling
+garbage is a typical location for [MASK]. a garbage can
+garbage is a typical location for [MASK]. the dump
+garbage is a [MASK]. waste material
+A garbage is capable of [MASK]. holds garbage
+head gasket is a [MASK]. gasket
+O ring is a [MASK]. gasket
+gasket is a [MASK]. seal
+o ring is related to [MASK]. gasket
+gate is related to [MASK]. fence
+gate is related to [MASK]. door
+gate is related to [MASK]. opening
+gate is related to [MASK]. fence opening
+gate is related to [MASK]. entrance
+head gate is a [MASK]. gate
+gate is a specific way to do [MASK]. operate
+departure gate is a [MASK]. gate
+logic gate is a synonym of [MASK]. gate
+water gauge is a [MASK]. gauge
+gasoline gauge is a [MASK]. gauge
+broad gauge is a [MASK]. gauge
+vacuum gauge is a [MASK]. gauge
+gauge is a [MASK]. distance
+metal glove is a synonym of [MASK]. gauntlet
+gauntlet is a [MASK]. corporal punishment
+gantlet is a synonym of [MASK]. gauntlet
+gantlet is a synonym of [MASK]. gauntlet
+gauntlet is a part of [MASK]. body armor
+window is related to [MASK]. glass
+glass is related to [MASK]. window
+a glass is used for [MASK]. drinking
+glass is related to [MASK]. clear
+glass is related to [MASK]. material
+A glass can be done to [MASK]. broken
+glass is related to [MASK]. drinking
+A glass is capable of [MASK]. hold liquid
+glass is related to [MASK]. transparent
+glass is related to [MASK]. windows
+drink is related to [MASK]. glass
+glass is related to [MASK]. sand
+glass is related to [MASK]. cup
+Glass can be described as [MASK]. recyclable
+glass can be described as [MASK]. clear
+a glass is a typical location for [MASK]. the cabinet
+a glass is used for [MASK]. seeing through
+glass is capable of [MASK]. break easily
+water is a typical location for [MASK]. a glass
+a glass is used for [MASK]. holding liquid
+hand is related to [MASK]. glove
+a glove is used for [MASK]. protecting the hand
+sock is related to [MASK]. glove
+mitten is a [MASK]. glove
+A glove can be done to [MASK]. worn on a hand
+a glove is capable of [MASK]. fit a hand
+batting glove is a [MASK]. glove
+golf glove is a [MASK]. glove
+A baseball mitt is a [MASK]. a glove
+thumb is a part of [MASK]. glove
+tam-tam is a synonym of [MASK]. gong
+gong is a [MASK]. percussion instrument
+rice is related to [MASK]. grain
+corn is related to [MASK]. grain
+grain is related to [MASK]. wheat
+Rice is a [MASK]. a grain
+bread is related to [MASK]. grain
+sand is related to [MASK]. grain
+grain is related to [MASK]. rice
+Wheat is a [MASK]. a grain
+grain is related to [MASK]. food
+seed is related to [MASK]. grain
+grain is related to [MASK]. sand
+a guitar is used for [MASK]. making music
+guitar is a [MASK]. string instrument
+chord is related to [MASK]. guitar
+a guitar is used for [MASK]. music
+A guitar belongs to [MASK]. strings
+bass is related to [MASK]. guitar
+guitar is related to [MASK]. string
+bass guitar is a [MASK]. guitar
+guitar is used for [MASK]. sound
+a guitar is used for [MASK]. play a song
+guitar is made of [MASK]. strings
+a string is a typical location for [MASK]. a guitar
+acoustic guitar is a [MASK]. guitar
+a guitar is a typical location for [MASK]. a band
+hall is related to [MASK]. room
+hall is related to [MASK]. corridor
+hall is related to [MASK]. long
+hall is related to [MASK]. rooms
+hall is related to [MASK]. passageway
+halls is a form of [MASK]. hall
+beer hall is a [MASK]. hall
+a hall is used for [MASK]. walking down
+Hall is a synonym of [MASK]. Granville Stanley Hall
+hall is a [MASK]. room
+Hall is a synonym of [MASK]. Charles Martin Hall
+hall is a synonym of [MASK]. corridor
+concert hall is a [MASK]. hall
+a hammer is used for [MASK]. driving nails
+a hammer is used for [MASK]. pounding nails
+hammer is capable of [MASK]. strike nail
+a hammer is a typical location for [MASK]. tool box
+a hammer is used for [MASK]. hit a nail
+A hammer is capable of [MASK]. break glass
+hammer is related to [MASK]. tool
+a hammer is capable of [MASK]. drive in nails
+hammer is used for [MASK]. drive a nail
+a hammer is used for [MASK]. drive nails
+bricklayer's hammer is a [MASK]. hammer
+muff is a [MASK]. handwear
+handwear is a [MASK]. clothing
+hand wear is a synonym of [MASK]. handwear
+glove is a [MASK]. handwear
+a harmonica is a [MASK]. an instrument
+a harmonica is used for [MASK]. making music
+harp is a synonym of [MASK]. harmonica
+A harmonica is a [MASK]. a musical instrument
+mouth harp is a synonym of [MASK]. harmonica
+crown is related to [MASK]. hat
+a hat is a typical location for [MASK]. a closet
+a hat is used for [MASK]. protecting your head
+a helmet is a [MASK]. hat
+captain is related to [MASK]. hat
+dunce cap is a [MASK]. hat
+hatband is a part of [MASK]. hat
+a hat is used for [MASK]. waving
+brim is a part of [MASK]. hat
+bearskin is a [MASK]. hat
+a hat is used for [MASK]. begging
+crown is related to [MASK]. headdress
+turban is a [MASK]. headdress
+headgear is a synonym of [MASK]. headdress
+kaffiyeh is a [MASK]. headdress
+topknot is a [MASK]. headdress
+wimple is a [MASK]. headdress
+a heater is capable of [MASK]. heat a room
+a heater is a typical location for [MASK]. a house
+a heater is used for [MASK]. heating
+defroster is a [MASK]. heater
+demister is a [MASK]. heater
+a heater is used for [MASK]. get warm
+heating pad is a [MASK]. heater
+shuttle helicopter is a [MASK]. helicopter
+chopper is a synonym of [MASK]. helicopter
+helicopter is used for [MASK]. transport
+helicopter is used for [MASK]. fly
+single-rotor helicopter is a [MASK]. helicopter
+helicopter is a [MASK]. heavier-than-air craft
+landing skids is a part of [MASK]. helicopter
+a helmet is a [MASK]. hat
+helmet is related to [MASK]. head
+morion is a [MASK]. helmet
+crash helmet is a [MASK]. helmet
+football helmet is a [MASK]. helmet
+helmet is a [MASK]. armor plate
+pickelhaube is a [MASK]. helmet
+armet is a [MASK]. helmet
+hoe handle is a part of [MASK]. hoe
+hoe is a specific way to do [MASK]. till
+hood is a synonym of [MASK]. ness
+cowling is a synonym of [MASK]. hood
+camail is a [MASK]. hood
+tough is a synonym of [MASK]. hood
+hood is a [MASK]. criminal
+a hook is used for [MASK]. catch fish
+an hook is a typical location for [MASK]. the end of a line
+hook is a specific way to do [MASK]. play
+hook is a specific way to do [MASK]. offer
+gig is a [MASK]. hook
+barb is a part of [MASK]. hook
+anchor is a [MASK]. hook
+hornpipe is used in the context of [MASK]. United Kingdom
+hornpipe is a [MASK]. dance music
+hornpipe is a [MASK]. single-reed instrument
+pibgorn is a synonym of [MASK]. hornpipe
+stockhorn is a synonym of [MASK]. hornpipe
+hornpipe is a [MASK]. folk dancing
+matelote is related to [MASK]. hornpipe
+hornpipe is used in the context of [MASK]. musical instruments
+hornpipe is related to [MASK]. seamen
+hornpiper is related to [MASK]. hornpipe
+hornpipe is related to [MASK]. pipe
+hornpipe is related to [MASK]. irish stepdance
+hydrant is a synonym of [MASK]. water faucet
+fireplug is a [MASK]. hydrant
+hydrant is a [MASK]. discharge pipe
+hydrant is related to [MASK]. outlet
+hydrant is related to [MASK]. valve
+hydrant is related to [MASK]. pipe
+flea is related to [MASK]. insect
+a fly is a [MASK]. a insect
+fly is related to [MASK]. insect
+A butterfly is a [MASK]. an insect
+ant is a [MASK]. insect
+An earwig is a [MASK]. an insect
+mosquito is related to [MASK]. insect
+insect is related to [MASK]. bug
+stonefly is a [MASK]. insect
+air sac is a part of [MASK]. insect
+bug is a [MASK]. insect
+phasmid is a [MASK]. insect
+imago is a [MASK]. insect
+brachiopod is a [MASK]. invertebrate
+Symbion pandora is a [MASK]. invertebrate
+spineless is a synonym of [MASK]. invertebrate
+entoproct is a [MASK]. invertebrate
+phoronid is a [MASK]. invertebrate
+zoophyte is a [MASK]. invertebrate
+mollusk is a [MASK]. invertebrate
+worm is a [MASK]. invertebrate
+ctenophore is a [MASK]. invertebrate
+arthropod is a [MASK]. invertebrate
+invertebrate is used in the context of [MASK]. zoology
+invertebrate is the opposite of [MASK]. vertebrate
+coat is related to [MASK]. jacket
+jacket is related to [MASK]. coat
+bolero is a [MASK]. jacket
+jacket is a [MASK]. shell
+jumper is a [MASK]. jacket
+peanut butter is a typical location for [MASK]. the jar
+pickles is a typical location for [MASK]. a jar
+a cookie is a typical location for [MASK]. the jar
+jelly is a typical location for [MASK]. a jar
+a jar is a typical location for [MASK]. a pantry
+jam is a typical location for [MASK]. a jar
+change is a typical location for [MASK]. the jar
+food is a typical location for [MASK]. a jar
+water is a typical location for [MASK]. the jar
+mayonnaise is a typical location for [MASK]. a jar
+honey is a typical location for [MASK]. the jar
+candy is a typical location for [MASK]. the jar
+pigs feet is a typical location for [MASK]. a jar
+olives is a typical location for [MASK]. a jar
+a jar is a typical location for [MASK]. a refrigerator
+pickle is a typical location for [MASK]. the jar
+pennies is a typical location for [MASK]. a jar
+cherries is a typical location for [MASK]. a jar
+beets is a typical location for [MASK]. the jar
+baby foods is a typical location for [MASK]. a jar
+ring is related to [MASK]. jewelry
+jewelry is a typical location for [MASK]. jewelry box
+a necklace is a [MASK]. jewelry
+Necklaces is a [MASK]. jewelry
+jewelry is used for [MASK]. decorate your body
+jewelry is used for [MASK]. decoration
+crown is related to [MASK]. jewelry
+silver is related to [MASK]. jewelry
+ring is a [MASK]. jewelry
+a person is an entity that tipically wants [MASK]. jewelry
+necklace is a [MASK]. jewelry
+cufflink is a [MASK]. jewelry
+jewelry is a typical location for [MASK]. safe
+A jug is a [MASK]. a container
+water jug is a [MASK]. jug
+milk is related to [MASK]. juice
+wine is related to [MASK]. juice
+juice is a typical location for [MASK]. the refrigerator
+juice is a [MASK]. current
+V-8 juice is a [MASK]. juice
+lime juice is a [MASK]. juice
+a kettle is used for [MASK]. boil water
+a kettle is a typical location for [MASK]. kitchen
+a kettle is used for [MASK]. making tea
+steam is related to [MASK]. kettle
+timpani is a synonym of [MASK]. kettle
+tympani is a synonym of [MASK]. kettle
+kibble is a [MASK]. meal
+kibbles is a form of [MASK]. kibble
+kibble is a [MASK]. bucket
+kibble is related to [MASK]. iron
+kibble is related to [MASK]. grain
+kibble is related to [MASK]. animal
+knapsack is a synonym of [MASK]. backpack
+rucksack is a synonym of [MASK]. knapsack
+backpack is a synonym of [MASK]. knapsack
+knapsack is a synonym of [MASK]. backpack
+knapsack is a [MASK]. baggage
+knapsack is a synonym of [MASK]. rucksack
+knapsack is related to [MASK]. camping
+knife is capable of [MASK]. spread butter
+a knife is a typical location for [MASK]. the kitchen
+cut is related to [MASK]. knife
+A knife is capable of [MASK]. spread peanut butter
+knife is used for [MASK]. stabbing
+a knife is a typical location for [MASK]. a drawer
+blade is related to [MASK]. knife
+a knife is used for [MASK]. butter
+The blade is a part of [MASK]. a knife
+knife is a typical location for [MASK]. a pocket
+A knife is a [MASK]. tool
+a knife is a typical location for [MASK]. the kitchen drawer
+a knife is capable of [MASK]. hurt a dog
+A knife is capable of [MASK]. cut
+a knife is capable of [MASK]. cut that apple
+a knife is used for [MASK]. cutting food
+a knife is capable of [MASK]. butter bread
+edge is related to [MASK]. knife
+a knife is capable of [MASK]. hurt
+laden is a synonym of [MASK]. ladle
+slop is a specific way to do [MASK]. ladle
+scoop is a [MASK]. ladle
+ladle is a specific way to do [MASK]. put
+dipper is a [MASK]. ladle
+a lamp is a typical location for [MASK]. your house
+a lamp is a typical location for [MASK]. a desk
+a lamp is a typical location for [MASK]. a desktop
+a lamp is a typical location for [MASK]. a table
+lantern is related to [MASK]. lamp
+a lamp is a typical location for [MASK]. a store
+a lamp is a typical location for [MASK]. the office
+a lamp is a typical location for [MASK]. a building
+a lamp is a typical location for [MASK]. a bedroom
+A lamp is used for [MASK]. illuminating an area
+A lamp is capable of [MASK]. illuminate
+lamp is related to [MASK]. switch
+taillight is a [MASK]. lamp
+lamp is related to [MASK]. light
+little girls room is related to [MASK]. lavatory
+gentlemen's is related to [MASK]. lavatory
+lavatory is a synonym of [MASK]. flush toilet
+lavatory is a synonym of [MASK]. toilet
+gentlemen is related to [MASK]. lavatory
+toilet room is related to [MASK]. lavatory
+lavatory is a synonym of [MASK]. washbasin
+little boys room is related to [MASK]. lavatory
+john is related to [MASK]. lavatory
+a lens is a typical location for [MASK]. the camera
+THe lens is a part of [MASK]. the eye
+Most cameras belongs to [MASK]. a lens
+A lens is used for [MASK]. magnify something
+A lens is made of [MASK]. glass
+eye is related to [MASK]. lens
+anastigmat is a [MASK]. lens
+crystalline lens is a synonym of [MASK]. lens
+a lens is a typical location for [MASK]. a microscope
+lens is a part of [MASK]. eye
+lens system is a synonym of [MASK]. lens
+lever is a [MASK]. tumbler
+tappet is a [MASK]. lever
+fulcrum is a part of [MASK]. lever
+rocker arm is a [MASK]. lever
+pedal is a [MASK]. lever
+lever is a [MASK]. machine
+pinch bar is a [MASK]. lever
+a lion is a [MASK]. an animal
+the lion is a [MASK]. a carnivore
+a lion is capable of [MASK]. roar
+a lion is capable of [MASK]. hunt zebras
+a lion is a typical location for [MASK]. africa
+mane is a part of [MASK]. lion
+social lion is a synonym of [MASK]. lion
+a lizard is a typical location for [MASK]. your garden
+a lizard is capable of [MASK]. sun itself on a rock
+a lizard is a typical location for [MASK]. the bush
+A lizard is capable of [MASK]. sun on a rock
+a lizard is a typical location for [MASK]. dessert
+a lizard is a typical location for [MASK]. California
+a lizard is a typical location for [MASK]. China
+A lizard is capable of [MASK]. sun itself
+a lizard is a typical location for [MASK]. a house
+a lizard is a typical location for [MASK]. new mexico
+a lizard is a typical location for [MASK]. a dry, rocky area
+a lizard is a typical location for [MASK]. the tropics
+a lizard is a typical location for [MASK]. a reptile house
+worm lizard is a [MASK]. lizard
+machete is a [MASK]. knife
+matchet is a synonym of [MASK]. machete
+panga is a synonym of [MASK]. machete
+mail is a typical location for [MASK]. the mail box
+post is related to [MASK]. mail
+letter is related to [MASK]. mail
+an advertisement is a typical location for [MASK]. the mail
+letters is a typical location for [MASK]. the mail
+packages is a typical location for [MASK]. the mail
+mail is a typical location for [MASK]. your house
+mail is a typical location for [MASK]. the table
+deliver is related to [MASK]. mail
+a letter is a typical location for [MASK]. the mail
+A mandolin is a [MASK]. a instrument
+a mandolin is used for [MASK]. making music
+A mandolin is a [MASK]. a stringed musical instrument
+a mandolin is used for [MASK]. playing music
+A mandolin is a [MASK]. a musical instrument
+mandola is a [MASK]. mandolin
+a mandolin is a typical location for [MASK]. an instrument case
+mask is a synonym of [MASK]. dissemble
+microphone is used for [MASK]. amplify
+directional microphone is a [MASK]. microphone
+mike is a synonym of [MASK]. microphone
+bug is a [MASK]. microphone
+microphone is used for [MASK]. amplification
+a microwave is capable of [MASK]. heat food
+microwave oven is a synonym of [MASK]. microwave
+a potato is a typical location for [MASK]. the microwave
+zap is a synonym of [MASK]. microwave
+nuke is a synonym of [MASK]. microwave
+a mirror is a typical location for [MASK]. a bedroom
+reflection is related to [MASK]. mirror
+A mirror is a [MASK]. a surface
+A mirror is used for [MASK]. see yourself
+a mirror is a typical location for [MASK]. the purse
+a mirror is a typical location for [MASK]. a car
+a mirror is used for [MASK]. looking at yourself
+mitten is a [MASK]. glove
+the monitor is a part of [MASK]. the computer
+a monitor is a typical location for [MASK]. the desk
+A monitor  is a part of [MASK]. a computer system
+a monitor is a typical location for [MASK]. a desktop
+a monitor is capable of [MASK]. display images
+electronic fetal monitor is a [MASK]. monitor
+monitoring device is a synonym of [MASK]. monitor
+a monkey is a typical location for [MASK]. the circus
+a monkey is a typical location for [MASK]. the tropical forest
+a monkey is a typical location for [MASK]. South America
+A monkey is a [MASK]. a primate
+a monkey is an entity that tipically wants [MASK]. eat a banana
+monkey is related to [MASK]. ape
+a monkey is a typical location for [MASK]. an African jungle
+a monkey is an entity that tipically wants [MASK]. a banana
+a monkey is a typical location for [MASK]. the jungel
+a monkey is a typical location for [MASK]. the rain forest
+ape is related to [MASK]. monkey
+a monkey is a typical location for [MASK]. the works
+monocycle is a synonym of [MASK]. unicycle
+monocycle is related to [MASK]. bicycle
+monocyclical is derived from [MASK]. monocycle
+monocyclicity is derived from [MASK]. monocycle
+monocycle is related to [MASK]. tetracycle
+monocycles is a form of [MASK]. monocycle
+monocycle is derived from [MASK]. cycle
+monocycle is related to [MASK]. tricycle
+monocycle is related to [MASK]. aromatic
+monocycle is related to [MASK]. gaussian
+monocycle is related to [MASK]. monowheel
+monocycles is related to [MASK]. monocycle
+monocyclic is derived from [MASK]. monocycle
+monocyclist is derived from [MASK]. monocycle
+monocycle is used in the context of [MASK]. communication
+monocycle is related to [MASK]. unicycle
+monocycle is used in the context of [MASK]. organic chemistry
+a mortar is used for [MASK]. grinding things
+mortar is used in the context of [MASK]. masonry
+a motorcycle belongs to [MASK]. two wheels
+a motorcycle is a typical location for [MASK]. a garage
+a screw is a typical location for [MASK]. a motorcycle
+trail bike is a [MASK]. motorcycle
+mower is a synonym of [MASK]. lawn mower
+a mower is a typical location for [MASK]. the garage
+mowers is related to [MASK]. mower
+mower is derived from [MASK]. mow
+mower is derived from [MASK]. mow
+mower is related to [MASK]. hay
+mowerless is derived from [MASK]. mower
+mulching mower is related to [MASK]. mower
+scytheman is related to [MASK]. mower
+a mug is used for [MASK]. drinking from
+mug is related to [MASK]. cup
+a mug is used for [MASK]. coffee
+a mug is used for [MASK]. drink coffee
+A mug is a [MASK]. a container
+mug is used for [MASK]. drinker
+a mug is used for [MASK]. holding coffee
+mug is a [MASK]. containerful
+mug is a synonym of [MASK]. chump
+handle is a part of [MASK]. mug
+mussel is a part of [MASK]. edible mussel
+mussel is a [MASK]. bivalve
+a necklace is a [MASK]. jewelry
+a necklace is used for [MASK]. wearing around the neck
+a necklace is used for [MASK]. decorate
+A necklace is a [MASK]. a piece of jewlery
+chain is a [MASK]. necklace
+A necklace is a [MASK]. a piece of jewelry
+necklace is a [MASK]. jewelry
+pendant is a part of [MASK]. necklace
+A tie is a [MASK]. neckwear
+neckwear is a [MASK]. garment
+cravat is a [MASK]. neckwear
+neckwear is a typical location for [MASK]. a tie store
+necktie is a [MASK]. neckwear
+neckwear is a typical location for [MASK]. a closet
+wear is related to [MASK]. neckwear
+neckwear is related to [MASK]. necklace
+neckwear is used for [MASK]. be in style
+an oboe is used for [MASK]. playing in an orchestra
+An Oboe is a [MASK]. a music instrument
+an oboe is used for [MASK]. make music
+an oboe is a typical location for [MASK]. a music store
+an oboe is a typical location for [MASK]. an orchestra
+An oboe is a [MASK]. an instrument
+oboe d amore is a [MASK]. oboe
+oboe da caccia is a [MASK]. oboe
+hautbois is a synonym of [MASK]. oboe
+an oboe is used for [MASK]. making music
+Allium cepa is a synonym of [MASK]. onion
+Welsh onion is a [MASK]. onion
+shallot is a [MASK]. onion
+tree onion is a [MASK]. onion
+shallot is a [MASK]. onion
+onion is a [MASK]. vegetable
+Orange is a [MASK]. a color
+Orange is a [MASK]. a colour
+Pumpkins can be described as [MASK]. orange
+an orange is a [MASK]. a citrus fruit
+color is related to [MASK]. orange
+Carrots can be described as [MASK]. orange
+orange is related to [MASK]. fruit
+An orange belongs to [MASK]. a peel
+An orange belongs to [MASK]. rind
+apple is related to [MASK]. orange
+orange is related to [MASK]. citrus
+fire is related to [MASK]. orange
+orange is related to [MASK]. color
+An orange can be described as [MASK]. sweet
+eye is related to [MASK]. organ
+nose is related to [MASK]. organ
+ear is related to [MASK]. organ
+organ is a [MASK]. a musical instrument
+an organ is a typical location for [MASK]. a body
+an organ is used for [MASK]. play music
+An organ is a [MASK]. an instrument
+an organ is a typical location for [MASK]. a human body
+a stop is a typical location for [MASK]. an organ
+liver is related to [MASK]. organ
+hand is related to [MASK]. organ
+mouth is related to [MASK]. organ
+organ is a synonym of [MASK]. harmonium
+wing is a [MASK]. organ
+food is a typical location for [MASK]. the oven
+racks is a typical location for [MASK]. the oven
+heating elements is a typical location for [MASK]. the oven
+cakes is a typical location for [MASK]. the oven
+baking a cake is an event that requires [MASK]. an oven
+an oven is used for [MASK]. cooking
+an oven is used for [MASK]. bake cookies
+pizza is a typical location for [MASK]. the oven
+An oven can be described as [MASK]. very hot
+heat is a typical location for [MASK]. the oven
+oven racks is a typical location for [MASK]. the oven
+a cake is a typical location for [MASK]. the oven
+a pie is a typical location for [MASK]. the oven
+a turkey is a typical location for [MASK]. the oven
+An oven is capable of [MASK]. brown chicken
+making bread is an event that requires [MASK]. an oven
+a pan is a typical location for [MASK]. an oven
+meatloaf is a typical location for [MASK]. the oven
+bread is a typical location for [MASK]. the oven
+oven is related to [MASK]. stove
+overshoe is a [MASK]. footwear
+arctic is a [MASK]. overshoe
+overshoe is related to [MASK]. gumshoe
+go on a vacation is an event that requires [MASK]. pack
+travel is an event that requires [MASK]. pack
+travel is an event that begins with [MASK]. pack,
+pack is a synonym of [MASK]. throng
+bundle is a specific way to do [MASK]. pack
+pack is a specific way to do [MASK]. seal
+wolf pack is a [MASK]. pack
+disk pack is a [MASK]. pack
+pant is a [MASK]. noise
+parasol mushroom is derived from [MASK]. parasol
+sunshade is a synonym of [MASK]. parasol
+parasol is a [MASK]. shade
+apple is related to [MASK]. pear
+pear is a [MASK]. fruit tree
+anjou is a [MASK]. pear
+Pyrus communis is a synonym of [MASK]. pear
+peelers is a form of [MASK]. peeler
+peeler is a [MASK]. worker
+peeler is a [MASK]. device
+peeler is a synonym of [MASK]. stripper
+pendent is a synonym of [MASK]. pendant
+pendant is a synonym of [MASK]. chandelier
+pendant is a part of [MASK]. necklace
+percussion is a [MASK]. music
+pleximetry is a synonym of [MASK]. percussion
+percussion is a [MASK]. detonation
+drumming is a [MASK]. percussion
+percussion is a synonym of [MASK]. percussion section
+percussion is a [MASK]. auscultation
+phonograph is a synonym of [MASK]. record player
+record player is a synonym of [MASK]. phonograph
+record is related to [MASK]. phonograph
+record player is related to [MASK]. phonograph
+phonograph is related to [MASK]. play
+archeophone is related to [MASK]. phonograph
+phonograph is related to [MASK]. lathe
+disk is related to [MASK]. phonograph
+phonograph is a synonym of [MASK]. talking phonograph
+phonograph is related to [MASK]. archive
+phonograph is related to [MASK]. capture
+phonographs is related to [MASK]. phonograph
+a photocopier is a typical location for [MASK]. a library
+a photocopier is a typical location for [MASK]. the office
+photocopier is a [MASK]. duplicator
+toner is related to [MASK]. photocopier
+photocopier is a synonym of [MASK]. photoduplicator
+xerox machine is a [MASK]. photocopier
+the piano is a [MASK]. an instrument of music
+a piano is used for [MASK]. performing music
+piano is a [MASK]. percussion instrument
+a piano is a typical location for [MASK]. a concert hall
+piano is a [MASK]. instrument
+a piano is used for [MASK]. music
+A piano belongs to [MASK]. 88 keys
+a piano is a typical location for [MASK]. a concert
+piano is related to [MASK]. instrument
+piano is related to [MASK]. keys
+mechanical piano is a [MASK]. piano
+piano keyboard is a part of [MASK]. piano
+pianoforte is a synonym of [MASK]. piano
+soft pedal is a part of [MASK]. piano
+piano action is a part of [MASK]. piano
+sounding board is a part of [MASK]. piano
+a piccolo is a [MASK]. a musical instrument
+a piccolo is a typical location for [MASK]. band
+a piccolo is a typical location for [MASK]. orchestra
+piccolo is a [MASK]. flute
+a piccolo is used for [MASK]. play music
+tack is related to [MASK]. pin
+pin is a synonym of [MASK]. trap
+pin is a synonym of [MASK]. peg
+pins is a form of [MASK]. pin
+pinhead is a part of [MASK]. pin
+bitt pin is a [MASK]. pin
+a pipe is capable of [MASK]. branch off
+pipeline is a [MASK]. pipe
+pipe is a specific way to do [MASK]. play
+standpipe is a [MASK]. pipe
+pipe is a specific way to do [MASK]. transport
+pipe is a [MASK]. tube
+a plane is capable of [MASK]. arrive at an airport
+a flight attendant is a typical location for [MASK]. a plane
+A plane is capable of [MASK]. land on an runway
+alcohol is a typical location for [MASK]. a plane
+a plane is a typical location for [MASK]. the air
+A plane is used for [MASK]. travel
+A plane is a [MASK]. a machine
+a plane is a typical location for [MASK]. the runway
+a global positioning system is a typical location for [MASK]. a plane
+a plane is a typical location for [MASK]. the sky
+A plane is a [MASK]. a vehicle
+an engine is a typical location for [MASK]. a plane
+plane is capable of [MASK]. land airport
+facet plane is a [MASK]. plane
+flight attendants is a typical location for [MASK]. a plane
+plate is related to [MASK]. dish
+plate is related to [MASK]. food
+plate is related to [MASK]. eating
+plate is related to [MASK]. round
+plate is related to [MASK]. dinner
+plate is related to [MASK]. flat
+a plate is a typical location for [MASK]. the table
+plate is related to [MASK]. bowl
+plate is related to [MASK]. china
+plate is related to [MASK]. saucer
+a plate is a typical location for [MASK]. the kitchen
+plate is related to [MASK]. eat
+plate is related to [MASK]. circle
+plate is related to [MASK]. table
+plate is related to [MASK]. crockery
+plate is related to [MASK]. utensil
+plate is related to [MASK]. dinnerware
+plate is related to [MASK]. serving
+plate is related to [MASK]. surface
+plate is related to [MASK]. ceramic
+a ficus is a typical location for [MASK]. a pot
+a plant is a typical location for [MASK]. a pot
+a pot is used for [MASK]. make soup
+pot is a synonym of [MASK]. potentiometer
+a rosebush is a typical location for [MASK]. a pot
+a potato is a typical location for [MASK]. kitchen
+a potato is a typical location for [MASK]. your pantry
+a potato is a typical location for [MASK]. Restaurants
+a potato is a typical location for [MASK]. a market
+a potato is a typical location for [MASK]. a root cellar
+a potato is a typical location for [MASK]. Ireland
+a potato is a typical location for [MASK]. stew
+a potato is a typical location for [MASK]. a restaurant
+a potato is a typical location for [MASK]. a salad
+a potato is a typical location for [MASK]. potato salad
+a potato is a typical location for [MASK]. soil
+a potato is a typical location for [MASK]. a grocery
+a potato is a typical location for [MASK]. the store
+gnocchi is made of [MASK]. potato
+a potato is a typical location for [MASK]. a potato bin
+a potato is a typical location for [MASK]. a bag
+a potato is a typical location for [MASK]. a potato sack
+a potato is a typical location for [MASK]. a produce store
+a potato is a typical location for [MASK]. a grocer shop
+a paper is a typical location for [MASK]. a printer
+a printer is a typical location for [MASK]. an office
+a sheet of paper is a typical location for [MASK]. a printer
+ink is a typical location for [MASK]. a printer
+page printer is a [MASK]. printer
+a projector is a typical location for [MASK]. the movies
+pulley block is a synonym of [MASK]. pulley
+idle pulley is a [MASK]. pulley
+bollock is a [MASK]. pulley
+pulley is a [MASK]. machine
+block is a synonym of [MASK]. pulley
+rabbit is related to [MASK]. bunny
+rabbit is related to [MASK]. animal
+rabbit is related to [MASK]. hare
+rabbit is related to [MASK]. ears
+rabbit is related to [MASK]. small
+rabbit is related to [MASK]. long
+rabbit is related to [MASK]. mammal
+rabbit is related to [MASK]. long ears
+a rabbit is a [MASK]. an animal
+A rabbit is a [MASK]. a mammal
+rabbit is related to [MASK]. rodent
+rabbit is related to [MASK]. easter
+rabbit is related to [MASK]. furry
+rabbit is related to [MASK]. big
+rabbit is related to [MASK]. pet
+rabbit is related to [MASK]. bugs
+rabbit is related to [MASK]. tail
+rabbit is related to [MASK]. fluffy
+rabbit is related to [MASK]. big ears
+rabbit is related to [MASK]. carrots
+rack is a specific way to do [MASK]. work
+magazine rack is a [MASK]. rack
+bicycle rack is a [MASK]. rack
+rack is a synonym of [MASK]. single-foot
+spice rack is a [MASK]. rack
+tripod is a [MASK]. rack
+a radio is used for [MASK]. listen to news
+listening to the radio is an event that requires [MASK]. a radio
+a radio is used for [MASK]. listening the news
+music is related to [MASK]. radio
+a radio is a typical location for [MASK]. the space shuttle
+a radio is used for [MASK]. hear news
+a radio is used for [MASK]. listening to
+a voice is a typical location for [MASK]. a radio
+A radio is a [MASK]. a communication device
+radiotelephone is derived from [MASK]. radio
+rake is a specific way to do [MASK]. smooth
+profligate is a synonym of [MASK]. rake
+A razor is used for [MASK]. shave with
+a razor is used for [MASK]. shaving
+a razor is used for [MASK]. cut
+A razor can be described as [MASK]. sharp
+safety razor is a [MASK]. razor
+straight razor is a [MASK]. razor
+razor is a [MASK]. edge tool
+food is a typical location for [MASK]. the refrigerator
+butter is a typical location for [MASK]. the refrigerator
+milk is a typical location for [MASK]. the refrigerator
+a fungus is a typical location for [MASK]. your refrigerator
+a refrigerator is used for [MASK]. keeping food cold
+cheese is a typical location for [MASK]. the refrigerator
+beer is a typical location for [MASK]. the refrigerator
+a refrigerator is used for [MASK]. keeping food from spoiling
+a container is a typical location for [MASK]. a refrigerator
+A refrigerator is a [MASK]. a machine
+a refrigerator is capable of [MASK]. cool food
+juice is a typical location for [MASK]. the refrigerator
+salad is a typical location for [MASK]. the refrigerator
+a refrigerator is a typical location for [MASK]. the garage
+lettuce is a typical location for [MASK]. the refrigerator
+carrots is a typical location for [MASK]. the refrigerator
+tomatoes is a typical location for [MASK]. the refrigerator
+a carton of milk is a typical location for [MASK]. the refrigerator
+leftovers is a typical location for [MASK]. the refrigerator
+rice is related to [MASK]. food
+rice is related to [MASK]. grain
+rice is related to [MASK]. white
+rice is related to [MASK]. grains
+Rice is a [MASK]. a grain
+rice is related to [MASK]. staple
+rice is related to [MASK]. chinese
+grain is related to [MASK]. rice
+rice is related to [MASK]. white grain
+rice is related to [MASK]. asia
+rice is related to [MASK]. asian
+rice is related to [MASK]. small
+rice is related to [MASK]. china
+rice is related to [MASK]. oriental
+rice is related to [MASK]. white grains
+rice is related to [MASK]. chinese food
+white rice is a [MASK]. rice
+rock 'n' roll musician is a synonym of [MASK]. rocker
+rocker is a [MASK]. musician
+rocker is a [MASK]. attendant
+rocker is a part of [MASK]. cradle
+cradle is a synonym of [MASK]. rocker
+rocker is a synonym of [MASK]. rocking chair
+rock star is a [MASK]. rocker
+rocker is a [MASK]. adolescent
+a rod is a typical location for [MASK]. a hardware store
+stick is related to [MASK]. rod
+a rod is used for [MASK]. catch fish
+retinal rod is a synonym of [MASK]. rod
+rod is a synonym of [MASK]. gat
+streptobacillus is a [MASK]. rod
+rod is a part of [MASK]. retina
+a salad is a [MASK]. food
+a potato is a typical location for [MASK]. a salad
+a fungus is a typical location for [MASK]. a salad
+Lettuce is a part of [MASK]. a salad
+a crab is a typical location for [MASK]. salad
+salad is a typical location for [MASK]. the refrigerator
+Salad can be done to [MASK]. prepared
+lettuce is a typical location for [MASK]. salad
+a grape is a typical location for [MASK]. a salad
+fruit salad is a [MASK]. salad
+carrots is a typical location for [MASK]. salad
+salad is a [MASK]. dish
+spotted salamander is a [MASK]. salamander
+lungless salamander is a [MASK]. salamander
+climbing salamander is a [MASK]. salamander
+bread is related to [MASK]. sandwich
+Bread is a part of [MASK]. a sandwich
+a sandwich is a typical location for [MASK]. a lunchbox
+butty is a [MASK]. sandwich
+Reuben is a [MASK]. sandwich
+western is a [MASK]. sandwich
+sandwich is a specific way to do [MASK]. organize
+sawfly is a [MASK]. hymenopterous insect
+birch leaf miner is a [MASK]. sawfly
+sawfly is derived from [MASK]. fly
+woodwasp is related to [MASK]. sawfly
+a saxophone is a [MASK]. a musical instrument
+saxophone is related to [MASK]. instrument
+a saxophone is a typical location for [MASK]. a band
+a saxophone is used for [MASK]. play jazz
+saxophone is related to [MASK]. jazz
+saxophone is a synonym of [MASK]. sax
+a saxophone is used for [MASK]. blowing
+saxophone is related to [MASK]. musical
+saxophone is related to [MASK]. brass
+saxophone is related to [MASK]. musical instrument
+a scalpel is used for [MASK]. cutting
+scalpel is a [MASK]. surgical knife
+scanner is a [MASK]. electronic device
+scanner is a [MASK]. reviewer
+scanner is a [MASK]. detector
+scarf is a specific way to do [MASK]. join
+feather boa is a [MASK]. scarf
+scissors is used for [MASK]. cut
+scissors is capable of [MASK]. cut that paper
+cut is related to [MASK]. scissors
+scissors is a typical location for [MASK]. the desk
+going to get a haircut is an event that requires [MASK]. scissors
+scissor hold is a synonym of [MASK]. scissors
+scissors is a [MASK]. edge tool
+scooter is a synonym of [MASK]. motor scooter
+scooter is a synonym of [MASK]. scoter
+scooter is a synonym of [MASK]. iceboat
+scooter is a synonym of [MASK]. water scooter
+scooter is a [MASK]. wheeled vehicle
+a screw is a [MASK]. a simple machine
+a screw is a typical location for [MASK]. a motorcycle
+A screw is a [MASK]. an inclined plane
+metal screw is a [MASK]. screw
+screw is a part of [MASK]. outboard motor
+screw thread is a part of [MASK]. screw
+screw is a synonym of [MASK]. fuck
+screw is a specific way to do [MASK]. revolve
+cap screw is a [MASK]. screw
+screw is a specific way to do [MASK]. tighten
+A screwdriver is capable of [MASK]. turn a screw
+A screwdriver is a [MASK]. a drink
+a screwdriver is a typical location for [MASK]. toolbox
+a screwdriver is a typical location for [MASK]. a tool box
+a screwdriver is used for [MASK]. inserting a screw
+a screwdriver is used for [MASK]. tighten a screw
+seat is related to [MASK]. chair
+chair is related to [MASK]. seat
+a seat is a typical location for [MASK]. the theater
+seat is related to [MASK]. sitting
+seat is related to [MASK]. sit
+a seat is a typical location for [MASK]. a show
+seat is related to [MASK]. place
+seat is related to [MASK]. car
+seat is a typical location for [MASK]. the theatre
+a car belongs to [MASK]. a seat
+seat is related to [MASK]. sitting place
+chair is a [MASK]. seat
+box is a [MASK]. seat
+box is used for [MASK]. seat
+serape is a [MASK]. shawl
+prayer shawl is a [MASK]. shawl
+egg is related to [MASK]. shell
+turtle is related to [MASK]. shell
+snail is related to [MASK]. shell
+shell is a [MASK]. animal material
+A walnut belongs to [MASK]. a shell
+shrapnel is a [MASK]. shell
+sliding seat is a part of [MASK]. shell
+nutshell is a [MASK]. shell
+shell is a synonym of [MASK]. husk
+a house is used for [MASK]. shelter
+A tent is capable of [MASK]. be a shelter
+a house is a [MASK]. a shelter
+a building is used for [MASK]. shelter
+shade is related to [MASK]. shelter
+home is related to [MASK]. shelter
+shelter is a specific way to do [MASK]. supply
+cote is a [MASK]. shelter
+dugout is a [MASK]. shelter
+shielding is a [MASK]. shield
+captain is related to [MASK]. ship
+boat is related to [MASK]. ship
+a captain is a typical location for [MASK]. a ship
+a submarine is a [MASK]. ship
+vessel is related to [MASK]. ship
+a ship is capable of [MASK]. travel over water
+A ship is capable of [MASK]. weather a storm
+a ship is a typical location for [MASK]. the ocean
+a ship is a typical location for [MASK]. a port
+a mast is used for [MASK]. a ship
+cargo is a typical location for [MASK]. a ship
+a mast is a typical location for [MASK]. a ship
+hulk is a [MASK]. ship
+funnel is used in the context of [MASK]. ship
+broken-backed is used in the context of [MASK]. ship
+log is used in the context of [MASK]. ship
+a shirt is a typical location for [MASK]. closet
+a shirt is a [MASK]. an item of clothing
+A shirt can be done to [MASK]. worn on your upper body
+a shirt is used for [MASK]. wearing
+cotton is related to [MASK]. shirt
+sleeve is related to [MASK]. shirt
+dickey is a part of [MASK]. shirt
+dress shirt is a [MASK]. shirt
+a shoe is a typical location for [MASK]. a closet
+shoe is related to [MASK]. foot
+sock is related to [MASK]. shoe
+shoe is related to [MASK]. footwear
+a shoe is used for [MASK]. foot protection
+shoe is related to [MASK]. feet
+a shoe is a typical location for [MASK]. a foot
+a foot is a typical location for [MASK]. a shoe
+polish is related to [MASK]. shoe
+shoe is related to [MASK]. covering
+A shoe belongs to [MASK]. laces
+A sole is a part of [MASK]. a shoe
+A shoe is used for [MASK]. wearing
+shoe is related to [MASK]. clothing
+foot is related to [MASK]. shoe
+shoe is related to [MASK]. foot covering
+shoe is related to [MASK]. wear
+shoe is related to [MASK]. sole
+shoe is related to [MASK]. on foot
+shoe is related to [MASK]. laces
+a shovel is capable of [MASK]. dig a hole
+a shovel is used for [MASK]. digging a hole
+a shovel is used for [MASK]. dig a grave
+shovelful is a synonym of [MASK]. shovel
+shovel is a [MASK]. hand tool
+scoop is a [MASK]. shovel
+shovel is a specific way to do [MASK]. dig
+hand shovel is a [MASK]. shovel
+shampoo is a typical location for [MASK]. a shower
+soap is related to [MASK]. shower
+dandruff shampoo is a typical location for [MASK]. the shower
+a sink is a typical location for [MASK]. the kitchen
+water is a typical location for [MASK]. a sink
+a hot tap is a typical location for [MASK]. a sink
+a faucet is a typical location for [MASK]. the sink
+a kitchen utensil is a typical location for [MASK]. the sink
+a soap dish is a typical location for [MASK]. the sink
+a sink is a typical location for [MASK]. a house
+a water spout is a typical location for [MASK]. the sink
+settle is a specific way to do [MASK]. sink
+sitar is a [MASK]. stringed instrument
+sitars is related to [MASK]. sitar
+sympitar is related to [MASK]. sitar
+dress is related to [MASK]. skirt
+a skirt is a [MASK]. a form of female attire
+placket is a part of [MASK]. skirt
+skirt is a specific way to do [MASK]. travel by
+full skirt is a [MASK]. skirt
+sunburst pleat is a part of [MASK]. skirt
+skirt is a synonym of [MASK]. hedge
+a skirt is a [MASK]. a form of clothing
+a slipper is a typical location for [MASK]. your bed
+slipper is a [MASK]. footwear
+slipper is a synonym of [MASK]. skidder
+snail is related to [MASK]. shell
+escargot is related to [MASK]. snail
+snail is a specific way to do [MASK]. gather
+a snake is a typical location for [MASK]. the Bible
+a snake is a typical location for [MASK]. a garden
+a snake is a typical location for [MASK]. tree
+a snake is a typical location for [MASK]. a field
+a snake is a typical location for [MASK]. a feild
+a snake is a typical location for [MASK]. pit
+a cobra is a [MASK]. snake
+a snake is a typical location for [MASK]. The Amazon
+a snake is a typical location for [MASK]. a tropical forest
+a snake is a typical location for [MASK]. a ditch
+a snake is a typical location for [MASK]. snake pit
+a snake is a typical location for [MASK]. pet shops
+a snake is a typical location for [MASK]. a cage
+a snake is a typical location for [MASK]. creeks
+a snake is a typical location for [MASK]. a hole in the ground
+python is related to [MASK]. snake
+Snake is a synonym of [MASK]. Hydra
+sock is related to [MASK]. foot
+sock is related to [MASK]. shoe
+sock is related to [MASK]. feet
+a sock is a typical location for [MASK]. a drawer
+sock is related to [MASK]. clothing
+a sock is a typical location for [MASK]. the sock drawer
+sock is related to [MASK]. covering
+sock is related to [MASK]. shoes
+sock is related to [MASK]. footwear
+sock is related to [MASK]. under
+sock is related to [MASK]. cloth
+sock is related to [MASK]. foot covering
+sock is related to [MASK]. cover
+sock is related to [MASK]. inside
+sock is related to [MASK]. garment
+a foot is a typical location for [MASK]. a sock
+sock is related to [MASK]. under shoe
+sock is related to [MASK]. wear
+sock is related to [MASK]. foot clothing
+sock is related to [MASK]. cotton
+sombrero is a [MASK]. hat
+Sombrero is a part of [MASK]. Saint Kitts and Nevis
+sombrero is a [MASK]. hat
+spade is a specific way to do [MASK]. dig
+spades is a form of [MASK]. spade
+garden spade is a [MASK]. spade
+spider is a [MASK]. arachnid
+a spider is capable of [MASK]. spin webs
+web is related to [MASK]. spider
+spider is related to [MASK]. arachnid
+black widow is a [MASK]. spider
+a spider is a typical location for [MASK]. the cellar
+a spider is a typical location for [MASK]. a web
+spider is a [MASK]. arachnid
+Spinach is a [MASK]. a vegetable
+spinach is related to [MASK]. green
+spinach is related to [MASK]. vegetable
+Spinach can be described as [MASK]. high in calcium
+a spoon is used for [MASK]. Eating
+a spoon is a typical location for [MASK]. bowl
+A spoon is a [MASK]. a utensil
+a spoon is a typical location for [MASK]. dinner
+spoonful is a synonym of [MASK]. spoon
+a spoon is used for [MASK]. eating ice cream
+dessert spoon is a [MASK]. spoon
+stationery is a [MASK]. writing paper
+letter paper is a synonym of [MASK]. stationery
+steeper is a [MASK]. vessel
+steepers is a form of [MASK]. steeper
+mansard roof is related to [MASK]. steeper
+steepen is related to [MASK]. steeper
+steeper is a form of [MASK]. steep
+steeper is related to [MASK]. cistern
+steeper is related to [MASK]. vat
+steeper is related to [MASK]. vessel
+steeper is derived from [MASK]. steep
+steeper is related to [MASK]. steep
+mansard is related to [MASK]. steeper
+a stove is capable of [MASK]. heat food
+a stove is used for [MASK]. cook
+a stove is a typical location for [MASK]. a house
+Stove can be described as [MASK]. hot
+range is related to [MASK]. stove
+oven is related to [MASK]. stove
+a stove is used for [MASK]. grill a steak
+kitchen stove is a synonym of [MASK]. stove
+spirit stove is a [MASK]. stove
+strawberry is a [MASK]. herb
+beach strawberry is a [MASK]. strawberry
+wool is related to [MASK]. sweater
+a sweater is a typical location for [MASK]. a drawer
+a sweater is a [MASK]. a piece of clothing
+cardigan is a [MASK]. sweater
+synthesizer is a [MASK]. keyboard instrument
+synthesizer is a [MASK]. electronic instrument
+synthesiser is a synonym of [MASK]. synthesizer
+synthesizer is a synonym of [MASK]. synthesist
+a tablespoon is a typical location for [MASK]. a kitchen drawer
+A tablespoon is a [MASK]. a measurement
+tablespoon is related to [MASK]. measurement
+plate is related to [MASK]. tableware
+tea service is a [MASK]. tableware
+chopstick is a [MASK]. tableware
+gold plate is a [MASK]. tableware
+crockery is a [MASK]. tableware
+tableware is a [MASK]. ware
+service is a [MASK]. tableware
+dinnerware is a [MASK]. tableware
+tandem is a [MASK]. placement
+tandem is a synonym of [MASK]. bicycle-built-for-two
+tandem is a synonym of [MASK]. in tandem
+tandem is related to [MASK]. one
+horse is related to [MASK]. tandem
+tandemly is derived from [MASK]. tandem
+tandem is related to [MASK]. tricycle
+tandem wheel is derived from [MASK]. tandem
+A tank is a [MASK]. a weapon
+a tank is a typical location for [MASK]. a military base
+cistern is a [MASK]. tank
+armored combat vehicle is a synonym of [MASK]. tank
+tank is a [MASK]. tracked vehicle
+tankard is a [MASK]. drinking vessel
+a taxi is a typical location for [MASK]. an airport
+a taxi is a typical location for [MASK]. a train station
+A taxi is a [MASK]. a form of transportation
+cab is a synonym of [MASK]. taxi
+taxi is a specific way to do [MASK]. ride
+taxi distance is related to [MASK]. taxi
+Something you find downtown is a [MASK]. a taxi
+taxi is a specific way to do [MASK]. travel
+tea is a [MASK]. a drink
+Tea belongs to [MASK]. caffeine
+Tea belongs to [MASK]. caffein
+Tea is a [MASK]. a beverage
+tea is a typical location for [MASK]. a cupboard
+Camellia sinensis is a synonym of [MASK]. tea
+tea can be done to [MASK]. brewed
+telephone is a typical location for [MASK]. your desk
+a telephone is used for [MASK]. communicate
+call is related to [MASK]. telephone
+a telephone is a typical location for [MASK]. the office
+A telephone is a [MASK]. a communication device
+a telephone is capable of [MASK]. ring loudly
+a cell phone is a [MASK]. a telephone
+making a phone call is an event that requires [MASK]. a telephone
+A telephone is used for [MASK]. talking to someone
+A telephone is used for [MASK]. communicating
+talking with someone far away is an event that requires [MASK]. a telephone
+call waiting is a [MASK]. telephone
+voice mail is a [MASK]. telephone
+speakerphone is a [MASK]. telephone
+a commercial is a typical location for [MASK]. television
+programs is a typical location for [MASK]. television
+news is a typical location for [MASK]. television
+watching the evening news is an event that requires [MASK]. a television
+television is a [MASK]. a good way to spend time
+an actor is a typical location for [MASK]. television
+viewing a film at home is an event that requires [MASK]. a television
+Television can be described as [MASK]. entertaining
+a television is a [MASK]. an appliance
+a television is a typical location for [MASK]. a living room
+a sitcom is a typical location for [MASK]. television
+cartoons is a typical location for [MASK]. television
+a show is a typical location for [MASK]. a television
+television is a [MASK]. TV
+A television is a [MASK]. a machine
+colorcast is used in the context of [MASK]. television
+music videos is a typical location for [MASK]. television
+a terminal is a typical location for [MASK]. an airport
+terminal is similar to [MASK]. fatal
+terminal is a [MASK]. station
+positive pole is a [MASK]. terminal
+a thermometer is capable of [MASK]. measure temperature
+a thermometer is a typical location for [MASK]. the doctor
+thermometer is related to [MASK]. temperature
+degree is related to [MASK]. thermometer
+reversing thermometer is a [MASK]. thermometer
+cryometer is a [MASK]. thermometer
+capillary is a part of [MASK]. thermometer
+resistance thermometer is a [MASK]. thermometer
+thermostat is a part of [MASK]. incubator
+thermostat is a specific way to do [MASK]. control
+thermostat is a [MASK]. regulator
+a thermostat is used for [MASK]. set the temperature
+pyrostat is a [MASK]. thermostat
+cryostat is a [MASK]. thermostat
+bimetallic strip is a part of [MASK]. thermostat
+thermoregulator is a synonym of [MASK]. thermostat
+clean is related to [MASK]. tidy
+tidy is similar to [MASK]. orderly
+untidy is the opposite of [MASK]. tidy
+houseclean is a specific way to do [MASK]. tidy
+tidy up is a synonym of [MASK]. tidy
+tidy is related to [MASK]. groomed
+straighten is a synonym of [MASK]. tidy
+neat is similar to [MASK]. tidy
+straighten out is a synonym of [MASK]. tidy
+straight is similar to [MASK]. tidy
+a tiger is a typical location for [MASK]. the zoo
+Bengal tiger is a [MASK]. tiger
+Panthera tigris is a synonym of [MASK]. tiger
+tin is related to [MASK]. metal
+tin is related to [MASK]. can
+metal is related to [MASK]. tin
+can is related to [MASK]. tin
+tin is related to [MASK]. cans
+tin is related to [MASK]. aluminum
+tin is related to [MASK]. container
+a tin is used for [MASK]. hold cookies
+a tin is used for [MASK]. holding food
+tin is related to [MASK]. element
+tin is related to [MASK]. material
+tin is related to [MASK]. food
+tin is related to [MASK]. foil
+tin is related to [MASK]. can metal
+tin is related to [MASK]. alloy
+tin is related to [MASK]. can material
+tin is related to [MASK]. thin
+tin is related to [MASK]. roof
+A toaster is capable of [MASK]. brown toast
+toaster is related to [MASK]. bread
+toaster is a [MASK]. kitchen appliance
+a toaster is a [MASK]. a machine
+toaster is a [MASK]. supporter
+a toilet is a typical location for [MASK]. a bathroom
+urine is a typical location for [MASK]. the toilet
+a toilet is used for [MASK]. poop
+toilet is a typical location for [MASK]. a house
+water is a typical location for [MASK]. a toilet
+a toilet is capable of [MASK]. flush
+a toilet is used for [MASK]. urinate
+a toilet is used for [MASK]. peeing
+a toilet is a typical location for [MASK]. a motel room
+a toilet can be done to [MASK]. found in a bathroom
+commode is a synonym of [MASK]. toilet
+flushless toilet is a [MASK]. toilet
+tomato is related to [MASK]. red
+love apple is a synonym of [MASK]. tomato
+a tomato is a typical location for [MASK]. the refrigerator
+tomato is a [MASK]. solanaceous vegetable
+beefsteak tomato is a [MASK]. tomato
+ton is a synonym of [MASK]. short ton
+ton is a synonym of [MASK]. long ton
+ton is related to [MASK]. thousand
+ton is related to [MASK]. weight
+ton is related to [MASK]. air conditioning
+ton is related to [MASK]. vogue
+fire tongs is a [MASK]. tongs
+tongs is a [MASK]. device
+pair of tongs is a synonym of [MASK]. tongs
+ice tongs is a [MASK]. tongs
+toque is a [MASK]. hat
+toque is a synonym of [MASK]. pillbox
+toque is related to [MASK]. woollen
+toque is related to [MASK]. flamenco
+toque is related to [MASK]. winter hat
+toque is related to [MASK]. hat
+toque is related to [MASK]. white
+toque is used in the context of [MASK]. specifically
+toque is related to [MASK]. conical
+toque is related to [MASK]. winter toque
+toque is related to [MASK]. religious
+flamenco guitar is related to [MASK]. toque
+tower is related to [MASK]. building
+bell is related to [MASK]. tower
+tower is related to [MASK]. tall
+shot tower is a [MASK]. tower
+a tower is a typical location for [MASK]. a city
+a tractor is capable of [MASK]. pull a trailer
+a tractor is a typical location for [MASK]. farm
+tractor is a [MASK]. self-propelled vehicle
+skidder is a [MASK]. tractor
+tram is a specific way to do [MASK]. travel
+tram is a synonym of [MASK]. streetcar
+streetcar is a synonym of [MASK]. tram
+tram is a synonym of [MASK]. tramcar
+tram is a synonym of [MASK]. tramway
+tram is used in the context of [MASK]. weaving
+street railway is related to [MASK]. tram
+tramway is derived from [MASK]. tram
+tramshed is derived from [MASK]. tram
+tea tray is a [MASK]. tray
+eating breakfast in bed is an event that requires [MASK]. a tray
+turntable is a [MASK]. tray
+tray is a [MASK]. receptacle
+trike is a synonym of [MASK]. tricycle
+pedicab is a [MASK]. tricycle
+tricycle is a [MASK]. wheeled vehicle
+a trombone is used for [MASK]. playing music
+a trombone is a typical location for [MASK]. a marching band
+A trombone is a [MASK]. a musical instrument
+trombonist is related to [MASK]. trombone
+a trombone is a typical location for [MASK]. an orchestra
+a trombone is used for [MASK]. music
+trombone is a [MASK]. brass
+a trombone is a typical location for [MASK]. a band
+a ferret is a typical location for [MASK]. a trouser
+trouser is a part of [MASK]. pair of trousers
+trouser is a [MASK]. garment
+trouserless is derived from [MASK]. trouser
+in trouser department is derived from [MASK]. trouser
+trowel is a [MASK]. hand tool
+trowel is a specific way to do [MASK]. dig
+plastering trowel is a [MASK]. trowel
+pointing trowel is a [MASK]. trowel
+A truck is a [MASK]. a vehicle
+a driveway is used for [MASK]. a truck
+a truck is a [MASK]. bigger than a car
+a truck is capable of [MASK]. pull a trailer
+tow truck is a [MASK]. truck
+a truck is a [MASK]. a vehicle with seats inside it
+fire engine is a [MASK]. truck
+dump truck is a [MASK]. truck
+sound truck is a [MASK]. truck
+a tub is used for [MASK]. taking a bath
+a tub is used for [MASK]. take a bath
+a tub is used for [MASK]. taking a bubble bath
+tub is a [MASK]. vessel
+turban is a synonym of [MASK]. pillbox
+turban is a [MASK]. headdress
+a turtle is capable of [MASK]. live a long time
+A turtle belongs to [MASK]. a hard shell
+tortoise is related to [MASK]. turtle
+turtle is related to [MASK]. shell
+turtle is related to [MASK]. tortoise
+turn turtle is derived from [MASK]. turtle
+turtle is a [MASK]. chelonian
+red-bellied terrapin is a [MASK]. turtle
+turtle is a synonym of [MASK]. turtleneck
+turtle shell is derived from [MASK]. turtle
+soft-shelled turtle is a [MASK]. turtle
+snapping turtle is a [MASK]. turtle
+sea turtle is a [MASK]. turtle
+tweezers is related to [MASK]. en prison estuier
+tweezers is a synonym of [MASK]. tweezer
+tweezer is related to [MASK]. tweezers
+nanotweezers is related to [MASK]. tweezers
+optical tweezers is related to [MASK]. tweezers
+tweezers is a synonym of [MASK]. tongs
+a typewriter key is a typical location for [MASK]. a typewriter
+a typewriter is used for [MASK]. typing letters
+a typewriter is a typical location for [MASK]. a desk
+a typewriter is used for [MASK]. write a letter
+A typewriter is used for [MASK]. write a novel
+electric typewriter is a [MASK]. typewriter
+carriage is a part of [MASK]. typewriter
+typewriter keyboard is a part of [MASK]. typewriter
+keyboard is a part of [MASK]. typewriter
+ukulele is a synonym of [MASK]. uke
+ukelele is a form of [MASK]. ukulele
+uke is related to [MASK]. ukulele
+banjolele is related to [MASK]. ukulele
+A ukulele is a [MASK]. a small instrument with four strings
+a ukulele is a [MASK]. a instrument
+ukulelist is related to [MASK]. ukulele
+ukulele is related to [MASK]. string
+ukulelist is derived from [MASK]. ukulele
+an umbrella is used for [MASK]. protection from the rain
+an umbrella is a typical location for [MASK]. a closet
+an umbrella is used for [MASK]. keeping the sun off you
+an umbrella is used for [MASK]. keeping you dry
+An umbrella is a [MASK]. a device to protect something
+an umbrella is a typical location for [MASK]. your car
+an umbrella is used for [MASK]. shelter from rain
+shade is related to [MASK]. umbrella
+handle is a part of [MASK]. umbrella
+regular is similar to [MASK]. uniform
+uniform is similar to [MASK]. single
+uniform is a synonym of [MASK]. undifferentiated
+single is similar to [MASK]. uniform
+plate is related to [MASK]. utensil
+A spoon is a [MASK]. a utensil
+funnel is a [MASK]. utensil
+vase is a typical location for [MASK]. a table
+a flower is a typical location for [MASK]. a vase
+vase is capable of [MASK]. hold flower
+car is related to [MASK]. vehicle
+boat is related to [MASK]. vehicle
+a vehicle is a typical location for [MASK]. the street
+A truck is a [MASK]. a vehicle
+A plane is a [MASK]. a vehicle
+A car is a [MASK]. vehicle
+A vehicle is capable of [MASK]. receive damage
+rocket is a [MASK]. vehicle
+passengers is a typical location for [MASK]. vehicle
+a tractor is a [MASK]. a vehicle
+A boat is a [MASK]. a vehicle
+splashboard is a part of [MASK]. vehicle
+boat is related to [MASK]. vessel
+vessel is related to [MASK]. ship
+vessel is related to [MASK]. boat
+vessel is related to [MASK]. container
+bareboat is a [MASK]. vessel
+patrol boat is a [MASK]. vessel
+steeper is a [MASK]. vessel
+base is a part of [MASK]. vessel
+bilge is a part of [MASK]. vessel
+tin is a [MASK]. vessel
+robe is a synonym of [MASK]. vest
+waistcoat is a synonym of [MASK]. vest
+violin is used for [MASK]. playing music
+A violin belongs to [MASK]. strings
+violin is related to [MASK]. instrument
+fiddle is related to [MASK]. violin
+a violin is used for [MASK]. play music
+a violin is a typical location for [MASK]. an orchestra
+violin is related to [MASK]. strings
+violin is related to [MASK]. cello
+Amati is a [MASK]. violin
+vizor is a synonym of [MASK]. visor
+visor is a synonym of [MASK]. bill
+visor is a part of [MASK]. helmet
+visor is a [MASK]. armor plate
+A wagon belongs to [MASK]. wheels
+a wagon is a typical location for [MASK]. a toy store
+ice wagon is a [MASK]. wagon
+wagon is a [MASK]. wheeled vehicle
+a wagon is a typical location for [MASK]. a garage
+covered wagon is a [MASK]. wagon
+wagon wheel is a part of [MASK]. wagon
+axletree is a part of [MASK]. wagon
+lockring is a [MASK]. washer
+washing machine is a synonym of [MASK]. washer
+wedges is a form of [MASK]. wedge
+wedge is a [MASK]. triangle
+wedge shape is a synonym of [MASK]. wedge
+pitching wedge is a [MASK]. wedge
+cuneus is a synonym of [MASK]. wedge
+wedge is a synonym of [MASK]. bomber
+colter is a [MASK]. wedge
+wedge is a synonym of [MASK]. chock
+bread is related to [MASK]. wheat
+grain is related to [MASK]. wheat
+wheat is a typical location for [MASK]. a field
+crop is related to [MASK]. wheat
+Wheat is used for [MASK]. make flour
+Wheat is a [MASK]. a grain
+emmer is a [MASK]. wheat
+wheat berry is a part of [MASK]. wheat
+soft wheat is a [MASK]. wheat
+a wheel is a part of [MASK]. a bicycle
+a ball bearing is a typical location for [MASK]. a wheel
+a wheel is used for [MASK]. rolling
+buffing wheel is a [MASK]. wheel
+paddlewheel is a [MASK]. wheel
+wagon wheel is a [MASK]. wheel
+wheel is a synonym of [MASK]. steering wheel
+felloe is a part of [MASK]. wheel
+wheel is a synonym of [MASK]. roulette wheel
+a wheel is used for [MASK]. turn
+wheel is a specific way to do [MASK]. revolve
+a wheelchair is a [MASK]. a chair
+motorized wheelchair is a [MASK]. wheelchair
+wheelchair is a [MASK]. chair
+whiteboard is a [MASK]. board
+whiteboard is related to [MASK]. draw
+whiteboard is related to [MASK]. imageboard
+markerboard is related to [MASK]. whiteboard
+a whiteboard is a typical location for [MASK]. a meeting
+blackboard is related to [MASK]. whiteboard
+whiteboard is related to [MASK]. tool
+slate is related to [MASK]. whiteboard
+whiteboard is related to [MASK]. chalkboard
+Wine belongs to [MASK]. alcohol
+wine is used for [MASK]. Drinking
+wine is a [MASK]. a beverage
+wine is related to [MASK]. grapes
+wine is related to [MASK]. alcohol
+wine is related to [MASK]. drink
+wine is related to [MASK]. grape
+Wine is a [MASK]. an alcoholic beverage
+wine is related to [MASK]. alcoholic
+wine is related to [MASK]. fermented
+wine is related to [MASK]. red
+wine is related to [MASK]. beverage
+A wine is capable of [MASK]. age well
+wine is related to [MASK]. juice
+wine is related to [MASK]. fermented grapes
+wine is a [MASK]. an alcoholic drink
+alcohol is a typical location for [MASK]. wine
+wine is used for [MASK]. getting drunk
+grape is related to [MASK]. wine
+wine is related to [MASK]. grape juice
+baling wire is a [MASK]. wire
+wire is a synonym of [MASK]. telegram
+wire is a [MASK]. finishing line
+wire is used for [MASK]. fasten
+piano wire is a [MASK]. wire
+lead-in is a [MASK]. wire
+telephone wire is a [MASK]. wire
+dog is related to [MASK]. wolf
+skirt chaser is a synonym of [MASK]. wolf
+white wolf is a [MASK]. wolf
+woodwind is a [MASK]. instrument
+a woodwind is a [MASK]. a musical instrument
+a woodwind is used for [MASK]. making music
+a woodwind is used for [MASK]. playing music
+finger hole is a part of [MASK]. woodwind
+flute is a [MASK]. woodwind
+wood is a synonym of [MASK]. woodwind
+woodwind is a [MASK]. wind instrument
+beating-reed instrument is a [MASK]. woodwind
+xylophone is a [MASK]. percussion instrument
+a xylophone is a [MASK]. an instrument of music
+A xylophone is a [MASK]. an instrument
+a xylophone is used for [MASK]. make music
+xylophone is a typical location for [MASK]. the percussion section
+a xylophone is a typical location for [MASK]. a band
+A xylophone can be done to [MASK]. pronounced like zylophone
+a xylophone is used for [MASK]. make sounds
+xylophone is a synonym of [MASK]. marimba
+yacht is related to [MASK]. boat
+boat is related to [MASK]. yacht
+yacht is used for [MASK]. race
+racing yacht is a synonym of [MASK]. yacht
+yacht is related to [MASK]. sail
+yacht is related to [MASK]. master
+yacht is used for [MASK]. sail

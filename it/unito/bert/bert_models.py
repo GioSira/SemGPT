@@ -1,7 +1,7 @@
 from transformers import pipeline
 
 def get_model():
-    return pipeline('fill-mask', model='bert-large-uncased')
+    return pipeline('fill-mask', model='bert-large-uncased-whole-word-masking')
 
 
 if __name__ == '__main__':
