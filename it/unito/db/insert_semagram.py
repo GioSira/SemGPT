@@ -24,15 +24,17 @@ def insert_semagram(sem_base):
     sem_collection.insert_many(item_list)
 
 
-def insert_categories(cat_dict):
+def insert_categories(cat_dict, sem_base):
 
     item_list = []
     for cat in list(cat_dict.keys()):
         for concept in cat_dict[cat]:
+            concept_obj = sem_base._concepts[concept]
             item = {
                 "_id": bson.ObjectId(),
                 "category": cat,
-                "concept": concept
+                "concept": concept,
+                "synset": concept_obj.getSynset() 
             }
             item_list.append(item)
 
@@ -41,7 +43,7 @@ def insert_categories(cat_dict):
 
 if __name__ == '__main__':
 
-    s = read_xml('/Users/giovanni/PycharmProjects/SemagramGPT/semagrams_300.xml')
+    s = read_xml(f'semagrams_300.xml')
 
     insert_semagram(s)
-    insert_categories(categories_dict)
+    insert_categories(categories_dict, s)

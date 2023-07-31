@@ -6,8 +6,9 @@ def __check(elem):
 
 class Concept(object):
 
-    def __init__(self, name, synset):
+    def __init__(self, name, bsynset, synset):
         self._name = name
+        self._bsynset = bsynset
         self._synset = synset
         self._slot_values = {}
 
@@ -36,9 +37,12 @@ class Concept(object):
     def getName(self):
         return self._name
 
+    def getbSynset(self):
+        return self._bsynset
+    
     def getSynset(self):
         return self._synset
-
+    
     def insert(self, slot, value, pos, synset):
 
         self._slot_values.setdefault(slot, set())
@@ -88,19 +92,21 @@ def read_xml(xml_file):
     for c in root.findall("semagram"):
 
         concept_name = c.get("name")
-        concept_synset = c.get("babelsynset")
-        concept = Concept(concept_name, concept_synset)
+        concept_bsynset = c.get("babelsynset")
+        concept_synset = c.get("synset")
+        
+        concept = Concept(concept_name, concept_bsynset, concept_synset)
 
         for slot in c.findall("slot"):
             slot_name = slot.get("name")
 
             for value in slot.findall("value"):
-                value_synset = value.get("babelsynset")
+                value_synset = value.get("babelsynset") # non è fondamentale per l'analisi
                 value_text = value.text
 
                 for (s, v, p) in processValue(value_synset, value_text):
                     if __check(s) and __check(v) and __check(p):
-                        concept.insert(slot_name, v, p, s)
+                        concept.insert(slot_name, v, p, s) #TODO: MODIFICA CON IL SYNSET DI WN
 
         semagram.insertConcept(concept)
 

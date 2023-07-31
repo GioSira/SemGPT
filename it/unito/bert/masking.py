@@ -9,7 +9,7 @@ import pickle
 def search_concepts_on_wordnet(concepts):
     synsets = []
     for concept in concepts:
-        synsets.append(wn.synsets(concept))
+        synsets.append(concept, wn.synsets(concept))
     return synsets
 
 def search_concepts_on_conceptnet(concepts):
@@ -23,17 +23,17 @@ def search_concepts_on_conceptnet(concepts):
 
 def relations_on_wordnet(synsets):
     relations = []
-    for synsets_concept in synsets:
+    for concept, synsets_concept in synsets:
         for synset in synsets_concept:
             if synset.pos() == 'n':
-                relations.append((synset, "hypernyms", synset.hypernyms()))
-                relations.append((synset, "hyponyms", synset.hyponyms()))
-                relations.append((synset, "member_holonyms", synset.member_holonyms()))
-                relations.append((synset, "part_meronyms", synset.part_meronyms()))
-                relations.append((synset, "substance_meronyms", synset.substance_meronyms()))
+                relations.append((concept, "hypernyms", synset.hypernyms()))
+                relations.append((concept, "hyponyms", synset.hyponyms()))
+                relations.append((concept, "member_holonyms", synset.member_holonyms()))
+                relations.append((concept, "part_meronyms", synset.part_meronyms()))
+                relations.append((concept, "substance_meronyms", synset.substance_meronyms()))
             elif synset.pos() == 'v':
-                relations.append((synset, "entailments", synset.entailments()))
-                relations.append((synset, "hypernyms", synset.hypernyms()))
+                relations.append((concept, "entailments", synset.entailments()))
+                relations.append((concept, "hypernyms", synset.hypernyms()))
             
     return relations
 
@@ -56,18 +56,18 @@ def make_sentence_wn(concept1, relation, list_concept2):
 
     masked_first_concept = []
     masked_second_concept = []
-    words1 = get_all_lemmas(concept1)
+    #words1 = get_all_lemmas(concept1)
     words2 = []
     for concept2 in list_concept2:
         words2.extend(get_all_lemmas(concept2))
 
     unique_combinations = []
  
-    for i in range(len(words1)):
-        for j in range(len(words2)):
-            words1[i] = words1[i].replace("_", " ")
-            words2[j] = words2[j].replace("_", " ")
-            unique_combinations.append((words1[i], words2[j]))
+    #for i in range(len(words1)):
+    for i in range(len(words2)):
+        #words1[i] = words1[i].replace("_", " ")
+        words2[i] = words2[i].replace("_", " ")
+        unique_combinations.append((concept1, words2[i]))
 
     for combination in unique_combinations:
         sentence1 = None
@@ -232,7 +232,7 @@ def make_sentences_cn(relations):
 
 if __name__ == '__main__':  
 
-    resource = "conceptnet"
+    resource = "wordnet"
     # 1. get all concepts from semagram base
     concepts = get_all_concepts()
     #print(concepts)
@@ -260,18 +260,18 @@ if __name__ == '__main__':
 
         #6. Save sentences
         #binary
-        #with open(f"it/unito/bert/input_bert/wn/masked_first_concept", "wb") as fp:   #Pickling
-        #    pickle.dump(sentences_masked_first, fp)
+        with open(f"it/unito/bert/input_bert/wn/masked_first_concept", "wb") as fp:   #Pickling
+            pickle.dump(sentences_masked_first, fp)
 
-        #with open(f"it/unito/bert/input_bert/wn/masked_second_concept", "wb") as fp:   #Pickling
-        #    pickle.dump(sentences_masked_second, fp)
+        with open(f"it/unito/bert/input_bert/wn/masked_second_concept", "wb") as fp:   #Pickling
+            pickle.dump(sentences_masked_second, fp)
 
         # txt
-        with open(f"it/unito/bert/input_bert/wn/masked_first_concept.txt", "w") as fp:
+        with open(f"it/unito/bert/input_bert/wn/masked_first_concept.txt", "w", encoding="utf8") as fp:
             for sentence in sentences_masked_first:
                 fp.write(sentence[0] + " " + sentence[1] + "\n")
 
-        with open(f"it/unito/bert/input_bert/wn/masked_second_concept.txt", "w") as fp:
+        with open(f"it/unito/bert/input_bert/wn/masked_second_concept.txt", "w", encoding="utf8") as fp:
             for sentence in sentences_masked_second:
                 fp.write(sentence[0] + " " + sentence[1] + "\n")
                         
@@ -292,17 +292,17 @@ if __name__ == '__main__':
         #print(len(sentences_first), len(sentences_second))
         # 5. Save sentences 
  
-        #with open(f"it/unito/bert/input_bert/cn/masked_first_concept", "wb") as fp:   #Pickling
-        #    pickle.dump(sentences_first, fp)
+        with open(f"it/unito/bert/input_bert/cn/masked_first_concept", "wb") as fp:   #Pickling
+            pickle.dump(sentences_first, fp)
 
-        #with open(f"it/unito/bert/input_bert/cn/masked_second_concept", "wb") as fp:   #Pickling
-        #    pickle.dump(sentences_second, fp)
+        with open(f"it/unito/bert/input_bert/cn/masked_second_concept", "wb") as fp:   #Pickling
+            pickle.dump(sentences_second, fp)
 
-        with open(f"it/unito/bert/input_bert/cn/masked_first_concept.txt", "w") as fp:
+        with open(f"it/unito/bert/input_bert/cn/masked_first_concept.txt", "w", encoding="utf8") as fp:
             for sentence in sentences_first:
                 fp.write(sentence[0] + " " + sentence[1] + "\n")
 
-        with open(f"it/unito/bert/input_bert/cn/masked_second_concept.txt", "w") as fp:
+        with open(f"it/unito/bert/input_bert/cn/masked_second_concept.txt", "w", encoding="utf8") as fp:
             for sentence in sentences_second:
                 fp.write(sentence[0] + " " + sentence[1] + "\n")
 

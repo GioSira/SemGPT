@@ -289,7 +289,7 @@ The [MASK] is a blouse. shirtwaist
 The [MASK] is a part of blouse. neckline
 The [MASK] is a top. blouse
 The [MASK] is a blouse. guimpe
-The [MASK] is related to blouse. crï¿½pe de chine
+The [MASK] is related to blouse. crêpe de chine
 The [MASK] is a blouse. middy
 The [MASK] is a typical location for the water. a boat
 The [MASK] is related to water. boat
