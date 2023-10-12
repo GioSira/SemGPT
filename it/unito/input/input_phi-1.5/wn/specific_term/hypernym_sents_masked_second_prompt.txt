@@ -1,0 +1,1266 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cello is a specific term for [MASK]." 
+Output:
+ ['string']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "violin is a specific term for [MASK]." 
+Output:
+ ['string']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trombone is a specific term for [MASK]." 
+Output:
+ ['brass']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "organ is a specific term for [MASK]." 
+Output:
+ ['wind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "percussion is a specific term for [MASK]." 
+Output:
+ ['instrument']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bass is a specific term for [MASK]." 
+Output:
+ ['instrument']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "flute is a specific term for [MASK]." 
+Output:
+ ['woodwind', 'wood']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "woodwind is a specific term for [MASK]." 
+Output:
+ ['wind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ukulele is a specific term for [MASK]." 
+Output:
+ ['guitar']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "piccolo is a specific term for [MASK]." 
+Output:
+ ['flute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "clavier is a specific term for [MASK]." 
+Output:
+ ['keyboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mandolin is a specific term for [MASK]." 
+Output:
+ ['chordophone']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dog is a specific term for [MASK]." 
+Output:
+ ['canid', 'canine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "elephant is a specific term for [MASK]." 
+Output:
+ ['pachyderm', 'proboscidean', 'proboscidian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "frog is a specific term for [MASK]." 
+Output:
+ ['amphibian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bee is a specific term for [MASK]." 
+Output:
+ ['hymenopteron', 'hymenopteran', 'hymenopter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "snail is a specific term for [MASK]." 
+Output:
+ ['univalve', 'gastropod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "animal is a specific term for [MASK]." 
+Output:
+ ['organism', 'being']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bear is a specific term for [MASK]." 
+Output:
+ ['carnivore']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "snake is a specific term for [MASK]." 
+Output:
+ ['diapsid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "insect is a specific term for [MASK]." 
+Output:
+ ['arthropod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crab is a specific term for [MASK]." 
+Output:
+ ['decapod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cat is a specific term for [MASK]." 
+Output:
+ ['feline', 'felid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lion is a specific term for [MASK]." 
+Output:
+ ['cat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "turtle is a specific term for [MASK]." 
+Output:
+ ['chelonian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ant is a specific term for [MASK]." 
+Output:
+ ['hymenopteron', 'hymenopteran', 'hymenopter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mussel is a specific term for [MASK]." 
+Output:
+ ['mytilid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wolf is a specific term for [MASK]." 
+Output:
+ ['canid', 'canine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tiger is a specific term for [MASK]." 
+Output:
+ ['cat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lizard is a specific term for [MASK]." 
+Output:
+ ['saurian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bird is a specific term for [MASK]." 
+Output:
+ ['craniate', 'vertebrate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "invertebrate is a specific term for [MASK]." 
+Output:
+ ['animal', 'fauna', 'beast', 'brute', 'creature']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fox is a specific term for [MASK]." 
+Output:
+ ['canid', 'canine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "deer is a specific term for [MASK]." 
+Output:
+ ['ruminant']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spider is a specific term for [MASK]." 
+Output:
+ ['arachnid', 'arachnoid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "butterfly is a specific term for [MASK]." 
+Output:
+ ['lepidopteron', 'lepidopteran']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crustacean is a specific term for [MASK]." 
+Output:
+ ['arthropod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rabbit is a specific term for [MASK]." 
+Output:
+ ['leporid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "monkey is a specific term for [MASK]." 
+Output:
+ ['primate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "salamander is a specific term for [MASK]." 
+Output:
+ ['amphibian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sawfly is a specific term for [MASK]." 
+Output:
+ ['hymenopteron', 'hymenopteran', 'hymenopter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beetle is a specific term for [MASK]." 
+Output:
+ ['insect']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ship is a specific term for [MASK]." 
+Output:
+ ['vessel', 'watercraft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "aircraft is a specific term for [MASK]." 
+Output:
+ ['craft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vehicle is a specific term for [MASK]." 
+Output:
+ ['transport', 'conveyance']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tandem is a specific term for [MASK]." 
+Output:
+ ['cycle', 'bike', 'bicycle', 'wheel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boat is a specific term for [MASK]." 
+Output:
+ ['vessel', 'watercraft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vessel is a specific term for [MASK]." 
+Output:
+ ['craft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jet is a specific term for [MASK]." 
+Output:
+ ['aeroplane', 'plane', 'airplane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "craft is a specific term for [MASK]." 
+Output:
+ ['vehicle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "carrier is a specific term for [MASK]." 
+Output:
+ ['warship']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "yacht is a specific term for [MASK]." 
+Output:
+ ['vessel', 'watercraft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bulldozer is a specific term for [MASK]." 
+Output:
+ ['tractor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "taxi is a specific term for [MASK]." 
+Output:
+ ['automobile', 'motorcar', 'auto', 'machine', 'car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "skirt is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boot is a specific term for [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glove is a specific term for [MASK]." 
+Output:
+ ['handwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hat is a specific term for [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "scarf is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pant is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "footwear is a specific term for [MASK]." 
+Output:
+ ['covering']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "handwear is a specific term for [MASK]." 
+Output:
+ ['vesture', 'wearable', 'wear', 'clothing', 'habiliment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cap is a specific term for [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "neckwear is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trouser is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shoe is a specific term for [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sock is a specific term for [MASK]." 
+Output:
+ ['hose', 'hosiery']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "headdress is a specific term for [MASK]." 
+Output:
+ ['vesture', 'wearable', 'wear', 'clothing', 'habiliment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sweater is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "slipper is a specific term for [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mask is a specific term for [MASK]." 
+Output:
+ ['covering', 'disguise']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "turban is a specific term for [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shawl is a specific term for [MASK]." 
+Output:
+ ['cloak']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shirt is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "overshoe is a specific term for [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mitten is a specific term for [MASK]." 
+Output:
+ ['glove']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sombrero is a specific term for [MASK]." 
+Output:
+ ['lid', 'hat', 'chapeau']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blouse is a specific term for [MASK]." 
+Output:
+ ['top']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jacket is a specific term for [MASK]." 
+Output:
+ ['coat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "clog is a specific term for [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gauntlet is a specific term for [MASK]." 
+Output:
+ ['glove']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "toque is a specific term for [MASK]." 
+Output:
+ ['lid', 'hat', 'chapeau']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cravat is a specific term for [MASK]." 
+Output:
+ ['neckwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "utensil is a specific term for [MASK]." 
+Output:
+ ['implement']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jar is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vase is a specific term for [MASK]." 
+Output:
+ ['jar']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jug is a specific term for [MASK]." 
+Output:
+ ['bottle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spoon is a specific term for [MASK]." 
+Output:
+ ['container', 'cutlery']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cutlery is a specific term for [MASK]." 
+Output:
+ ['tableware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fork is a specific term for [MASK]." 
+Output:
+ ['cutlery']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tablespoon is a specific term for [MASK]." 
+Output:
+ ['containerful']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tableware is a specific term for [MASK]." 
+Output:
+ ['ware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fountain is a specific term for [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "toilet is a specific term for [MASK]." 
+Output:
+ ['room']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hydrant is a specific term for [MASK]." 
+Output:
+ ['spigot', 'faucet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rocker is a specific term for [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "chair is a specific term for [MASK]." 
+Output:
+ ['seat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "seat is a specific term for [MASK]." 
+Output:
+ ['support']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheelchair is a specific term for [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "armchair is a specific term for [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "chaise is a specific term for [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "entrance is a specific term for [MASK]." 
+Output:
+ ['access', 'approach']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tower is a specific term for [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bridge is a specific term for [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hall is a specific term for [MASK]." 
+Output:
+ ['corridor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "monitor is a specific term for [MASK]." 
+Output:
+ ['display']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "printer is a specific term for [MASK]." 
+Output:
+ ['peripheral', 'printer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "television is a specific term for [MASK]." 
+Output:
+ ['receiver']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "radio is a specific term for [MASK]." 
+Output:
+ ['broadcasting']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "thermostat is a specific term for [MASK]." 
+Output:
+ ['regulator']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dryer is a specific term for [MASK]." 
+Output:
+ ['appliance']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "heater is a specific term for [MASK]." 
+Output:
+ ['device']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boiler is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "appliance is a specific term for [MASK]." 
+Output:
+ ['appliance']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fireplace is a specific term for [MASK]." 
+Output:
+ ['recess', 'niche']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "apple is a specific term for [MASK]." 
+Output:
+ ['pome']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "strawberry is a specific term for [MASK]." 
+Output:
+ ['herb']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pear is a specific term for [MASK]." 
+Output:
+ ['pome']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "orange is a specific term for [MASK]." 
+Output:
+ ['citrus']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "carrot is a specific term for [MASK]." 
+Output:
+ ['root']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cabbage is a specific term for [MASK]." 
+Output:
+ ['crucifer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spinach is a specific term for [MASK]." 
+Output:
+ ['vegetable']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tomato is a specific term for [MASK]." 
+Output:
+ ['herb']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cucumber is a specific term for [MASK]." 
+Output:
+ ['melon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "corn is a specific term for [MASK]." 
+Output:
+ ['grain', 'cereal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheat is a specific term for [MASK]." 
+Output:
+ ['cereal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "potato is a specific term for [MASK]." 
+Output:
+ ['starches']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "grain is a specific term for [MASK]." 
+Output:
+ ['foodstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bean is a specific term for [MASK]." 
+Output:
+ ['legume']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cereal is a specific term for [MASK]." 
+Output:
+ ['foodstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bread is a specific term for [MASK]." 
+Output:
+ ['starches']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cheese is a specific term for [MASK]." 
+Output:
+ ['food']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "salad is a specific term for [MASK]." 
+Output:
+ ['dish']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rice is a specific term for [MASK]." 
+Output:
+ ['grain', 'cereal', 'starches']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wine is a specific term for [MASK]." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beer is a specific term for [MASK]." 
+Output:
+ ['brew', 'brewage']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tea is a specific term for [MASK]." 
+Output:
+ ['drinkable', 'potable', 'beverage', 'drink']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "drink is a specific term for [MASK]." 
+Output:
+ ['nutrient', 'food', 'liquid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "coffee is a specific term for [MASK]." 
+Output:
+ ['drinkable', 'potable', 'beverage', 'drink']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "juice is a specific term for [MASK]." 
+Output:
+ ['foodstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "helmet is a specific term for [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shell is a specific term for [MASK]." 
+Output:
+ ['scute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shield is a specific term for [MASK]." 
+Output:
+ ['armour', 'armor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vest is a specific term for [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "uniform is a specific term for [MASK]." 
+Output:
+ ['vesture', 'wearable', 'wear', 'clothing', 'habiliment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bracelet is a specific term for [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "necklace is a specific term for [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jewelry is a specific term for [MASK]." 
+Output:
+ ['adornment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "earring is a specific term for [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pendant is a specific term for [MASK]." 
+Output:
+ ['adornment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bead is a specific term for [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mirror is a specific term for [MASK]." 
+Output:
+ ['reflector']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glass is a specific term for [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheel is a specific term for [MASK]." 
+Output:
+ ['machine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "plate is a specific term for [MASK]." 
+Output:
+ ['sheet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "umbrella is a specific term for [MASK]." 
+Output:
+ ['canopy']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hood is a specific term for [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "parasol is a specific term for [MASK]." 
+Output:
+ ['shade']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blanket is a specific term for [MASK]." 
+Output:
+ ['bedclothes', 'bedding']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "canopy is a specific term for [MASK]." 
+Output:
+ ['textile', 'material', 'cloth', 'fabric']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shelter is a specific term for [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "copier is a specific term for [MASK]." 
+Output:
+ ['copier', 'duplicator']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "photocopier is a specific term for [MASK]." 
+Output:
+ ['copier', 'duplicator']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "phonograph is a specific term for [MASK]." 
+Output:
+ ['machine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "anchor is a specific term for [MASK]." 
+Output:
+ ['hook', 'claw']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rod is a specific term for [MASK]." 
+Output:
+ ['implement']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bolt is a specific term for [MASK]." 
+Output:
+ ['screw']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wire is a specific term for [MASK]." 
+Output:
+ ['ligament']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pin is a specific term for [MASK]." 
+Output:
+ ['holdfast', 'fastening', 'fixing', 'fastener']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hook is a specific term for [MASK]." 
+Output:
+ ['curve']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hoe is a specific term for [MASK]." 
+Output:
+ ['tool']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rake is a specific term for [MASK]." 
+Output:
+ ['tool']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "machete is a specific term for [MASK]." 
+Output:
+ ['knife']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "clipper is a specific term for [MASK]." 
+Output:
+ ['scissors']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "screw is a specific term for [MASK]." 
+Output:
+ ['holdfast', 'fastening', 'fixing', 'fastener']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fastener is a specific term for [MASK]." 
+Output:
+ ['restraint', 'constraint']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gasket is a specific term for [MASK]." 
+Output:
+ ['seal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lever is a specific term for [MASK]." 
+Output:
+ ['tumbler']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pulley is a specific term for [MASK]." 
+Output:
+ ['machine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tongs is a specific term for [MASK]." 
+Output:
+ ['device']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "colander is a specific term for [MASK]." 
+Output:
+ ['strainer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "peeler is a specific term for [MASK]." 
+Output:
+ ['device']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bag is a specific term for [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "container is a specific term for [MASK]." 
+Output:
+ ['instrumentation', 'instrumentality']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pack is a specific term for [MASK]." 
+Output:
+ ['sheaf', 'bundle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "knapsack is a specific term for [MASK]." 
+Output:
+ ['bag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "box is a specific term for [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "barrel is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tank is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pipe is a specific term for [MASK]." 
+Output:
+ ['tube', 'tubing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mortar is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "steeper is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pot is a specific term for [MASK]." 
+Output:
+ ['cookware', 'vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "can is a specific term for [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bowl is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tin is a specific term for [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "flagon is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bucket is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tub is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "basket is a specific term for [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "basin is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ladle is a specific term for [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "kibble is a specific term for [MASK]." 
+Output:
+ ['meal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tray is a specific term for [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rack is a specific term for [MASK]." 
+Output:
+ ['framework']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ashtray is a specific term for [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "garbage is a specific term for [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tidy is a specific term for [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dustpan is a specific term for [MASK]." 
+Output:
+ ['receptacle']
+

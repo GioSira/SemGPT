@@ -101,12 +101,12 @@ def read_xml(xml_file):
             slot_name = slot.get("name")
 
             for value in slot.findall("value"):
-                value_synset = value.get("babelsynset") # non è fondamentale per l'analisi
+                value_synset = value.get("babelsynset") 
                 value_text = value.text
 
                 for (s, v, p) in processValue(value_synset, value_text):
                     if __check(s) and __check(v) and __check(p):
-                        concept.insert(slot_name, v, p, s) #TODO: MODIFICA CON IL SYNSET DI WN
+                        concept.insert(slot_name, v, p, s) 
 
         semagram.insertConcept(concept)
 

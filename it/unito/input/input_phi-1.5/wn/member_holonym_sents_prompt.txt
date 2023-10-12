@@ -1,0 +1,174 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bear is a member of [MASK]." 
+Output:
+ ['Ursidae']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crab is a member of [MASK]." 
+Output:
+ ['Brachyura']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ant is a member of [MASK]." 
+Output:
+ ['Formicidae']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mussel is a member of [MASK]." 
+Output:
+ ['Mytilus']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tiger is a member of [MASK]." 
+Output:
+ ['Panthera']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bird is a member of [MASK]." 
+Output:
+ ['Aves', 'flock']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "aircraft is a member of [MASK]." 
+Output:
+ ['fleet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bee is a member of [MASK]." 
+Output:
+ ['Apoidea']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crustacean is a member of [MASK]." 
+Output:
+ ['Crustacea']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rabbit is a member of [MASK]." 
+Output:
+ ['warren']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beetle is a member of [MASK]." 
+Output:
+ ['Coleoptera']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ship is a member of [MASK]." 
+Output:
+ ['fleet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "taxi is a member of [MASK]." 
+Output:
+ ['fleet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "strawberry is a member of [MASK]." 
+Output:
+ ['Fragaria']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cabbage is a member of [MASK]." 
+Output:
+ ['Brassica']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spinach is a member of [MASK]." 
+Output:
+ ['Spinacia']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheat is a member of [MASK]." 
+Output:
+ ['Triticum']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dog is a member of [MASK]." 
+Output:
+ ['Canis', 'pack']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "snake is a member of [MASK]." 
+Output:
+ ['Ophidia', 'Serpentes']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wolf is a member of [MASK]." 
+Output:
+ ['Canis']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bus is a member of [MASK]." 
+Output:
+ ['fleet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cucumber is a member of [MASK]." 
+Output:
+ ['Cucumis']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "elephant is a member of [MASK]." 
+Output:
+ ['Elephantidae']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "animal is a member of [MASK]." 
+Output:
+ ['Animalia']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "insect is a member of [MASK]." 
+Output:
+ ['Arthropoda', 'swarm', 'cloud']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lion is a member of [MASK]." 
+Output:
+ ['Panthera', 'pride']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "deer is a member of [MASK]." 
+Output:
+ ['Cervidae']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spider is a member of [MASK]." 
+Output:
+ ['Araneida', 'Araneae']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sawfly is a member of [MASK]." 
+Output:
+ ['Tenthredinidae']
+

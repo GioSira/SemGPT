@@ -44,6 +44,9 @@ def get_all_concepts():
     results = sem_collection.distinct('concept')
     return results
 
+def get_all_concepts_obj():
+    return category_collection
+
 
 def get_all_concept_slots_and_values(concept):
 

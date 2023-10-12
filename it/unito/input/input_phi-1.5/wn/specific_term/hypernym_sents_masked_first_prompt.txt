@@ -1,0 +1,1878 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for string." 
+Output:
+ ['contrabass', 'violoncello', 'cello', 'viol', 'viola', 'violin', 'fiddle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for string." 
+Output:
+ ['contrabass', 'violoncello', 'cello', 'viol', 'viola', 'violin', 'fiddle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for brass." 
+Output:
+ ['baritone', 'tuba', 'sousaphone', 'bugle', 'clarion', 'horn', 'cornet', 'trumpet', 'trump', 'flugelhorn', 'fluegelhorn', 'horn', 'saxhorn', 'trombone']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for instrument." 
+Output:
+ ['hurdy-gurdy', 'bass', 'calliope', 'wind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for instrument." 
+Output:
+ ['hurdy-gurdy', 'bass', 'calliope', 'wind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for woodwind." 
+Output:
+ ['reed', 'flute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wood." 
+Output:
+ ['reed', 'flute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wind." 
+Output:
+ ['brass', 'kazoo', 'ocarina', 'organ', 'pipe', 'pipework', 'pipe', 'whistle', 'woodwind', 'wood']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for guitar." 
+Output:
+ ['gittern', 'cittern', 'cither', 'citole', 'cithern', 'ukulele', 'uke']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for flute." 
+Output:
+ ['fife', 'piccolo']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for keyboard." 
+Output:
+ ['keypad', 'clavier', 'fingerboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chordophone." 
+Output:
+ ['balalaika', 'harp', 'lute', 'mandolin']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canid." 
+Output:
+ ['bitch', 'dog', 'fox', 'hyaena', 'hyena', 'jackal', 'wolf']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canine." 
+Output:
+ ['bitch', 'dog', 'fox', 'hyaena', 'hyena', 'jackal', 'wolf']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for pachyderm." 
+Output:
+ ['elephant']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for proboscidean." 
+Output:
+ ['elephant', 'mastodon', 'mastodont']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for proboscidian." 
+Output:
+ ['elephant', 'mastodon', 'mastodont']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for amphibian." 
+Output:
+ ['caecilian', 'blindworm', 'batrachian', 'anuran', 'salientian', 'toad', 'frog', 'Ichyostega', 'labyrinthodont', 'salamander', 'urodele', 'caudate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopteron." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopteran." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopter." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for univalve." 
+Output:
+ ['ear-shell', 'abalone', 'conch', 'cowry', 'cowrie', 'physa', 'nudibranch', 'seasnail', 'slug', 'snail', 'solenogaster', 'aplacophoran']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for gastropod." 
+Output:
+ ['ear-shell', 'abalone', 'conch', 'cowry', 'cowrie', 'physa', 'nudibranch', 'seasnail', 'slug', 'snail', 'solenogaster', 'aplacophoran']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for organism." 
+Output:
+ ['aerobe', 'amphidiploid', 'anaerobe', 'animal', 'fauna', 'beast', 'brute', 'creature', 'animalculum', 'animalcule', 'throwback', 'atavist', 'benthos', 'carrier', 'clon', 'clone', 'commensal', 'conspecific', 'denizen', 'diploid', 'dwarf', 'eucaryote', 'eukaryote', 'fungus', 'haploid', 'heteroploid', 'heterotroph', 'host', 'crossbreed', 'cross', 'hybrid', 'individual', 'katharobe', 'mascot', 'micro-organism', 'microorganism', 'mutation', 'variation', 'mutant', 'sport', 'myrmecophile', 'native', 'nekton', 'parasite', 'parent', 'somebody', 'someone', 'soul', 'mortal', 'person', 'individual', 'plankton', 'plant', 'flora', 'polymorph', 'polyploid', 'postdiluvian', 'procaryote', 'prokaryote', 'recombinant', 'congener', 'congenator', 'congeneric', 'relative', 'relict', 'saprobe', 'saprophyte', 'sitter', 'stander', 'utterer', 'vocalizer', 'vocaliser', 'zooid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for being." 
+Output:
+ ['aerobe', 'amphidiploid', 'anaerobe', 'animal', 'fauna', 'beast', 'brute', 'creature', 'animalculum', 'animalcule', 'throwback', 'atavist', 'benthos', 'carrier', 'clon', 'clone', 'commensal', 'conspecific', 'denizen', 'diploid', 'dwarf', 'eucaryote', 'eukaryote', 'fungus', 'haploid', 'heteroploid', 'heterotroph', 'host', 'crossbreed', 'cross', 'hybrid', 'individual', 'katharobe', 'mascot', 'micro-organism', 'microorganism', 'mutation', 'variation', 'mutant', 'sport', 'myrmecophile', 'native', 'nekton', 'parasite', 'parent', 'somebody', 'someone', 'soul', 'mortal', 'person', 'individual', 'plankton', 'plant', 'flora', 'polymorph', 'polyploid', 'postdiluvian', 'procaryote', 'prokaryote', 'recombinant', 'congener', 'congenator', 'congeneric', 'relative', 'relict', 'saprobe', 'saprophyte', 'sitter', 'stander', 'utterer', 'vocalizer', 'vocaliser', 'zooid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for carnivore." 
+Output:
+ ['bear', 'canid', 'canine', 'feline', 'felid', 'fissiped', 'mustelid', 'musteline', 'procyonid', 'viverrine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for diapsid." 
+Output:
+ ['archosaurian', 'archosaur', 'crocodilian', 'saurian', 'ophidian', 'serpent', 'snake', 'tuatara']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for arthropod." 
+Output:
+ ['arachnid', 'arachnoid', 'centipede', 'crustacean', 'eurypterid', 'symphilid', 'insect', 'instar', 'Merostomata', 'millipede', 'milliped', 'millepede', 'myriapod', 'onychophoran', 'peripatus', 'pycnogonid', 'tardigrade', 'pentastomid', 'trilobite']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for decapod." 
+Output:
+ ['crab', 'crawdad', 'crayfish', 'crawfish', 'crawdaddy', 'lobster', 'prawn', 'shrimp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for feline." 
+Output:
+ ['cat', 'cat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for felid." 
+Output:
+ ['cat', 'cat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cat." 
+Output:
+ ['chetah', 'cheetah', 'jaguar', 'panther', 'leopard', 'liger', 'lion', 'sabertooth', 'ounce', 'tiger', 'tiglon', 'tigon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chelonian." 
+Output:
+ ['turtle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopteron." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopteran." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopter." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canid." 
+Output:
+ ['bitch', 'dog', 'fox', 'hyaena', 'hyena', 'jackal', 'wolf']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canine." 
+Output:
+ ['bitch', 'dog', 'fox', 'hyaena', 'hyena', 'jackal', 'wolf']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cat." 
+Output:
+ ['chetah', 'cheetah', 'jaguar', 'panther', 'leopard', 'liger', 'lion', 'sabertooth', 'ounce', 'tiger', 'tiglon', 'tigon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for saurian." 
+Output:
+ ['lizard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for craniate." 
+Output:
+ ['Amniota', 'amniote', 'amphibian', 'bird', 'fetus', 'foetus', 'gnathostome', 'mammalian', 'mammal', 'reptilian', 'reptile', 'tetrapod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vertebrate." 
+Output:
+ ['Amniota', 'amniote', 'amphibian', 'bird', 'fetus', 'foetus', 'gnathostome', 'mammalian', 'mammal', 'reptilian', 'reptile', 'tetrapod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for animal." 
+Output:
+ ['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'conceptus', 'embryo', 'feeder', 'female', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'homotherm', 'homoiotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'mate', 'metazoan', 'migrator', 'moulter', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'poikilotherm', 'ectotherm', 'predator', 'quarry', 'prey', 'racer', 'scavenger', 'stayer', 'stunt', 'survivor', 'thoroughbred', 'purebred', 'pureblood', 'varmint', 'varment', 'young', 'offspring', 'zooplankton']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fauna." 
+Output:
+ ['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'conceptus', 'embryo', 'feeder', 'female', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'homotherm', 'homoiotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'mate', 'metazoan', 'migrator', 'moulter', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'poikilotherm', 'ectotherm', 'predator', 'quarry', 'prey', 'racer', 'scavenger', 'stayer', 'stunt', 'survivor', 'thoroughbred', 'purebred', 'pureblood', 'varmint', 'varment', 'young', 'offspring', 'zooplankton']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for beast." 
+Output:
+ ['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'conceptus', 'embryo', 'feeder', 'female', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'homotherm', 'homoiotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'mate', 'metazoan', 'migrator', 'moulter', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'poikilotherm', 'ectotherm', 'predator', 'quarry', 'prey', 'racer', 'scavenger', 'stayer', 'stunt', 'survivor', 'thoroughbred', 'purebred', 'pureblood', 'varmint', 'varment', 'young', 'offspring', 'zooplankton']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for brute." 
+Output:
+ ['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'conceptus', 'embryo', 'feeder', 'female', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'homotherm', 'homoiotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'mate', 'metazoan', 'migrator', 'moulter', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'poikilotherm', 'ectotherm', 'predator', 'quarry', 'prey', 'racer', 'scavenger', 'stayer', 'stunt', 'survivor', 'thoroughbred', 'purebred', 'pureblood', 'varmint', 'varment', 'young', 'offspring', 'zooplankton']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for creature." 
+Output:
+ ['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'conceptus', 'embryo', 'feeder', 'female', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'homotherm', 'homoiotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'mate', 'metazoan', 'migrator', 'moulter', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'poikilotherm', 'ectotherm', 'predator', 'quarry', 'prey', 'racer', 'scavenger', 'stayer', 'stunt', 'survivor', 'thoroughbred', 'purebred', 'pureblood', 'varmint', 'varment', 'young', 'offspring', 'zooplankton']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canid." 
+Output:
+ ['bitch', 'dog', 'fox', 'hyaena', 'hyena', 'jackal', 'wolf']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canine." 
+Output:
+ ['bitch', 'dog', 'fox', 'hyaena', 'hyena', 'jackal', 'wolf']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for ruminant." 
+Output:
+ ['bovid', 'chevrotain', 'deer', 'cervid', 'camelopard', 'giraffe', 'pollard', 'pronghorn', 'prongbuck']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for arachnid." 
+Output:
+ ['acarine', 'pseudoscorpion', 'harvestman', 'scorpion', 'spider', 'whip-scorpion']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for arachnoid." 
+Output:
+ ['acarine', 'pseudoscorpion', 'harvestman', 'scorpion', 'spider', 'whip-scorpion']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for lepidopteron." 
+Output:
+ ['butterfly', 'moth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for lepidopteran." 
+Output:
+ ['butterfly', 'moth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for arthropod." 
+Output:
+ ['arachnid', 'arachnoid', 'centipede', 'crustacean', 'eurypterid', 'symphilid', 'insect', 'instar', 'Merostomata', 'millipede', 'milliped', 'millepede', 'myriapod', 'onychophoran', 'peripatus', 'pycnogonid', 'tardigrade', 'pentastomid', 'trilobite']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for leporid." 
+Output:
+ ['hare', 'cony', 'rabbit', 'coney']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for primate." 
+Output:
+ ['anthropoid', 'ape', 'hominid', 'hominoid', 'lemur', 'monkey', 'prosimian', 'simian', 'tarsier']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for amphibian." 
+Output:
+ ['caecilian', 'blindworm', 'batrachian', 'anuran', 'salientian', 'toad', 'frog', 'Ichyostega', 'labyrinthodont', 'salamander', 'urodele', 'caudate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopteron." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopteran." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hymenopter." 
+Output:
+ ['pismire', 'ant', 'emmet', 'bee', 'chalcid', 'chalcidfly', 'Mutillidae', 'sawfly', 'wasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for insect." 
+Output:
+ ['beetle', 'louse', 'bug', 'springtail', 'collembolan', 'defoliator', 'dipteron', 'dipteran', 'earwig', 'ephemeropteran', 'ephemerid', 'ephemeron', 'ephemeral', 'flea', 'gallfly', 'hemipteron', 'hemipteran', 'bug', 'holometabola', 'metabola', 'homopteran', 'hymenopteron', 'hymenopteran', 'hymenopter', 'imago', 'leaf-miner', 'lepidopteron', 'lepidopteran', 'louse', 'mecopteran', 'neuropteran', 'neuropteron', 'odonate', 'orthopteron', 'orthopteran', 'phasmid', 'pollinator', 'proturan', 'telsontail', 'pupa', 'queen', 'stonefly', 'plecopteran', 'termite', 'thysanopter', 'thysanopteron', 'thysanuron', 'trichopteran', 'trichopteron', 'worker']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for watercraft." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for craft." 
+Output:
+ ['aircraft', 'hovercraft', 'spacecraft', 'vessel', 'watercraft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for transport." 
+Output:
+ ['dolly', 'dolly', 'horsebox', 'litter', 'mail', 'shipping', 'sidecar', 'lift', 'telpher', 'telfer', 'trailer', 'ropeway', 'tram', 'tramway', 'vehicle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for conveyance." 
+Output:
+ ['dolly', 'dolly', 'horsebox', 'litter', 'mail', 'shipping', 'sidecar', 'lift', 'telpher', 'telfer', 'trailer', 'ropeway', 'tram', 'tramway', 'vehicle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cycle." 
+Output:
+ ['bicycle-built-for-two', 'tandem', 'off-roader', 'ordinary', 'push-bike', 'velocipede']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bike." 
+Output:
+ ['bicycle-built-for-two', 'tandem', 'off-roader', 'ordinary', 'push-bike', 'velocipede']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bicycle." 
+Output:
+ ['bicycle-built-for-two', 'tandem', 'off-roader', 'ordinary', 'push-bike', 'velocipede']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wheel." 
+Output:
+ ['bicycle-built-for-two', 'tandem', 'off-roader', 'ordinary', 'push-bike', 'velocipede']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for watercraft." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for craft." 
+Output:
+ ['aircraft', 'hovercraft', 'spacecraft', 'vessel', 'watercraft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for aeroplane." 
+Output:
+ ['airliner', 'amphibian', 'biplane', 'bomber', 'fighter', 'jet', 'monoplane', 'seaplane', 'hydroplane', 'ski-plane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for plane." 
+Output:
+ ['airliner', 'amphibian', 'biplane', 'bomber', 'fighter', 'jet', 'monoplane', 'seaplane', 'hydroplane', 'ski-plane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for airplane." 
+Output:
+ ['airliner', 'amphibian', 'biplane', 'bomber', 'fighter', 'jet', 'monoplane', 'seaplane', 'hydroplane', 'ski-plane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vehicle." 
+Output:
+ ['Dodgem', 'craft', 'rocket', 'projectile', 'skibob', 'sleigh', 'sled', 'sledge', 'steamroller']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for warship." 
+Output:
+ ['carrier', 'flattop', 'battleship', 'battlewagon', 'corvette', 'cruiser', 'destroyer', 'frigate', 'frigate', 'ironclad', 'man-of-war', 'privateer', 'submersible', 'three-decker']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for watercraft." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tractor." 
+Output:
+ ['bulldozer', 'dozer', 'skidder']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for automobile." 
+Output:
+ ['ambulance', 'waggon', 'wagon', 'jalopy', 'heap', 'bus', 'taxi', 'hack', 'cab', 'taxicab', 'compact', 'convertible', 'coupe', 'cruiser', 'electric', 'hardtop', 'hatchback', 'hot-rod', 'landrover', 'jeep', 'limousine', 'limo', 'loaner', 'minicar', 'minivan', 'racer', 'roadster', 'runabout', 'two-seater', 'saloon', 'sedan', 'SUV', 'S.U.V.', 'subcompact', 'tourer', 'phaeton', 'used-car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for motorcar." 
+Output:
+ ['ambulance', 'waggon', 'wagon', 'jalopy', 'heap', 'bus', 'taxi', 'hack', 'cab', 'taxicab', 'compact', 'convertible', 'coupe', 'cruiser', 'electric', 'hardtop', 'hatchback', 'hot-rod', 'landrover', 'jeep', 'limousine', 'limo', 'loaner', 'minicar', 'minivan', 'racer', 'roadster', 'runabout', 'two-seater', 'saloon', 'sedan', 'SUV', 'S.U.V.', 'subcompact', 'tourer', 'phaeton', 'used-car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for auto." 
+Output:
+ ['ambulance', 'waggon', 'wagon', 'jalopy', 'heap', 'bus', 'taxi', 'hack', 'cab', 'taxicab', 'compact', 'convertible', 'coupe', 'cruiser', 'electric', 'hardtop', 'hatchback', 'hot-rod', 'landrover', 'jeep', 'limousine', 'limo', 'loaner', 'minicar', 'minivan', 'racer', 'roadster', 'runabout', 'two-seater', 'saloon', 'sedan', 'SUV', 'S.U.V.', 'subcompact', 'tourer', 'phaeton', 'used-car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for machine." 
+Output:
+ ['ambulance', 'waggon', 'wagon', 'jalopy', 'heap', 'bus', 'taxi', 'hack', 'cab', 'taxicab', 'compact', 'convertible', 'coupe', 'cruiser', 'electric', 'hardtop', 'hatchback', 'hot-rod', 'landrover', 'jeep', 'limousine', 'limo', 'loaner', 'minicar', 'minivan', 'racer', 'roadster', 'runabout', 'two-seater', 'saloon', 'sedan', 'SUV', 'S.U.V.', 'subcompact', 'tourer', 'phaeton', 'used-car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for car." 
+Output:
+ ['ambulance', 'waggon', 'wagon', 'jalopy', 'heap', 'bus', 'taxi', 'hack', 'cab', 'taxicab', 'compact', 'convertible', 'coupe', 'cruiser', 'electric', 'hardtop', 'hatchback', 'hot-rod', 'landrover', 'jeep', 'limousine', 'limo', 'loaner', 'minicar', 'minivan', 'racer', 'roadster', 'runabout', 'two-seater', 'saloon', 'sedan', 'SUV', 'S.U.V.', 'subcompact', 'tourer', 'phaeton', 'used-car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footgear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footwear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for handwear." 
+Output:
+ ['glove', 'muff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headdress." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headgear." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for covering." 
+Output:
+ ['bootleg', 'bubble', 'canopy', 'casing', 'cloak', 'vesture', 'wearable', 'wear', 'clothing', 'habiliment', 'coat', 'coating', 'drape', 'earmuff', 'finger', 'flap', 'folder', 'footgear', 'footwear', 'hood', 'hood', 'lapping', 'overlapping', 'imbrication', 'instep', 'mask', 'matting', 'paddle-box', 'planking', 'protection', 'concealment', 'cover', 'screen', 'covert', 'swathing', 'thumb', 'toe', 'top', 'cover', 'upholstery', 'wrapper', 'wrapping', 'wrap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vesture." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wearable." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wear." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for clothing." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for habiliment." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headdress." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headgear." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footgear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footwear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hose." 
+Output:
+ ['sock', 'stocking', 'tights', 'leotards']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hosiery." 
+Output:
+ ['sock', 'stocking', 'tights', 'leotards']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vesture." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wearable." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wear." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for clothing." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for habiliment." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footgear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footwear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for covering." 
+Output:
+ ['bootleg', 'bubble', 'canopy', 'casing', 'cloak', 'vesture', 'wearable', 'wear', 'clothing', 'habiliment', 'coat', 'coating', 'drape', 'earmuff', 'finger', 'flap', 'folder', 'footgear', 'footwear', 'hood', 'hood', 'lapping', 'overlapping', 'imbrication', 'instep', 'mask', 'matting', 'paddle-box', 'planking', 'protection', 'concealment', 'cover', 'screen', 'covert', 'swathing', 'thumb', 'toe', 'top', 'cover', 'upholstery', 'wrapper', 'wrapping', 'wrap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for disguise." 
+Output:
+ ['masquerade', 'mask']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headdress." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headgear." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cloak." 
+Output:
+ ['burnouse', 'burnous', 'burnoose', 'caftan', 'kaftan', 'mantle', 'cape', 'capote', 'capuchin', 'cope', 'dolman', 'domino', 'jellaba', 'pallium', 'poncho', 'shawl', 'toga', 'tunic', 'wrapper', 'wrap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footgear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footwear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for glove." 
+Output:
+ ['gantlet', 'gauntlet', 'gantlet', 'gauntlet', 'mitten']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for lid." 
+Output:
+ ['bearskin', 'busby', 'shako', 'boater', 'leghorn', 'skimmer', 'Panama', 'sailor', 'bonnet', 'derby', 'bowler', 'deerstalker', 'topper', 'beaver', 'stovepipe', 'homburg', 'Stetson', 'fedora', 'trilby', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tirolean', 'tyrolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hat." 
+Output:
+ ['bearskin', 'busby', 'shako', 'boater', 'leghorn', 'skimmer', 'Panama', 'sailor', 'bonnet', 'derby', 'bowler', 'deerstalker', 'topper', 'beaver', 'stovepipe', 'homburg', 'Stetson', 'fedora', 'trilby', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tirolean', 'tyrolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chapeau." 
+Output:
+ ['bearskin', 'busby', 'shako', 'boater', 'leghorn', 'skimmer', 'Panama', 'sailor', 'bonnet', 'derby', 'bowler', 'deerstalker', 'topper', 'beaver', 'stovepipe', 'homburg', 'Stetson', 'fedora', 'trilby', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tirolean', 'tyrolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for top." 
+Output:
+ ['blouse', 'bodice', 'bustier', 'halter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for coat." 
+Output:
+ ['coatee', 'cutaway', 'topcoat', 'overcoat', 'greatcoat', 'jacket', 'mackinaw', 'newmarket', 'raincoat', 'waterproof', 'afghan', 'surcoat', 'topper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footgear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for footwear." 
+Output:
+ ['boot', 'sabot', 'geta', 'patten', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for glove." 
+Output:
+ ['gantlet', 'gauntlet', 'gantlet', 'gauntlet', 'mitten']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for lid." 
+Output:
+ ['bearskin', 'busby', 'shako', 'boater', 'leghorn', 'skimmer', 'Panama', 'sailor', 'bonnet', 'derby', 'bowler', 'deerstalker', 'topper', 'beaver', 'stovepipe', 'homburg', 'Stetson', 'fedora', 'trilby', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tirolean', 'tyrolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hat." 
+Output:
+ ['bearskin', 'busby', 'shako', 'boater', 'leghorn', 'skimmer', 'Panama', 'sailor', 'bonnet', 'derby', 'bowler', 'deerstalker', 'topper', 'beaver', 'stovepipe', 'homburg', 'Stetson', 'fedora', 'trilby', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tirolean', 'tyrolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chapeau." 
+Output:
+ ['bearskin', 'busby', 'shako', 'boater', 'leghorn', 'skimmer', 'Panama', 'sailor', 'bonnet', 'derby', 'bowler', 'deerstalker', 'topper', 'beaver', 'stovepipe', 'homburg', 'Stetson', 'fedora', 'trilby', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tirolean', 'tyrolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for neckwear." 
+Output:
+ ['cravat', 'tie', 'necktie']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for implement." 
+Output:
+ ['bar', 'beater', 'brush', 'buff', 'buffer', 'candlesnuffer', 'eraser', 'flail', 'hook', 'iron', 'needle', 'oar', 'rod', 'sharpener', 'snuffer', 'lance', 'fizgig', 'fishgig', 'gig', 'spear', 'spike', 'stick', 'stick', 'stirrer', 'strickle', 'swab', 'flyswatter', 'swatter', 'flyswat', 'tool', 'utensil']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jar." 
+Output:
+ ['amphora', 'beaker', 'crock', 'cruse', 'jamjar', 'jampot', 'vase']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bottle." 
+Output:
+ ['carafe', 'decanter', 'carboy', 'cruet', 'crewet', 'demijohn', 'flask', 'gourd', 'calabash', 'inkpot', 'jug', 'phial', 'vial', 'ampul', 'ampule', 'ampoule']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cutlery." 
+Output:
+ ['fork', 'spoon', 'Spork']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tableware." 
+Output:
+ ['chopstick', 'crockery', 'dishware', 'cutlery', 'dinnerware', 'flatware', 'glasswork', 'glassware', 'service', 'silverware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cutlery." 
+Output:
+ ['fork', 'spoon', 'Spork']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for containerful." 
+Output:
+ ['armful', 'bagful', 'bag', 'barnful', 'barrelful', 'barrel', 'barrow', 'barrowful', 'basinful', 'basin', 'basket', 'basketful', 'bin', 'binful', 'bottleful', 'bottle', 'bowl', 'bowlful', 'box', 'boxful', 'bucket', 'bucketful', 'canful', 'can', 'capful', 'carful', 'cartload', 'cartonful', 'carton', 'case', 'caseful', 'caskful', 'cask', 'crateful', 'crate', 'cupful', 'cup', 'dessertspoon', 'dessertspoonful', 'dishful', 'dish', 'dustpanful', 'dustpan', 'flaskful', 'flask', 'glass', 'glassful', 'fistful', 'handful', 'hatful', 'headful', 'houseful', 'jarful', 'jar', 'jugful', 'jug', 'kegful', 'keg', 'kettle', 'kettleful', 'lapful', 'mouthful', 'mug', 'mugful', 'pail', 'pailful', 'pipeful', 'pitcherful', 'pitcher', 'plate', 'plateful', 'pocketful', 'pot', 'potful', 'roomful', 'sackful', 'sack', 'scoop', 'scoopful', 'shelfful', 'shoeful', 'shovel', 'shovelful', 'spadeful', 'skepful', 'spoonful', 'spoon', 'tablespoon', 'tablespoonful', 'tank', 'tankful', 'teacup', 'teacupful', 'teaspoon', 'teaspoonful', 'thimbleful', 'thimble', 'tubful', 'tub']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for ware." 
+Output:
+ ['metalware', 'tableware', 'woodenware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for structure." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for construction." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for room." 
+Output:
+ ['lobby', 'hall', 'antechamber', 'anteroom', 'vestibule', 'foyer', 'ballroom', 'saloon', 'ginmill', 'bar', 'taproom', 'barroom', 'bathroom', 'bath', 'chamber', 'bedroom', 'bedchamber', 'belfry', 'boardroom', 'cardroom', 'cubicle', 'cell', 'cell', 'chamber', 'checkroom', 'classroom', 'schoolroom', 'coatroom', 'cloakroom', 'closet', 'clubroom', 'compartment', 'court', 'courtroom', 'cubbyhole', 'snug', 'snuggery', 'cubby', 'darkroom', 'den', 'dinette', 'dining-room', 'door', 'durbar', 'engineering', 'floor', 'gallery', 'gallery', 'greenroom', 'guardroom', 'hall', 'kitchen', 'library', 'parlor', 'living-room', 'parlour', 'lounge', 'hall', 'poolroom', 'rathole', 'rotunda', 'scriptorium', 'scullery', 'sickbay', 'sickroom', 'storeroom', 'stowage', 'study', 'sunporch', 'sunroom', 'solarium', 'surgery', 'lav', 'privy', 'lavatory', 'bathroom', 'john', 'toilet', 'can', 'sacristy', 'vestry', 'walk-in', 'workroom']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for spigot." 
+Output:
+ ['stopcock', 'turncock', 'cock', 'hydrant', 'tap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for faucet." 
+Output:
+ ['stopcock', 'turncock', 'cock', 'hydrant', 'tap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chair." 
+Output:
+ ['armchair', 'chaise', 'daybed', 'highchair', 'ladder-back', 'rocker', 'wheelchair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for seat." 
+Output:
+ ['bench', 'bench', 'box', 'chair', 'ottoman', 'pouf', 'hassock', 'pouffe', 'puff', 'lounge', 'couch', 'sofa', 'stool']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for support." 
+Output:
+ ['dog-iron', 'andiron', 'firedog', 'dog', 'back', 'backrest', 'backboard', 'baluster', 'bar', 'stand', 'base', 'pedestal', 'bearing', 'bedpost', 'bookend', 'brace', 'bracket', 'bridge', 'foot', 'foothold', 'footing', 'handrest', 'hanger', 'harness', 'harp', 'headstock', 'leg', 'perch', 'pier', 'pier', 'stand', 'rack', 'rest', 'rib', 'rocker', 'seat', 'shelf', 'spoke', 'radius', 'stair', 'step', 'stirrup', 'stock', 'gunstock', 'tailstock', 'tee', 'undercarriage', 'yoke']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chair." 
+Output:
+ ['armchair', 'chaise', 'daybed', 'highchair', 'ladder-back', 'rocker', 'wheelchair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chair." 
+Output:
+ ['armchair', 'chaise', 'daybed', 'highchair', 'ladder-back', 'rocker', 'wheelchair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for chair." 
+Output:
+ ['armchair', 'chaise', 'daybed', 'highchair', 'ladder-back', 'rocker', 'wheelchair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for access." 
+Output:
+ ['entree', 'entry', 'entryway', 'entrance', 'entranceway']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for approach." 
+Output:
+ ['entree', 'entry', 'entryway', 'entrance', 'entranceway']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for structure." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for construction." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for structure." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for construction." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for corridor." 
+Output:
+ ['gallery', 'hall', 'hallway']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for display." 
+Output:
+ ['board', 'FPD', 'monitor', 'screen', 'VDU', 'window']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for peripheral." 
+Output:
+ ['printer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for printer." 
+Output:
+ ['Addressograph', 'printer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for receiver." 
+Output:
+ ['tuner', 'wireless', 'radio', 'telly', 'television', 'tv']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for broadcasting." 
+Output:
+ ['wireless', 'radiocommunication', 'radio', 'reception', 'Rediffusion', 'television', 'video', 'telecasting', 'TV']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for regulator." 
+Output:
+ ['aperture', 'ballcock', 'draft', 'spigot', 'faucet', 'peg', 'petcock', 'register', 'escape', 'penstock', 'floodgate', 'sluicegate', 'thermoregulator', 'thermostat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for appliance." 
+Output:
+ ['dryer', 'drier']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for device." 
+Output:
+ ['adaptor', 'adapter', 'afterburner', 'agglomerator', 'aerofoil', 'airfoil', 'surface', 'alarm', 'gadget', 'convenience', 'widget', 'appliance', 'contraption', 'gismo', 'contrivance', 'gizmo', 'applicator', 'applier', 'aspergill', 'aspersorium', 'autopilot', 'lure', 'decoy', 'bait', 'birdfeeder', 'feeder', 'blower', 'bootjack', 'breathalyzer', 'breathalyser', 'ventilator', 'bubbler', 'buffer', 'fender', 'catapult', 'launcher', 'charger', 'clip-on', 'comb', 'comforter', 'pacifier', 'conductor', 'contraceptive', 'preventative', 'preventive', 'converter', 'convertor', 'corer', 'restorative', 'corrective', 'crusher', 'cryptograph', 'cutoff', 'moistener', 'dampener', 'damper', 'muffler', 'deflector', 'depressor', 'detector', 'sensor', 'diestock', 'drive', 'energizer', 'energiser', 'fan', 'filter', 'extinguisher', 'asphyxiator', 'flare', 'fumigator', 'groover', 'safety', 'guard', 'warmer', 'heater', 'horn', 'hydrofoil', 'foil', 'imprint', 'indicator', 'instrument', 'interlock', 'interrupter', 'jig', 'key', 'keyboard', 'Kinetoscope', 'doorknocker', 'rapper', 'knocker', 'lift', 'igniter', 'lighter', 'ignitor', 'light', 'machine', 'magnet', 'mechanism', 'instrument', 'noisemaker', 'override', 'peeler', 'plectron', 'plectrum', 'pick', 'PTO', 'goad', 'prod', 'autocue', 'prompter', 'pull', 'reflector', 'release', 'button', 'remote', 'reset', 'restraint', 'constraint', 'router', 'runner', 'scratcher', 'shoehorn', 'shoetree', 'shredder', 'snowshoe', 'sounder', 'stabilizer', 'stabiliser', 'stemmer', 'straightener', 'strengthener', 'reinforcement', 'stylus', 'support', 'sweatbox', 'synchroflash', 'take-up', 'teaser', 'tilter', 'tongs', 'toy', 'trap', 'trigger', 'valve', 'vaporizer', 'vaporiser', 'ventilator', 'washboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for appliance." 
+Output:
+ ['dryer', 'drier']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for recess." 
+Output:
+ ['bay', 'alcove', 'apse', 'apsis', 'columbarium', 'cinerarium', 'hearth', 'fireplace', 'mihrab']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for niche." 
+Output:
+ ['bay', 'alcove', 'apse', 'apsis', 'columbarium', 'cinerarium', 'hearth', 'fireplace', 'mihrab']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for herb." 
+Output:
+ ['acanthus', 'achillea', 'agrimony', 'agrimonia', 'Alexander', 'Alexanders', 'alumbloom', 'alumroot', 'amaranth', 'sang', 'anchusa', 'andryala', 'angelique', 'angelica', 'anise', 'arnica', 'arum', 'aroid', 'asclepiad', 'asparagus', 'aspidistra', 'astilbe', 'masterwort', 'astrantia', 'ayapana', 'balsamroot', 'banana', 'barilla', 'barrenwort', 'basil', 'bedstraw', 'belladonna', 'bergenia', 'scorzonera', 'bladderpod', 'bladderpod', 'bladderpod', 'lyreflower', 'lyre-flower', 'bloodroot', 'redroot', 'puccoon', 'tetterwort', 'bloodwort', 'blueweed', 'boneset', 'agueweed', 'thoroughwort', 'tailwort', 'borage', 'breadroot', 'buckwheat', 'bugleweed', 'bugle', 'bugleweed', 'butterbur', 'butter-flower', 'crowfoot', 'kingcup', 'buttercup', 'butterflower', 'goldcup', 'butterweed', 'calamint', 'campanula', 'bellflower', 'canna', 'caraway', 'cardamon', 'cardamom', 'carrot', 'pussytoes', 'catnip', 'catmint', 'celeriac', 'celery', 'chaenactis', 'chamomile', 'camomile', 'chervil', 'chickweed', 'succory', 'chicory', 'clammyweed', 'trefoil', 'clover', 'cockscomb', 'coleus', 'coltsfoot', "deer's-ear", 'columbo', "deer's-ears", 'comfrey', 'cumfrey', 'elephant-tusk', 'tickseed', 'coreopsis', 'tickweed', 'tick-weed', 'cilantro', 'coriander', 'alecost', 'costmary', 'costusroot', 'cottonweed', 'hogweed', 'rattlebox', 'crotalaria', 'crucifer', 'cumin', 'cupflower', 'nierembergia', 'dagga', 'dandelion', 'blowball', 'dill', 'dock', 'sorrel', 'draba', 'dragonhead', 'drypis', 'earthnut', 'aubergine', 'brinjal', 'eggplant', "elephant's-foot", 'elsholtzia', 'witloof', 'endive', 'fennel', 'fenugreek', 'feverfew', 'feverroot', 'flax', 'fleabane', 'foamflower', 'coolwart', 'forget-me-not', 'foxglove', 'digitalis', 'dittany', 'fraxinella', 'lacepod', 'fringepod', 'fumitory', 'fumewort', 'fumeroot', 'wandflower', 'beetleweed', 'galax', 'galaxy', 'coltsfoot', 'geranium', 'gesneria', 'ginger', 'nin-sin', 'ginseng', 'gipsywort', 'gypsywort', 'glasswort', 'samphire', 'globeflower', 'goldenseal', 'goldthread', 'goosefoot', 'gromwell', 'tarweed', 'rosinweed', 'gumweed', 'halogeton', 'hawkweed', 'hawkweed', 'heart-leaf', 'heartleaf', 'henbane', 'liverleaf', 'hepatica', 'boys-and-girls', 'pasturage', 'herbage', 'satinpod', 'honesty', 'horehound', 'richweed', 'stoneroot', 'horseweed', 'stone-root', 'horseradish', "hound's-tongue", "hound's-tongue", 'hyssop', 'inula', 'ironweed', 'vernonia', 'touch-me-not', 'jewelweed', 'celandine', "kangaroo's-foot", 'flame-flower', 'tritoma', 'kniphofia', 'flameflower', 'krigia', 'legume', 'beebalm', 'leopardbane', "leopard's-bane", 'lettuce', 'liquorice', 'licorice', "lion's-ear", 'loasa', 'lobelia', 'loosestrife', 'lovage', 'mandrake', 'maranta', 'martynia', 'mayapple', 'trefoil', 'medick', 'medic', 'silkweed', 'milkweed', 'mint', 'miterwort', 'mitrewort', 'monarda', 'motherwort', 'chickweed', 'mullein', 'nasturtium', 'nemophila', 'okra', 'gumbo', "lady's-finger", 'orache', 'orach', 'origanum', 'sorrel', 'oxalis', 'parsley', 'parsnip', 'pellitory-of-the-wall', 'pellitory', 'pellitory-of-Spain', 'pellitory', 'pennyroyal', 'peperomia', 'periwinkle', 'phlox', 'physostegia', 'pia', 'youth-on-age', 'pimpernel', 'pineapple', 'pipsissewa', 'plantain', 'plumbago', 'pokeweed', 'polemonium', 'prickle-weed', 'argemone', 'primula', 'primrose', 'pteropogon', 'puccoon', 'purslane', 'pyrethrum', 'reseda', 'rhubarb', 'rocket', 'arugula', 'roquette', 'rosemary', 'rue', 'safflower', 'sage', 'salvia', 'esparcet', 'sainfoin', 'sanfoin', 'pimpernel', 'salpiglossis', 'salsify', 'sanicle', 'snakeroot', 'savory', 'savory', 'sawwort', 'rockfoil', 'breakstone', 'saxifrage', 'sea-rocket', 'sedum', 'self-heal', 'sesame', 'benne', 'benni', 'benny', 'simple', 'skullcap', 'helmetflower', 'sneezeweed', 'spiderflower', 'cleome', 'dayflower', 'spiderwort', 'pica-pica', 'tread-softly', 'stapelia', 'stevia', 'stevia', 'stickweed', 'stonecress', 'strawberry', 'suksdorfia', 'tarweed', 'teazel', 'teasel', 'teasle', 'thyme', 'tobacco', 'tomato', 'turmeric', 'umbellifer', 'vegetable', 'viola', 'wasabi', 'waterleaf', 'willowherb', 'wintergreen', 'pyrola', 'woad', 'wort']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for citrus." 
+Output:
+ ['citrange', 'citron', 'grapefruit', 'kumquat', 'lemon', 'lime', 'mandarin', 'orange', 'pomelo', 'shaddock']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for root." 
+Output:
+ ['briarroot', 'calamus', 'carrot', 'manioc', 'cassava', 'chicory', 'ginseng', 'horseradish', 'mandrake', 'orris', 'orrisroot', 'parsnip', 'pneumatophore', 'radish', 'rootlet', 'salsify', 'senega', 'taproot', 'cocoyam', 'dasheen', 'eddo', 'taro']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for crucifer." 
+Output:
+ ['alyssum', 'madwort', 'pakchoi', 'broccoli', 'cabbage', 'cauliflower', 'pe-tsai', 'napa', 'cress', 'jack-by-the-hedge', 'sauce-alone', 'cole', 'borecole', 'kale', 'colewort', 'kail', 'kohlrabi', 'mustard', 'radish', 'tendergreen']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vegetable." 
+Output:
+ ['artichoke', 'beet', 'cardoon', 'spinach']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for herb." 
+Output:
+ ['acanthus', 'achillea', 'agrimony', 'agrimonia', 'Alexander', 'Alexanders', 'alumbloom', 'alumroot', 'amaranth', 'sang', 'anchusa', 'andryala', 'angelique', 'angelica', 'anise', 'arnica', 'arum', 'aroid', 'asclepiad', 'asparagus', 'aspidistra', 'astilbe', 'masterwort', 'astrantia', 'ayapana', 'balsamroot', 'banana', 'barilla', 'barrenwort', 'basil', 'bedstraw', 'belladonna', 'bergenia', 'scorzonera', 'bladderpod', 'bladderpod', 'bladderpod', 'lyreflower', 'lyre-flower', 'bloodroot', 'redroot', 'puccoon', 'tetterwort', 'bloodwort', 'blueweed', 'boneset', 'agueweed', 'thoroughwort', 'tailwort', 'borage', 'breadroot', 'buckwheat', 'bugleweed', 'bugle', 'bugleweed', 'butterbur', 'butter-flower', 'crowfoot', 'kingcup', 'buttercup', 'butterflower', 'goldcup', 'butterweed', 'calamint', 'campanula', 'bellflower', 'canna', 'caraway', 'cardamon', 'cardamom', 'carrot', 'pussytoes', 'catnip', 'catmint', 'celeriac', 'celery', 'chaenactis', 'chamomile', 'camomile', 'chervil', 'chickweed', 'succory', 'chicory', 'clammyweed', 'trefoil', 'clover', 'cockscomb', 'coleus', 'coltsfoot', "deer's-ear", 'columbo', "deer's-ears", 'comfrey', 'cumfrey', 'elephant-tusk', 'tickseed', 'coreopsis', 'tickweed', 'tick-weed', 'cilantro', 'coriander', 'alecost', 'costmary', 'costusroot', 'cottonweed', 'hogweed', 'rattlebox', 'crotalaria', 'crucifer', 'cumin', 'cupflower', 'nierembergia', 'dagga', 'dandelion', 'blowball', 'dill', 'dock', 'sorrel', 'draba', 'dragonhead', 'drypis', 'earthnut', 'aubergine', 'brinjal', 'eggplant', "elephant's-foot", 'elsholtzia', 'witloof', 'endive', 'fennel', 'fenugreek', 'feverfew', 'feverroot', 'flax', 'fleabane', 'foamflower', 'coolwart', 'forget-me-not', 'foxglove', 'digitalis', 'dittany', 'fraxinella', 'lacepod', 'fringepod', 'fumitory', 'fumewort', 'fumeroot', 'wandflower', 'beetleweed', 'galax', 'galaxy', 'coltsfoot', 'geranium', 'gesneria', 'ginger', 'nin-sin', 'ginseng', 'gipsywort', 'gypsywort', 'glasswort', 'samphire', 'globeflower', 'goldenseal', 'goldthread', 'goosefoot', 'gromwell', 'tarweed', 'rosinweed', 'gumweed', 'halogeton', 'hawkweed', 'hawkweed', 'heart-leaf', 'heartleaf', 'henbane', 'liverleaf', 'hepatica', 'boys-and-girls', 'pasturage', 'herbage', 'satinpod', 'honesty', 'horehound', 'richweed', 'stoneroot', 'horseweed', 'stone-root', 'horseradish', "hound's-tongue", "hound's-tongue", 'hyssop', 'inula', 'ironweed', 'vernonia', 'touch-me-not', 'jewelweed', 'celandine', "kangaroo's-foot", 'flame-flower', 'tritoma', 'kniphofia', 'flameflower', 'krigia', 'legume', 'beebalm', 'leopardbane', "leopard's-bane", 'lettuce', 'liquorice', 'licorice', "lion's-ear", 'loasa', 'lobelia', 'loosestrife', 'lovage', 'mandrake', 'maranta', 'martynia', 'mayapple', 'trefoil', 'medick', 'medic', 'silkweed', 'milkweed', 'mint', 'miterwort', 'mitrewort', 'monarda', 'motherwort', 'chickweed', 'mullein', 'nasturtium', 'nemophila', 'okra', 'gumbo', "lady's-finger", 'orache', 'orach', 'origanum', 'sorrel', 'oxalis', 'parsley', 'parsnip', 'pellitory-of-the-wall', 'pellitory', 'pellitory-of-Spain', 'pellitory', 'pennyroyal', 'peperomia', 'periwinkle', 'phlox', 'physostegia', 'pia', 'youth-on-age', 'pimpernel', 'pineapple', 'pipsissewa', 'plantain', 'plumbago', 'pokeweed', 'polemonium', 'prickle-weed', 'argemone', 'primula', 'primrose', 'pteropogon', 'puccoon', 'purslane', 'pyrethrum', 'reseda', 'rhubarb', 'rocket', 'arugula', 'roquette', 'rosemary', 'rue', 'safflower', 'sage', 'salvia', 'esparcet', 'sainfoin', 'sanfoin', 'pimpernel', 'salpiglossis', 'salsify', 'sanicle', 'snakeroot', 'savory', 'savory', 'sawwort', 'rockfoil', 'breakstone', 'saxifrage', 'sea-rocket', 'sedum', 'self-heal', 'sesame', 'benne', 'benni', 'benny', 'simple', 'skullcap', 'helmetflower', 'sneezeweed', 'spiderflower', 'cleome', 'dayflower', 'spiderwort', 'pica-pica', 'tread-softly', 'stapelia', 'stevia', 'stevia', 'stickweed', 'stonecress', 'strawberry', 'suksdorfia', 'tarweed', 'teazel', 'teasel', 'teasle', 'thyme', 'tobacco', 'tomato', 'turmeric', 'umbellifer', 'vegetable', 'viola', 'wasabi', 'waterleaf', 'willowherb', 'wintergreen', 'pyrola', 'woad', 'wort']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for melon." 
+Output:
+ ['cucumber', 'muskmelon', 'watermelon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for grain." 
+Output:
+ ['barleycorn', 'barley', 'buckwheat', 'corn', 'grist', 'groats', 'malt', 'millet', 'oat', 'rice', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cereal." 
+Output:
+ ['barleycorn', 'barley', 'buckwheat', 'corn', 'grist', 'groats', 'malt', 'millet', 'oat', 'rice', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cereal." 
+Output:
+ ['barley', 'maize', 'corn', 'corn', 'grain', 'millet', 'oat', 'rice', 'ricegrass', 'rye', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for foodstuff." 
+Output:
+ ['breadstuff', "Saint-John's-bread", 'carob', 'cocoa', 'coloring', 'colouring', 'concentrate', 'concoction', 'mixture', 'intermixture', 'curd', 'egg', 'eggs', 'flour', 'grain', 'cereal', 'fixings', 'ingredient', 'juice', 'meal', 'milk', 'perishable', 'spoilable', 'roughage', 'fiber', 'starches', 'tapioca']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for legume." 
+Output:
+ ['bean', 'cowpea', 'garbanzo', 'chickpea', 'lentil', 'pea', 'pulse']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for foodstuff." 
+Output:
+ ['breadstuff', "Saint-John's-bread", 'carob', 'cocoa', 'coloring', 'colouring', 'concentrate', 'concoction', 'mixture', 'intermixture', 'curd', 'egg', 'eggs', 'flour', 'grain', 'cereal', 'fixings', 'ingredient', 'juice', 'meal', 'milk', 'perishable', 'spoilable', 'roughage', 'fiber', 'starches', 'tapioca']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for dish." 
+Output:
+ ['adobo', 'applesauce', 'barbeque', 'barbecue', 'spareribs', 'biryani', 'biriani', 'bitok', 'burrito', 'casserole', 'chili', 'coquille', 'couscous', 'croquette', 'curry', 'custard', 'dolmas', 'enchilada', 'felafel', 'falafel', 'fondu', 'fondue', 'fondu', 'fondue', 'frittata', 'galantine', 'haggis', 'hash', 'jambalaya', 'kebab', 'kabob', 'kedgeree', 'kishke', 'lutfisk', 'lutefisk', 'macedoine', 'meatloaf', 'meatball', 'mold', 'mould', 'moussaka', 'mousse', 'omelette', 'omelet', 'paella', 'pasta', 'cake', 'patty', 'pilaf', 'pilaff', 'pilaw', 'pilau', 'pizza', 'poi', 'porridge', 'potpie', 'pudding', 'ramekin', 'ramequin', 'rijstafel', 'rijsttaffel', 'rijstaffel', 'risotto', 'rissole', 'roulade', 'salad', 'sashimi', 'sauerbraten', 'sauerkraut', 'saute', 'scallopini', 'scallopine', 'scampi', 'schnitzel', 'scrapple', 'entremets', 'souffle', 'soup', 'special', 'stew', 'succotash', 'sukiyaki', 'sushi', 'taco', 'tamale', 'tempura', 'teriyaki', 'terrine', 'Tetrazzini', 'timbale', 'tostada', 'turnover', 'viand', 'rarebit']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for grain." 
+Output:
+ ['barleycorn', 'barley', 'buckwheat', 'corn', 'grist', 'groats', 'malt', 'millet', 'oat', 'rice', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cereal." 
+Output:
+ ['barleycorn', 'barley', 'buckwheat', 'corn', 'grist', 'groats', 'malt', 'millet', 'oat', 'rice', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for starches." 
+Output:
+ ['breadstuff', 'bread', 'murphy', 'tater', 'potato', 'spud', 'rice']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for inebriant." 
+Output:
+ ['aperitif', 'brew', 'brewage', 'homebrew', 'hootch', 'hooch', 'kava', 'kavakava', 'kumis', 'koumiss', 'cordial', 'liqueur', 'booze', 'spirits', 'liquor', 'nipa', 'perry', 'pulque', 'rotgut', 'sake', 'saki', 'slug', 'vino', 'wine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for alcohol." 
+Output:
+ ['aperitif', 'brew', 'brewage', 'homebrew', 'hootch', 'hooch', 'kava', 'kavakava', 'kumis', 'koumiss', 'cordial', 'liqueur', 'booze', 'spirits', 'liquor', 'nipa', 'perry', 'pulque', 'rotgut', 'sake', 'saki', 'slug', 'vino', 'wine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for intoxicant." 
+Output:
+ ['aperitif', 'brew', 'brewage', 'homebrew', 'hootch', 'hooch', 'kava', 'kavakava', 'kumis', 'koumiss', 'cordial', 'liqueur', 'booze', 'spirits', 'liquor', 'nipa', 'perry', 'pulque', 'rotgut', 'sake', 'saki', 'slug', 'vino', 'wine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for brew." 
+Output:
+ ['beer', 'cassiri', 'kvass', 'mead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for brewage." 
+Output:
+ ['beer', 'cassiri', 'kvass', 'mead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for drinkable." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for potable." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for beverage." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for drink." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for nutrient." 
+Output:
+ ['drinkable', 'potable', 'beverage', 'drink', 'chyme', 'pabulum', 'eatable', 'victuals', 'victual', 'edible', 'comestible', 'provisions', 'victuals', 'provender', 'viands', 'commissariat', 'medium', 'fare', 'feed', 'provender', 'foodstuff', 'micronutrient', 'manna', 'aliment', 'victuals', 'sustenance', 'nutriment', 'nutrition', 'nourishment', 'alimentation', 'water', 'vitellus', 'yolk']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for food." 
+Output:
+ ['drinkable', 'potable', 'beverage', 'drink', 'chyme', 'pabulum', 'eatable', 'victuals', 'victual', 'edible', 'comestible', 'provisions', 'victuals', 'provender', 'viands', 'commissariat', 'medium', 'fare', 'feed', 'provender', 'foodstuff', 'micronutrient', 'manna', 'aliment', 'victuals', 'sustenance', 'nutriment', 'nutrition', 'nourishment', 'alimentation', 'water', 'vitellus', 'yolk']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for liquid." 
+Output:
+ ['alcohol', 'ammonia', 'antifreeze', 'drinkable', 'potable', 'beverage', 'drink', 'distillation', 'distillate', 'grume', 'ink', 'liquor', 'medium', 'supernatant', 'water']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for drinkable." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for potable." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for beverage." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for drink." 
+Output:
+ ['inebriant', 'alcohol', 'intoxicant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for foodstuff." 
+Output:
+ ['breadstuff', "Saint-John's-bread", 'carob', 'cocoa', 'coloring', 'colouring', 'concentrate', 'concoction', 'mixture', 'intermixture', 'curd', 'egg', 'eggs', 'flour', 'grain', 'cereal', 'fixings', 'ingredient', 'juice', 'meal', 'milk', 'perishable', 'spoilable', 'roughage', 'fiber', 'starches', 'tapioca']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headdress." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headgear." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for scute." 
+Output:
+ ['carapace', 'shell', 'cuticle', 'shield']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for armour." 
+Output:
+ ['cataphract', 'buckler', 'shield']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for armor." 
+Output:
+ ['cataphract', 'buckler', 'shield']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for garment." 
+Output:
+ ['loincloth', 'breechcloth', 'breechclout', 'burqa', 'burka', 'camlet', 'napkin', 'nappy', 'diaper', 'fur', 'gown', 'scrubs', 'haick', 'haik', 'hand-me-down', 'veil', 'hose', 'ironing', 'jumpsuit', 'kanzu', 'wash', 'washables', 'laundry', 'washing', 'legging', 'leging', 'unitard', 'leotard', 'mending', 'motley', 'neckwear', 'overgarment', 'peplos', 'peplus', 'peplum', 'raglan', 'reversible', 'robe', 'romper', 'sackcloth', 'scapular', 'scapulary', 'scarf', 'sealskin', 'separate', 'shirt', 'silks', 'skirt', 'stomacher', 'straitjacket', 'straightjacket', 'suit', 'sunsuit', 'sweatsuit', 'sweats', 'sweater', 'jumper', 'swimwear', 'swimsuit', 'pant', 'trouser', 'trouser', 'undergarment', 'unmentionable', 'waistcoat', 'vest', 'weeds', 'wraparound']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vesture." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wearable." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for wear." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for clothing." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for habiliment." 
+Output:
+ ['accessory', 'accouterment', 'accoutrement', 'clothes', 'apparel', 'dress', 'raiment', 'array', 'regalia', 'dress', 'attire', 'garb', 'beachwear', 'black', 'blue', 'change', 'drag', 'footwear', 'garment', 'gray', 'grey', 'handwear', 'headdress', 'headgear', 'knitwear', 'loungewear', 'neckpiece', 'nightwear', 'nightclothes', 'sleepwear', 'outerwear', 'overclothes', 'ready-to-wear', 'slip-on', 'slops', 'tailor-made', 'togs', 'duds', 'threads', 'uniform', 'vestiture', 'work-clothes', 'work-clothing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewellery." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewelry." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewellery." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewelry." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for adornment." 
+Output:
+ ['banding', 'stripe', 'band', 'novelty', 'gewgaw', 'fallal', 'trinket', 'gaud', 'bangle', 'bauble', 'boutonniere', 'circlet', 'cordon', 'epaulet', 'epaulette', 'fob', 'frill', 'flounce', 'furbelow', 'ruffle', 'frog', 'frontal', 'frontlet', 'jewellery', 'jewelry', 'pectoral', 'pendant', 'pendent', 'plume', 'pompon', 'pom-pom', 'rosette', 'sequin', 'spangle', 'diamante', 'tassel', 'passementerie', 'trim', 'trimming']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewellery." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewelry." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for adornment." 
+Output:
+ ['banding', 'stripe', 'band', 'novelty', 'gewgaw', 'fallal', 'trinket', 'gaud', 'bangle', 'bauble', 'boutonniere', 'circlet', 'cordon', 'epaulet', 'epaulette', 'fob', 'frill', 'flounce', 'furbelow', 'ruffle', 'frog', 'frontal', 'frontlet', 'jewellery', 'jewelry', 'pectoral', 'pendant', 'pendent', 'plume', 'pompon', 'pom-pom', 'rosette', 'sequin', 'spangle', 'diamante', 'tassel', 'passementerie', 'trim', 'trimming']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewellery." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for jewelry." 
+Output:
+ ['bead', 'bijou', 'bling', 'bracelet', 'bangle', 'clip', 'cufflink', 'earring', 'jewel', 'gem', 'necklace', 'pin', 'band', 'ring']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for reflector." 
+Output:
+ ['mirror']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for machine." 
+Output:
+ ['lever', 'block', 'pulley', 'pulley-block', 'wheel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for sheet." 
+Output:
+ ['blackboard', 'chalkboard', 'blank', 'board', 'film', 'laminate', 'membrane', 'panel', 'plate', 'plate', 'stencil']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for canopy." 
+Output:
+ ['awning', 'sunblind', 'sunshade', 'baldachin', 'marquee', 'marquise', 'porte-cochere', 'tester', 'umbrella']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headdress." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for headgear." 
+Output:
+ ['cap', 'lid', 'hat', 'chapeau', 'helmet', 'hood', 'kaffiyeh', 'miter', 'mitre', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for shade." 
+Output:
+ ['lampshade', 'parasol', 'sunshade']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bedclothes." 
+Output:
+ ['bedroll', 'bedspread', 'counterpane', 'bedcover', 'spread', 'cover', 'blanket', 'comfort', 'puff', 'comforter', 'quilt', 'throw']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bedding." 
+Output:
+ ['bedroll', 'bedspread', 'counterpane', 'bedcover', 'spread', 'cover', 'blanket', 'comfort', 'puff', 'comforter', 'quilt', 'throw']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for textile." 
+Output:
+ ['aba', 'acrylic', 'Aertex', 'alpaca', 'baize', 'batik', 'batiste', 'belting', 'bombazine', 'boucle', 'broadcloth', 'broadcloth', 'brocade', 'buckram', 'bunting', 'calico', 'cambric', 'camelhair', 'camlet', 'camo', 'camouflage', 'canopy', 'canvass', 'canvas', 'cashmere', 'cerecloth', 'challis', 'chambray', 'chenille', 'chiffon', 'chino', 'chintz', 'coating', 'cobweb', 'cord', 'corduroy', 'cotton', 'crape', 'crepe', 'cretonne', 'crinoline', 'damask', 'jean', 'denim', 'dungaree', 'diamante', 'diaper', 'dimity', 'doeskin', 'drapery', 'duck', 'duffel', 'duffle', 'elastic', 'etamin', 'etamine', 'faille', 'felt', 'fibre', 'fiber', 'flannel', 'flannelette', 'fleece', 'foulard', 'frieze', 'fustian', 'gabardine', 'georgette', 'gingham', 'grogram', 'grosgrain', 'haircloth', 'hair', 'herringbone', 'homespun', 'hopsack', 'hopsacking', 'horsehair', 'jaconet', 'jacquard', 'khaddar', 'khadi', 'khaki', 'knit', 'lace', 'lame', 'leatherette', 'linen', 'linsey-woolsey', 'lint', 'lisle', 'mackinaw', 'macintosh', 'mackintosh', 'madras', 'marseille', 'metallic', 'mohair', 'watered-silk', 'moire', 'moleskin', 'moquette', 'moreen', 'motley', 'muslin', 'nankeen', 'mesh', 'net', 'meshing', 'meshwork', 'network', 'ninon', 'nylon', 'oilcloth', 'organza', 'paisley', 'panting', 'trousering', 'pepper-and-salt', 'percale', 'pinstripe', 'pique', 'plush', 'polyester', 'pongee', 'poplin', 'print', 'quilting', 'rayon', 'repp', 'rep', 'sackcloth', 'sacking', 'bagging', 'sailcloth', 'samite', 'sateen', 'satin', 'satinet', 'satinette', 'screening', 'scrim', 'seersucker', 'serge', 'shag', 'shantung', 'sharkskin', 'sheeting', 'shirting', 'shirttail', 'silesia', 'silk', 'spandex', 'stammel', 'suede', 'suiting', 'taffeta', 'tammy', 'tapa', 'tappa', 'tapis', 'tapestry', 'plaid', 'tartan', 'terry', 'terrycloth', 'ticking', 'towelling', 'toweling', 'tweed', 'twill', 'Velcro', 'velours', 'velour', 'velvet', 'velveteen', 'vicuna', 'Viyella', 'voile', 'wash-and-wear', 'waterproof', 'web', 'webbing', 'whipcord', 'wincey', 'woollen', 'wool', 'woolen', 'worsted', 'yoke']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for material." 
+Output:
+ ['aba', 'acrylic', 'Aertex', 'alpaca', 'baize', 'batik', 'batiste', 'belting', 'bombazine', 'boucle', 'broadcloth', 'broadcloth', 'brocade', 'buckram', 'bunting', 'calico', 'cambric', 'camelhair', 'camlet', 'camo', 'camouflage', 'canopy', 'canvass', 'canvas', 'cashmere', 'cerecloth', 'challis', 'chambray', 'chenille', 'chiffon', 'chino', 'chintz', 'coating', 'cobweb', 'cord', 'corduroy', 'cotton', 'crape', 'crepe', 'cretonne', 'crinoline', 'damask', 'jean', 'denim', 'dungaree', 'diamante', 'diaper', 'dimity', 'doeskin', 'drapery', 'duck', 'duffel', 'duffle', 'elastic', 'etamin', 'etamine', 'faille', 'felt', 'fibre', 'fiber', 'flannel', 'flannelette', 'fleece', 'foulard', 'frieze', 'fustian', 'gabardine', 'georgette', 'gingham', 'grogram', 'grosgrain', 'haircloth', 'hair', 'herringbone', 'homespun', 'hopsack', 'hopsacking', 'horsehair', 'jaconet', 'jacquard', 'khaddar', 'khadi', 'khaki', 'knit', 'lace', 'lame', 'leatherette', 'linen', 'linsey-woolsey', 'lint', 'lisle', 'mackinaw', 'macintosh', 'mackintosh', 'madras', 'marseille', 'metallic', 'mohair', 'watered-silk', 'moire', 'moleskin', 'moquette', 'moreen', 'motley', 'muslin', 'nankeen', 'mesh', 'net', 'meshing', 'meshwork', 'network', 'ninon', 'nylon', 'oilcloth', 'organza', 'paisley', 'panting', 'trousering', 'pepper-and-salt', 'percale', 'pinstripe', 'pique', 'plush', 'polyester', 'pongee', 'poplin', 'print', 'quilting', 'rayon', 'repp', 'rep', 'sackcloth', 'sacking', 'bagging', 'sailcloth', 'samite', 'sateen', 'satin', 'satinet', 'satinette', 'screening', 'scrim', 'seersucker', 'serge', 'shag', 'shantung', 'sharkskin', 'sheeting', 'shirting', 'shirttail', 'silesia', 'silk', 'spandex', 'stammel', 'suede', 'suiting', 'taffeta', 'tammy', 'tapa', 'tappa', 'tapis', 'tapestry', 'plaid', 'tartan', 'terry', 'terrycloth', 'ticking', 'towelling', 'toweling', 'tweed', 'twill', 'Velcro', 'velours', 'velour', 'velvet', 'velveteen', 'vicuna', 'Viyella', 'voile', 'wash-and-wear', 'waterproof', 'web', 'webbing', 'whipcord', 'wincey', 'woollen', 'wool', 'woolen', 'worsted', 'yoke']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cloth." 
+Output:
+ ['aba', 'acrylic', 'Aertex', 'alpaca', 'baize', 'batik', 'batiste', 'belting', 'bombazine', 'boucle', 'broadcloth', 'broadcloth', 'brocade', 'buckram', 'bunting', 'calico', 'cambric', 'camelhair', 'camlet', 'camo', 'camouflage', 'canopy', 'canvass', 'canvas', 'cashmere', 'cerecloth', 'challis', 'chambray', 'chenille', 'chiffon', 'chino', 'chintz', 'coating', 'cobweb', 'cord', 'corduroy', 'cotton', 'crape', 'crepe', 'cretonne', 'crinoline', 'damask', 'jean', 'denim', 'dungaree', 'diamante', 'diaper', 'dimity', 'doeskin', 'drapery', 'duck', 'duffel', 'duffle', 'elastic', 'etamin', 'etamine', 'faille', 'felt', 'fibre', 'fiber', 'flannel', 'flannelette', 'fleece', 'foulard', 'frieze', 'fustian', 'gabardine', 'georgette', 'gingham', 'grogram', 'grosgrain', 'haircloth', 'hair', 'herringbone', 'homespun', 'hopsack', 'hopsacking', 'horsehair', 'jaconet', 'jacquard', 'khaddar', 'khadi', 'khaki', 'knit', 'lace', 'lame', 'leatherette', 'linen', 'linsey-woolsey', 'lint', 'lisle', 'mackinaw', 'macintosh', 'mackintosh', 'madras', 'marseille', 'metallic', 'mohair', 'watered-silk', 'moire', 'moleskin', 'moquette', 'moreen', 'motley', 'muslin', 'nankeen', 'mesh', 'net', 'meshing', 'meshwork', 'network', 'ninon', 'nylon', 'oilcloth', 'organza', 'paisley', 'panting', 'trousering', 'pepper-and-salt', 'percale', 'pinstripe', 'pique', 'plush', 'polyester', 'pongee', 'poplin', 'print', 'quilting', 'rayon', 'repp', 'rep', 'sackcloth', 'sacking', 'bagging', 'sailcloth', 'samite', 'sateen', 'satin', 'satinet', 'satinette', 'screening', 'scrim', 'seersucker', 'serge', 'shag', 'shantung', 'sharkskin', 'sheeting', 'shirting', 'shirttail', 'silesia', 'silk', 'spandex', 'stammel', 'suede', 'suiting', 'taffeta', 'tammy', 'tapa', 'tappa', 'tapis', 'tapestry', 'plaid', 'tartan', 'terry', 'terrycloth', 'ticking', 'towelling', 'toweling', 'tweed', 'twill', 'Velcro', 'velours', 'velour', 'velvet', 'velveteen', 'vicuna', 'Viyella', 'voile', 'wash-and-wear', 'waterproof', 'web', 'webbing', 'whipcord', 'wincey', 'woollen', 'wool', 'woolen', 'worsted', 'yoke']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fabric." 
+Output:
+ ['aba', 'acrylic', 'Aertex', 'alpaca', 'baize', 'batik', 'batiste', 'belting', 'bombazine', 'boucle', 'broadcloth', 'broadcloth', 'brocade', 'buckram', 'bunting', 'calico', 'cambric', 'camelhair', 'camlet', 'camo', 'camouflage', 'canopy', 'canvass', 'canvas', 'cashmere', 'cerecloth', 'challis', 'chambray', 'chenille', 'chiffon', 'chino', 'chintz', 'coating', 'cobweb', 'cord', 'corduroy', 'cotton', 'crape', 'crepe', 'cretonne', 'crinoline', 'damask', 'jean', 'denim', 'dungaree', 'diamante', 'diaper', 'dimity', 'doeskin', 'drapery', 'duck', 'duffel', 'duffle', 'elastic', 'etamin', 'etamine', 'faille', 'felt', 'fibre', 'fiber', 'flannel', 'flannelette', 'fleece', 'foulard', 'frieze', 'fustian', 'gabardine', 'georgette', 'gingham', 'grogram', 'grosgrain', 'haircloth', 'hair', 'herringbone', 'homespun', 'hopsack', 'hopsacking', 'horsehair', 'jaconet', 'jacquard', 'khaddar', 'khadi', 'khaki', 'knit', 'lace', 'lame', 'leatherette', 'linen', 'linsey-woolsey', 'lint', 'lisle', 'mackinaw', 'macintosh', 'mackintosh', 'madras', 'marseille', 'metallic', 'mohair', 'watered-silk', 'moire', 'moleskin', 'moquette', 'moreen', 'motley', 'muslin', 'nankeen', 'mesh', 'net', 'meshing', 'meshwork', 'network', 'ninon', 'nylon', 'oilcloth', 'organza', 'paisley', 'panting', 'trousering', 'pepper-and-salt', 'percale', 'pinstripe', 'pique', 'plush', 'polyester', 'pongee', 'poplin', 'print', 'quilting', 'rayon', 'repp', 'rep', 'sackcloth', 'sacking', 'bagging', 'sailcloth', 'samite', 'sateen', 'satin', 'satinet', 'satinette', 'screening', 'scrim', 'seersucker', 'serge', 'shag', 'shantung', 'sharkskin', 'sheeting', 'shirting', 'shirttail', 'silesia', 'silk', 'spandex', 'stammel', 'suede', 'suiting', 'taffeta', 'tammy', 'tapa', 'tappa', 'tapis', 'tapestry', 'plaid', 'tartan', 'terry', 'terrycloth', 'ticking', 'towelling', 'toweling', 'tweed', 'twill', 'Velcro', 'velours', 'velour', 'velvet', 'velveteen', 'vicuna', 'Viyella', 'voile', 'wash-and-wear', 'waterproof', 'web', 'webbing', 'whipcord', 'wincey', 'woollen', 'wool', 'woolen', 'worsted', 'yoke']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for structure." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for construction." 
+Output:
+ ['airdock', 'hangar', 'altar', 'colonnade', 'arcade', 'arch', 'area', 'counterbalance', 'equilibrium', 'balance', 'equipoise', 'balcony', 'balcony', 'bascule', 'boarding', 'body', 'span', 'bridge', 'building', 'edifice', 'complex', 'catchment', 'spiral', 'whorl', 'coil', 'volute', 'helix', 'colonnade', 'pillar', 'column', 'quoin', 'corner', 'cross', 'deathtrap', 'defense', 'defence', 'door', 'entablature', 'erection', 'establishment', 'floor', 'story', 'storey', 'level', 'fountain', 'guide', 'honeycomb', 'card-house', 'cardhouse', 'cardcastle', 'housing', 'lodging', 'hull', 'lamination', 'landing', 'observatory', 'lookout', 'masonry', 'monument', 'memorial', 'hill', 'mound', 'impedimenta', 'obstructer', 'obstructor', 'obstruction', 'impediment', 'divider', 'partition', 'platform', 'porch', 'prefab', 'projection', 'sail', 'set-back', 'offset', 'setoff', 'shelter', 'shoebox', 'sign', 'signboard', 'stadium', 'bowl', 'arena', 'superstructure', 'tower', 'transept', 'trestlework', 'vaulting', 'ways', 'shipway', 'slipway', 'wellhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for copier." 
+Output:
+ ['fax', 'facsimile', 'heliotype', 'hectograph', 'lithograph', 'mimeo', 'Roneograph', 'Roneo', 'mimeograph', 'photocopier', 'Photostat', 'Xerox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for duplicator." 
+Output:
+ ['fax', 'facsimile', 'heliotype', 'hectograph', 'lithograph', 'mimeo', 'Roneograph', 'Roneo', 'mimeograph', 'photocopier', 'Photostat', 'Xerox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for copier." 
+Output:
+ ['fax', 'facsimile', 'heliotype', 'hectograph', 'lithograph', 'mimeo', 'Roneograph', 'Roneo', 'mimeograph', 'photocopier', 'Photostat', 'Xerox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for duplicator." 
+Output:
+ ['fax', 'facsimile', 'heliotype', 'hectograph', 'lithograph', 'mimeo', 'Roneograph', 'Roneo', 'mimeograph', 'photocopier', 'Photostat', 'Xerox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for machine." 
+Output:
+ ['assembly', 'bagger', 'calculator', 'calender', 'ATM', 'comber', 'computer', 'corker', 'gin', 'decoder', 'hop-picker', 'hopper', 'machinery', 'motor', 'paviour', 'pavior', 'shovel', 'digger', 'excavator', 'press', 'press', 'printer', 'phonograph', 'rivetter', 'riveter', 'self-feeder', 'feeder', 'simulator', 'slicer', 'sorter', 'stamp', 'pestle', 'tacker', 'staplegun', 'stapler', 'trimmer', 'workhorse', 'Zamboni']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for hook." 
+Output:
+ ['anchor', 'pothook', 'tenterhook']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for claw." 
+Output:
+ ['anchor', 'pothook', 'tenterhook']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for implement." 
+Output:
+ ['bar', 'beater', 'brush', 'buff', 'buffer', 'candlesnuffer', 'eraser', 'flail', 'hook', 'iron', 'needle', 'oar', 'rod', 'sharpener', 'snuffer', 'lance', 'fizgig', 'fishgig', 'gig', 'spear', 'spike', 'stick', 'stick', 'stirrer', 'strickle', 'swab', 'flyswatter', 'swatter', 'flyswat', 'tool', 'utensil']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for screw." 
+Output:
+ ['bolt', 'setscrew', 'setscrew', 'thumbscrew', 'woodscrew', 'worm']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for ligament." 
+Output:
+ ['ligature', 'binder', 'chain', 'wire']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for holdfast." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fastening." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fixing." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fastener." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for curve." 
+Output:
+ ['arc', 'arch', 'campana', 'bell', 'twist', 'turn', 'crook', 'bend', 'arc', 'bow', 'catenary', 'crescent', 'envelope', 'extrados', 'gooseneck', 'spiral', 'helix', 'crotchet', 'hook', 'intrados', 'meander', 'perversion', 'quadric', 'roulette', 'S-shape', 'crenature', 'crenel', 'crenelle', 'crenation', 'scallop', 'sinuousness', 'sinuosity', 'spiral', 'wave', 'undulation']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tool." 
+Output:
+ ['abrader', 'abradant', 'bender', 'clincher', 'comb', 'drill', 'eolith', 'fork', 'gang', 'grapple', 'grapnel', 'grappler', 'hack', 'hoe', 'jack', 'neolith', 'paleolith', 'pounder', 'pestle', 'muller', 'plow', 'plough', 'punch', 'puncher', 'rake', 'ram', 'rounder', 'strickle', 'style', 'stylus', 'tamp', 'tamper', 'tap', 'swage', 'upset']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tool." 
+Output:
+ ['abrader', 'abradant', 'bender', 'clincher', 'comb', 'drill', 'eolith', 'fork', 'gang', 'grapple', 'grapnel', 'grappler', 'hack', 'hoe', 'jack', 'neolith', 'paleolith', 'pounder', 'pestle', 'muller', 'plow', 'plough', 'punch', 'puncher', 'rake', 'ram', 'rounder', 'strickle', 'style', 'stylus', 'tamp', 'tamper', 'tap', 'swage', 'upset']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for knife." 
+Output:
+ ['bayonet', 'dagger', 'sticker', 'khukuri', 'machete', 'panga', 'matchet', 'shiv', 'yataghan']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for scissors." 
+Output:
+ ['clipper', 'shears', 'snuffers']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for holdfast." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fastening." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fixing." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for fastener." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cottar', 'cotter', 'eyelet', 'cringle', 'grommet', 'grummet', 'loop', 'joggle', 'dowel', 'stopping', 'fillet', 'knot', 'lashing', 'linkup', 'link', 'tie', 'tie-in', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zip', 'zipper', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for restraint." 
+Output:
+ ['airbrake', 'arrester', 'band', 'brake', 'brake', 'shoe', 'skid', 'catch', 'stop', 'chain', 'holdfast', 'fastening', 'fixing', 'fastener', 'gag', 'muzzle', 'lead', 'leash', 'tether', 'lock', 'muzzle', 'drogue', 'shackle', 'trammel', 'bond', 'hamper', 'trammel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for constraint." 
+Output:
+ ['airbrake', 'arrester', 'band', 'brake', 'brake', 'shoe', 'skid', 'catch', 'stop', 'chain', 'holdfast', 'fastening', 'fixing', 'fastener', 'gag', 'muzzle', 'lead', 'leash', 'tether', 'lock', 'muzzle', 'drogue', 'shackle', 'trammel', 'bond', 'hamper', 'trammel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for seal." 
+Output:
+ ['gasket', 'washer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tumbler." 
+Output:
+ ['lever', 'pin']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for machine." 
+Output:
+ ['lever', 'block', 'pulley', 'pulley-block', 'wheel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for device." 
+Output:
+ ['adaptor', 'adapter', 'afterburner', 'agglomerator', 'aerofoil', 'airfoil', 'surface', 'alarm', 'gadget', 'convenience', 'widget', 'appliance', 'contraption', 'gismo', 'contrivance', 'gizmo', 'applicator', 'applier', 'aspergill', 'aspersorium', 'autopilot', 'lure', 'decoy', 'bait', 'birdfeeder', 'feeder', 'blower', 'bootjack', 'breathalyzer', 'breathalyser', 'ventilator', 'bubbler', 'buffer', 'fender', 'catapult', 'launcher', 'charger', 'clip-on', 'comb', 'comforter', 'pacifier', 'conductor', 'contraceptive', 'preventative', 'preventive', 'converter', 'convertor', 'corer', 'restorative', 'corrective', 'crusher', 'cryptograph', 'cutoff', 'moistener', 'dampener', 'damper', 'muffler', 'deflector', 'depressor', 'detector', 'sensor', 'diestock', 'drive', 'energizer', 'energiser', 'fan', 'filter', 'extinguisher', 'asphyxiator', 'flare', 'fumigator', 'groover', 'safety', 'guard', 'warmer', 'heater', 'horn', 'hydrofoil', 'foil', 'imprint', 'indicator', 'instrument', 'interlock', 'interrupter', 'jig', 'key', 'keyboard', 'Kinetoscope', 'doorknocker', 'rapper', 'knocker', 'lift', 'igniter', 'lighter', 'ignitor', 'light', 'machine', 'magnet', 'mechanism', 'instrument', 'noisemaker', 'override', 'peeler', 'plectron', 'plectrum', 'pick', 'PTO', 'goad', 'prod', 'autocue', 'prompter', 'pull', 'reflector', 'release', 'button', 'remote', 'reset', 'restraint', 'constraint', 'router', 'runner', 'scratcher', 'shoehorn', 'shoetree', 'shredder', 'snowshoe', 'sounder', 'stabilizer', 'stabiliser', 'stemmer', 'straightener', 'strengthener', 'reinforcement', 'stylus', 'support', 'sweatbox', 'synchroflash', 'take-up', 'teaser', 'tilter', 'tongs', 'toy', 'trap', 'trigger', 'valve', 'vaporizer', 'vaporiser', 'ventilator', 'washboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for strainer." 
+Output:
+ ['colander', 'cullender', 'sieve', 'screen', 'tea-strainer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for device." 
+Output:
+ ['adaptor', 'adapter', 'afterburner', 'agglomerator', 'aerofoil', 'airfoil', 'surface', 'alarm', 'gadget', 'convenience', 'widget', 'appliance', 'contraption', 'gismo', 'contrivance', 'gizmo', 'applicator', 'applier', 'aspergill', 'aspersorium', 'autopilot', 'lure', 'decoy', 'bait', 'birdfeeder', 'feeder', 'blower', 'bootjack', 'breathalyzer', 'breathalyser', 'ventilator', 'bubbler', 'buffer', 'fender', 'catapult', 'launcher', 'charger', 'clip-on', 'comb', 'comforter', 'pacifier', 'conductor', 'contraceptive', 'preventative', 'preventive', 'converter', 'convertor', 'corer', 'restorative', 'corrective', 'crusher', 'cryptograph', 'cutoff', 'moistener', 'dampener', 'damper', 'muffler', 'deflector', 'depressor', 'detector', 'sensor', 'diestock', 'drive', 'energizer', 'energiser', 'fan', 'filter', 'extinguisher', 'asphyxiator', 'flare', 'fumigator', 'groover', 'safety', 'guard', 'warmer', 'heater', 'horn', 'hydrofoil', 'foil', 'imprint', 'indicator', 'instrument', 'interlock', 'interrupter', 'jig', 'key', 'keyboard', 'Kinetoscope', 'doorknocker', 'rapper', 'knocker', 'lift', 'igniter', 'lighter', 'ignitor', 'light', 'machine', 'magnet', 'mechanism', 'instrument', 'noisemaker', 'override', 'peeler', 'plectron', 'plectrum', 'pick', 'PTO', 'goad', 'prod', 'autocue', 'prompter', 'pull', 'reflector', 'release', 'button', 'remote', 'reset', 'restraint', 'constraint', 'router', 'runner', 'scratcher', 'shoehorn', 'shoetree', 'shredder', 'snowshoe', 'sounder', 'stabilizer', 'stabiliser', 'stemmer', 'straightener', 'strengthener', 'reinforcement', 'stylus', 'support', 'sweatbox', 'synchroflash', 'take-up', 'teaser', 'tilter', 'tongs', 'toy', 'trap', 'trigger', 'valve', 'vaporizer', 'vaporiser', 'ventilator', 'washboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for instrumentation." 
+Output:
+ ['ceramic', 'connector', 'connexion', 'connection', 'connective', 'connecter', 'container', 'transport', 'conveyance', 'device', 'equipment', 'furnishing', 'hardware', 'ironware', 'implement', 'means', 'medium', 'system', 'toiletry', 'arms', 'weaponry', 'munition']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for instrumentality." 
+Output:
+ ['ceramic', 'connector', 'connexion', 'connection', 'connective', 'connecter', 'container', 'transport', 'conveyance', 'device', 'equipment', 'furnishing', 'hardware', 'ironware', 'implement', 'means', 'medium', 'system', 'toiletry', 'arms', 'weaponry', 'munition']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for sheaf." 
+Output:
+ ['bale', 'fagot', 'faggot', 'pack', 'swag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bundle." 
+Output:
+ ['bale', 'fagot', 'faggot', 'pack', 'swag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for bag." 
+Output:
+ ['packsack', 'backpack', 'rucksack', 'knapsack', 'haversack', 'beanbag', 'bladder', 'carryall', 'holdall', 'tote', 'gasbag', 'envelope', 'gamebag', 'gunnysack', 'mailbag', 'postbag', 'feedbag', 'nosebag', 'pannier', 'pouch', 'purse', 'ragbag', 'sachet', 'poke', 'sack', 'saddlebag', 'sandbag', 'schoolbag', 'sickbag', 'skin', 'tucker-bag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tube." 
+Output:
+ ['barrel', 'blowpipe', 'blowgun', 'blowtube', 'blowpipe', 'blowtube', 'cannula', 'capillary', 'catheter', 'coil', 'column', 'drain', 'hose', 'hosepipe', 'mouthpiece', 'pipe', 'piping', 'pipe', 'pipage', 'silencer', 'syphon', 'siphon', 'stem', 'stent', 'straw', 'venturi', 'wellpoint']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for tubing." 
+Output:
+ ['barrel', 'blowpipe', 'blowgun', 'blowtube', 'blowpipe', 'blowtube', 'cannula', 'capillary', 'catheter', 'coil', 'column', 'drain', 'hose', 'hosepipe', 'mouthpiece', 'pipe', 'piping', 'pipe', 'pipage', 'silencer', 'syphon', 'siphon', 'stem', 'stent', 'straw', 'venturi', 'wellpoint']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for cookware." 
+Output:
+ ['baster', 'cooker', 'enamelware', 'gridiron', 'grid', 'griddle', 'pan', 'poacher', 'pot', 'skimmer', 'steamer', 'turner']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for container." 
+Output:
+ ['bag', 'purse', 'handbag', 'pocketbook', 'bag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'bread-bin', 'breadbox', 'bunker', 'tin', 'can', 'tin', 'cannister', 'canister', 'capsule', 'case', 'case', 'vitrine', 'showcase', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'parcel', 'package', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbag', 'workbasket', 'workbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for vessel." 
+Output:
+ ['autoclave', 'steriliser', 'sterilizer', 'barrel', 'cask', 'basin', 'bath', 'bathtub', 'tub', 'bath', 'bedpan', 'boiler', 'cupel', 'bottle', 'bottle', 'bowl', 'pail', 'bucket', 'thurible', 'censer', 'churn', 'crucible', 'drum', 'eyebath', 'eyecup', 'flagon', 'jar', 'ladle', 'ostensorium', 'monstrance', 'mortar', 'muller', 'ewer', 'pitcher', 'poacher', 'pot', 'retort', 'steeper', 'tank', 'tin', 'vat', 'tub', 'urceole', 'well']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for meal." 
+Output:
+ ['cornmeal', 'farina', 'kibble', 'oatmeal', 'pinole']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for receptacle." 
+Output:
+ ['ash-pan', 'ashtray', 'beehive', 'hive', 'case', 'catchall', 'chamberpot', 'potty', 'dustpan', 'garbage', 'hopper', 'in-tray', 'in-basket', 'ossuary', 'out-tray', 'out-basket', 'plate', 'pix', 'pyx', 'save-all', 'socket', 'spittoon', 'cuspidor', 'tidy', 'tray', 'trough']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for framework." 
+Output:
+ ['airframe', 'arbour', 'arbor', 'bower', 'pergola', 'bustle', 'case', 'casing', 'clotheshorse', 'coaming', 'cornice', 'pelmet', 'valance', 'deckle', 'derrick', 'doorframe', 'doorcase', 'cowcatcher', 'buffer', 'fender', 'pilot', 'frame', 'frame', 'framing', 'gauntry', 'gantry', 'grate', 'grating', 'grille', 'grill', 'grillwork', 'handbarrow', 'hayrig', 'hayrack', 'honeycomb', 'lattice', 'fretwork', 'latticework', 'mounting', 'oxbow', 'rack', 'ribbing', 'sash', 'horse', 'buck', 'sawhorse', 'sawbuck', 'stocks', 'stocks', 'stretcher', 'tambour', 'tenter', 'truss', 'undercarriage', 'walker', 'Zimmer', 'baby-walker', 'walker', 'go-cart', 'wattle', 'window']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for receptacle." 
+Output:
+ ['ash-pan', 'ashtray', 'beehive', 'hive', 'case', 'catchall', 'chamberpot', 'potty', 'dustpan', 'garbage', 'hopper', 'in-tray', 'in-basket', 'ossuary', 'out-tray', 'out-basket', 'plate', 'pix', 'pyx', 'save-all', 'socket', 'spittoon', 'cuspidor', 'tidy', 'tray', 'trough']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for receptacle." 
+Output:
+ ['ash-pan', 'ashtray', 'beehive', 'hive', 'case', 'catchall', 'chamberpot', 'potty', 'dustpan', 'garbage', 'hopper', 'in-tray', 'in-basket', 'ossuary', 'out-tray', 'out-basket', 'plate', 'pix', 'pyx', 'save-all', 'socket', 'spittoon', 'cuspidor', 'tidy', 'tray', 'trough']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for receptacle." 
+Output:
+ ['ash-pan', 'ashtray', 'beehive', 'hive', 'case', 'catchall', 'chamberpot', 'potty', 'dustpan', 'garbage', 'hopper', 'in-tray', 'in-basket', 'ossuary', 'out-tray', 'out-basket', 'plate', 'pix', 'pyx', 'save-all', 'socket', 'spittoon', 'cuspidor', 'tidy', 'tray', 'trough']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "The [MASK] is a specific term for receptacle." 
+Output:
+ ['ash-pan', 'ashtray', 'beehive', 'hive', 'case', 'catchall', 'chamberpot', 'potty', 'dustpan', 'garbage', 'hopper', 'in-tray', 'in-basket', 'ossuary', 'out-tray', 'out-basket', 'plate', 'pix', 'pyx', 'save-all', 'socket', 'spittoon', 'cuspidor', 'tidy', 'tray', 'trough']
+

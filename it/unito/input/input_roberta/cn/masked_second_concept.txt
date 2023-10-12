@@ -1,0 +1,1217 @@
+piano is used for <mask>. music
+piano is a typical location for <mask>. concert
+piano is related to <mask>. instrument
+piano is related to <mask>. keys
+pianoforte is a synonym of <mask>. piano
+violin belongs to <mask>. strings
+violin is related to <mask>. instrument
+fiddle is related to <mask>. violin
+violin is a typical location for <mask>. orchestra
+violin is related to <mask>. strings
+violin is related to <mask>. cello
+tam-tam is a synonym of <mask>. gong
+banjo belongs to <mask>. strings
+banjo is used for <mask>. strumming
+banjo is a typical location for <mask>. band
+fingerboard is a part of <mask>. banjo
+bell is related to <mask>. ringing
+bell is related to <mask>. church
+bell is a typical location for <mask>. church
+bell is related to <mask>. ring
+bell is related to <mask>. instrument
+bell is a typical location for <mask>. school
+bell is used for <mask>. ring
+bell is related to <mask>. liberty
+bell is related to <mask>. ringer
+bell is related to <mask>. ding
+bell is capable of <mask>. ring
+bell is used for <mask>. ringing
+bell is related to <mask>. noise
+bell is related to <mask>. tower
+bell is related to <mask>. clapper
+bell is related to <mask>. chime
+bell is related to <mask>. churches
+bear is related to <mask>. animal
+bear is related to <mask>. grizzly
+bear is related to <mask>. polar
+bear is related to <mask>. big
+bear is related to <mask>. brown
+bear is related to <mask>. mammal
+bear is related to <mask>. large
+bear is related to <mask>. forest
+bear is related to <mask>. claws
+bear is related to <mask>. furry
+bear is related to <mask>. woods
+endure is a synonym of <mask>. bear
+bear is related to <mask>. ursine
+bear is related to <mask>. fur
+grizzly is related to <mask>. bear
+bear is related to <mask>. panda
+crab is a typical location for <mask>. sand
+crab is a typical location for <mask>. bay
+crab is a typical location for <mask>. salad
+crab is a typical location for <mask>. tidepools
+colony is related to <mask>. ant
+pismire is a synonym of <mask>. ant
+emmet is a synonym of <mask>. ant
+lizard is a typical location for <mask>. dessert
+lizard is a typical location for <mask>. California
+lizard is a typical location for <mask>. China
+lizard is a typical location for <mask>. house
+nest is related to <mask>. bird
+chicken is related to <mask>. bird
+bird is related to <mask>. animal
+duck is related to <mask>. bird
+chick is related to <mask>. bird
+canary is related to <mask>. bird
+bird is related to <mask>. flying
+bird is capable of <mask>. sing
+feather is a typical location for <mask>. bird
+bird is related to <mask>. wings
+egg is related to <mask>. bird
+bird is a typical location for <mask>. tree
+owl is related to <mask>. bird
+spineless is a synonym of <mask>. invertebrate
+invertebrate is used in the context of <mask>. zoology
+invertebrate is the opposite of <mask>. vertebrate
+fox is related to <mask>. animal
+fox is a typical location for <mask>. england
+fox is a typical location for <mask>. foxhunt
+fox is a typical location for <mask>. burrow
+fox is a typical location for <mask>. meadow
+fox is a typical location for <mask>. box
+fox is related to <mask>. red
+monkey is related to <mask>. ape
+monkey is an entity that tipically wants <mask>. banana
+ape is related to <mask>. monkey
+blackout is used in the context of <mask>. aircraft
+lighter-than-air is used in the context of <mask>. aircraft
+skin is a part of <mask>. aircraft
+aircraft is a typical location for <mask>. sky
+cockpit is a part of <mask>. aircraft
+bay is a part of <mask>. aircraft
+tandem is a synonym of <mask>. bicycle-built-for-two
+tandem is related to <mask>. one
+horse is related to <mask>. tandem
+tandemly is derived from <mask>. tandem
+tandem is related to <mask>. tricycle
+chopper is a synonym of <mask>. helicopter
+helicopter is used for <mask>. transport
+helicopter is used for <mask>. fly
+boat is related to <mask>. vessel
+vessel is related to <mask>. ship
+vessel is related to <mask>. boat
+vessel is related to <mask>. container
+base is a part of <mask>. vessel
+bilge is a part of <mask>. vessel
+boat is related to <mask>. craft
+craft is a specific way to do <mask>. fashion
+wiliness is a synonym of <mask>. craft
+trike is a synonym of <mask>. tricycle
+boot is used for <mask>. walking
+bootlace is a part of <mask>. boot
+crown is related to <mask>. hat
+hat is a typical location for <mask>. closet
+captain is related to <mask>. hat
+hatband is a part of <mask>. hat
+hat is used for <mask>. waving
+brim is a part of <mask>. hat
+hat is used for <mask>. begging
+crown is related to <mask>. headdress
+headgear is a synonym of <mask>. headdress
+overshoe is related to <mask>. gumshoe
+vase is a typical location for <mask>. table
+flower is a typical location for <mask>. vase
+spoon is used for <mask>. Eating
+spoon is a typical location for <mask>. bowl
+spoon is a typical location for <mask>. dinner
+spoonful is a synonym of <mask>. spoon
+cutlery is a typical location for <mask>. table
+cutlery is a synonym of <mask>. silverware
+silverware is a synonym of <mask>. cutlery
+fork is a typical location for <mask>. table
+fork is a typical location for <mask>. drawer
+fork is a typical location for <mask>. plate
+plate is related to <mask>. fork
+fork is a synonym of <mask>. branch
+plate is related to <mask>. tableware
+toilet is a typical location for <mask>. bathroom
+toilet is used for <mask>. poop
+toilet is a typical location for <mask>. house
+water is a typical location for <mask>. toilet
+toilet is capable of <mask>. flush
+toilet is used for <mask>. urinate
+toilet is used for <mask>. peeing
+commode is a synonym of <mask>. toilet
+shampoo is a typical location for <mask>. shower
+soap is related to <mask>. shower
+telephone is used for <mask>. communicate
+call is related to <mask>. telephone
+telephone is used for <mask>. communicating
+post is related to <mask>. mail
+letter is related to <mask>. mail
+deliver is related to <mask>. mail
+music is related to <mask>. radio
+voice is a typical location for <mask>. radio
+radiotelephone is derived from <mask>. radio
+thermometer is related to <mask>. temperature
+degree is related to <mask>. thermometer
+capillary is a part of <mask>. thermometer
+zap is a synonym of <mask>. microwave
+nuke is a synonym of <mask>. microwave
+stove is used for <mask>. cook
+stove is a typical location for <mask>. house
+Stove can be described as <mask>. hot
+range is related to <mask>. stove
+oven is related to <mask>. stove
+heater is a typical location for <mask>. house
+heater is used for <mask>. heating
+potato is a typical location for <mask>. kitchen
+potato is a typical location for <mask>. Restaurants
+potato is a typical location for <mask>. market
+potato is a typical location for <mask>. Ireland
+potato is a typical location for <mask>. stew
+potato is a typical location for <mask>. restaurant
+potato is a typical location for <mask>. salad
+potato is a typical location for <mask>. soil
+potato is a typical location for <mask>. grocery
+gnocchi is made of <mask>. potato
+potato is a typical location for <mask>. bag
+bean is a typical location for <mask>. soup
+bean is used for <mask>. cooking
+corn is related to <mask>. cereal
+beer is a typical location for <mask>. bar
+beer is used for <mask>. drinking
+alcohol is a typical location for <mask>. beer
+beer is a typical location for <mask>. bottle
+bar is related to <mask>. beer
+keg is related to <mask>. beer
+beer can be described as <mask>. harmful
+beer is a typical location for <mask>. keg
+beer is a typical location for <mask>. casino
+water is a typical location for <mask>. beer
+drink is related to <mask>. beer
+Coffee belongs to <mask>. caffeine
+sugar is a typical location for <mask>. coffee
+mug is used for <mask>. coffee
+sugar is related to <mask>. coffee
+egg is related to <mask>. shell
+turtle is related to <mask>. shell
+snail is related to <mask>. shell
+walnut belongs to <mask>. shell
+shell is a synonym of <mask>. husk
+clasp is a part of <mask>. bracelet
+bangle is a synonym of <mask>. bracelet
+umbrella is a typical location for <mask>. closet
+shade is related to <mask>. umbrella
+handle is a part of <mask>. umbrella
+hood is a synonym of <mask>. ness
+cowling is a synonym of <mask>. hood
+tough is a synonym of <mask>. hood
+typewriter is a typical location for <mask>. desk
+carriage is a part of <mask>. typewriter
+keyboard is a part of <mask>. typewriter
+hook is a specific way to do <mask>. play
+hook is a specific way to do <mask>. offer
+barb is a part of <mask>. hook
+tweezers is a synonym of <mask>. tweezer
+tweezer is related to <mask>. tweezers
+nanotweezers is related to <mask>. tweezers
+tweezers is a synonym of <mask>. tongs
+screwdriver is a typical location for <mask>. toolbox
+travel is an event that requires <mask>. pack
+travel is an event that begins with <mask>. pack,
+pack is a synonym of <mask>. throng
+bundle is a specific way to do <mask>. pack
+pack is a specific way to do <mask>. seal
+gun is related to <mask>. barrel
+monkey is a typical location for <mask>. barrel
+barrel is a specific way to do <mask>. put
+flagon is related to <mask>. cider
+flacket is related to <mask>. flagon
+goon is related to <mask>. flagon
+clean is related to <mask>. tidy
+tidy is similar to <mask>. orderly
+untidy is the opposite of <mask>. tidy
+houseclean is a specific way to do <mask>. tidy
+tidy is related to <mask>. groomed
+straighten is a synonym of <mask>. tidy
+neat is similar to <mask>. tidy
+straight is similar to <mask>. tidy
+violin is related to <mask>. cello
+violoncello is a synonym of <mask>. cello
+cellos is a form of <mask>. cello
+violoncello is a synonym of <mask>. cello
+clarinet is a typical location for <mask>. orchestra
+clarinet is a typical location for <mask>. band
+clarinetist is related to <mask>. clarinet
+eye is related to <mask>. organ
+nose is related to <mask>. organ
+ear is related to <mask>. organ
+organ is a typical location for <mask>. body
+stop is a typical location for <mask>. organ
+liver is related to <mask>. organ
+hand is related to <mask>. organ
+mouth is related to <mask>. organ
+organ is a synonym of <mask>. harmonium
+bassoon is a typical location for <mask>. orchestra
+bass is used for <mask>. eat
+bass is related to <mask>. guitar
+bass is related to <mask>. fish
+basso is a synonym of <mask>. bass
+bass is used for <mask>. eating
+kettle is a typical location for <mask>. kitchen
+steam is related to <mask>. kettle
+timpani is a synonym of <mask>. kettle
+tympani is a synonym of <mask>. kettle
+wood is a synonym of <mask>. woodwind
+ukulele is a synonym of <mask>. uke
+ukelele is a form of <mask>. ukulele
+uke is related to <mask>. ukulele
+banjolele is related to <mask>. ukulele
+ukulelist is related to <mask>. ukulele
+ukulele is related to <mask>. string
+ukulelist is derived from <mask>. ukulele
+oboe is a typical location for <mask>. orchestra
+hautbois is a synonym of <mask>. oboe
+Klavier is a synonym of <mask>. clavier
+clavier is related to <mask>. pianoforte
+clavieristic is derived from <mask>. clavier
+claviers is a form of <mask>. clavier
+claviers is related to <mask>. clavier
+clavicytherium is related to <mask>. clavier
+toad is related to <mask>. frog
+frog is a typical location for <mask>. pond
+bee is a typical location for <mask>. meadow
+wax is related to <mask>. bee
+bees is a form of <mask>. bee
+cat is a typical location for <mask>. bed
+cat is related to <mask>. feline
+cat is related to <mask>. animal
+cat is related to <mask>. pet
+dog is distinct from <mask>. cat
+kitten is related to <mask>. cat
+cat is a typical location for <mask>. vet
+cat is a typical location for <mask>. chair
+cat is a typical location for <mask>. table
+cat can be described as <mask>. feline
+tortoise is related to <mask>. turtle
+turtle is related to <mask>. shell
+turtle is related to <mask>. tortoise
+turtle is a synonym of <mask>. turtleneck
+moth is related to <mask>. butterfly
+butterfly is used in the context of <mask>. cooking
+butterfly is a specific way to do <mask>. unfold
+crustacean is a synonym of <mask>. crustaceous
+rabbit is related to <mask>. bunny
+rabbit is related to <mask>. animal
+rabbit is related to <mask>. hare
+rabbit is related to <mask>. ears
+rabbit is related to <mask>. small
+rabbit is related to <mask>. long
+rabbit is related to <mask>. mammal
+rabbit is related to <mask>. rodent
+rabbit is related to <mask>. easter
+rabbit is related to <mask>. furry
+rabbit is related to <mask>. big
+rabbit is related to <mask>. pet
+rabbit is related to <mask>. bugs
+rabbit is related to <mask>. tail
+rabbit is related to <mask>. fluffy
+rabbit is related to <mask>. carrots
+beetle is a synonym of <mask>. beetling
+captain is related to <mask>. ship
+boat is related to <mask>. ship
+captain is a typical location for <mask>. ship
+vessel is related to <mask>. ship
+ship is a typical location for <mask>. port
+mast is used for <mask>. ship
+cargo is a typical location for <mask>. ship
+mast is a typical location for <mask>. ship
+funnel is used in the context of <mask>. ship
+broken-backed is used in the context of <mask>. ship
+log is used in the context of <mask>. ship
+car is related to <mask>. vehicle
+boat is related to <mask>. vehicle
+passengers is a typical location for <mask>. vehicle
+splashboard is a part of <mask>. vehicle
+boat is related to <mask>. water
+boat is related to <mask>. ship
+captain is related to <mask>. boat
+sail is related to <mask>. boat
+boat is related to <mask>. vessel
+rope is a typical location for <mask>. boat
+boat is related to <mask>. vehicle
+boat is used for <mask>. fishing
+boat is related to <mask>. floating
+boat is used for <mask>. sailing
+rudder is a typical location for <mask>. boat
+boat is a typical location for <mask>. lake
+boat is related to <mask>. small
+ferry is related to <mask>. boat
+boat is related to <mask>. sailing
+motorcycle is a typical location for <mask>. garage
+screw is a typical location for <mask>. motorcycle
+alcohol is a typical location for <mask>. plane
+plane is used for <mask>. travel
+engine is a typical location for <mask>. plane
+monocycle is a synonym of <mask>. unicycle
+monocycle is related to <mask>. bicycle
+monocyclical is derived from <mask>. monocycle
+monocyclicity is derived from <mask>. monocycle
+monocycle is related to <mask>. tetracycle
+monocycles is a form of <mask>. monocycle
+monocycle is derived from <mask>. cycle
+monocycle is related to <mask>. tricycle
+monocycle is related to <mask>. aromatic
+monocycle is related to <mask>. gaussian
+monocycle is related to <mask>. monowheel
+monocycles is related to <mask>. monocycle
+monocyclic is derived from <mask>. monocycle
+monocyclist is derived from <mask>. monocycle
+monocycle is used in the context of <mask>. communication
+monocycle is related to <mask>. unicycle
+taxi is a typical location for <mask>. airport
+cab is a synonym of <mask>. taxi
+taxi is a specific way to do <mask>. ride
+taxi is a specific way to do <mask>. travel
+scarf is a specific way to do <mask>. join
+shoe is related to <mask>. footwear
+sock is related to <mask>. footwear
+footgear is a synonym of <mask>. footwear
+shoe is a typical location for <mask>. closet
+shoe is related to <mask>. foot
+sock is related to <mask>. shoe
+shoe is related to <mask>. footwear
+shoe is related to <mask>. feet
+shoe is a typical location for <mask>. foot
+foot is a typical location for <mask>. shoe
+polish is related to <mask>. shoe
+shoe is related to <mask>. covering
+shoe belongs to <mask>. laces
+sole is a part of <mask>. shoe
+shoe is used for <mask>. wearing
+shoe is related to <mask>. clothing
+foot is related to <mask>. shoe
+shoe is related to <mask>. wear
+shoe is related to <mask>. sole
+shoe is related to <mask>. laces
+wool is related to <mask>. sweater
+sweater is a typical location for <mask>. drawer
+turban is a synonym of <mask>. pillbox
+gantlet is a synonym of <mask>. gauntlet
+gantlet is a synonym of <mask>. gauntlet
+regatte is related to <mask>. cravat
+cravat is used in the context of <mask>. historical
+cravat is related to <mask>. triangular
+cravat is related to <mask>. scarf
+cravats is a form of <mask>. cravat
+cravatted is related to <mask>. cravat
+cravat is related to <mask>. band
+cravating is related to <mask>. cravat
+plate is related to <mask>. utensil
+cut is related to <mask>. knife
+knife is used for <mask>. stabbing
+knife is a typical location for <mask>. drawer
+blade is related to <mask>. knife
+knife is used for <mask>. butter
+knife is a typical location for <mask>. pocket
+knife is capable of <mask>. cut
+edge is related to <mask>. knife
+knife is capable of <mask>. hurt
+water is a typical location for <mask>. sink
+sink is a typical location for <mask>. house
+settle is a specific way to do <mask>. sink
+hydrant is related to <mask>. outlet
+hydrant is related to <mask>. valve
+hydrant is related to <mask>. pipe
+rocker is a part of <mask>. cradle
+cradle is a synonym of <mask>. rocker
+seat is related to <mask>. chair
+chair is related to <mask>. seat
+seat is related to <mask>. sitting
+seat is related to <mask>. sit
+seat is a typical location for <mask>. show
+seat is related to <mask>. place
+seat is related to <mask>. car
+car belongs to <mask>. seat
+box is used for <mask>. seat
+calash is a part of <mask>. chaise
+shay is a synonym of <mask>. chaise
+shay is related to <mask>. chaise
+chay is related to <mask>. chaise
+chaise is related to <mask>. carriage
+chaisemaker is derived from <mask>. chaise
+chaises is a form of <mask>. chaise
+tower is related to <mask>. building
+bell is related to <mask>. tower
+tower is related to <mask>. tall
+tower is a typical location for <mask>. city
+bridge is related to <mask>. water
+bridge is related to <mask>. crossing
+bridge is related to <mask>. over
+river is a typical location for <mask>. bridge
+bridge is related to <mask>. river
+trolls is a typical location for <mask>. bridge
+bridge is related to <mask>. road
+beam is a typical location for <mask>. bridge
+homeless is a typical location for <mask>. bridge
+hobo is a typical location for <mask>. bridge
+bum is a typical location for <mask>. bridge
+bridge is a typical location for <mask>. river
+paper is a typical location for <mask>. printer
+printer is a typical location for <mask>. office
+ink is a typical location for <mask>. printer
+commercial is a typical location for <mask>. television
+programs is a typical location for <mask>. television
+news is a typical location for <mask>. television
+actor is a typical location for <mask>. television
+Television can be described as <mask>. entertaining
+sitcom is a typical location for <mask>. television
+cartoons is a typical location for <mask>. television
+show is a typical location for <mask>. television
+colorcast is used in the context of <mask>. television
+cup is a typical location for <mask>. dishwasher
+container is a typical location for <mask>. refrigerator
+oven is used for <mask>. cooking
+pan is a typical location for <mask>. oven
+oven is related to <mask>. stove
+banana can be described as <mask>. yellow
+slip is related to <mask>. banana
+monkey is an entity that tipically wants <mask>. banana
+spinach is related to <mask>. green
+spinach is related to <mask>. vegetable
+corn is related to <mask>. yellow
+corn is related to <mask>. vegetable
+corn is related to <mask>. cob
+corn is related to <mask>. food
+corn is related to <mask>. crop
+corn is related to <mask>. maize
+corn is related to <mask>. grain
+corn is related to <mask>. kernels
+crop is related to <mask>. corn
+corn is related to <mask>. ears
+corn is a typical location for <mask>. field
+corn is related to <mask>. ear
+corn is related to <mask>. plant
+corn is a typical location for <mask>. silo\
+corn is a typical location for <mask>. supermarket
+bread is related to <mask>. wheat
+grain is related to <mask>. wheat
+wheat is a typical location for <mask>. field
+crop is related to <mask>. wheat
+potato is a typical location for <mask>. salad
+fungus is a typical location for <mask>. salad
+Lettuce is a part of <mask>. salad
+crab is a typical location for <mask>. salad
+Salad can be done to <mask>. prepared
+lettuce is a typical location for <mask>. salad
+grape is a typical location for <mask>. salad
+carrots is a typical location for <mask>. salad
+bread is related to <mask>. sandwich
+Bread is a part of <mask>. sandwich
+sandwich is a typical location for <mask>. lunchbox
+sandwich is a specific way to do <mask>. organize
+rice is related to <mask>. food
+rice is related to <mask>. grain
+rice is related to <mask>. white
+rice is related to <mask>. grains
+rice is related to <mask>. staple
+rice is related to <mask>. chinese
+grain is related to <mask>. rice
+rice is related to <mask>. asia
+rice is related to <mask>. asian
+rice is related to <mask>. small
+rice is related to <mask>. china
+rice is related to <mask>. oriental
+regular is similar to <mask>. uniform
+uniform is similar to <mask>. single
+uniform is a synonym of <mask>. undifferentiated
+single is similar to <mask>. uniform
+vizor is a synonym of <mask>. visor
+visor is a synonym of <mask>. bill
+visor is a part of <mask>. helmet
+ring is related to <mask>. jewelry
+jewelry is used for <mask>. decoration
+crown is related to <mask>. jewelry
+silver is related to <mask>. jewelry
+person is an entity that tipically wants <mask>. jewelry
+jewelry is a typical location for <mask>. safe
+mirror is a typical location for <mask>. bedroom
+reflection is related to <mask>. mirror
+mirror is a typical location for <mask>. car
+lamp is a typical location for <mask>. desk
+lamp is a typical location for <mask>. desktop
+lamp is a typical location for <mask>. table
+lantern is related to <mask>. lamp
+lamp is a typical location for <mask>. store
+lamp is a typical location for <mask>. building
+lamp is a typical location for <mask>. bedroom
+lamp is capable of <mask>. illuminate
+lamp is related to <mask>. switch
+lamp is related to <mask>. light
+house is used for <mask>. shelter
+building is used for <mask>. shelter
+shade is related to <mask>. shelter
+home is related to <mask>. shelter
+shelter is a specific way to do <mask>. supply
+photocopier is a typical location for <mask>. library
+toner is related to <mask>. photocopier
+photocopier is a synonym of <mask>. photoduplicator
+tack is related to <mask>. pin
+pin is a synonym of <mask>. trap
+pin is a synonym of <mask>. peg
+pins is a form of <mask>. pin
+pinhead is a part of <mask>. pin
+hoe is a specific way to do <mask>. till
+matchet is a synonym of <mask>. machete
+panga is a synonym of <mask>. machete
+scissors is used for <mask>. cut
+cut is related to <mask>. scissors
+screw is a typical location for <mask>. motorcycle
+screw is a synonym of <mask>. fuck
+screw is a specific way to do <mask>. revolve
+screw is a specific way to do <mask>. tighten
+wedges is a form of <mask>. wedge
+cuneus is a synonym of <mask>. wedge
+wedge is a synonym of <mask>. bomber
+wedge is a synonym of <mask>. chock
+peelers is a form of <mask>. peeler
+peeler is a synonym of <mask>. stripper
+hammer is related to <mask>. tool
+bag is a typical location for <mask>. drawer
+bag is a typical location for <mask>. supermarket
+cat is a typical location for <mask>. bag
+potato is a typical location for <mask>. bag
+sack is related to <mask>. bag
+knapsack is a synonym of <mask>. backpack
+rucksack is a synonym of <mask>. knapsack
+backpack is a synonym of <mask>. knapsack
+knapsack is a synonym of <mask>. backpack
+knapsack is a synonym of <mask>. rucksack
+knapsack is related to <mask>. camping
+ton is related to <mask>. thousand
+ton is related to <mask>. weight
+ton is related to <mask>. vogue
+steepers is a form of <mask>. steeper
+steepen is related to <mask>. steeper
+steeper is a form of <mask>. steep
+steeper is related to <mask>. cistern
+steeper is related to <mask>. vat
+steeper is related to <mask>. vessel
+steeper is derived from <mask>. steep
+steeper is related to <mask>. steep
+mansard is related to <mask>. steeper
+water is a typical location for <mask>. bottle
+beer is a typical location for <mask>. bottle
+shampoo is a typical location for <mask>. bottle
+bottle is made of <mask>. plastic
+bottle is a specific way to do <mask>. put
+ficus is a typical location for <mask>. pot
+plant is a typical location for <mask>. pot
+pot is a synonym of <mask>. potentiometer
+rosebush is a typical location for <mask>. pot
+plate is related to <mask>. bowl
+soup is related to <mask>. bowl
+nest is related to <mask>. bowl
+spoon is a typical location for <mask>. bowl
+plate is distinct from <mask>. bowl
+bowl is used in the context of <mask>. cricket
+laden is a synonym of <mask>. ladle
+slop is a specific way to do <mask>. ladle
+ladle is a specific way to do <mask>. put
+kibbles is a form of <mask>. kibble
+kibble is related to <mask>. iron
+kibble is related to <mask>. grain
+kibble is related to <mask>. animal
+clarinet is a typical location for <mask>. orchestra
+clarinet is a typical location for <mask>. band
+clarinetist is related to <mask>. clarinet
+synthesiser is a synonym of <mask>. synthesizer
+synthesizer is a synonym of <mask>. synthesist
+xylophone is a typical location for <mask>. band
+xylophone is a synonym of <mask>. marimba
+piccolo is a typical location for <mask>. band
+piccolo is a typical location for <mask>. orchestra
+dog is capable of <mask>. bark
+dog is related to <mask>. pet
+dog is related to <mask>. animal
+dog is a typical location for <mask>. kennel
+flea is related to <mask>. dog
+dog is related to <mask>. canine
+dog is used for <mask>. companionship
+dog is capable of <mask>. run
+dog is an entity that tipically wants <mask>. bone
+snail is related to <mask>. shell
+escargot is related to <mask>. snail
+snail is a specific way to do <mask>. gather
+snake is a typical location for <mask>. garden
+snake is a typical location for <mask>. tree
+snake is a typical location for <mask>. field
+snake is a typical location for <mask>. feild
+snake is a typical location for <mask>. pit
+snake is a typical location for <mask>. ditch
+snake is a typical location for <mask>. cage
+snake is a typical location for <mask>. creeks
+python is related to <mask>. snake
+Snake is a synonym of <mask>. Hydra
+dog is related to <mask>. wolf
+drive is related to <mask>. car
+car is related to <mask>. vehicle
+car is capable of <mask>. crash
+car belongs to <mask>. seats
+motor is related to <mask>. car
+car is related to <mask>. automobile
+tire is a part of <mask>. car
+stereo is a typical location for <mask>. car
+car is a typical location for <mask>. freeway
+bicycle is used for <mask>. transportation
+bicycle is used for <mask>. riding
+bicycle is made of <mask>. metal
+wheel is a part of <mask>. bicycle
+bicycle belongs to <mask>. chain
+bicycle is used for <mask>. Racing
+pedal is a part of <mask>. bicycle
+tractor is a typical location for <mask>. farm
+human is a typical location for <mask>. bus
+bus is used for <mask>. travel
+advertisement is a typical location for <mask>. bus
+bus is used for <mask>. transportation
+bus is used for <mask>. transport
+passenger is used in the context of <mask>. bus
+scooter is a synonym of <mask>. scoter
+scooter is a synonym of <mask>. iceboat
+driveway is used for <mask>. truck
+forklift is used for <mask>. lifting
+hand is related to <mask>. glove
+sock is related to <mask>. glove
+thumb is a part of <mask>. glove
+ferret is a typical location for <mask>. trouser
+trouserless is derived from <mask>. trouser
+stuff is a specific way to do <mask>. clog
+clog is a specific way to do <mask>. coalesce
+clog is a specific way to do <mask>. restrain
+sabot is a synonym of <mask>. clog
+toque is a synonym of <mask>. pillbox
+toque is related to <mask>. woollen
+toque is related to <mask>. flamenco
+toque is related to <mask>. hat
+toque is related to <mask>. white
+toque is used in the context of <mask>. specifically
+toque is related to <mask>. conical
+toque is related to <mask>. religious
+pickles is a typical location for <mask>. jar
+jelly is a typical location for <mask>. jar
+jar is a typical location for <mask>. pantry
+jam is a typical location for <mask>. jar
+food is a typical location for <mask>. jar
+mayonnaise is a typical location for <mask>. jar
+olives is a typical location for <mask>. jar
+jar is a typical location for <mask>. refrigerator
+pennies is a typical location for <mask>. jar
+cherries is a typical location for <mask>. jar
+tablespoon is related to <mask>. measurement
+door is related to <mask>. entrance
+entrance is used for <mask>. entering
+gate is related to <mask>. entrance
+hall is related to <mask>. room
+hall is related to <mask>. corridor
+hall is related to <mask>. long
+hall is related to <mask>. rooms
+hall is related to <mask>. passageway
+halls is a form of <mask>. hall
+hall is a synonym of <mask>. corridor
+monitor is a typical location for <mask>. desktop
+microphone is used for <mask>. amplify
+mike is a synonym of <mask>. microphone
+microphone is used for <mask>. amplification
+thermostat is a part of <mask>. incubator
+thermostat is a specific way to do <mask>. control
+thermoregulator is a synonym of <mask>. thermostat
+compass is a typical location for <mask>. backpack
+east is related to <mask>. compass
+toaster is related to <mask>. bread
+dryers is a form of <mask>. dryer
+boiler is a synonym of <mask>. kettle
+apple is related to <mask>. fruit
+apple can be described as <mask>. red
+apple is related to <mask>. red
+apple can be described as <mask>. green
+apple can be done to <mask>. eaten
+apple is used for <mask>. eating
+apple is related to <mask>. green
+apple is related to <mask>. core
+apple is related to <mask>. eve
+apple is related to <mask>. tree
+apple is related to <mask>. computer
+apple is related to <mask>. round
+apple is related to <mask>. mac
+apple is related to <mask>. adam
+apple is related to <mask>. pie
+apple is related to <mask>. pear
+Pumpkins can be described as <mask>. orange
+color is related to <mask>. orange
+Carrots can be described as <mask>. orange
+orange is related to <mask>. fruit
+apple is related to <mask>. orange
+orange is related to <mask>. citrus
+fire is related to <mask>. orange
+orange is related to <mask>. color
+tomato is related to <mask>. red
+cucumber is related to <mask>. vegetable
+cucumber is a part of <mask>. cucumber
+rice is related to <mask>. grain
+corn is related to <mask>. grain
+grain is related to <mask>. wheat
+bread is related to <mask>. grain
+sand is related to <mask>. grain
+grain is related to <mask>. rice
+grain is related to <mask>. food
+seed is related to <mask>. grain
+grain is related to <mask>. sand
+Wine belongs to <mask>. alcohol
+wine is used for <mask>. Drinking
+wine is related to <mask>. grapes
+wine is related to <mask>. alcohol
+wine is related to <mask>. drink
+wine is related to <mask>. grape
+wine is related to <mask>. alcoholic
+wine is related to <mask>. fermented
+wine is related to <mask>. red
+wine is related to <mask>. beverage
+wine is related to <mask>. juice
+alcohol is a typical location for <mask>. wine
+grape is related to <mask>. wine
+Tea belongs to <mask>. caffeine
+Tea belongs to <mask>. caffein
+tea is a typical location for <mask>. cupboard
+tea can be done to <mask>. brewed
+drink is related to <mask>. liquid
+water is used for <mask>. drink
+drink is related to <mask>. beverage
+milk is related to <mask>. drink
+drink is related to <mask>. water
+wine is related to <mask>. drink
+drink is related to <mask>. imbibe
+shake is related to <mask>. drink
+drink is related to <mask>. swallow
+drink is related to <mask>. action
+drink is related to <mask>. thirst
+drink is related to <mask>. glass
+milk is related to <mask>. juice
+wine is related to <mask>. juice
+helmet is related to <mask>. head
+robe is a synonym of <mask>. vest
+waistcoat is a synonym of <mask>. vest
+bead is a specific way to do <mask>. decorate
+bead is a synonym of <mask>. drop
+window is related to <mask>. glass
+glass is related to <mask>. window
+glass is used for <mask>. drinking
+glass is related to <mask>. clear
+glass is related to <mask>. material
+glass can be done to <mask>. broken
+glass is related to <mask>. drinking
+glass is related to <mask>. transparent
+glass is related to <mask>. windows
+drink is related to <mask>. glass
+glass is related to <mask>. sand
+glass is related to <mask>. cup
+Glass can be described as <mask>. recyclable
+glass can be described as <mask>. clear
+water is a typical location for <mask>. glass
+plate is related to <mask>. dish
+plate is related to <mask>. food
+plate is related to <mask>. eating
+plate is related to <mask>. round
+plate is related to <mask>. dinner
+plate is related to <mask>. flat
+plate is related to <mask>. bowl
+plate is related to <mask>. china
+plate is related to <mask>. saucer
+plate is related to <mask>. eat
+plate is related to <mask>. circle
+plate is related to <mask>. table
+plate is related to <mask>. crockery
+plate is related to <mask>. utensil
+plate is related to <mask>. dinnerware
+plate is related to <mask>. serving
+plate is related to <mask>. surface
+plate is related to <mask>. ceramic
+sunshade is a synonym of <mask>. parasol
+cover is related to <mask>. blanket
+blanket is a typical location for <mask>. bedroom
+quilt is related to <mask>. blanket
+blanket is a synonym of <mask>. across-the-board
+mantle is a synonym of <mask>. blanket
+whiteboard is related to <mask>. draw
+whiteboard is related to <mask>. imageboard
+markerboard is related to <mask>. whiteboard
+whiteboard is a typical location for <mask>. meeting
+blackboard is related to <mask>. whiteboard
+whiteboard is related to <mask>. tool
+slate is related to <mask>. whiteboard
+whiteboard is related to <mask>. chalkboard
+record is related to <mask>. phonograph
+phonograph is related to <mask>. play
+archeophone is related to <mask>. phonograph
+phonograph is related to <mask>. lathe
+disk is related to <mask>. phonograph
+phonograph is related to <mask>. archive
+phonograph is related to <mask>. capture
+phonographs is related to <mask>. phonograph
+shank is a part of <mask>. anchor
+lynchpin is a synonym of <mask>. anchor
+scalpel is used for <mask>. cutting
+water is a typical location for <mask>. bottle
+beer is a typical location for <mask>. bottle
+shampoo is a typical location for <mask>. bottle
+bottle is made of <mask>. plastic
+bottle is a specific way to do <mask>. put
+box is related to <mask>. container
+can is related to <mask>. container
+case is related to <mask>. container
+glass is related to <mask>. container
+container is a typical location for <mask>. pantry
+container is a typical location for <mask>. refrigerator
+tin is related to <mask>. container
+vessel is related to <mask>. container
+soup is a typical location for <mask>. container
+pipe is a specific way to do <mask>. play
+pipe is a specific way to do <mask>. transport
+mortar is used in the context of <mask>. masonry
+tin is related to <mask>. can
+can is related to <mask>. container
+can is related to <mask>. tin
+can is related to <mask>. soda
+can is related to <mask>. food
+can is related to <mask>. aluminum
+can is related to <mask>. metal
+can is a typical location for <mask>. cupboard
+soda is a typical location for <mask>. can
+drink is a typical location for <mask>. can
+can is related to <mask>. cylinder
+can is related to <mask>. able
+paint is related to <mask>. can
+able is related to <mask>. can
+tin is related to <mask>. metal
+tin is related to <mask>. can
+metal is related to <mask>. tin
+can is related to <mask>. tin
+tin is related to <mask>. cans
+tin is related to <mask>. aluminum
+tin is related to <mask>. container
+tin is related to <mask>. element
+tin is related to <mask>. material
+tin is related to <mask>. food
+tin is related to <mask>. foil
+tin is related to <mask>. alloy
+tin is related to <mask>. thin
+tin is related to <mask>. roof
+pail is a synonym of <mask>. bucket
+bucket is a synonym of <mask>. pail
+bucket is a specific way to do <mask>. put
+bucket is related to <mask>. liquid
+bucketful is a synonym of <mask>. bucket
+cigarette is a typical location for <mask>. ashtray
+dustpanful is a synonym of <mask>. dustpan
+drum is a specific way to do <mask>. sound
+drum is a specific way to do <mask>. play
+harp is a synonym of <mask>. harmonica
+trombonist is related to <mask>. trombone
+trombone is a typical location for <mask>. orchestra
+trombone is used for <mask>. music
+trombone is a typical location for <mask>. band
+pleximetry is a synonym of <mask>. percussion
+flute is a specific way to do <mask>. crimp
+chord is related to <mask>. guitar
+guitar is used for <mask>. music
+guitar belongs to <mask>. strings
+bass is related to <mask>. guitar
+guitar is related to <mask>. string
+guitar is used for <mask>. sound
+guitar is made of <mask>. strings
+string is a typical location for <mask>. guitar
+guitar is a typical location for <mask>. band
+saxophone is related to <mask>. instrument
+saxophone is a typical location for <mask>. band
+saxophone is related to <mask>. jazz
+saxophone is a synonym of <mask>. sax
+saxophone is used for <mask>. blowing
+saxophone is related to <mask>. musical
+saxophone is related to <mask>. brass
+sitars is related to <mask>. sitar
+sympitar is related to <mask>. sitar
+elephant is a typical location for <mask>. circus
+tusk is related to <mask>. elephant
+elephant belongs to <mask>. trunk
+elephant is a typical location for <mask>. Africa
+elephant is a typical location for <mask>. zoo
+squirrel is related to <mask>. animal
+sheep is related to <mask>. animal
+horse is related to <mask>. animal
+bear is related to <mask>. animal
+dog is related to <mask>. animal
+fish is related to <mask>. animal
+cow is related to <mask>. animal
+bird is related to <mask>. animal
+pig is related to <mask>. animal
+rabbit is related to <mask>. animal
+chicken is related to <mask>. animal
+animal is a typical location for <mask>. zoo
+mole is related to <mask>. animal
+cat is related to <mask>. animal
+bat is related to <mask>. animal
+duck is related to <mask>. animal
+farm is related to <mask>. animal
+creature is related to <mask>. animal
+flea is related to <mask>. insect
+fly is related to <mask>. insect
+mosquito is related to <mask>. insect
+insect is related to <mask>. bug
+lion is capable of <mask>. roar
+lion is a typical location for <mask>. africa
+mane is a part of <mask>. lion
+scut is a part of <mask>. deer
+web is related to <mask>. spider
+spider is related to <mask>. arachnid
+spider is a typical location for <mask>. web
+sawfly is derived from <mask>. fly
+woodwasp is related to <mask>. sawfly
+airplane is used for <mask>. traveling
+airplane belongs to <mask>. propellers
+wing is a part of <mask>. airplane
+log is used in the context of <mask>. airplane
+mowers is related to <mask>. mower
+mower is derived from <mask>. mow
+mower is derived from <mask>. mow
+mower is related to <mask>. hay
+mowerless is derived from <mask>. mower
+scytheman is related to <mask>. mower
+wagon belongs to <mask>. wheels
+wagon is a typical location for <mask>. garage
+axletree is a part of <mask>. wagon
+tram is a specific way to do <mask>. travel
+tram is a synonym of <mask>. streetcar
+streetcar is a synonym of <mask>. tram
+tram is a synonym of <mask>. tramcar
+tram is a synonym of <mask>. tramway
+tram is used in the context of <mask>. weaving
+tramway is derived from <mask>. tram
+tramshed is derived from <mask>. tram
+yacht is related to <mask>. boat
+boat is related to <mask>. yacht
+yacht is used for <mask>. race
+yacht is related to <mask>. sail
+yacht is related to <mask>. master
+yacht is used for <mask>. sail
+zeppelin is similar to <mask>. dirigible
+steerable is a synonym of <mask>. dirigible
+manageable is similar to <mask>. dirigible
+dirigible is a synonym of <mask>. airship
+dirigible is similar to <mask>. manageable
+balloon is related to <mask>. dirigible
+dress is related to <mask>. skirt
+placket is a part of <mask>. skirt
+skirt is a synonym of <mask>. hedge
+feather is a typical location for <mask>. cap
+neckwear is a typical location for <mask>. closet
+wear is related to <mask>. neckwear
+neckwear is related to <mask>. necklace
+sock is related to <mask>. foot
+sock is related to <mask>. shoe
+sock is related to <mask>. feet
+sock is a typical location for <mask>. drawer
+sock is related to <mask>. clothing
+sock is related to <mask>. covering
+sock is related to <mask>. shoes
+sock is related to <mask>. footwear
+sock is related to <mask>. under
+sock is related to <mask>. cloth
+sock is related to <mask>. cover
+sock is related to <mask>. inside
+sock is related to <mask>. garment
+foot is a typical location for <mask>. sock
+sock is related to <mask>. wear
+sock is related to <mask>. cotton
+dress is related to <mask>. clothing
+dress is related to <mask>. skirt
+dress is related to <mask>. clothes
+dress is related to <mask>. women
+dress is related to <mask>. female
+dress is related to <mask>. woman
+dress is related to <mask>. long
+dress is related to <mask>. garment
+dress is related to <mask>. gown
+dress is related to <mask>. girls
+dress is related to <mask>. womans
+dress is related to <mask>. girl
+dress is related to <mask>. wear
+dress is related to <mask>. frock
+dress is related to <mask>. attire
+dress is related to <mask>. clothe
+slipper is a synonym of <mask>. skidder
+mask is a synonym of <mask>. dissemble
+shirt is a typical location for <mask>. closet
+shirt is used for <mask>. wearing
+cotton is related to <mask>. shirt
+sleeve is related to <mask>. shirt
+dickey is a part of <mask>. shirt
+neckline is a part of <mask>. blouse
+coat is related to <mask>. jacket
+jacket is related to <mask>. coat
+mug is related to <mask>. cup
+mug is used for <mask>. coffee
+mug is used for <mask>. drinker
+mug is a synonym of <mask>. chump
+handle is a part of <mask>. mug
+fountain is related to <mask>. water
+fountain is a synonym of <mask>. spring
+fount is a synonym of <mask>. fountain
+gentlemen's is related to <mask>. lavatory
+lavatory is a synonym of <mask>. toilet
+gentlemen is related to <mask>. lavatory
+lavatory is a synonym of <mask>. washbasin
+john is related to <mask>. lavatory
+chair is related to <mask>. sitting
+seat is related to <mask>. chair
+chair is related to <mask>. seat
+chair is a typical location for <mask>. desk
+chair is related to <mask>. furniture
+chair is related to <mask>. sit
+cat is a typical location for <mask>. chair
+chair is related to <mask>. table
+chair is related to <mask>. legs
+chair is a typical location for <mask>. cubicle
+chair is used for <mask>. resting
+table is related to <mask>. chair
+chair is related to <mask>. four
+chair is related to <mask>. seating
+desk is related to <mask>. chair
+gate is related to <mask>. fence
+gate is related to <mask>. door
+gate is related to <mask>. opening
+gate is related to <mask>. entrance
+gate is a specific way to do <mask>. operate
+door is related to <mask>. entrance
+door is related to <mask>. opening
+door is related to <mask>. house
+door is a typical location for <mask>. building
+door is related to <mask>. portal
+door is related to <mask>. knob
+door is related to <mask>. entry
+knob is a typical location for <mask>. door
+window is related to <mask>. door
+gate is related to <mask>. door
+door is related to <mask>. room
+handle is a part of <mask>. door
+lock is a typical location for <mask>. door
+house belongs to <mask>. door
+door is related to <mask>. wall
+door can be done to <mask>. opened
+door is related to <mask>. exit
+door is related to <mask>. open
+door is related to <mask>. handle
+terminal is a typical location for <mask>. airport
+terminal is similar to <mask>. fatal
+flashlight is a synonym of <mask>. torch
+fire is a typical location for <mask>. fireplace
+fireplace is used for <mask>. warmth
+fireplace is a part of <mask>. chimney
+hearthstone is a part of <mask>. fireplace
+mantel is a part of <mask>. fireplace
+apple is related to <mask>. fruit
+fruit is used for <mask>. eating
+Fruit can be done to <mask>. eaten
+fruit is a typical location for <mask>. tree
+fruit is a typical location for <mask>. market
+grape is related to <mask>. fruit
+produce is related to <mask>. fruit
+orange is related to <mask>. fruit
+lemon is related to <mask>. fruit
+lime is related to <mask>. fruit
+raspberry is related to <mask>. fruit
+peach is related to <mask>. fruit
+bread is related to <mask>. food
+bread is a typical location for <mask>. breadbox
+bread is related to <mask>. loaf
+roll is related to <mask>. bread
+bread is related to <mask>. wheat
+bread  is used for <mask>. eating
+bread is related to <mask>. baked
+bread belongs to <mask>. yeast
+bread is related to <mask>. sandwich
+cake is related to <mask>. bread
+bread is a typical location for <mask>. store
+bread is a typical location for <mask>. market
+bread is related to <mask>. yeast
+bread is related to <mask>. flour
+bread is related to <mask>. grain
+bread is related to <mask>. dough
+bread is a typical location for <mask>. dinner
+bread is related to <mask>. sandwiches
+cheese is a typical location for <mask>. pizza
+macaroni is related to <mask>. cheese
+Cheese belongs to <mask>. flavor
+cheese is a typical location for <mask>. plate
+necklace is used for <mask>. decorate
+pendant is a part of <mask>. necklace
+pendent is a synonym of <mask>. pendant
+pendant is a synonym of <mask>. chandelier
+pendant is a part of <mask>. necklace
+lens is made of <mask>. glass
+eye is related to <mask>. lens
+lens is a typical location for <mask>. microscope
+lens is a part of <mask>. eye
+wheel is a part of <mask>. bicycle
+wheel is used for <mask>. rolling
+felloe is a part of <mask>. wheel
+wheel is used for <mask>. turn
+wheel is a specific way to do <mask>. revolve
+canopy is a part of <mask>. parachute
+canopy is a part of <mask>. cockpit
+copier is a synonym of <mask>. duplicator
+copiers is a form of <mask>. copier
+copier is related to <mask>. machine
+copiers is related to <mask>. copier
+copier is related to <mask>. material
+copier is a synonym of <mask>. xeroxer
+stick is related to <mask>. rod
+rod is a synonym of <mask>. gat
+rod is a part of <mask>. retina
+bolt is used for <mask>. fasten
+deadbolt is a synonym of <mask>. bolt
+bolt is a synonym of <mask>. slapdash
+wire is a synonym of <mask>. telegram
+wire is used for <mask>. fasten
+shovelful is a synonym of <mask>. shovel
+shovel is a specific way to do <mask>. dig
+spade is a specific way to do <mask>. dig
+spades is a form of <mask>. spade
+rake is a specific way to do <mask>. smooth
+profligate is a synonym of <mask>. rake
+trowel is a specific way to do <mask>. dig
+razor is used for <mask>. shaving
+razor is used for <mask>. cut
+razor can be described as <mask>. sharp
+clipper is a synonym of <mask>. limiter
+fulcrum is a part of <mask>. lever
+block is a synonym of <mask>. pulley
+box is related to <mask>. container
+box is related to <mask>. cardboard
+box is related to <mask>. cube
+box is related to <mask>. square
+chocolate is a typical location for <mask>. box
+case is related to <mask>. box
+box is a typical location for <mask>. closet
+safe is related to <mask>. box
+box is related to <mask>. sides
+box is related to <mask>. storage
+box is used for <mask>. storage
+space is a typical location for <mask>. box
+fox is a typical location for <mask>. box
+rack is a specific way to do <mask>. work
+rack is a synonym of <mask>. single-foot
+waste is related to <mask>. garbage
+Garbage can be done to <mask>. recycled
+garbage is used for <mask>. recycling

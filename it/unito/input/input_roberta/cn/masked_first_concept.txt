@@ -1,0 +1,1217 @@
+The <mask> is used for music. piano
+The <mask> is a typical location for concert. piano
+The <mask> is related to instrument. piano
+The <mask> is related to keys. piano
+The <mask> is a synonym of piano. pianoforte
+The <mask> belongs to strings. violin
+The <mask> is related to instrument. violin
+The <mask> is related to violin. fiddle
+The <mask> is a typical location for orchestra. violin
+The <mask> is related to strings. violin
+The <mask> is related to cello. violin
+The <mask> is a synonym of gong. tam-tam
+The <mask> belongs to strings. banjo
+The <mask> is used for strumming. banjo
+The <mask> is a typical location for band. banjo
+The <mask> is a part of banjo. fingerboard
+The <mask> is related to ringing. bell
+The <mask> is related to church. bell
+The <mask> is a typical location for church. bell
+The <mask> is related to ring. bell
+The <mask> is related to instrument. bell
+The <mask> is a typical location for school. bell
+The <mask> is used for ring. bell
+The <mask> is related to liberty. bell
+The <mask> is related to ringer. bell
+The <mask> is related to ding. bell
+The <mask> is capable of ring. bell
+The <mask> is used for ringing. bell
+The <mask> is related to noise. bell
+The <mask> is related to tower. bell
+The <mask> is related to clapper. bell
+The <mask> is related to chime. bell
+The <mask> is related to churches. bell
+The <mask> is related to animal. bear
+The <mask> is related to grizzly. bear
+The <mask> is related to polar. bear
+The <mask> is related to big. bear
+The <mask> is related to brown. bear
+The <mask> is related to mammal. bear
+The <mask> is related to large. bear
+The <mask> is related to forest. bear
+The <mask> is related to claws. bear
+The <mask> is related to furry. bear
+The <mask> is related to woods. bear
+The <mask> is a synonym of bear. endure
+The <mask> is related to ursine. bear
+The <mask> is related to fur. bear
+The <mask> is related to bear. grizzly
+The <mask> is related to panda. bear
+The <mask> is a typical location for sand. crab
+The <mask> is a typical location for bay. crab
+The <mask> is a typical location for salad. crab
+The <mask> is a typical location for tidepools. crab
+The <mask> is related to ant. colony
+The <mask> is a synonym of ant. pismire
+The <mask> is a synonym of ant. emmet
+The <mask> is a typical location for dessert. lizard
+The <mask> is a typical location for California. lizard
+The <mask> is a typical location for China. lizard
+The <mask> is a typical location for house. lizard
+The <mask> is related to bird. nest
+The <mask> is related to bird. chicken
+The <mask> is related to animal. bird
+The <mask> is related to bird. duck
+The <mask> is related to bird. chick
+The <mask> is related to bird. canary
+The <mask> is related to flying. bird
+The <mask> is capable of sing. bird
+The <mask> is a typical location for bird. feather
+The <mask> is related to wings. bird
+The <mask> is related to bird. egg
+The <mask> is a typical location for tree. bird
+The <mask> is related to bird. owl
+The <mask> is a synonym of invertebrate. spineless
+The <mask> is used in the context of zoology. invertebrate
+The <mask> is the opposite of vertebrate. invertebrate
+The <mask> is related to animal. fox
+The <mask> is a typical location for england. fox
+The <mask> is a typical location for foxhunt. fox
+The <mask> is a typical location for burrow. fox
+The <mask> is a typical location for meadow. fox
+The <mask> is a typical location for box. fox
+The <mask> is related to red. fox
+The <mask> is related to ape. monkey
+The <mask> is an entity that tipically wants banana. monkey
+The <mask> is related to monkey. ape
+The <mask> is used in the context of aircraft. blackout
+The <mask> is used in the context of aircraft. lighter-than-air
+The <mask> is a part of aircraft. skin
+The <mask> is a typical location for sky. aircraft
+The <mask> is a part of aircraft. cockpit
+The <mask> is a part of aircraft. bay
+The <mask> is a synonym of bicycle-built-for-two. tandem
+The <mask> is related to one. tandem
+The <mask> is related to tandem. horse
+The <mask> is derived from tandem. tandemly
+The <mask> is related to tricycle. tandem
+The <mask> is a synonym of helicopter. chopper
+The <mask> is used for transport. helicopter
+The <mask> is used for fly. helicopter
+The <mask> is related to vessel. boat
+The <mask> is related to ship. vessel
+The <mask> is related to boat. vessel
+The <mask> is related to container. vessel
+The <mask> is a part of vessel. base
+The <mask> is a part of vessel. bilge
+The <mask> is related to craft. boat
+The <mask> is a specific way to do fashion. craft
+The <mask> is a synonym of craft. wiliness
+The <mask> is a synonym of tricycle. trike
+The <mask> is used for walking. boot
+The <mask> is a part of boot. bootlace
+The <mask> is related to hat. crown
+The <mask> is a typical location for closet. hat
+The <mask> is related to hat. captain
+The <mask> is a part of hat. hatband
+The <mask> is used for waving. hat
+The <mask> is a part of hat. brim
+The <mask> is used for begging. hat
+The <mask> is related to headdress. crown
+The <mask> is a synonym of headdress. headgear
+The <mask> is related to gumshoe. overshoe
+The <mask> is a typical location for table. vase
+The <mask> is a typical location for vase. flower
+The <mask> is used for Eating. spoon
+The <mask> is a typical location for bowl. spoon
+The <mask> is a typical location for dinner. spoon
+The <mask> is a synonym of spoon. spoonful
+The <mask> is a typical location for table. cutlery
+The <mask> is a synonym of silverware. cutlery
+The <mask> is a synonym of cutlery. silverware
+The <mask> is a typical location for table. fork
+The <mask> is a typical location for drawer. fork
+The <mask> is a typical location for plate. fork
+The <mask> is related to fork. plate
+The <mask> is a synonym of branch. fork
+The <mask> is related to tableware. plate
+The <mask> is a typical location for bathroom. toilet
+The <mask> is used for poop. toilet
+The <mask> is a typical location for house. toilet
+The <mask> is a typical location for toilet. water
+The <mask> is capable of flush. toilet
+The <mask> is used for urinate. toilet
+The <mask> is used for peeing. toilet
+The <mask> is a synonym of toilet. commode
+The <mask> is a typical location for shower. shampoo
+The <mask> is related to shower. soap
+The <mask> is used for communicate. telephone
+The <mask> is related to telephone. call
+The <mask> is used for communicating. telephone
+The <mask> is related to mail. post
+The <mask> is related to mail. letter
+The <mask> is related to mail. deliver
+The <mask> is related to radio. music
+The <mask> is a typical location for radio. voice
+The <mask> is derived from radio. radiotelephone
+The <mask> is related to temperature. thermometer
+The <mask> is related to thermometer. degree
+The <mask> is a part of thermometer. capillary
+The <mask> is a synonym of microwave. zap
+The <mask> is a synonym of microwave. nuke
+The <mask> is used for cook. stove
+The <mask> is a typical location for house. stove
+The <mask> can be described as hot. Stove
+The <mask> is related to stove. range
+The <mask> is related to stove. oven
+The <mask> is a typical location for house. heater
+The <mask> is used for heating. heater
+The <mask> is a typical location for kitchen. potato
+The <mask> is a typical location for Restaurants. potato
+The <mask> is a typical location for market. potato
+The <mask> is a typical location for Ireland. potato
+The <mask> is a typical location for stew. potato
+The <mask> is a typical location for restaurant. potato
+The <mask> is a typical location for salad. potato
+The <mask> is a typical location for soil. potato
+The <mask> is a typical location for grocery. potato
+The <mask> is made of potato. gnocchi
+The <mask> is a typical location for bag. potato
+The <mask> is a typical location for soup. bean
+The <mask> is used for cooking. bean
+The <mask> is related to cereal. corn
+The <mask> is a typical location for bar. beer
+The <mask> is used for drinking. beer
+The <mask> is a typical location for beer. alcohol
+The <mask> is a typical location for bottle. beer
+The <mask> is related to beer. bar
+The <mask> is related to beer. keg
+The <mask> can be described as harmful. beer
+The <mask> is a typical location for keg. beer
+The <mask> is a typical location for casino. beer
+The <mask> is a typical location for beer. water
+The <mask> is related to beer. drink
+The <mask> belongs to caffeine. Coffee
+The <mask> is a typical location for coffee. sugar
+The <mask> is used for coffee. mug
+The <mask> is related to coffee. sugar
+The <mask> is related to shell. egg
+The <mask> is related to shell. turtle
+The <mask> is related to shell. snail
+The <mask> belongs to shell. walnut
+The <mask> is a synonym of husk. shell
+The <mask> is a part of bracelet. clasp
+The <mask> is a synonym of bracelet. bangle
+The <mask> is a typical location for closet. umbrella
+The <mask> is related to umbrella. shade
+The <mask> is a part of umbrella. handle
+The <mask> is a synonym of ness. hood
+The <mask> is a synonym of hood. cowling
+The <mask> is a synonym of hood. tough
+The <mask> is a typical location for desk. typewriter
+The <mask> is a part of typewriter. carriage
+The <mask> is a part of typewriter. keyboard
+The <mask> is a specific way to do play. hook
+The <mask> is a specific way to do offer. hook
+The <mask> is a part of hook. barb
+The <mask> is a synonym of tweezer. tweezers
+The <mask> is related to tweezers. tweezer
+The <mask> is related to tweezers. nanotweezers
+The <mask> is a synonym of tongs. tweezers
+The <mask> is a typical location for toolbox. screwdriver
+The <mask> is an event that requires pack. travel
+The <mask> is an event that begins with pack,. travel
+The <mask> is a synonym of throng. pack
+The <mask> is a specific way to do pack. bundle
+The <mask> is a specific way to do seal. pack
+The <mask> is related to barrel. gun
+The <mask> is a typical location for barrel. monkey
+The <mask> is a specific way to do put. barrel
+The <mask> is related to cider. flagon
+The <mask> is related to flagon. flacket
+The <mask> is related to flagon. goon
+The <mask> is related to tidy. clean
+The <mask> is similar to orderly. tidy
+The <mask> is the opposite of tidy. untidy
+The <mask> is a specific way to do tidy. houseclean
+The <mask> is related to groomed. tidy
+The <mask> is a synonym of tidy. straighten
+The <mask> is similar to tidy. neat
+The <mask> is similar to tidy. straight
+The <mask> is related to cello. violin
+The <mask> is a synonym of cello. violoncello
+The <mask> is a form of cello. cellos
+The <mask> is a synonym of cello. violoncello
+The <mask> is a typical location for orchestra. clarinet
+The <mask> is a typical location for band. clarinet
+The <mask> is related to clarinet. clarinetist
+The <mask> is related to organ. eye
+The <mask> is related to organ. nose
+The <mask> is related to organ. ear
+The <mask> is a typical location for body. organ
+The <mask> is a typical location for organ. stop
+The <mask> is related to organ. liver
+The <mask> is related to organ. hand
+The <mask> is related to organ. mouth
+The <mask> is a synonym of harmonium. organ
+The <mask> is a typical location for orchestra. bassoon
+The <mask> is used for eat. bass
+The <mask> is related to guitar. bass
+The <mask> is related to fish. bass
+The <mask> is a synonym of bass. basso
+The <mask> is used for eating. bass
+The <mask> is a typical location for kitchen. kettle
+The <mask> is related to kettle. steam
+The <mask> is a synonym of kettle. timpani
+The <mask> is a synonym of kettle. tympani
+The <mask> is a synonym of woodwind. wood
+The <mask> is a synonym of uke. ukulele
+The <mask> is a form of ukulele. ukelele
+The <mask> is related to ukulele. uke
+The <mask> is related to ukulele. banjolele
+The <mask> is related to ukulele. ukulelist
+The <mask> is related to string. ukulele
+The <mask> is derived from ukulele. ukulelist
+The <mask> is a typical location for orchestra. oboe
+The <mask> is a synonym of oboe. hautbois
+The <mask> is a synonym of clavier. Klavier
+The <mask> is related to pianoforte. clavier
+The <mask> is derived from clavier. clavieristic
+The <mask> is a form of clavier. claviers
+The <mask> is related to clavier. claviers
+The <mask> is related to clavier. clavicytherium
+The <mask> is related to frog. toad
+The <mask> is a typical location for pond. frog
+The <mask> is a typical location for meadow. bee
+The <mask> is related to bee. wax
+The <mask> is a form of bee. bees
+The <mask> is a typical location for bed. cat
+The <mask> is related to feline. cat
+The <mask> is related to animal. cat
+The <mask> is related to pet. cat
+The <mask> is distinct from cat. dog
+The <mask> is related to cat. kitten
+The <mask> is a typical location for vet. cat
+The <mask> is a typical location for chair. cat
+The <mask> is a typical location for table. cat
+The <mask> can be described as feline. cat
+The <mask> is related to turtle. tortoise
+The <mask> is related to shell. turtle
+The <mask> is related to tortoise. turtle
+The <mask> is a synonym of turtleneck. turtle
+The <mask> is related to butterfly. moth
+The <mask> is used in the context of cooking. butterfly
+The <mask> is a specific way to do unfold. butterfly
+The <mask> is a synonym of crustaceous. crustacean
+The <mask> is related to bunny. rabbit
+The <mask> is related to animal. rabbit
+The <mask> is related to hare. rabbit
+The <mask> is related to ears. rabbit
+The <mask> is related to small. rabbit
+The <mask> is related to long. rabbit
+The <mask> is related to mammal. rabbit
+The <mask> is related to rodent. rabbit
+The <mask> is related to easter. rabbit
+The <mask> is related to furry. rabbit
+The <mask> is related to big. rabbit
+The <mask> is related to pet. rabbit
+The <mask> is related to bugs. rabbit
+The <mask> is related to tail. rabbit
+The <mask> is related to fluffy. rabbit
+The <mask> is related to carrots. rabbit
+The <mask> is a synonym of beetling. beetle
+The <mask> is related to ship. captain
+The <mask> is related to ship. boat
+The <mask> is a typical location for ship. captain
+The <mask> is related to ship. vessel
+The <mask> is a typical location for port. ship
+The <mask> is used for ship. mast
+The <mask> is a typical location for ship. cargo
+The <mask> is a typical location for ship. mast
+The <mask> is used in the context of ship. funnel
+The <mask> is used in the context of ship. broken-backed
+The <mask> is used in the context of ship. log
+The <mask> is related to vehicle. car
+The <mask> is related to vehicle. boat
+The <mask> is a typical location for vehicle. passengers
+The <mask> is a part of vehicle. splashboard
+The <mask> is related to water. boat
+The <mask> is related to ship. boat
+The <mask> is related to boat. captain
+The <mask> is related to boat. sail
+The <mask> is related to vessel. boat
+The <mask> is a typical location for boat. rope
+The <mask> is related to vehicle. boat
+The <mask> is used for fishing. boat
+The <mask> is related to floating. boat
+The <mask> is used for sailing. boat
+The <mask> is a typical location for boat. rudder
+The <mask> is a typical location for lake. boat
+The <mask> is related to small. boat
+The <mask> is related to boat. ferry
+The <mask> is related to sailing. boat
+The <mask> is a typical location for garage. motorcycle
+The <mask> is a typical location for motorcycle. screw
+The <mask> is a typical location for plane. alcohol
+The <mask> is used for travel. plane
+The <mask> is a typical location for plane. engine
+The <mask> is a synonym of unicycle. monocycle
+The <mask> is related to bicycle. monocycle
+The <mask> is derived from monocycle. monocyclical
+The <mask> is derived from monocycle. monocyclicity
+The <mask> is related to tetracycle. monocycle
+The <mask> is a form of monocycle. monocycles
+The <mask> is derived from cycle. monocycle
+The <mask> is related to tricycle. monocycle
+The <mask> is related to aromatic. monocycle
+The <mask> is related to gaussian. monocycle
+The <mask> is related to monowheel. monocycle
+The <mask> is related to monocycle. monocycles
+The <mask> is derived from monocycle. monocyclic
+The <mask> is derived from monocycle. monocyclist
+The <mask> is used in the context of communication. monocycle
+The <mask> is related to unicycle. monocycle
+The <mask> is a typical location for airport. taxi
+The <mask> is a synonym of taxi. cab
+The <mask> is a specific way to do ride. taxi
+The <mask> is a specific way to do travel. taxi
+The <mask> is a specific way to do join. scarf
+The <mask> is related to footwear. shoe
+The <mask> is related to footwear. sock
+The <mask> is a synonym of footwear. footgear
+The <mask> is a typical location for closet. shoe
+The <mask> is related to foot. shoe
+The <mask> is related to shoe. sock
+The <mask> is related to footwear. shoe
+The <mask> is related to feet. shoe
+The <mask> is a typical location for foot. shoe
+The <mask> is a typical location for shoe. foot
+The <mask> is related to shoe. polish
+The <mask> is related to covering. shoe
+The <mask> belongs to laces. shoe
+The <mask> is a part of shoe. sole
+The <mask> is used for wearing. shoe
+The <mask> is related to clothing. shoe
+The <mask> is related to shoe. foot
+The <mask> is related to wear. shoe
+The <mask> is related to sole. shoe
+The <mask> is related to laces. shoe
+The <mask> is related to sweater. wool
+The <mask> is a typical location for drawer. sweater
+The <mask> is a synonym of pillbox. turban
+The <mask> is a synonym of gauntlet. gantlet
+The <mask> is a synonym of gauntlet. gantlet
+The <mask> is related to cravat. regatte
+The <mask> is used in the context of historical. cravat
+The <mask> is related to triangular. cravat
+The <mask> is related to scarf. cravat
+The <mask> is a form of cravat. cravats
+The <mask> is related to cravat. cravatted
+The <mask> is related to band. cravat
+The <mask> is related to cravat. cravating
+The <mask> is related to utensil. plate
+The <mask> is related to knife. cut
+The <mask> is used for stabbing. knife
+The <mask> is a typical location for drawer. knife
+The <mask> is related to knife. blade
+The <mask> is used for butter. knife
+The <mask> is a typical location for pocket. knife
+The <mask> is capable of cut. knife
+The <mask> is related to knife. edge
+The <mask> is capable of hurt. knife
+The <mask> is a typical location for sink. water
+The <mask> is a typical location for house. sink
+The <mask> is a specific way to do sink. settle
+The <mask> is related to outlet. hydrant
+The <mask> is related to valve. hydrant
+The <mask> is related to pipe. hydrant
+The <mask> is a part of cradle. rocker
+The <mask> is a synonym of rocker. cradle
+The <mask> is related to chair. seat
+The <mask> is related to seat. chair
+The <mask> is related to sitting. seat
+The <mask> is related to sit. seat
+The <mask> is a typical location for show. seat
+The <mask> is related to place. seat
+The <mask> is related to car. seat
+The <mask> belongs to seat. car
+The <mask> is used for seat. box
+The <mask> is a part of chaise. calash
+The <mask> is a synonym of chaise. shay
+The <mask> is related to chaise. shay
+The <mask> is related to chaise. chay
+The <mask> is related to carriage. chaise
+The <mask> is derived from chaise. chaisemaker
+The <mask> is a form of chaise. chaises
+The <mask> is related to building. tower
+The <mask> is related to tower. bell
+The <mask> is related to tall. tower
+The <mask> is a typical location for city. tower
+The <mask> is related to water. bridge
+The <mask> is related to crossing. bridge
+The <mask> is related to over. bridge
+The <mask> is a typical location for bridge. river
+The <mask> is related to river. bridge
+The <mask> is a typical location for bridge. trolls
+The <mask> is related to road. bridge
+The <mask> is a typical location for bridge. beam
+The <mask> is a typical location for bridge. homeless
+The <mask> is a typical location for bridge. hobo
+The <mask> is a typical location for bridge. bum
+The <mask> is a typical location for river. bridge
+The <mask> is a typical location for printer. paper
+The <mask> is a typical location for office. printer
+The <mask> is a typical location for printer. ink
+The <mask> is a typical location for television. commercial
+The <mask> is a typical location for television. programs
+The <mask> is a typical location for television. news
+The <mask> is a typical location for television. actor
+The <mask> can be described as entertaining. Television
+The <mask> is a typical location for television. sitcom
+The <mask> is a typical location for television. cartoons
+The <mask> is a typical location for television. show
+The <mask> is used in the context of television. colorcast
+The <mask> is a typical location for dishwasher. cup
+The <mask> is a typical location for refrigerator. container
+The <mask> is used for cooking. oven
+The <mask> is a typical location for oven. pan
+The <mask> is related to stove. oven
+The <mask> can be described as yellow. banana
+The <mask> is related to banana. slip
+The <mask> is an entity that tipically wants banana. monkey
+The <mask> is related to green. spinach
+The <mask> is related to vegetable. spinach
+The <mask> is related to yellow. corn
+The <mask> is related to vegetable. corn
+The <mask> is related to cob. corn
+The <mask> is related to food. corn
+The <mask> is related to crop. corn
+The <mask> is related to maize. corn
+The <mask> is related to grain. corn
+The <mask> is related to kernels. corn
+The <mask> is related to corn. crop
+The <mask> is related to ears. corn
+The <mask> is a typical location for field. corn
+The <mask> is related to ear. corn
+The <mask> is related to plant. corn
+The <mask> is a typical location for silo\. corn
+The <mask> is a typical location for supermarket. corn
+The <mask> is related to wheat. bread
+The <mask> is related to wheat. grain
+The <mask> is a typical location for field. wheat
+The <mask> is related to wheat. crop
+The <mask> is a typical location for salad. potato
+The <mask> is a typical location for salad. fungus
+The <mask> is a part of salad. Lettuce
+The <mask> is a typical location for salad. crab
+The <mask> can be done to prepared. Salad
+The <mask> is a typical location for salad. lettuce
+The <mask> is a typical location for salad. grape
+The <mask> is a typical location for salad. carrots
+The <mask> is related to sandwich. bread
+The <mask> is a part of sandwich. Bread
+The <mask> is a typical location for lunchbox. sandwich
+The <mask> is a specific way to do organize. sandwich
+The <mask> is related to food. rice
+The <mask> is related to grain. rice
+The <mask> is related to white. rice
+The <mask> is related to grains. rice
+The <mask> is related to staple. rice
+The <mask> is related to chinese. rice
+The <mask> is related to rice. grain
+The <mask> is related to asia. rice
+The <mask> is related to asian. rice
+The <mask> is related to small. rice
+The <mask> is related to china. rice
+The <mask> is related to oriental. rice
+The <mask> is similar to uniform. regular
+The <mask> is similar to single. uniform
+The <mask> is a synonym of undifferentiated. uniform
+The <mask> is similar to uniform. single
+The <mask> is a synonym of visor. vizor
+The <mask> is a synonym of bill. visor
+The <mask> is a part of helmet. visor
+The <mask> is related to jewelry. ring
+The <mask> is used for decoration. jewelry
+The <mask> is related to jewelry. crown
+The <mask> is related to jewelry. silver
+The <mask> is an entity that tipically wants jewelry. person
+The <mask> is a typical location for safe. jewelry
+The <mask> is a typical location for bedroom. mirror
+The <mask> is related to mirror. reflection
+The <mask> is a typical location for car. mirror
+The <mask> is a typical location for desk. lamp
+The <mask> is a typical location for desktop. lamp
+The <mask> is a typical location for table. lamp
+The <mask> is related to lamp. lantern
+The <mask> is a typical location for store. lamp
+The <mask> is a typical location for building. lamp
+The <mask> is a typical location for bedroom. lamp
+The <mask> is capable of illuminate. lamp
+The <mask> is related to switch. lamp
+The <mask> is related to light. lamp
+The <mask> is used for shelter. house
+The <mask> is used for shelter. building
+The <mask> is related to shelter. shade
+The <mask> is related to shelter. home
+The <mask> is a specific way to do supply. shelter
+The <mask> is a typical location for library. photocopier
+The <mask> is related to photocopier. toner
+The <mask> is a synonym of photoduplicator. photocopier
+The <mask> is related to pin. tack
+The <mask> is a synonym of trap. pin
+The <mask> is a synonym of peg. pin
+The <mask> is a form of pin. pins
+The <mask> is a part of pin. pinhead
+The <mask> is a specific way to do till. hoe
+The <mask> is a synonym of machete. matchet
+The <mask> is a synonym of machete. panga
+The <mask> is used for cut. scissors
+The <mask> is related to scissors. cut
+The <mask> is a typical location for motorcycle. screw
+The <mask> is a synonym of fuck. screw
+The <mask> is a specific way to do revolve. screw
+The <mask> is a specific way to do tighten. screw
+The <mask> is a form of wedge. wedges
+The <mask> is a synonym of wedge. cuneus
+The <mask> is a synonym of bomber. wedge
+The <mask> is a synonym of chock. wedge
+The <mask> is a form of peeler. peelers
+The <mask> is a synonym of stripper. peeler
+The <mask> is related to tool. hammer
+The <mask> is a typical location for drawer. bag
+The <mask> is a typical location for supermarket. bag
+The <mask> is a typical location for bag. cat
+The <mask> is a typical location for bag. potato
+The <mask> is related to bag. sack
+The <mask> is a synonym of backpack. knapsack
+The <mask> is a synonym of knapsack. rucksack
+The <mask> is a synonym of knapsack. backpack
+The <mask> is a synonym of backpack. knapsack
+The <mask> is a synonym of rucksack. knapsack
+The <mask> is related to camping. knapsack
+The <mask> is related to thousand. ton
+The <mask> is related to weight. ton
+The <mask> is related to vogue. ton
+The <mask> is a form of steeper. steepers
+The <mask> is related to steeper. steepen
+The <mask> is a form of steep. steeper
+The <mask> is related to cistern. steeper
+The <mask> is related to vat. steeper
+The <mask> is related to vessel. steeper
+The <mask> is derived from steep. steeper
+The <mask> is related to steep. steeper
+The <mask> is related to steeper. mansard
+The <mask> is a typical location for bottle. water
+The <mask> is a typical location for bottle. beer
+The <mask> is a typical location for bottle. shampoo
+The <mask> is made of plastic. bottle
+The <mask> is a specific way to do put. bottle
+The <mask> is a typical location for pot. ficus
+The <mask> is a typical location for pot. plant
+The <mask> is a synonym of potentiometer. pot
+The <mask> is a typical location for pot. rosebush
+The <mask> is related to bowl. plate
+The <mask> is related to bowl. soup
+The <mask> is related to bowl. nest
+The <mask> is a typical location for bowl. spoon
+The <mask> is distinct from bowl. plate
+The <mask> is used in the context of cricket. bowl
+The <mask> is a synonym of ladle. laden
+The <mask> is a specific way to do ladle. slop
+The <mask> is a specific way to do put. ladle
+The <mask> is a form of kibble. kibbles
+The <mask> is related to iron. kibble
+The <mask> is related to grain. kibble
+The <mask> is related to animal. kibble
+The <mask> is a typical location for orchestra. clarinet
+The <mask> is a typical location for band. clarinet
+The <mask> is related to clarinet. clarinetist
+The <mask> is a synonym of synthesizer. synthesiser
+The <mask> is a synonym of synthesist. synthesizer
+The <mask> is a typical location for band. xylophone
+The <mask> is a synonym of marimba. xylophone
+The <mask> is a typical location for band. piccolo
+The <mask> is a typical location for orchestra. piccolo
+The <mask> is capable of bark. dog
+The <mask> is related to pet. dog
+The <mask> is related to animal. dog
+The <mask> is a typical location for kennel. dog
+The <mask> is related to dog. flea
+The <mask> is related to canine. dog
+The <mask> is used for companionship. dog
+The <mask> is capable of run. dog
+The <mask> is an entity that tipically wants bone. dog
+The <mask> is related to shell. snail
+The <mask> is related to snail. escargot
+The <mask> is a specific way to do gather. snail
+The <mask> is a typical location for garden. snake
+The <mask> is a typical location for tree. snake
+The <mask> is a typical location for field. snake
+The <mask> is a typical location for feild. snake
+The <mask> is a typical location for pit. snake
+The <mask> is a typical location for ditch. snake
+The <mask> is a typical location for cage. snake
+The <mask> is a typical location for creeks. snake
+The <mask> is related to snake. python
+The <mask> is a synonym of Hydra. Snake
+The <mask> is related to wolf. dog
+The <mask> is related to car. drive
+The <mask> is related to vehicle. car
+The <mask> is capable of crash. car
+The <mask> belongs to seats. car
+The <mask> is related to car. motor
+The <mask> is related to automobile. car
+The <mask> is a part of car. tire
+The <mask> is a typical location for car. stereo
+The <mask> is a typical location for freeway. car
+The <mask> is used for transportation. bicycle
+The <mask> is used for riding. bicycle
+The <mask> is made of metal. bicycle
+The <mask> is a part of bicycle. wheel
+The <mask> belongs to chain. bicycle
+The <mask> is used for Racing. bicycle
+The <mask> is a part of bicycle. pedal
+The <mask> is a typical location for farm. tractor
+The <mask> is a typical location for bus. human
+The <mask> is used for travel. bus
+The <mask> is a typical location for bus. advertisement
+The <mask> is used for transportation. bus
+The <mask> is used for transport. bus
+The <mask> is used in the context of bus. passenger
+The <mask> is a synonym of scoter. scooter
+The <mask> is a synonym of iceboat. scooter
+The <mask> is used for truck. driveway
+The <mask> is used for lifting. forklift
+The <mask> is related to glove. hand
+The <mask> is related to glove. sock
+The <mask> is a part of glove. thumb
+The <mask> is a typical location for trouser. ferret
+The <mask> is derived from trouser. trouserless
+The <mask> is a specific way to do clog. stuff
+The <mask> is a specific way to do coalesce. clog
+The <mask> is a specific way to do restrain. clog
+The <mask> is a synonym of clog. sabot
+The <mask> is a synonym of pillbox. toque
+The <mask> is related to woollen. toque
+The <mask> is related to flamenco. toque
+The <mask> is related to hat. toque
+The <mask> is related to white. toque
+The <mask> is used in the context of specifically. toque
+The <mask> is related to conical. toque
+The <mask> is related to religious. toque
+The <mask> is a typical location for jar. pickles
+The <mask> is a typical location for jar. jelly
+The <mask> is a typical location for pantry. jar
+The <mask> is a typical location for jar. jam
+The <mask> is a typical location for jar. food
+The <mask> is a typical location for jar. mayonnaise
+The <mask> is a typical location for jar. olives
+The <mask> is a typical location for refrigerator. jar
+The <mask> is a typical location for jar. pennies
+The <mask> is a typical location for jar. cherries
+The <mask> is related to measurement. tablespoon
+The <mask> is related to entrance. door
+The <mask> is used for entering. entrance
+The <mask> is related to entrance. gate
+The <mask> is related to room. hall
+The <mask> is related to corridor. hall
+The <mask> is related to long. hall
+The <mask> is related to rooms. hall
+The <mask> is related to passageway. hall
+The <mask> is a form of hall. halls
+The <mask> is a synonym of corridor. hall
+The <mask> is a typical location for desktop. monitor
+The <mask> is used for amplify. microphone
+The <mask> is a synonym of microphone. mike
+The <mask> is used for amplification. microphone
+The <mask> is a part of incubator. thermostat
+The <mask> is a specific way to do control. thermostat
+The <mask> is a synonym of thermostat. thermoregulator
+The <mask> is a typical location for backpack. compass
+The <mask> is related to compass. east
+The <mask> is related to bread. toaster
+The <mask> is a form of dryer. dryers
+The <mask> is a synonym of kettle. boiler
+The <mask> is related to fruit. apple
+The <mask> can be described as red. apple
+The <mask> is related to red. apple
+The <mask> can be described as green. apple
+The <mask> can be done to eaten. apple
+The <mask> is used for eating. apple
+The <mask> is related to green. apple
+The <mask> is related to core. apple
+The <mask> is related to eve. apple
+The <mask> is related to tree. apple
+The <mask> is related to computer. apple
+The <mask> is related to round. apple
+The <mask> is related to mac. apple
+The <mask> is related to adam. apple
+The <mask> is related to pie. apple
+The <mask> is related to pear. apple
+The <mask> can be described as orange. Pumpkins
+The <mask> is related to orange. color
+The <mask> can be described as orange. Carrots
+The <mask> is related to fruit. orange
+The <mask> is related to orange. apple
+The <mask> is related to citrus. orange
+The <mask> is related to orange. fire
+The <mask> is related to color. orange
+The <mask> is related to red. tomato
+The <mask> is related to vegetable. cucumber
+The <mask> is a part of cucumber. cucumber
+The <mask> is related to grain. rice
+The <mask> is related to grain. corn
+The <mask> is related to wheat. grain
+The <mask> is related to grain. bread
+The <mask> is related to grain. sand
+The <mask> is related to rice. grain
+The <mask> is related to food. grain
+The <mask> is related to grain. seed
+The <mask> is related to sand. grain
+The <mask> belongs to alcohol. Wine
+The <mask> is used for Drinking. wine
+The <mask> is related to grapes. wine
+The <mask> is related to alcohol. wine
+The <mask> is related to drink. wine
+The <mask> is related to grape. wine
+The <mask> is related to alcoholic. wine
+The <mask> is related to fermented. wine
+The <mask> is related to red. wine
+The <mask> is related to beverage. wine
+The <mask> is related to juice. wine
+The <mask> is a typical location for wine. alcohol
+The <mask> is related to wine. grape
+The <mask> belongs to caffeine. Tea
+The <mask> belongs to caffein. Tea
+The <mask> is a typical location for cupboard. tea
+The <mask> can be done to brewed. tea
+The <mask> is related to liquid. drink
+The <mask> is used for drink. water
+The <mask> is related to beverage. drink
+The <mask> is related to drink. milk
+The <mask> is related to water. drink
+The <mask> is related to drink. wine
+The <mask> is related to imbibe. drink
+The <mask> is related to drink. shake
+The <mask> is related to swallow. drink
+The <mask> is related to action. drink
+The <mask> is related to thirst. drink
+The <mask> is related to glass. drink
+The <mask> is related to juice. milk
+The <mask> is related to juice. wine
+The <mask> is related to head. helmet
+The <mask> is a synonym of vest. robe
+The <mask> is a synonym of vest. waistcoat
+The <mask> is a specific way to do decorate. bead
+The <mask> is a synonym of drop. bead
+The <mask> is related to glass. window
+The <mask> is related to window. glass
+The <mask> is used for drinking. glass
+The <mask> is related to clear. glass
+The <mask> is related to material. glass
+The <mask> can be done to broken. glass
+The <mask> is related to drinking. glass
+The <mask> is related to transparent. glass
+The <mask> is related to windows. glass
+The <mask> is related to glass. drink
+The <mask> is related to sand. glass
+The <mask> is related to cup. glass
+The <mask> can be described as recyclable. Glass
+The <mask> can be described as clear. glass
+The <mask> is a typical location for glass. water
+The <mask> is related to dish. plate
+The <mask> is related to food. plate
+The <mask> is related to eating. plate
+The <mask> is related to round. plate
+The <mask> is related to dinner. plate
+The <mask> is related to flat. plate
+The <mask> is related to bowl. plate
+The <mask> is related to china. plate
+The <mask> is related to saucer. plate
+The <mask> is related to eat. plate
+The <mask> is related to circle. plate
+The <mask> is related to table. plate
+The <mask> is related to crockery. plate
+The <mask> is related to utensil. plate
+The <mask> is related to dinnerware. plate
+The <mask> is related to serving. plate
+The <mask> is related to surface. plate
+The <mask> is related to ceramic. plate
+The <mask> is a synonym of parasol. sunshade
+The <mask> is related to blanket. cover
+The <mask> is a typical location for bedroom. blanket
+The <mask> is related to blanket. quilt
+The <mask> is a synonym of across-the-board. blanket
+The <mask> is a synonym of blanket. mantle
+The <mask> is related to draw. whiteboard
+The <mask> is related to imageboard. whiteboard
+The <mask> is related to whiteboard. markerboard
+The <mask> is a typical location for meeting. whiteboard
+The <mask> is related to whiteboard. blackboard
+The <mask> is related to tool. whiteboard
+The <mask> is related to whiteboard. slate
+The <mask> is related to chalkboard. whiteboard
+The <mask> is related to phonograph. record
+The <mask> is related to play. phonograph
+The <mask> is related to phonograph. archeophone
+The <mask> is related to lathe. phonograph
+The <mask> is related to phonograph. disk
+The <mask> is related to archive. phonograph
+The <mask> is related to capture. phonograph
+The <mask> is related to phonograph. phonographs
+The <mask> is a part of anchor. shank
+The <mask> is a synonym of anchor. lynchpin
+The <mask> is used for cutting. scalpel
+The <mask> is a typical location for bottle. water
+The <mask> is a typical location for bottle. beer
+The <mask> is a typical location for bottle. shampoo
+The <mask> is made of plastic. bottle
+The <mask> is a specific way to do put. bottle
+The <mask> is related to container. box
+The <mask> is related to container. can
+The <mask> is related to container. case
+The <mask> is related to container. glass
+The <mask> is a typical location for pantry. container
+The <mask> is a typical location for refrigerator. container
+The <mask> is related to container. tin
+The <mask> is related to container. vessel
+The <mask> is a typical location for container. soup
+The <mask> is a specific way to do play. pipe
+The <mask> is a specific way to do transport. pipe
+The <mask> is used in the context of masonry. mortar
+The <mask> is related to can. tin
+The <mask> is related to container. can
+The <mask> is related to tin. can
+The <mask> is related to soda. can
+The <mask> is related to food. can
+The <mask> is related to aluminum. can
+The <mask> is related to metal. can
+The <mask> is a typical location for cupboard. can
+The <mask> is a typical location for can. soda
+The <mask> is a typical location for can. drink
+The <mask> is related to cylinder. can
+The <mask> is related to able. can
+The <mask> is related to can. paint
+The <mask> is related to can. able
+The <mask> is related to metal. tin
+The <mask> is related to can. tin
+The <mask> is related to tin. metal
+The <mask> is related to tin. can
+The <mask> is related to cans. tin
+The <mask> is related to aluminum. tin
+The <mask> is related to container. tin
+The <mask> is related to element. tin
+The <mask> is related to material. tin
+The <mask> is related to food. tin
+The <mask> is related to foil. tin
+The <mask> is related to alloy. tin
+The <mask> is related to thin. tin
+The <mask> is related to roof. tin
+The <mask> is a synonym of bucket. pail
+The <mask> is a synonym of pail. bucket
+The <mask> is a specific way to do put. bucket
+The <mask> is related to liquid. bucket
+The <mask> is a synonym of bucket. bucketful
+The <mask> is a typical location for ashtray. cigarette
+The <mask> is a synonym of dustpan. dustpanful
+The <mask> is a specific way to do sound. drum
+The <mask> is a specific way to do play. drum
+The <mask> is a synonym of harmonica. harp
+The <mask> is related to trombone. trombonist
+The <mask> is a typical location for orchestra. trombone
+The <mask> is used for music. trombone
+The <mask> is a typical location for band. trombone
+The <mask> is a synonym of percussion. pleximetry
+The <mask> is a specific way to do crimp. flute
+The <mask> is related to guitar. chord
+The <mask> is used for music. guitar
+The <mask> belongs to strings. guitar
+The <mask> is related to guitar. bass
+The <mask> is related to string. guitar
+The <mask> is used for sound. guitar
+The <mask> is made of strings. guitar
+The <mask> is a typical location for guitar. string
+The <mask> is a typical location for band. guitar
+The <mask> is related to instrument. saxophone
+The <mask> is a typical location for band. saxophone
+The <mask> is related to jazz. saxophone
+The <mask> is a synonym of sax. saxophone
+The <mask> is used for blowing. saxophone
+The <mask> is related to musical. saxophone
+The <mask> is related to brass. saxophone
+The <mask> is related to sitar. sitars
+The <mask> is related to sitar. sympitar
+The <mask> is a typical location for circus. elephant
+The <mask> is related to elephant. tusk
+The <mask> belongs to trunk. elephant
+The <mask> is a typical location for Africa. elephant
+The <mask> is a typical location for zoo. elephant
+The <mask> is related to animal. squirrel
+The <mask> is related to animal. sheep
+The <mask> is related to animal. horse
+The <mask> is related to animal. bear
+The <mask> is related to animal. dog
+The <mask> is related to animal. fish
+The <mask> is related to animal. cow
+The <mask> is related to animal. bird
+The <mask> is related to animal. pig
+The <mask> is related to animal. rabbit
+The <mask> is related to animal. chicken
+The <mask> is a typical location for zoo. animal
+The <mask> is related to animal. mole
+The <mask> is related to animal. cat
+The <mask> is related to animal. bat
+The <mask> is related to animal. duck
+The <mask> is related to animal. farm
+The <mask> is related to animal. creature
+The <mask> is related to insect. flea
+The <mask> is related to insect. fly
+The <mask> is related to insect. mosquito
+The <mask> is related to bug. insect
+The <mask> is capable of roar. lion
+The <mask> is a typical location for africa. lion
+The <mask> is a part of lion. mane
+The <mask> is a part of deer. scut
+The <mask> is related to spider. web
+The <mask> is related to arachnid. spider
+The <mask> is a typical location for web. spider
+The <mask> is derived from fly. sawfly
+The <mask> is related to sawfly. woodwasp
+The <mask> is used for traveling. airplane
+The <mask> belongs to propellers. airplane
+The <mask> is a part of airplane. wing
+The <mask> is used in the context of airplane. log
+The <mask> is related to mower. mowers
+The <mask> is derived from mow. mower
+The <mask> is derived from mow. mower
+The <mask> is related to hay. mower
+The <mask> is derived from mower. mowerless
+The <mask> is related to mower. scytheman
+The <mask> belongs to wheels. wagon
+The <mask> is a typical location for garage. wagon
+The <mask> is a part of wagon. axletree
+The <mask> is a specific way to do travel. tram
+The <mask> is a synonym of streetcar. tram
+The <mask> is a synonym of tram. streetcar
+The <mask> is a synonym of tramcar. tram
+The <mask> is a synonym of tramway. tram
+The <mask> is used in the context of weaving. tram
+The <mask> is derived from tram. tramway
+The <mask> is derived from tram. tramshed
+The <mask> is related to boat. yacht
+The <mask> is related to yacht. boat
+The <mask> is used for race. yacht
+The <mask> is related to sail. yacht
+The <mask> is related to master. yacht
+The <mask> is used for sail. yacht
+The <mask> is similar to dirigible. zeppelin
+The <mask> is a synonym of dirigible. steerable
+The <mask> is similar to dirigible. manageable
+The <mask> is a synonym of airship. dirigible
+The <mask> is similar to manageable. dirigible
+The <mask> is related to dirigible. balloon
+The <mask> is related to skirt. dress
+The <mask> is a part of skirt. placket
+The <mask> is a synonym of hedge. skirt
+The <mask> is a typical location for cap. feather
+The <mask> is a typical location for closet. neckwear
+The <mask> is related to neckwear. wear
+The <mask> is related to necklace. neckwear
+The <mask> is related to foot. sock
+The <mask> is related to shoe. sock
+The <mask> is related to feet. sock
+The <mask> is a typical location for drawer. sock
+The <mask> is related to clothing. sock
+The <mask> is related to covering. sock
+The <mask> is related to shoes. sock
+The <mask> is related to footwear. sock
+The <mask> is related to under. sock
+The <mask> is related to cloth. sock
+The <mask> is related to cover. sock
+The <mask> is related to inside. sock
+The <mask> is related to garment. sock
+The <mask> is a typical location for sock. foot
+The <mask> is related to wear. sock
+The <mask> is related to cotton. sock
+The <mask> is related to clothing. dress
+The <mask> is related to skirt. dress
+The <mask> is related to clothes. dress
+The <mask> is related to women. dress
+The <mask> is related to female. dress
+The <mask> is related to woman. dress
+The <mask> is related to long. dress
+The <mask> is related to garment. dress
+The <mask> is related to gown. dress
+The <mask> is related to girls. dress
+The <mask> is related to womans. dress
+The <mask> is related to girl. dress
+The <mask> is related to wear. dress
+The <mask> is related to frock. dress
+The <mask> is related to attire. dress
+The <mask> is related to clothe. dress
+The <mask> is a synonym of skidder. slipper
+The <mask> is a synonym of dissemble. mask
+The <mask> is a typical location for closet. shirt
+The <mask> is used for wearing. shirt
+The <mask> is related to shirt. cotton
+The <mask> is related to shirt. sleeve
+The <mask> is a part of shirt. dickey
+The <mask> is a part of blouse. neckline
+The <mask> is related to jacket. coat
+The <mask> is related to coat. jacket
+The <mask> is related to cup. mug
+The <mask> is used for coffee. mug
+The <mask> is used for drinker. mug
+The <mask> is a synonym of chump. mug
+The <mask> is a part of mug. handle
+The <mask> is related to water. fountain
+The <mask> is a synonym of spring. fountain
+The <mask> is a synonym of fountain. fount
+The <mask> is related to lavatory. gentlemen's
+The <mask> is a synonym of toilet. lavatory
+The <mask> is related to lavatory. gentlemen
+The <mask> is a synonym of washbasin. lavatory
+The <mask> is related to lavatory. john
+The <mask> is related to sitting. chair
+The <mask> is related to chair. seat
+The <mask> is related to seat. chair
+The <mask> is a typical location for desk. chair
+The <mask> is related to furniture. chair
+The <mask> is related to sit. chair
+The <mask> is a typical location for chair. cat
+The <mask> is related to table. chair
+The <mask> is related to legs. chair
+The <mask> is a typical location for cubicle. chair
+The <mask> is used for resting. chair
+The <mask> is related to chair. table
+The <mask> is related to four. chair
+The <mask> is related to seating. chair
+The <mask> is related to chair. desk
+The <mask> is related to fence. gate
+The <mask> is related to door. gate
+The <mask> is related to opening. gate
+The <mask> is related to entrance. gate
+The <mask> is a specific way to do operate. gate
+The <mask> is related to entrance. door
+The <mask> is related to opening. door
+The <mask> is related to house. door
+The <mask> is a typical location for building. door
+The <mask> is related to portal. door
+The <mask> is related to knob. door
+The <mask> is related to entry. door
+The <mask> is a typical location for door. knob
+The <mask> is related to door. window
+The <mask> is related to door. gate
+The <mask> is related to room. door
+The <mask> is a part of door. handle
+The <mask> is a typical location for door. lock
+The <mask> belongs to door. house
+The <mask> is related to wall. door
+The <mask> can be done to opened. door
+The <mask> is related to exit. door
+The <mask> is related to open. door
+The <mask> is related to handle. door
+The <mask> is a typical location for airport. terminal
+The <mask> is similar to fatal. terminal
+The <mask> is a synonym of torch. flashlight
+The <mask> is a typical location for fireplace. fire
+The <mask> is used for warmth. fireplace
+The <mask> is a part of chimney. fireplace
+The <mask> is a part of fireplace. hearthstone
+The <mask> is a part of fireplace. mantel
+The <mask> is related to fruit. apple
+The <mask> is used for eating. fruit
+The <mask> can be done to eaten. Fruit
+The <mask> is a typical location for tree. fruit
+The <mask> is a typical location for market. fruit
+The <mask> is related to fruit. grape
+The <mask> is related to fruit. produce
+The <mask> is related to fruit. orange
+The <mask> is related to fruit. lemon
+The <mask> is related to fruit. lime
+The <mask> is related to fruit. raspberry
+The <mask> is related to fruit. peach
+The <mask> is related to food. bread
+The <mask> is a typical location for breadbox. bread
+The <mask> is related to loaf. bread
+The <mask> is related to bread. roll
+The <mask> is related to wheat. bread
+The <mask> is used for eating. bread 
+The <mask> is related to baked. bread
+The <mask> belongs to yeast. bread
+The <mask> is related to sandwich. bread
+The <mask> is related to bread. cake
+The <mask> is a typical location for store. bread
+The <mask> is a typical location for market. bread
+The <mask> is related to yeast. bread
+The <mask> is related to flour. bread
+The <mask> is related to grain. bread
+The <mask> is related to dough. bread
+The <mask> is a typical location for dinner. bread
+The <mask> is related to sandwiches. bread
+The <mask> is a typical location for pizza. cheese
+The <mask> is related to cheese. macaroni
+The <mask> belongs to flavor. Cheese
+The <mask> is a typical location for plate. cheese
+The <mask> is used for decorate. necklace
+The <mask> is a part of necklace. pendant
+The <mask> is a synonym of pendant. pendent
+The <mask> is a synonym of chandelier. pendant
+The <mask> is a part of necklace. pendant
+The <mask> is made of glass. lens
+The <mask> is related to lens. eye
+The <mask> is a typical location for microscope. lens
+The <mask> is a part of eye. lens
+The <mask> is a part of bicycle. wheel
+The <mask> is used for rolling. wheel
+The <mask> is a part of wheel. felloe
+The <mask> is used for turn. wheel
+The <mask> is a specific way to do revolve. wheel
+The <mask> is a part of parachute. canopy
+The <mask> is a part of cockpit. canopy
+The <mask> is a synonym of duplicator. copier
+The <mask> is a form of copier. copiers
+The <mask> is related to machine. copier
+The <mask> is related to copier. copiers
+The <mask> is related to material. copier
+The <mask> is a synonym of xeroxer. copier
+The <mask> is related to rod. stick
+The <mask> is a synonym of gat. rod
+The <mask> is a part of retina. rod
+The <mask> is used for fasten. bolt
+The <mask> is a synonym of bolt. deadbolt
+The <mask> is a synonym of slapdash. bolt
+The <mask> is a synonym of telegram. wire
+The <mask> is used for fasten. wire
+The <mask> is a synonym of shovel. shovelful
+The <mask> is a specific way to do dig. shovel
+The <mask> is a specific way to do dig. spade
+The <mask> is a form of spade. spades
+The <mask> is a specific way to do smooth. rake
+The <mask> is a synonym of rake. profligate
+The <mask> is a specific way to do dig. trowel
+The <mask> is used for shaving. razor
+The <mask> is used for cut. razor
+The <mask> can be described as sharp. razor
+The <mask> is a synonym of limiter. clipper
+The <mask> is a part of lever. fulcrum
+The <mask> is a synonym of pulley. block
+The <mask> is related to container. box
+The <mask> is related to cardboard. box
+The <mask> is related to cube. box
+The <mask> is related to square. box
+The <mask> is a typical location for box. chocolate
+The <mask> is related to box. case
+The <mask> is a typical location for closet. box
+The <mask> is related to box. safe
+The <mask> is related to sides. box
+The <mask> is related to storage. box
+The <mask> is used for storage. box
+The <mask> is a typical location for box. space
+The <mask> is a typical location for box. fox
+The <mask> is a specific way to do work. rack
+The <mask> is a synonym of single-foot. rack
+The <mask> is related to garbage. waste
+The <mask> can be done to recycled. Garbage
+The <mask> is used for recycling. garbage

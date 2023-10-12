@@ -1,0 +1,42 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "onion has a part of [MASK]." 
+Output:
+ ['isothiocyanate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "coffee has a part of [MASK]." 
+Output:
+ ['caffein', 'caffeine', 'coffee']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shell has a part of [MASK]." 
+Output:
+ ['shell']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tea has a part of [MASK]." 
+Output:
+ ['caffein', 'caffeine', 'tea']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shirt has a part of [MASK]." 
+Output:
+ ['shirting']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bread has a part of [MASK]." 
+Output:
+ ['flour']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cheese has a part of [MASK]." 
+Output:
+ ['curd']
+

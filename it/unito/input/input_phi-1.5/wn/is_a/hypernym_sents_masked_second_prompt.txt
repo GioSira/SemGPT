@@ -1,0 +1,1266 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cello is a [MASK]." 
+Output:
+ ['string']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "violin is a [MASK]." 
+Output:
+ ['string']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trombone is a [MASK]." 
+Output:
+ ['brass']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "organ is a [MASK]." 
+Output:
+ ['wind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "percussion is a [MASK]." 
+Output:
+ ['instrument']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bass is a [MASK]." 
+Output:
+ ['instrument']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "flute is a [MASK]." 
+Output:
+ ['wood', 'woodwind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "woodwind is a [MASK]." 
+Output:
+ ['wind']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ukulele is a [MASK]." 
+Output:
+ ['guitar']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "piccolo is a [MASK]." 
+Output:
+ ['flute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "clavier is a [MASK]." 
+Output:
+ ['keyboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mandolin is a [MASK]." 
+Output:
+ ['chordophone']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dog is a [MASK]." 
+Output:
+ ['canine', 'canid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "elephant is a [MASK]." 
+Output:
+ ['pachyderm', 'proboscidean', 'proboscidian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "frog is a [MASK]." 
+Output:
+ ['amphibian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bee is a [MASK]." 
+Output:
+ ['hymenopteron', 'hymenopteran', 'hymenopter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "snail is a [MASK]." 
+Output:
+ ['univalve', 'gastropod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "animal is a [MASK]." 
+Output:
+ ['being', 'organism']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bear is a [MASK]." 
+Output:
+ ['carnivore']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "snake is a [MASK]." 
+Output:
+ ['diapsid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "insect is a [MASK]." 
+Output:
+ ['arthropod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crab is a [MASK]." 
+Output:
+ ['decapod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cat is a [MASK]." 
+Output:
+ ['felid', 'feline']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lion is a [MASK]." 
+Output:
+ ['cat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "turtle is a [MASK]." 
+Output:
+ ['chelonian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ant is a [MASK]." 
+Output:
+ ['hymenopteron', 'hymenopteran', 'hymenopter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mussel is a [MASK]." 
+Output:
+ ['mytilid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wolf is a [MASK]." 
+Output:
+ ['canine', 'canid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tiger is a [MASK]." 
+Output:
+ ['cat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lizard is a [MASK]." 
+Output:
+ ['saurian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bird is a [MASK]." 
+Output:
+ ['vertebrate', 'craniate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "invertebrate is a [MASK]." 
+Output:
+ ['creature', 'brute', 'fauna', 'animal', 'beast']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fox is a [MASK]." 
+Output:
+ ['canine', 'canid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "deer is a [MASK]." 
+Output:
+ ['ruminant']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spider is a [MASK]." 
+Output:
+ ['arachnid', 'arachnoid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "butterfly is a [MASK]." 
+Output:
+ ['lepidopteran', 'lepidopteron']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crustacean is a [MASK]." 
+Output:
+ ['arthropod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rabbit is a [MASK]." 
+Output:
+ ['leporid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "monkey is a [MASK]." 
+Output:
+ ['primate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "salamander is a [MASK]." 
+Output:
+ ['amphibian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sawfly is a [MASK]." 
+Output:
+ ['hymenopteron', 'hymenopteran', 'hymenopter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beetle is a [MASK]." 
+Output:
+ ['insect']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ship is a [MASK]." 
+Output:
+ ['watercraft', 'vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "aircraft is a [MASK]." 
+Output:
+ ['craft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vehicle is a [MASK]." 
+Output:
+ ['transport', 'conveyance']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tandem is a [MASK]." 
+Output:
+ ['cycle', 'bike', 'bicycle', 'wheel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boat is a [MASK]." 
+Output:
+ ['watercraft', 'vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vessel is a [MASK]." 
+Output:
+ ['craft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jet is a [MASK]." 
+Output:
+ ['plane', 'airplane', 'aeroplane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "craft is a [MASK]." 
+Output:
+ ['vehicle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "carrier is a [MASK]." 
+Output:
+ ['warship']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "yacht is a [MASK]." 
+Output:
+ ['watercraft', 'vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bulldozer is a [MASK]." 
+Output:
+ ['tractor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "taxi is a [MASK]." 
+Output:
+ ['automobile', 'machine', 'motorcar', 'car', 'auto']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "skirt is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boot is a [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glove is a [MASK]." 
+Output:
+ ['handwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hat is a [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "scarf is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pant is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "footwear is a [MASK]." 
+Output:
+ ['covering']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "handwear is a [MASK]." 
+Output:
+ ['wearable', 'habiliment', 'wear', 'clothing', 'vesture']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cap is a [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "neckwear is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trouser is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shoe is a [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sock is a [MASK]." 
+Output:
+ ['hosiery', 'hose']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "headdress is a [MASK]." 
+Output:
+ ['wearable', 'habiliment', 'wear', 'clothing', 'vesture']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sweater is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "slipper is a [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mask is a [MASK]." 
+Output:
+ ['covering', 'disguise']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "turban is a [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shawl is a [MASK]." 
+Output:
+ ['cloak']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shirt is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "overshoe is a [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mitten is a [MASK]." 
+Output:
+ ['glove']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sombrero is a [MASK]." 
+Output:
+ ['lid', 'chapeau', 'hat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blouse is a [MASK]." 
+Output:
+ ['top']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jacket is a [MASK]." 
+Output:
+ ['coat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "clog is a [MASK]." 
+Output:
+ ['footgear', 'footwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gauntlet is a [MASK]." 
+Output:
+ ['glove']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "toque is a [MASK]." 
+Output:
+ ['lid', 'chapeau', 'hat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cravat is a [MASK]." 
+Output:
+ ['neckwear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "utensil is a [MASK]." 
+Output:
+ ['implement']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jar is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vase is a [MASK]." 
+Output:
+ ['jar']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jug is a [MASK]." 
+Output:
+ ['bottle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spoon is a [MASK]." 
+Output:
+ ['container', 'cutlery']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cutlery is a [MASK]." 
+Output:
+ ['tableware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fork is a [MASK]." 
+Output:
+ ['cutlery']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tablespoon is a [MASK]." 
+Output:
+ ['containerful']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tableware is a [MASK]." 
+Output:
+ ['ware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fountain is a [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "toilet is a [MASK]." 
+Output:
+ ['room']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hydrant is a [MASK]." 
+Output:
+ ['faucet', 'spigot']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rocker is a [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "chair is a [MASK]." 
+Output:
+ ['seat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "seat is a [MASK]." 
+Output:
+ ['support']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheelchair is a [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "armchair is a [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "chaise is a [MASK]." 
+Output:
+ ['chair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "entrance is a [MASK]." 
+Output:
+ ['access', 'approach']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tower is a [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bridge is a [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hall is a [MASK]." 
+Output:
+ ['corridor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "monitor is a [MASK]." 
+Output:
+ ['display']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "printer is a [MASK]." 
+Output:
+ ['peripheral', 'printer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "television is a [MASK]." 
+Output:
+ ['receiver']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "radio is a [MASK]." 
+Output:
+ ['broadcasting']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "thermostat is a [MASK]." 
+Output:
+ ['regulator']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dryer is a [MASK]." 
+Output:
+ ['appliance']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "heater is a [MASK]." 
+Output:
+ ['device']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boiler is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "appliance is a [MASK]." 
+Output:
+ ['appliance']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fireplace is a [MASK]." 
+Output:
+ ['recess', 'niche']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "apple is a [MASK]." 
+Output:
+ ['pome']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "strawberry is a [MASK]." 
+Output:
+ ['herb']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pear is a [MASK]." 
+Output:
+ ['pome']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "orange is a [MASK]." 
+Output:
+ ['citrus']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "carrot is a [MASK]." 
+Output:
+ ['root']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cabbage is a [MASK]." 
+Output:
+ ['crucifer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spinach is a [MASK]." 
+Output:
+ ['vegetable']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tomato is a [MASK]." 
+Output:
+ ['herb']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cucumber is a [MASK]." 
+Output:
+ ['melon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "corn is a [MASK]." 
+Output:
+ ['cereal', 'grain']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheat is a [MASK]." 
+Output:
+ ['cereal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "potato is a [MASK]." 
+Output:
+ ['starches']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "grain is a [MASK]." 
+Output:
+ ['foodstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bean is a [MASK]." 
+Output:
+ ['legume']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cereal is a [MASK]." 
+Output:
+ ['foodstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bread is a [MASK]." 
+Output:
+ ['starches']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cheese is a [MASK]." 
+Output:
+ ['food']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "salad is a [MASK]." 
+Output:
+ ['dish']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rice is a [MASK]." 
+Output:
+ ['cereal', 'grain', 'starches']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wine is a [MASK]." 
+Output:
+ ['intoxicant', 'alcohol', 'inebriant']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beer is a [MASK]." 
+Output:
+ ['brewage', 'brew']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tea is a [MASK]." 
+Output:
+ ['drinkable', 'beverage', 'drink', 'potable']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "drink is a [MASK]." 
+Output:
+ ['food', 'nutrient', 'liquid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "coffee is a [MASK]." 
+Output:
+ ['drinkable', 'beverage', 'drink', 'potable']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "juice is a [MASK]." 
+Output:
+ ['foodstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "helmet is a [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shell is a [MASK]." 
+Output:
+ ['scute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shield is a [MASK]." 
+Output:
+ ['armour', 'armor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vest is a [MASK]." 
+Output:
+ ['garment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "uniform is a [MASK]." 
+Output:
+ ['wearable', 'habiliment', 'wear', 'clothing', 'vesture']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bracelet is a [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "necklace is a [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jewelry is a [MASK]." 
+Output:
+ ['adornment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "earring is a [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pendant is a [MASK]." 
+Output:
+ ['adornment']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bead is a [MASK]." 
+Output:
+ ['jewellery', 'jewelry']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mirror is a [MASK]." 
+Output:
+ ['reflector']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glass is a [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheel is a [MASK]." 
+Output:
+ ['machine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "plate is a [MASK]." 
+Output:
+ ['sheet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "umbrella is a [MASK]." 
+Output:
+ ['canopy']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hood is a [MASK]." 
+Output:
+ ['headdress', 'headgear']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "parasol is a [MASK]." 
+Output:
+ ['shade']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blanket is a [MASK]." 
+Output:
+ ['bedding', 'bedclothes']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "canopy is a [MASK]." 
+Output:
+ ['fabric', 'cloth', 'material', 'textile']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shelter is a [MASK]." 
+Output:
+ ['structure', 'construction']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "copier is a [MASK]." 
+Output:
+ ['copier', 'duplicator']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "photocopier is a [MASK]." 
+Output:
+ ['copier', 'duplicator']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "phonograph is a [MASK]." 
+Output:
+ ['machine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "anchor is a [MASK]." 
+Output:
+ ['hook', 'claw']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rod is a [MASK]." 
+Output:
+ ['implement']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bolt is a [MASK]." 
+Output:
+ ['screw']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wire is a [MASK]." 
+Output:
+ ['ligament']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pin is a [MASK]." 
+Output:
+ ['fastener', 'fastening', 'holdfast', 'fixing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hook is a [MASK]." 
+Output:
+ ['curve']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hoe is a [MASK]." 
+Output:
+ ['tool']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rake is a [MASK]." 
+Output:
+ ['tool']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "machete is a [MASK]." 
+Output:
+ ['knife']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "clipper is a [MASK]." 
+Output:
+ ['scissors']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "screw is a [MASK]." 
+Output:
+ ['fastener', 'fastening', 'holdfast', 'fixing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fastener is a [MASK]." 
+Output:
+ ['constraint', 'restraint']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gasket is a [MASK]." 
+Output:
+ ['seal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lever is a [MASK]." 
+Output:
+ ['tumbler']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pulley is a [MASK]." 
+Output:
+ ['machine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tongs is a [MASK]." 
+Output:
+ ['device']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "colander is a [MASK]." 
+Output:
+ ['strainer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "peeler is a [MASK]." 
+Output:
+ ['device']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bag is a [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "container is a [MASK]." 
+Output:
+ ['instrumentality', 'instrumentation']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pack is a [MASK]." 
+Output:
+ ['sheaf', 'bundle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "knapsack is a [MASK]." 
+Output:
+ ['bag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "box is a [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "barrel is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tank is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pipe is a [MASK]." 
+Output:
+ ['tube', 'tubing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mortar is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "steeper is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pot is a [MASK]." 
+Output:
+ ['cookware', 'vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "can is a [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bowl is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tin is a [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "flagon is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bucket is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tub is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "basket is a [MASK]." 
+Output:
+ ['container']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "basin is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ladle is a [MASK]." 
+Output:
+ ['vessel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "kibble is a [MASK]." 
+Output:
+ ['meal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tray is a [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rack is a [MASK]." 
+Output:
+ ['framework']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ashtray is a [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "garbage is a [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tidy is a [MASK]." 
+Output:
+ ['receptacle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dustpan is a [MASK]." 
+Output:
+ ['receptacle']
+

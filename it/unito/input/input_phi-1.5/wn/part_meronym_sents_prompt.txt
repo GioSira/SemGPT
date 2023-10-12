@@ -1,0 +1,618 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "piano is composed by [MASK]." 
+Output:
+ ['fall-board', 'fallboard', 'keyboard', 'clavier', 'fingerboard', 'soundboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "violin is composed by [MASK]." 
+Output:
+ ['fiddlestick']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "banjo is composed by [MASK]." 
+Output:
+ ['fingerboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mussel is composed by [MASK]." 
+Output:
+ ['mussel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bird is composed by [MASK]." 
+Output:
+ ['bill', 'nib', 'neb', 'beak', 'pecker', 'fowl', 'bird', 'feather', 'plume', 'plumage', 'furcula', 'croup', 'hindquarters', 'croupe', 'rump', 'pinion', 'pennon', 'syrinx', 'uropygium', 'wing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "invertebrate is composed by [MASK]." 
+Output:
+ ['foot', 'peristome']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "aircraft is composed by [MASK]." 
+Output:
+ ['bay', 'cabin', 'cockpit', 'nose', 'frame', 'underframe', 'skeleton', 'skin']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "helicopter is composed by [MASK]." 
+Output:
+ ['vane', 'blade', 'rotor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vessel is composed by [MASK]." 
+Output:
+ ['anchor', 'bilge', 'bow', 'stem', 'fore', 'prow', 'hull', 'rudder', 'wale', 'strake', 'washboard', 'splashboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boot is composed by [MASK]." 
+Output:
+ ['bootlace', 'bootleg', 'collar', 'counter', 'eyelet', 'eyehole', 'heel', 'insole', 'innersole', 'instep', 'outsole', 'spur', 'gad', 'toecap', 'tongue', 'upper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hat is composed by [MASK]." 
+Output:
+ ['brim', 'crown', 'hatband']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cutlery is composed by [MASK]." 
+Output:
+ ['handgrip', 'hold', 'handle', 'grip']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fork is composed by [MASK]." 
+Output:
+ ['prong', 'tine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "toilet is composed by [MASK]." 
+Output:
+ ['pot', 'stool', 'toilet', 'throne', 'can', 'commode', 'potty', 'crapper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shower is composed by [MASK]." 
+Output:
+ ['showerhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "telephone is composed by [MASK]." 
+Output:
+ ['mouthpiece', 'receiver']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "thermometer is composed by [MASK]." 
+Output:
+ ['capillary']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "stove is composed by [MASK]." 
+Output:
+ ['grating', 'grate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "onion is composed by [MASK]." 
+Output:
+ ['onion']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "potato is composed by [MASK]." 
+Output:
+ ['jacket']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bracelet is composed by [MASK]." 
+Output:
+ ['clasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "umbrella is composed by [MASK]." 
+Output:
+ ['panel', 'gore', 'handgrip', 'hold', 'handle', 'grip', 'rib']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "typewriter is composed by [MASK]." 
+Output:
+ ['carriage', 'keyboard', 'ribbon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "barrel is composed by [MASK]." 
+Output:
+ ['breech', 'bung', 'spile', 'ring', 'hoop', 'stave', 'lag', 'tap', 'spigot']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "organ is composed by [MASK]." 
+Output:
+ ['keyboard', 'pipe', 'pipework', 'pedal', 'treadle', 'clavier', 'fingerboard', 'stop']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "woodwind is composed by [MASK]." 
+Output:
+ ['thumbhole']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "turtle is composed by [MASK]." 
+Output:
+ ['shield', 'cuticle', 'carapace', 'shell', 'plastron']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crustacean is composed by [MASK]." 
+Output:
+ ['claw', 'nipper', 'pincer', 'chela']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rabbit is composed by [MASK]." 
+Output:
+ ['scut']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ship is composed by [MASK]." 
+Output:
+ ['bay', 'bulkhead', 'bulwark', 'hold', 'davit', 'deck', 'fin', "fo'c'sle", 'forecastle', 'funnel', 'caboose', 'cookhouse', 'galley', 'gyrostabiliser', 'gyrostabilizer', 'helm', 'log', 'porthole', 'ratline', 'ratlin', 'screw', 'drogue', 'mainsheet', 'tack', 'shroud', 'sheet', 'frame', 'underframe', 'skeleton', 'spar', 'stern', 'tail', 'poop', 'quarter', 'superstructure', 'top', 'topside', 'winch', 'windlass']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vehicle is composed by [MASK]." 
+Output:
+ ['splasher', 'dashboard', 'splashboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "motorcycle is composed by [MASK]." 
+Output:
+ ['kickstand', 'mudguard', 'splash-guard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "carrier is composed by [MASK]." 
+Output:
+ ['arrester']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "plane is composed by [MASK]." 
+Output:
+ ['gun', 'throttle', 'gas', 'accelerator', 'fuselage', 'cowl', 'bonnet', 'hood', 'cowling', 'pod', 'radome', 'windscreen', 'windshield', 'wing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "footwear is composed by [MASK]." 
+Output:
+ ['sole', 'toe']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shoe is composed by [MASK]." 
+Output:
+ ['collar', 'counter', 'heel', 'insole', 'innersole', 'instep', 'lace', 'lacing', 'outsole', 'saddle', 'shoelace', 'shoestring', 'spike', 'throat', 'toecap', 'tongue', 'upper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sweater is composed by [MASK]." 
+Output:
+ ['neckband', 'neckline']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "knife is composed by [MASK]." 
+Output:
+ ['blade', 'haft', 'helve', 'point']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rocker is composed by [MASK]." 
+Output:
+ ['rocker', 'round', 'rung', 'stave']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bridge is composed by [MASK]." 
+Output:
+ ['arch', 'pier', 'trestle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "television is composed by [MASK]." 
+Output:
+ ['kinescope']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cabbage is composed by [MASK]." 
+Output:
+ ['chou', 'cabbage']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spinach is composed by [MASK]." 
+Output:
+ ['spinach']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sandwich is composed by [MASK]." 
+Output:
+ ['bread', 'breadstuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jewelry is composed by [MASK]." 
+Output:
+ ['gemstone', 'gem', 'stone']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pin is composed by [MASK]." 
+Output:
+ ['head', 'pinhead', 'point', 'stem', 'shank']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "scissors is composed by [MASK]." 
+Output:
+ ['blade']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "screw is composed by [MASK]." 
+Output:
+ ['head', 'thread']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hammer is composed by [MASK]." 
+Output:
+ ['hammerhead', 'head']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bag is composed by [MASK]." 
+Output:
+ ['clasp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ton is composed by [MASK]." 
+Output:
+ ['centner', 'hundredweight', 'cwt', 'quintal', 'cental']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is composed by [MASK]." 
+Output:
+ ['bottlecap', 'mouth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ladle is composed by [MASK]." 
+Output:
+ ['handgrip', 'hold', 'handle', 'grip']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dog is composed by [MASK]." 
+Output:
+ ['flag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "car is composed by [MASK]." 
+Output:
+ ['gun', 'throttle', 'gas', 'accelerator', 'hooter', 'horn', 'fender', 'buffer', 'bumper', 'fender', 'wing', 'low', 'first', 'floorboard', 'grille', 'high', 'cowl', 'bonnet', 'hood', 'cowling', 'trunk', 'reverse', 'roof', 'sunroof', 'sunshine-roof', 'fin', 'tailfin', 'third', 'window']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bicycle is composed by [MASK]." 
+Output:
+ ['saddle', 'chain', 'handlebar', 'kickstand', 'mudguard', 'splash-guard', 'pedal', 'treadle', 'sprocket']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bus is composed by [MASK]." 
+Output:
+ ['roof', 'window']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "truck is composed by [MASK]." 
+Output:
+ ['bumper', 'roof', 'tailboard', 'tailgate']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glove is composed by [MASK]." 
+Output:
+ ['finger', 'thumb']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trouser is composed by [MASK]." 
+Output:
+ ['lap', 'leg', 'seat', 'zipper', 'zip', 'trouser']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jar is composed by [MASK]." 
+Output:
+ ['lid', 'mouth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "armchair is composed by [MASK]." 
+Output:
+ ['arm']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hall is composed by [MASK]." 
+Output:
+ ['ceiling', 'floor', 'flooring', 'wall']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "monitor is composed by [MASK]." 
+Output:
+ ['scope', 'oscilloscope', 'CRO']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tomato is composed by [MASK]." 
+Output:
+ ['tomato']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cucumber is composed by [MASK]." 
+Output:
+ ['cuke', 'cucumber']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "helmet is composed by [MASK]." 
+Output:
+ ['beaver']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glass is composed by [MASK]." 
+Output:
+ ['glass']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "phonograph is composed by [MASK]." 
+Output:
+ ['pickup', 'cartridge', 'changer', 'auto-changer', 'pickup', 'turntable']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "anchor is composed by [MASK]." 
+Output:
+ ['fluke', 'flue', 'stem', 'shank']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is composed by [MASK]." 
+Output:
+ ['bottlecap', 'mouth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pipe is composed by [MASK]." 
+Output:
+ ['spout']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "accordion is composed by [MASK]." 
+Output:
+ ['clavier', 'fingerboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "drum is composed by [MASK]." 
+Output:
+ ['drumhead', 'head']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "percussion is composed by [MASK]." 
+Output:
+ ['mallet', 'hammer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "guitar is composed by [MASK]." 
+Output:
+ ['fingerboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mandolin is composed by [MASK]." 
+Output:
+ ['fingerboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "elephant is composed by [MASK]." 
+Output:
+ ['proboscis', 'trunk', 'tusk']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "animal is composed by [MASK]." 
+Output:
+ ['face', 'caput', 'head']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "insect is composed by [MASK]." 
+Output:
+ ['ala', 'clypeus', 'mentum', 'thorax', 'wing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lion is composed by [MASK]." 
+Output:
+ ['mane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "deer is composed by [MASK]." 
+Output:
+ ['antler', 'flag', 'scut', 'withers']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "airplane is composed by [MASK]." 
+Output:
+ ['gun', 'throttle', 'gas', 'accelerator', 'fuselage', 'cowl', 'bonnet', 'hood', 'cowling', 'pod', 'radome', 'windscreen', 'windshield', 'wing']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mower is composed by [MASK]." 
+Output:
+ ['blade']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wagon is composed by [MASK]." 
+Output:
+ ['axletree']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dirigible is composed by [MASK]." 
+Output:
+ ['car', 'gondola']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "skirt is composed by [MASK]." 
+Output:
+ ['hemline', 'placket', 'zipper', 'zip']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pant is composed by [MASK]." 
+Output:
+ ['lap', 'leg', 'seat', 'zipper', 'zip', 'trouser']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cap is composed by [MASK]." 
+Output:
+ ['earlap', 'earflap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dress is composed by [MASK]." 
+Output:
+ ['bodice', 'hemline', 'neckline', 'zipper', 'zip']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shirt is composed by [MASK]." 
+Output:
+ ['dickey', 'shirtfront', 'dickie', 'dicky', 'shirtfront', 'shirtsleeve', 'shirttail']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blouse is composed by [MASK]." 
+Output:
+ ['neckline']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mug is composed by [MASK]." 
+Output:
+ ['handgrip', 'hold', 'handle', 'grip']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "chair is composed by [MASK]." 
+Output:
+ ['backrest', 'back', 'leg']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gate is composed by [MASK]." 
+Output:
+ ['hinge', 'lock']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "door is composed by [MASK]." 
+Output:
+ ['lock']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "terminal is composed by [MASK]." 
+Output:
+ ['keyboard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fireplace is composed by [MASK]." 
+Output:
+ ['hearth', 'fireside', 'hearthstone', 'mantlepiece', 'chimneypiece', 'mantel', 'mantle', 'mantelpiece']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "necklace is composed by [MASK]." 
+Output:
+ ['pendant', 'pendent']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheel is composed by [MASK]." 
+Output:
+ ['felloe', 'felly', 'rim']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bolt is composed by [MASK]." 
+Output:
+ ['clinch', 'head', 'shank']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "razor is composed by [MASK]." 
+Output:
+ ['razorblade']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "box is composed by [MASK]." 
+Output:
+ ['base', 'lid']
+

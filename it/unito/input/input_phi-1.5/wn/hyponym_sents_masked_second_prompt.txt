@@ -1,0 +1,1212 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "piano is a general term for [MASK]." 
+Output:
+ ['grand', 'Pianola', 'upright']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "violin is a general term for [MASK]." 
+Output:
+ ['Amati', 'Guarnerius', 'Strad', 'Stradavarius']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bear is a general term for [MASK]." 
+Output:
+ ['bruin', 'bruin']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ant is a general term for [MASK]." 
+Output:
+ ['slave-maker']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tiger is a general term for [MASK]." 
+Output:
+ ['tigress']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lizard is a general term for [MASK]." 
+Output:
+ ['agamid', 'chamaeleon', 'chameleon', 'gecko', 'iguanid', 'lacertid', 'monitor', 'varan', 'skink', 'scincid', 'teiid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bird is a general term for [MASK]." 
+Output:
+ ['archaeopteryx', 'archeopteryx', 'archaeornis', 'raptor', 'carinate', 'cock', 'dickey-bird', 'dickeybird', 'dickybird', 'dicky-bird', 'gallinacean', 'hen', 'Ibero-mesornis', 'nester', 'parrot', 'passerine', 'protoavis', 'ratite', 'Sinornis', 'trogon', 'twitterer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "invertebrate is a general term for [MASK]." 
+Output:
+ ['arthropod', 'lampshell', 'brachiopod', 'polyzoan', 'bryozoan', 'cnidarian', 'coelenterate', 'ctenophore', 'echinoderm', 'ectoproct', 'entoproct', 'mollusk', 'mollusc', 'shellfish', 'sipunculid', 'phoronid', 'rotifer', 'sponge', 'poriferan', 'parazoan', 'borer', 'woodborer', 'worm', 'zoophyte']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fox is a general term for [MASK]." 
+Output:
+ ['Reynard', 'vixen']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "monkey is a general term for [MASK]." 
+Output:
+ ['platyrrhinian', 'platyrrhine', 'catarrhine']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "salamander is a general term for [MASK]." 
+Output:
+ ['ambystomid', 'amphiuma', 'dicamptodon', 'dicamptodontid', 'hellbender', 'plethodont', 'newt', 'triton', 'olm', 'siren']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "aircraft is a general term for [MASK]." 
+Output:
+ ['bogy', 'bogey', 'bogie']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "helicopter is a general term for [MASK]." 
+Output:
+ ['skyhook']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vessel is a general term for [MASK]." 
+Output:
+ ['bareboat', 'boat', 'galley', 'galley', 'scooter', 'iceboat', 'ship', 'shrimper', 'yacht']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "craft is a general term for [MASK]." 
+Output:
+ ['aircraft', 'hovercraft', 'spacecraft', 'vessel', 'watercraft']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tricycle is a general term for [MASK]." 
+Output:
+ ['pedicab']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boot is a general term for [MASK]." 
+Output:
+ ['buskin', 'Wellington', 'jackboot', 'hessian']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hat is a general term for [MASK]." 
+Output:
+ ['busby', 'bearskin', 'shako', 'leghorn', 'Panama', 'sailor', 'skimmer', 'boater', 'bonnet', 'derby', 'bowler', 'deerstalker', 'stovepipe', 'beaver', 'topper', 'trilby', 'fedora', 'Stetson', 'homburg', 'millinery', 'sombrero', "sou'wester", 'sunhat', 'titfer', 'toque', 'tyrolean', 'tirolean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "headdress is a general term for [MASK]." 
+Output:
+ ['cap', 'lid', 'chapeau', 'hat', 'helmet', 'hood', 'kaffiyeh', 'mitre', 'miter', 'topknot', 'turban', 'wimple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shawl is a general term for [MASK]." 
+Output:
+ ['tallis', 'tallith', 'serape', 'sarape']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "overshoe is a general term for [MASK]." 
+Output:
+ ['golosh', 'gumshoe', 'arctic', 'galosh', 'rubber']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vase is a general term for [MASK]." 
+Output:
+ ['urn']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spoon is a general term for [MASK]." 
+Output:
+ ['soupspoon', 'tablespoon', 'teaspoon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cutlery is a general term for [MASK]." 
+Output:
+ ['fork', 'spoon', 'Spork']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fork is a general term for [MASK]." 
+Output:
+ ['tablefork']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tableware is a general term for [MASK]." 
+Output:
+ ['chopstick', 'crockery', 'dishware', 'cutlery', 'dinnerware', 'flatware', 'glasswork', 'glassware', 'service', 'silverware']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "toilet is a general term for [MASK]." 
+Output:
+ ['head', 'convenience', 'restroom', 'washroom', 'closet', 'loo', 'W.C.']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "telephone is a general term for [MASK]." 
+Output:
+ ['extension', 'handset', 'pay-phone', 'pay-station', 'radiophone', 'radiotelephone', 'speakerphone']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mail is a general term for [MASK]." 
+Output:
+ ['freemail', 'spam']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "thermometer is a general term for [MASK]." 
+Output:
+ ['cryometer', 'pyrometer', 'telethermometer', 'thermocouple', 'thermel', 'thermometrograph', 'thermograph', 'thermopile']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "stove is a general term for [MASK]." 
+Output:
+ ['cookstove', 'potbelly', 'Primus']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "heater is a general term for [MASK]." 
+Output:
+ ['brazier', 'brasier', 'convector', 'deicer', 'defroster', 'demister', 'oilstove', 'radiator', 'stove']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "appliance is a general term for [MASK]." 
+Output:
+ ['iron', 'vacuum']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "onion is a general term for [MASK]." 
+Output:
+ ['shallot', 'eschalot']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "potato is a general term for [MASK]." 
+Output:
+ ['chips', 'fries']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bean is a general term for [MASK]." 
+Output:
+ ['soya', 'soy', 'soybean']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cereal is a general term for [MASK]." 
+Output:
+ ['barleycorn', 'barley', 'buckwheat', 'corn', 'grist', 'groats', 'malt', 'millet', 'oat', 'rice', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beer is a general term for [MASK]." 
+Output:
+ ['ale', 'lager', 'suds']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "coffee is a general term for [MASK]." 
+Output:
+ ['demitasse', 'cappuccino', 'decaf', 'espresso', 'mocha']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shell is a general term for [MASK]." 
+Output:
+ ['cuticula']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shield is a general term for [MASK]." 
+Output:
+ ['scutcheon', 'escutcheon', 'pavise', 'pavis']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bracelet is a general term for [MASK]." 
+Output:
+ ['anklet', 'armilla']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "umbrella is a general term for [MASK]." 
+Output:
+ ['brolly', 'gamp']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hood is a general term for [MASK]." 
+Output:
+ ['calash', 'caleche', 'camail', 'aventail', 'ventail', 'cowl']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "typewriter is a general term for [MASK]." 
+Output:
+ ['portable', 'stenograph']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hook is a general term for [MASK]." 
+Output:
+ ['uncus']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fastener is a general term for [MASK]." 
+Output:
+ ['bellyband', 'buckle', 'button', 'carabiner', 'karabiner', 'catch', 'clasp', 'cleat', 'clinch', 'clip', 'clothespin', 'cotter', 'cottar', 'loop', 'grommet', 'cringle', 'eyelet', 'grummet', 'dowel', 'joggle', 'fillet', 'stopping', 'knot', 'lashing', 'tie-in', 'linkup', 'link', 'tie', 'lock', 'locker', 'nail', 'pin', 'screw', 'seal', 'seal', 'zipper', 'zip', 'snap', 'toggle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "barrel is a general term for [MASK]." 
+Output:
+ ['butt', 'hogshead', 'keg', 'shook', 'tun']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tank is a general term for [MASK]." 
+Output:
+ ['aquarium', 'cistern', 'gasometer', 'reservoir']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tub is a general term for [MASK]." 
+Output:
+ ['footbath']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bassoon is a general term for [MASK]." 
+Output:
+ ['contrabassoon', 'contrafagotto', 'tenoroon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bass is a general term for [MASK]." 
+Output:
+ ['contrabass', 'tuba', 'sousaphone', 'bombard', 'bombardon']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "woodwind is a general term for [MASK]." 
+Output:
+ ['reed', 'flute']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "oboe is a general term for [MASK]." 
+Output:
+ ['heckelphone', 'shawm']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "frog is a general term for [MASK]." 
+Output:
+ ['crapaud', 'leptodactylid', 'spadefoot', 'tree-frog', 'tree-frog', 'ranid']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bee is a general term for [MASK]." 
+Output:
+ ['andrenid', 'andrena', 'bumblebee', 'humblebee', 'cuckoo-bumblebee', 'drone', 'honeybee', 'leaf-cutter']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cat is a general term for [MASK]." 
+Output:
+ ['wildcat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "turtle is a general term for [MASK]." 
+Output:
+ ['cooter', 'redbelly', 'slider', 'terrapin', 'tortoise']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "butterfly is a general term for [MASK]." 
+Output:
+ ['danaid', 'lycaenid', 'nymphalid', 'pierid', 'ringlet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "crustacean is a general term for [MASK]." 
+Output:
+ ['cirriped', 'cirripede', 'barnacle', 'brachyuran', 'branchiopod', 'branchiopodan', 'copepod', 'decapod', 'ostracod', 'stomatopod']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rabbit is a general term for [MASK]." 
+Output:
+ ['Angora', 'leporide', 'bunny', 'lapin', 'cottontail']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "beetle is a general term for [MASK]." 
+Output:
+ ['meloid', 'clerid', 'deathwatch', 'elater', 'elaterid', 'firefly', 'ladybird', 'ladybeetle', 'ladybug', 'chrysomelid', 'longicorn', 'weevil']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ship is a general term for [MASK]." 
+Output:
+ ['derelict', 'blockade-runner', 'flagship', 'hulk', 'iceboat', 'icebreaker', 'lightship', 'minelayer', 'minesweeper', 'pirate', 'shipwreck', 'steamer', 'steamship', 'tender', 'three-decker', 'troopship', 'warship', 'whaler', 'wreck']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "vehicle is a general term for [MASK]." 
+Output:
+ ['Dodgem', 'craft', 'rocket', 'projectile', 'skibob', 'sleigh', 'sledge', 'sled', 'steamroller']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "boat is a general term for [MASK]." 
+Output:
+ ['ark', 'flatboat', 'hoy', 'lighter', 'barge', 'bumboat', 'narrowboat', 'ferry', 'ferryboat', 'fireboat', 'gondola', 'gunboat', 'junk', 'longboat', 'lugger', 'mackinaw', 'mailboat', 'packet', 'motorboat', 'powerboat', 'punt', 'scow', 'steamboat', 'surfboat', 'tender', 'cutter', 'pinnace', 'tug', 'towboat', 'tower', 'tugboat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "motorcycle is a general term for [MASK]." 
+Output:
+ ['minibike', 'motorbike', 'scrambler']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jet is a general term for [MASK]." 
+Output:
+ ['turbojet', 'turbofan', 'fanjet', 'fan-jet', 'jetliner', 'jumbojet', 'twinjet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "plane is a general term for [MASK]." 
+Output:
+ ['airliner', 'amphibian', 'biplane', 'bomber', 'fighter', 'jet', 'monoplane', 'seaplane', 'hydroplane', 'ski-plane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "taxi is a general term for [MASK]." 
+Output:
+ ['minicab']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "scarf is a general term for [MASK]." 
+Output:
+ ['boa', 'fichu', 'kerchief', 'lambrequin', 'mantilla', 'muffler', 'patka', 'rebozo', 'sable', 'stole', 'tudung']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "footwear is a general term for [MASK]." 
+Output:
+ ['boot', 'patten', 'sabot', 'geta', 'clog', 'flats', 'overshoe', 'shoe', 'slipper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shoe is a general term for [MASK]." 
+Output:
+ ['anklet', 'balmoral', 'blucher', 'brogue', 'brogan', 'clodhopper', 'calceus', 'chopine', 'platform', 'chukka', 'cleats', 'fin', 'flipper', 'gaiter', 'ghillie', 'gillie', 'sneaker', 'Loafer', 'mocassin', 'moccasin', 'oxford', 'pump', 'sabot', 'sandal', 'slingback', 'sling', 'walker', 'wedgie']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sweater is a general term for [MASK]." 
+Output:
+ ['cardigan', 'pullover', 'slipover', 'polo-neck', 'turtleneck', 'turtle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cravat is a general term for [MASK]." 
+Output:
+ ['ascot', 'stock', 'neckcloth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "utensil is a general term for [MASK]." 
+Output:
+ ['copperware', 'funnel', 'server']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jug is a general term for [MASK]." 
+Output:
+ ['long-beard', 'bellarmine', 'greybeard', 'longbeard']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "knife is a general term for [MASK]." 
+Output:
+ ['barong', 'bolo', 'cleaver', 'chopper', 'drawshave', 'drawknife', 'paperknife', 'parang', 'parer', 'pocketknife', 'slicer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sink is a general term for [MASK]." 
+Output:
+ ['washbasin', 'washbowl', 'basin', 'lavatory', 'washstand']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rocker is a general term for [MASK]." 
+Output:
+ ['shoofly']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "seat is a general term for [MASK]." 
+Output:
+ ['backbench', 'backseat', 'saddle', 'chair', 'cockpit', 'crossbench', 'capsule', 'houdah', 'howdah', 'pillion', 'rumble', 'saddle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tower is a general term for [MASK]." 
+Output:
+ ['barbican', 'barbacan', 'lighthouse', 'pharos', 'beacon', 'high-rise', 'minaret', 'pylon', 'pylon', 'silo', 'steeple', 'spire', 'turret', 'watchtower']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bridge is a general term for [MASK]." 
+Output:
+ ['drawbridge', 'overcrossing', 'footbridge', 'flyover', 'overpass', 'viaduct']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gauge is a general term for [MASK]." 
+Output:
+ ['anemometer', 'dipstick', 'pluviometer', 'udometer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "refrigerator is a general term for [MASK]." 
+Output:
+ ['cooler', 'fridge']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "oven is a general term for [MASK]." 
+Output:
+ ['broiler', 'rotisserie', 'tandoor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "corn is a general term for [MASK]." 
+Output:
+ ['hominy', 'popcorn']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheat is a general term for [MASK]." 
+Output:
+ ['durum', 'emmer', 'spelt']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "salad is a general term for [MASK]." 
+Output:
+ ['slaw', 'coleslaw', 'salmagundi', 'tabooli', 'tabbouleh']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sandwich is a general term for [MASK]." 
+Output:
+ ['BLT', 'grinder', 'bomber', 'hero', 'submarine', 'wedge', 'sub', 'zep', 'torpedo', 'hoagy', 'hoagie', 'butty', 'triple-decker', 'three-decker', 'gyro', 'burger', 'beefburger', 'hamburger', 'hotdog', 'Reuben', 'tunaburger', 'western', 'wrap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rice is a general term for [MASK]." 
+Output:
+ ['paddy']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "uniform is a general term for [MASK]." 
+Output:
+ ['livery']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jewelry is a general term for [MASK]." 
+Output:
+ ['bead', 'bijou', 'bling', 'bangle', 'bracelet', 'clip', 'cufflink', 'earring', 'gem', 'jewel', 'necklace', 'pin', 'ring', 'band']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mirror is a general term for [MASK]." 
+Output:
+ ['glass', 'speculum']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lamp is a general term for [MASK]." 
+Output:
+ ['candle', 'taper', 'flash', 'flashgun', 'flashbulb', 'photoflash', 'lantern', 'limelight', 'spotlight', 'spot', 'streetlight', 'taillight']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shelter is a general term for [MASK]." 
+Output:
+ ['cookhouse', 'dugout', 'oasis', 'haven', 'shack', 'shanty', 'hut', 'hovel', 'hutch', 'hut', 'loft', 'mantlet', 'mantelet', 'sanctuary', 'refuge', 'asylum', 'sconce', 'tent']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "stationery is a general term for [MASK]." 
+Output:
+ ['letterhead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pin is a general term for [MASK]." 
+Output:
+ ['barrette', 'hairpin', 'hatpin', 'lynchpin', 'linchpin', 'nog', 'peg', 'rivet', 'skewer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hoe is a general term for [MASK]." 
+Output:
+ ['scuffle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "scissors is a general term for [MASK]." 
+Output:
+ ['clipper', 'shears', 'snuffers']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "screw is a general term for [MASK]." 
+Output:
+ ['bolt', 'setscrew', 'setscrew', 'thumbscrew', 'woodscrew', 'worm']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wedge is a general term for [MASK]." 
+Output:
+ ['colter', 'coulter', 'moldboard', 'mouldboard', 'share', 'ploughshare', 'plowshare', 'quoin', 'coign', 'coigne', 'shim']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hammer is a general term for [MASK]." 
+Output:
+ ['clawhammer', 'mallet', 'beetle', 'sledge', 'maul', 'sledgehammer', 'percussor', 'plexor', 'plessor']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bag is a general term for [MASK]." 
+Output:
+ ['clutch', 'etui', 'reticule']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "knapsack is a general term for [MASK]." 
+Output:
+ ['kitbag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is a general term for [MASK]." 
+Output:
+ ['carafe', 'decanter', 'carboy', 'cruet', 'crewet', 'demijohn', 'flask', 'calabash', 'gourd', 'inkpot', 'jug', 'vial', 'ampoule', 'ampule', 'ampul', 'phial']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pot is a general term for [MASK]." 
+Output:
+ ['caldron', 'cauldron', 'coffeepot', 'dixie', 'kettle', 'boiler', 'marmite', 'pottle', 'saucepot', 'stockpot', 'teapot', 'urn']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bowl is a general term for [MASK]." 
+Output:
+ ['fishbowl', 'jorum', 'mazer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "basin is a general term for [MASK]." 
+Output:
+ ['aspersorium', 'baptistery', 'font', 'baptistry', 'bidet', 'birdbath', 'laver', 'stoop', 'stoup', 'lavabo', 'washbasin', 'washbowl', 'handbasin']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "ladle is a general term for [MASK]." 
+Output:
+ ['dipper', 'scoop']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dog is a general term for [MASK]." 
+Output:
+ ['basenji', 'corgi', 'cur', 'mutt', 'mongrel', 'dalmatian', 'griffon', 'lapdog', 'Leonberg', 'Newfoundland', 'doggy', 'doggie', 'pooch', 'bow-wow', 'barker', 'poodle', 'pug', 'pug-dog', 'puppy', 'spitz', 'toy']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "snake is a general term for [MASK]." 
+Output:
+ ['colubrid', 'constrictor', 'elapid', 'viper']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wolf is a general term for [MASK]." 
+Output:
+ ['coyote']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "car is a general term for [MASK]." 
+Output:
+ ['ambulance', 'wagon', 'waggon', 'heap', 'jalopy', 'bus', 'hack', 'taxicab', 'cab', 'taxi', 'compact', 'convertible', 'coupe', 'cruiser', 'electric', 'hardtop', 'hatchback', 'hot-rod', 'landrover', 'jeep', 'limo', 'limousine', 'loaner', 'minicar', 'minivan', 'racer', 'two-seater', 'runabout', 'roadster', 'sedan', 'saloon', 'SUV', 'S.U.V.', 'subcompact', 'tourer', 'phaeton', 'used-car']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bicycle is a general term for [MASK]." 
+Output:
+ ['bicycle-built-for-two', 'tandem', 'off-roader', 'ordinary', 'push-bike', 'velocipede']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tractor is a general term for [MASK]." 
+Output:
+ ['bulldozer', 'dozer', 'skidder']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bus is a general term for [MASK]." 
+Output:
+ ['minibus', 'trolleybus']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "truck is a general term for [MASK]." 
+Output:
+ ['dumper', 'tipper', 'dustcart', 'lorry', 'camion', 'pickup', 'wrecker', 'tractor', 'semi', 'rig', 'transporter', 'van']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glove is a general term for [MASK]." 
+Output:
+ ['gauntlet', 'gantlet', 'gauntlet', 'gantlet', 'mitten']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trouser is a general term for [MASK]." 
+Output:
+ ['bell-bottoms', 'knickerbockers', 'knickers', 'breeches', 'chino', 'churidars', 'corduroys', 'cords', 'white', 'flannel', 'tweed', 'gabardine', 'denim', 'jean', 'jodhpurs', 'pyjama', 'pajama', 'pantaloon', 'salwar', 'shalwar', 'trunks', 'shorts', 'slacks', 'sweatpants', 'trews']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jar is a general term for [MASK]." 
+Output:
+ ['amphora', 'beaker', 'crock', 'cruse', 'jamjar', 'jampot', 'vase']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "armchair is a general term for [MASK]." 
+Output:
+ ['fauteuil', 'recliner', 'lounger']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "entrance is a general term for [MASK]." 
+Output:
+ ['arch', 'archway', 'doorway', 'door', 'threshold', 'gateway', 'scuttle', 'opening', 'hatchway', 'pithead', 'portal', 'porte-cochere', 'vomitory']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "hall is a general term for [MASK]." 
+Output:
+ ['concourse']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "projector is a general term for [MASK]." 
+Output:
+ ['epidiascope']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "microphone is a general term for [MASK]." 
+Output:
+ ['bug']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "thermostat is a general term for [MASK]." 
+Output:
+ ['cryostat', 'pyrostat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "compass is a general term for [MASK]." 
+Output:
+ ['gyrocompass']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "apple is a general term for [MASK]." 
+Output:
+ ['crabapple']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pear is a general term for [MASK]." 
+Output:
+ ['anjou', 'bartlett', 'bosc', 'seckel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "grain is a general term for [MASK]." 
+Output:
+ ['barleycorn', 'barley', 'buckwheat', 'corn', 'grist', 'groats', 'malt', 'millet', 'oat', 'rice', 'wheat']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wine is a general term for [MASK]." 
+Output:
+ ['rose', 'Bordeaux', 'Burgundy', 'Dubonnet', 'generic', 'maconnais', 'macon', 'plonk', 'retsina', 'Tokay', 'varietal', 'vermouth', 'vintage']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tea is a general term for [MASK]." 
+Output:
+ ['cuppa', 'cupper', 'herbal']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "drink is a general term for [MASK]." 
+Output:
+ ['intoxicant', 'alcohol', 'inebriant', 'cyder', 'cider', 'cocoa', 'chocolate', 'java', 'coffee', 'cooler', 'fizz', 'ade', 'hydromel', 'mate', 'milk', 'mixer', 'oenomel', 'potion', 'refresher', 'smoothie', 'tea', 'wish-wash']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "juice is a general term for [MASK]." 
+Output:
+ ['gravy']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "helmet is a general term for [MASK]." 
+Output:
+ ['headpiece']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bead is a general term for [MASK]." 
+Output:
+ ['bugle']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "glass is a general term for [MASK]." 
+Output:
+ ['bumper', 'goblet', 'rummer', 'schooner', 'seidel', 'jigger', 'pony', 'snifter', 'tumbler', 'wineglass']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "plate is a general term for [MASK]." 
+Output:
+ ['baffle', 'damper', 'disk', 'disc', 'engraving', 'escutcheon', 'fishplate', 'grid', 'gusset', 'L-plate', 'lamella', 'numberplate', 'nameplate', 'platen', 'pleximeter', 'plessimeter', 'tap']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blanket is a general term for [MASK]." 
+Output:
+ ['afghan', 'mackinaw', 'manta']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "phonograph is a general term for [MASK]." 
+Output:
+ ['gramophone', 'nickelodeon', 'jukebox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "anchor is a general term for [MASK]." 
+Output:
+ ['grapnel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bottle is a general term for [MASK]." 
+Output:
+ ['carafe', 'decanter', 'carboy', 'cruet', 'crewet', 'demijohn', 'flask', 'calabash', 'gourd', 'inkpot', 'jug', 'vial', 'ampoule', 'ampule', 'ampul', 'phial']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "container is a general term for [MASK]." 
+Output:
+ ['bag', 'purse', 'bag', 'pocketbook', 'handbag', 'basket', 'handbasket', 'bin', 'bowl', 'box', 'breadbox', 'bread-bin', 'bunker', 'can', 'tin', 'canister', 'cannister', 'tin', 'capsule', 'case', 'vitrine', 'showcase', 'case', 'cassette', 'cup', 'cylinder', 'dish', 'dispenser', 'drawer', 'Dumpster', 'empty', 'envelope', 'glass', 'mailer', 'manger', 'trough', 'measure', 'mold', 'cast', 'mould', 'package', 'parcel', 'pan', 'pod', 'pot', 'flowerpot', 'receptacle', 'reliquary', 'saltcellar', 'bank', 'scuttle', 'shaker', 'spoon', 'thimble', 'vessel', 'wastebasket', 'workbox', 'workbasket', 'workbag']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pipe is a general term for [MASK]." 
+Output:
+ ['chimneypot', 'drain', 'drainpipe', 'elbow', 'main', 'manifold', 'line', 'pipeline', 'riser', 'standpipe', 'tailpipe']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "can is a general term for [MASK]." 
+Output:
+ ['caddy', 'cannikin', 'oilcan']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bucket is a general term for [MASK]." 
+Output:
+ ['cannikin', 'kibble']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "drum is a general term for [MASK]." 
+Output:
+ ['bongo', 'snare', 'tabor', 'tabour', 'tambour', 'tambourine', 'tom-tom', 'timbrel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trombone is a general term for [MASK]." 
+Output:
+ ['sackbut']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "percussion is a general term for [MASK]." 
+Output:
+ ['castanets', 'bones', 'clappers', 'chime', 'bell', 'gong', 'cymbal', 'membranophone', 'drum', 'tympan', 'glockenspiel', 'gong', 'tam-tam', 'tympanum', 'kettledrum', 'tympani', 'timpani', 'kettle', 'lagerphone', 'maraca', 'xylophone', 'marimba', 'piano', 'pianoforte', 'forte-piano', 'triangle', 'vibraharp', 'vibes', 'vibraphone']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "flute is a general term for [MASK]." 
+Output:
+ ['fife', 'piccolo']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "guitar is a general term for [MASK]." 
+Output:
+ ['cither', 'gittern', 'citole', 'cithern', 'cittern', 'uke', 'ukulele']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mandolin is a general term for [MASK]." 
+Output:
+ ['mandola']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "elephant is a general term for [MASK]." 
+Output:
+ ['gomphothere', 'mammoth']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "animal is a general term for [MASK]." 
+Output:
+ ['acrodont', 'adult', 'biped', 'captive', 'chordate', 'creepy-crawly', 'critter', 'darter', 'embryo', 'conceptus', 'feeder', 'female', 'game', 'giant', 'herbivore', 'hexapod', 'homeotherm', 'homoiotherm', 'homotherm', 'insectivore', 'invertebrate', 'larva', 'male', 'mate', 'metazoan', 'migrator', 'moulter', 'molter', 'mutant', 'omnivore', 'peeper', 'pest', 'pet', 'pleurodont', 'ectotherm', 'poikilotherm', 'predator', 'prey', 'quarry', 'racer', 'scavenger', 'stayer', 'stunt', 'survivor', 'pureblood', 'thoroughbred', 'purebred', 'varment', 'varmint', 'offspring', 'young', 'zooplankton']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "insect is a general term for [MASK]." 
+Output:
+ ['beetle', 'louse', 'bug', 'springtail', 'collembolan', 'defoliator', 'dipteron', 'dipteran', 'earwig', 'ephemerid', 'ephemeropteran', 'ephemeron', 'ephemeral', 'flea', 'gallfly', 'hemipteran', 'hemipteron', 'bug', 'metabola', 'holometabola', 'homopteran', 'hymenopteran', 'hymenopteron', 'hymenopter', 'imago', 'leaf-miner', 'lepidopteron', 'lepidopteran', 'louse', 'mecopteran', 'neuropteron', 'neuropteran', 'odonate', 'orthopteron', 'orthopteran', 'phasmid', 'pollinator', 'proturan', 'telsontail', 'pupa', 'queen', 'plecopteran', 'stonefly', 'termite', 'thysanopter', 'thysanopteron', 'thysanuron', 'trichopteron', 'trichopteran', 'worker']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lion is a general term for [MASK]." 
+Output:
+ ['lioness', 'lionet']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "deer is a general term for [MASK]." 
+Output:
+ ['brocket', 'reindeer', 'caribou', 'elk', 'moose', 'fawn', 'sika', 'muntjac', 'elaphure', 'pricket', 'wapiti', 'elk', 'sambar', 'sambur', 'whitetail', 'wapiti', 'elk']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "spider is a general term for [MASK]." 
+Output:
+ ['theridiid', 'tarantula']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "airplane is a general term for [MASK]." 
+Output:
+ ['airliner', 'amphibian', 'biplane', 'bomber', 'fighter', 'jet', 'monoplane', 'seaplane', 'hydroplane', 'ski-plane']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wagon is a general term for [MASK]." 
+Output:
+ ['bandwagon', 'cart', 'Conestoga', 'ice-wagon', 'lorry', 'milkwagon', 'tram', 'tramcar', 'wain']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tram is a general term for [MASK]." 
+Output:
+ ['horsecar']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bulldozer is a general term for [MASK]." 
+Output:
+ ['angledozer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dirigible is a general term for [MASK]." 
+Output:
+ ['blimp', 'sausage']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "skirt is a general term for [MASK]." 
+Output:
+ ['tutu', 'culotte', 'crinoline', 'hoopskirt', 'kilt', 'lavalava', 'maxi', 'mini', 'miniskirt', 'overskirt', 'sarong']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pant is a general term for [MASK]." 
+Output:
+ ['bell-bottoms', 'knickerbockers', 'knickers', 'breeches', 'chino', 'churidars', 'corduroys', 'cords', 'white', 'flannel', 'tweed', 'gabardine', 'denim', 'jean', 'jodhpurs', 'pyjama', 'pajama', 'pantaloon', 'salwar', 'shalwar', 'trunks', 'shorts', 'slacks', 'sweatpants', 'trews']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "handwear is a general term for [MASK]." 
+Output:
+ ['glove', 'muff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cap is a general term for [MASK]." 
+Output:
+ ['balaclava', 'Balmoral', 'bluebonnet', 'beret', 'biggin', 'biretta', 'birretta', 'berretta', 'calpack', 'calpac', 'kalpac', 'cockscomb', 'coxcomb', 'coonskin', 'tarboosh', 'fez', 'Glengarry', 'kalansuwa', 'kepi', 'mobcap', 'mortarboard', 'nightcap', 'pinner', 'skullcap', "tam-o'-shanter", 'tammy', 'tam']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "neckwear is a general term for [MASK]." 
+Output:
+ ['cravat', 'necktie', 'tie']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "sock is a general term for [MASK]." 
+Output:
+ ['anklet', 'bobbysock', 'anklets', 'bobbysocks', 'argyle', 'argyll', 'knee-high', 'knee-hi', 'tabi', 'tabis']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "dress is a general term for [MASK]." 
+Output:
+ ['kaftan', 'caftan', 'sack', 'chemise', 'shift', 'coatdress', 'sheath', 'dirndl', 'gown', 'pinny', 'jumper', 'pinafore', 'kirtle', 'muumuu', 'polonaise', 'saree', 'sari', 'shirtdress', 'strapless', 'sundress']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "slipper is a general term for [MASK]." 
+Output:
+ ['bootie', 'bootee', 'mule', 'scuff']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mask is a general term for [MASK]." 
+Output:
+ ['domino']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shirt is a general term for [MASK]." 
+Output:
+ ['camise', 'daishiki', 'dashiki', 'T-shirt', 'jersey', 'kurta', 'work-shirt']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "blouse is a general term for [MASK]." 
+Output:
+ ['garibaldi', 'guimpe', 'middy', 'shirtwaist', 'shirtwaister']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "jacket is a general term for [MASK]." 
+Output:
+ ['banyan', 'banian', 'blazer', 'bolero', 'dolman', 'doublet', 'hug-me-tight', 'jerkin', 'jumper', 'lumberjack', 'parka', 'anorak', 'windbreaker', 'windcheater', 'peacoat', 'sacque', 'sack', 'swallowtail']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "mug is a general term for [MASK]." 
+Output:
+ ['stein', 'toby']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fountain is a general term for [MASK]." 
+Output:
+ ['bubbler']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lavatory is a general term for [MASK]." 
+Output:
+ ['lavatory']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "chair is a general term for [MASK]." 
+Output:
+ ['armchair', 'daybed', 'chaise', 'highchair', 'ladder-back', 'rocker', 'wheelchair']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "gate is a general term for [MASK]." 
+Output:
+ ['lock-gate', 'lychgate', 'lichgate', 'portcullis', 'postern', 'tailboard', 'tailgate', 'tollbar', 'tollgate', 'turnpike', 'turnstile', 'wicket']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "door is a general term for [MASK]." 
+Output:
+ ['revolver', 'screen']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "flashlight is a general term for [MASK]." 
+Output:
+ ['penlight']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fireplace is a general term for [MASK]." 
+Output:
+ ['fire']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "fruit is a general term for [MASK]." 
+Output:
+ ['pseudocarp', 'achene', 'acorn', 'syncarp', 'berry', 'chokecherry', 'cubeb', 'drupe', 'spike', 'ear', 'capitulum', 'fruitlet', 'gourd', 'hagberry', 'rosehip', 'hip', 'marasca', 'olive', 'seedpod', 'pod', 'pome', 'pyxis', 'pyxidium', 'quandong', 'rowanberry', 'schizocarp', 'seed']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bread is a general term for [MASK]." 
+Output:
+ ['bap', 'barmbrack', 'breadstick', 'bread-stick', 'roll', 'bun', 'challah', 'hallah', 'cracker', 'crouton', 'flatbread', 'Host', 'loaf', 'matzoh', 'matzah', 'matzo', 'naan', 'nan', 'simnel', 'toast', 'wafer']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "cheese is a general term for [MASK]." 
+Output:
+ ['bleu', 'Brie', 'Camembert', 'cheddar', 'Edam', 'chevre', 'Gouda', 'Liederkranz', 'Limburger', 'mozzarella', 'Muenster', 'Parmesan', 'quark', 'ricotta', 'Velveeta']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "necklace is a general term for [MASK]." 
+Output:
+ ['chain', 'string', 'strand', 'chain', 'collar', 'neckband', 'choker']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "earring is a general term for [MASK]." 
+Output:
+ ['eardrop']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pendant is a general term for [MASK]." 
+Output:
+ ['lavalier', 'lavaliere', 'lavalliere']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "lens is a general term for [MASK]." 
+Output:
+ ['anastigmat', 'condenser', 'contact', 'eyepiece', 'ocular', 'meniscus', 'eyeglass', 'monocle', 'objective']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wheel is a general term for [MASK]." 
+Output:
+ ['balance', 'cartwheel', 'cogwheel', 'gear', 'handwheel', 'nosewheel', 'paddlewheel', 'pinwheel', 'roller', 'roulette', 'rowel', 'sprocket', 'trundle', 'waterwheel', 'waterwheel']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rod is a general term for [MASK]." 
+Output:
+ ['wand', 'baton', 'baton', 'kickstand', 'pole', 'ramrod', 'ramrod', 'shaft', 'shaft', 'stair-rod', 'wand']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "bolt is a general term for [MASK]." 
+Output:
+ ['kingpin', 'kingbolt']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "wire is a general term for [MASK]." 
+Output:
+ ['barbwire', 'haywire']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "shovel is a general term for [MASK]." 
+Output:
+ ['scoop']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "trowel is a general term for [MASK]." 
+Output:
+ ['slick']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "razor is a general term for [MASK]." 
+Output:
+ ['shaver']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "pulley is a general term for [MASK]." 
+Output:
+ ['bollock', 'fairlead']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "box is a general term for [MASK]." 
+Output:
+ ['bandbox', 'carton', 'casket', 'chest', 'casket', 'coffin', 'crate', 'flat', 'hod', 'mailbox', 'matchbox', 'paintbox', 'play-box', 'playbox', 'pyxis', 'shoebox', 'snuffbox', 'strongbox', 'deedbox', 'tinderbox']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "basket is a general term for [MASK]." 
+Output:
+ ['breadbasket', 'creel', 'frail', 'hamper', 'punnet', 'skep']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "tray is a general term for [MASK]." 
+Output:
+ ['cheeseboard', 'icetray', 'inkstand', 'salver', 'turntable']
+
+Provide a list of words that can replace "[MASK]" in the following sentence. 
+Desired output: comma separated list of words. 
+Sentence: "rack is a general term for [MASK]." 
+Output:
+ ['barbecue', 'barbeque', 'carrier', 'hatrack', 'coatrack', 'hayrack', 'toastrack']
+
