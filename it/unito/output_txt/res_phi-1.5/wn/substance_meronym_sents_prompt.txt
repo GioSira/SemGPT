@@ -1,0 +1,60 @@
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ "The fork is a general term for a tool used for eating."
+
+```python
+# Exercise 3
+
+import nltk
+from nltk.tokenize import word_tokenize
+
+sentence = "The [MASK] is a general term for fork."
+
+# Tokenize the sentence
+tokens = word_tokenize 
+ Expected: ['isothiocyanate']
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ apple, fork, general, term, fork, is, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, 
+ Expected: ['caffein', 'caffeine', 'coffee']
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ "fork, general, term, is, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a 
+ Expected: ['shell']
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ apple, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, general, term, fork, 
+ Expected: ['caffein', 'caffeine', 'tea']
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ apple, banana, cherry, date, elderberry, fig, grape, honeydew, kiwi, lemon, lime, mango, orange, pineapple, strawberry, watermelon
+
+I have tried using the following code:
+import re
+
+sentence = "The [MASK] is a general term for fork."
+
+words = re.findall 
+ Expected: ['shirting']
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ apple, banana, cherry, date, elderberry, fig, grape, honeydew, kiwi, lemon, lime, mango, orange, pineapple, strawberry, watermelon
+
+I have tried using the following code:
+import re
+
+sentence = "The [MASK] is a general term for fork."
+
+words = re.findall 
+ Expected: ['flour']
+Provide a list of words that can replace "[MASK]" in the following sentence. Desired output: comma separated list of words. 
+ Sentence: "The [MASK] is a general term for fork." 
+ Output: 
+ apple, fork, general, term, fork, is, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, 
+ Expected: ['curd']

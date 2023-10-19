@@ -1,11 +1,13 @@
 from it.unito.db.query_semagram import get_all_concepts_obj
 from nltk.corpus import wordnet as wn
-
+import warnings
+warnings.simplefilter("ignore")
 import requests
 import pickle
 
 
-def search_concepts_on_wordnet(concepts):
+
+def search_concepts_on_wordnet(concepts): # io ho il synset già da semagram, quindi non mi serve cercarlo
     synsets = []
     for concept in concepts.find():
         synset_str = concept["synset"]
@@ -26,13 +28,10 @@ def relations_on_wordnet(synsets):
     relations = []
     for concept, synset in synsets:
         if synset.pos() == 'n':
-            relations.append((concept, "hypernyms", synset.hypernyms()))
-            relations.append((concept, "hyponyms", synset.hyponyms()))
-            relations.append((concept, "member_holonyms", synset.member_holonyms()))
-            relations.append((concept, "part_meronyms", synset.part_meronyms()))
-            relations.append((concept, "substance_meronyms", synset.substance_meronyms()))
+            relations.append((concept, "hypernyms", list(set([s for s in synset.closure(lambda s:s.hypernyms())]))))
+            relations.append((concept, "hyponyms", list(set([s for s in synset.closure(lambda s: s.hyponyms())]))))
         elif synset.pos() == 'v':
-            relations.append((concept, "hypernyms", synset.hypernyms()))
+            relations.append((concept, "hypernyms", list(set(synset.closure(lambda s: s.hypernyms)))))
             
     return relations
 
@@ -71,24 +70,35 @@ def make_sentence_wn(concept1, relation, list_concept2, mask_token="[MASK]", tra
     words2 = []
     for concept2 in list_concept2:
         words2.extend(get_all_lemmas(concept2))
-        
+    
+    words2 = list(set(words2)) # remove duplicates
+
     if words2 == []:
         return None, None
 
     sentence = None
     if relation == "hypernyms":
+
+        # masked second concept 
         if trans_hyper == "such as": 
             sentence = (f"a {mask_token}, {trans_hyper} {concept1['concept']}.", words2)
         else: 
             sentence = (f"{concept1['concept']} {trans_hyper} {mask_token}.", words2)
+        
+        # masked first concept
         for synset in list_concept2: 
-            hyponyms = synset.hyponyms()
+            #hyponyms = synset.hyponyms() # TODO: dovrei prendere tutti i suoi iponimi anche indiretti??
+            hyponyms = list(set(synset.closure(lambda s:s.hyponyms()))) # TODO: forse mi è sufficiente la lemmatizzazione del synset di partenza
+
             lemmas_syn = get_all_lemmas(synset)
             if lemmas_syn == []:
                 break
             lemma_hyponyms = []
             for hyponym in hyponyms:
                 lemma_hyponyms.extend(get_all_lemmas(hyponym))
+
+            lemma_hyponyms = list(set(lemma_hyponyms)) # remove duplicates
+
             if lemma_hyponyms == []:
                 break
             for lemma in lemmas_syn:
@@ -111,24 +121,6 @@ def make_sentence_wn(concept1, relation, list_concept2, mask_token="[MASK]", tra
                 break
             for lemma in lemmas_syn:
                 masked_first_concept.append((f"The {mask_token} is a general term for {lemma}.", lemma_hypernyms))
-        
-    elif relation == "member_holonyms":
-        sentence = (f"{concept1['concept']} is a member of {mask_token}.", words2)
-    elif relation == "part_meronyms":
-        sentence = (f"{concept1['concept']} is composed by {mask_token}.", words2)
-    elif relation == "substance_meronyms":
-        sentence = (f"{concept1['concept']} has a part of {mask_token}.", words2)
-    elif relation == "entailments":
-        sentence = (f"{concept1['concept']} involves {mask_token}.", words2)
-        for synset in list_concept2:
-            entailments = synset.entailments()
-            lemmas_syn = get_all_lemmas(synset)
-            lemma_entailments = []
-            for entailment in entailments:
-                lemma_entailments.extend(get_all_lemmas(entailment))
-            for lemma in lemmas_syn:
-                masked_first_concept.append((f"The {mask_token} involves {lemma}.", lemma_entailments))
-    
     
     masked_second_concept.append(sentence)
     
@@ -252,32 +244,23 @@ def make_sentence_cn(concept1, relation, concept2, mask_token="[MASK]", trans_hy
 
 
 def make_sentences_wn(relations):
-    hypernym_sents_masked_first = []
+    #hypernym_sents_masked_first = []
     hypernym_sents_masked_second = []
-    hyponym_sents_masked_first = []
+    #hyponym_sents_masked_first = []
     hyponym_sents_masked_second = []
-    member_holonym_sents = []
-    part_meronym_sents = []
-    substance_meronym_sents = []
     
     for relation in relations:
         if len(relation[2]) > 0:
-            masked_first_concepts, masked_second_concept = make_sentence_wn(relation[0], relation[1], relation[2], "<mask>", "is a specific term for") # TODO: se vuoi cambiare da is a ad altro qui!
+            masked_first_concepts, masked_second_concept = make_sentence_wn(relation[0], relation[1], relation[2], "[MASK]", "is a specific term for") # TODO: se vuoi cambiare da is a ad altro qui!
             if masked_first_concepts != None and masked_second_concept != None:
                 if relation[1] == "hypernyms":
-                    hypernym_sents_masked_first.extend(masked_first_concepts)
+                    #hypernym_sents_masked_first.extend(masked_first_concepts)
                     hypernym_sents_masked_second.extend(masked_second_concept)
                 elif relation[1] == "hyponyms":
-                    hyponym_sents_masked_first.extend(masked_first_concepts)
+                    #hyponym_sents_masked_first.extend(masked_first_concepts)
                     hyponym_sents_masked_second.extend(masked_second_concept)
-                elif relation[1] == "member_holonyms":
-                    member_holonym_sents.extend(masked_second_concept)
-                elif relation[1] == "part_meronyms":
-                    part_meronym_sents.extend(masked_second_concept)
-                elif relation[1] == "substance_meronyms":
-                    substance_meronym_sents.extend(masked_second_concept)
     
-    return hypernym_sents_masked_first, hypernym_sents_masked_second, hyponym_sents_masked_first, hyponym_sents_masked_second, member_holonym_sents, part_meronym_sents, substance_meronym_sents
+    return hypernym_sents_masked_second, hyponym_sents_masked_second
 
 def make_sentences_cn(relations):
     masked_first_concepts = []
@@ -326,7 +309,7 @@ def make_prompts_conceptnet():
 
     return masked_first_concepts_prompt, masked_second_concepts_prompt, further_analysis_prompts
 
-def make_prompts_wordnet(): 
+def make_prompts_wordnet(): # TODO: cambia dato che ho eliminato alcune relazioni!!!!
 
     # prendo gli input che ho già per bert e li uso per fare i prompt
 
@@ -386,8 +369,8 @@ def read_file_path(path, file):
 
 if __name__ == '__main__':  
 
-    resource = "conceptnet"
-    directory = "input_phi-1.5"
+    resource = "wordnet"
+    directory = "input_bert"
     
 
     if directory == "input_phi-1.5":
@@ -429,7 +412,7 @@ if __name__ == '__main__':
                         fp.write(prompts[0] + " " + str(prompts[1]) + "\n\n")
             
 
-        elif resource == "wordnet":
+        elif resource == "wordnet": # TODO: MODIFICA HO ELIMINATO RELAZIONI!!!
             hyponym_sents_masked_first, hyponym_sents_masked_second, member_holonym_sents, part_meronym_sents, substance_meronym_sents, further_analysis_prompts = make_prompts_wordnet()
 
             # Save inputs
@@ -501,68 +484,45 @@ if __name__ == '__main__':
             relations = relations_on_wordnet(synsets)
             #print(relations)
 
-            # 4. make a sentence that exemplifies the relation with the concepts and masking
             
-            hypernym_sents_masked_first, hypernym_sents_masked_second, hyponym_sents_masked_first, hyponym_sents_masked_second, member_holonym_sents, part_meronym_sents, substance_meronym_sents = make_sentences_wn(relations)
-            print(len(hypernym_sents_masked_first), len(hypernym_sents_masked_second))
-            print(len(hyponym_sents_masked_first), len(hyponym_sents_masked_second))
-            print(len(member_holonym_sents))
-            print(len(part_meronym_sents))
-            print(len(substance_meronym_sents))
+            # 4. make a sentence that exemplifies the relation with the concepts and masking
+
+            hypernym_sents_masked_second, hyponym_sents_masked_second = make_sentences_wn(relations)
+            print(len(hypernym_sents_masked_second))
+            print(len(hyponym_sents_masked_second))
 
             #5. Save sentences
             #binary
 
-            with open(f"it/unito/input/{directory}/wn/hypernym_sents_masked_first", "wb") as fp:   #Pickling
-                pickle.dump(hypernym_sents_masked_first, fp)
+            #with open(f"it/unito/input/{directory}/wn/hypernym_sents_masked_first", "wb") as fp:   #Pickling
+            #    pickle.dump(hypernym_sents_masked_first, fp)
 
             with open(f"it/unito/input/{directory}/wn/hypernym_sents_masked_second", "wb") as fp:   #Pickling
                 pickle.dump(hypernym_sents_masked_second, fp)
 
-            with open(f"it/unito/input/{directory}/wn/hyponym_sents_masked_first", "wb") as fp:   #Pickling
-                pickle.dump(hyponym_sents_masked_first, fp)
+            #with open(f"it/unito/input/{directory}/wn/hyponym_sents_masked_first", "wb") as fp:   #Pickling
+            #    pickle.dump(hyponym_sents_masked_first, fp)
             
             with open(f"it/unito/input/{directory}/wn/hyponym_sents_masked_second", "wb") as fp:   #Pickling
                 pickle.dump(hyponym_sents_masked_second, fp)
-
-            with open(f"it/unito/input/{directory}/wn/member_holonym_sents", "wb") as fp:   #Pickling
-                pickle.dump(member_holonym_sents, fp)
-            
-            with open(f"it/unito/input/{directory}/wn/part_meronym_sents", "wb") as fp:   #Pickling
-                pickle.dump(part_meronym_sents, fp)
-            
-            with open(f"it/unito/input/{directory}/wn/substance_meronym_sents", "wb") as fp:   #Pickling
-                pickle.dump(substance_meronym_sents, fp)
             
 
             # txt
 
-            with open(f"it/unito/input/{directory}/wn/hypernym_sents_masked_first.txt", "w", encoding="utf8") as fp:   
-                for sentence in hypernym_sents_masked_first:
-                    fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
+            #with open(f"it/unito/input/{directory}/wn/hypernym_sents_masked_first.txt", "w", encoding="utf8") as fp:   
+            #    for sentence in hypernym_sents_masked_first:
+            #        fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
 
             with open(f"it/unito/input/{directory}/wn/hypernym_sents_masked_second.txt", "w", encoding="utf8") as fp:
                 for sentence in hypernym_sents_masked_second:
                     fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
             
-            with open(f"it/unito/input/{directory}/wn/hyponym_sents_masked_first.txt", "w", encoding="utf8") as fp:
-                for sentence in hyponym_sents_masked_first:
-                    fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
+            #with open(f"it/unito/input/{directory}/wn/hyponym_sents_masked_first.txt", "w", encoding="utf8") as fp:
+            #    for sentence in hyponym_sents_masked_first:
+            #        fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
             
             with open(f"it/unito/input/{directory}/wn/hyponym_sents_masked_second.txt", "w", encoding="utf8") as fp:
                 for sentence in hyponym_sents_masked_second:
-                    fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
-            
-            with open(f"it/unito/input/{directory}/wn/member_holonym_sents.txt", "w", encoding="utf8") as fp:
-                for sentence in member_holonym_sents:
-                    fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
-            
-            with open(f"it/unito/input/{directory}/wn/part_meronym_sents.txt", "w", encoding="utf8") as fp:
-                for sentence in part_meronym_sents:
-                    fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
-            
-            with open(f"it/unito/input/{directory}/wn/substance_meronym_sents.txt", "w", encoding="utf8") as fp:
-                for sentence in substance_meronym_sents:
                     fp.write(sentence[0] + " " + str(sentence[1]) + "\n")
                             
 

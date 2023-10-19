@@ -1,7 +1,0 @@
-onion has a part of <mask>. ['isothiocyanate']
-coffee has a part of <mask>. ['caffeine', 'caffein', 'coffee']
-shell has a part of <mask>. ['shell']
-tea has a part of <mask>. ['caffeine', 'caffein', 'tea']
-shirt has a part of <mask>. ['shirting']
-bread has a part of <mask>. ['flour']
-cheese has a part of <mask>. ['curd']
