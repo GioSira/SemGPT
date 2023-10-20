@@ -25,28 +25,71 @@ def read_generated_concepts_prompt(concept_string):
 
 def precision_at_k(target_list, gold_list, k):
 
-    target_list = target_list[:k]
+
+    """
 
     num_total = len(target_list)
+
+    target_list = target_list[:k]
+
+    
     num_found = 0.
 
     for elem in target_list:
         if elem in gold_list:
             num_found += 1
+"""
+    total = []
+    for elem in target_list:
+        if elem in gold_list:
+            total.append(elem)
+        
+    target_list_k = target_list[:k]
+    found = []
+    for elem in target_list_k:
+        if elem in gold_list:
+            found.append(elem)
 
-    return num_found / num_total
+    inters = len(set(found).intersection(set(total)))
+    
+
+    # num_found -> relevant item
+
+    if inters == 0 or len(found) == 0:
+        return 0
+
+
+    return inters / len(found)
 
 
 def hits_at_k(target_list, gold_list, k):
 
+    """
     target_list = target_list[:k]
 
     num_elem_found = 0.
     for elem in target_list:
         if elem in gold_list:
             num_elem_found += 1
+    """
 
-    return num_elem_found
+    total = []
+    for elem in target_list:
+        if elem in gold_list:
+            total.append(elem)
+        
+    target_list_k = target_list[:k]
+    found = []
+    for elem in target_list_k:
+        if elem in gold_list:
+            found.append(elem)
+
+    inters = len(set(found).intersection(set(total)))
+
+    if inters == 0 or len(total) == 0:
+        return 0
+
+    return inters/len(total)
 
 
 def MRR(target_list, gold_list):
@@ -178,9 +221,7 @@ def read_model_files_and_write_results(folder, model_name):
 
 if __name__ == '__main__':
 
-    model = "phi-1.5"
+    model = "electra"
     kb = "wn"
     main_folder = f'/Users/128525/Desktop/Uni/SemGPT/it/unito/output/res_{model}/{kb}'
     read_model_files_and_write_results(main_folder, model)
-
-    # TODO: risolvere la valutazione di phi -> ho troppi zero perchè non trova nulla!!!

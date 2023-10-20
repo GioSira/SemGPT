@@ -30,6 +30,15 @@ def relations_on_wordnet(synsets):
         if synset.pos() == 'n':
             relations.append((concept, "hypernyms", list(set([s for s in synset.closure(lambda s:s.hypernyms())]))))
             relations.append((concept, "hyponyms", list(set([s for s in synset.closure(lambda s: s.hyponyms())]))))
+
+            # TODO: ULTERIORI STATISTICHE
+            relations.append((concept, "member_holonyms", list(set(synset.member_holonyms()))))
+            relations.append((concept, "member_meronyms", list(set(synset.member_meronyms()))))
+            relations.append((concept, "part_holonyms", list(set(synset.part_holonyms()))))
+            relations.append((concept, "part_meronyms", list(set(synset.part_meronyms()))))
+            relations.append((concept, "substance_meronyms", list(set(synset.substance_meronyms()))))
+            relations.append((concept, "substance_holonyms", list(set(synset.substance_holonyms()))))
+            
         elif synset.pos() == 'v':
             relations.append((concept, "hypernyms", list(set(synset.closure(lambda s: s.hypernyms)))))
             
@@ -77,18 +86,20 @@ def make_sentence_wn(concept1, relation, list_concept2, mask_token="[MASK]", tra
         return None, None
 
     sentence = None
+
+    correct_article = "An" if concept1['concept'][0].lower() in ['a', 'e', 'i', 'o', 'u'] else "A"
     if relation == "hypernyms":
 
         # masked second concept 
         if trans_hyper == "such as": 
-            sentence = (f"a {mask_token}, {trans_hyper} {concept1['concept']}.", words2)
+            sentence = (f"a {mask_token}, {trans_hyper} {correct_article.lower()} {concept1['concept']}.", words2)
         else: 
-            sentence = (f"{concept1['concept']} {trans_hyper} {mask_token}.", words2)
+            sentence = (f"{correct_article} {concept1['concept']} {trans_hyper} {mask_token}.", words2)
         
         # masked first concept
         for synset in list_concept2: 
-            #hyponyms = synset.hyponyms() # TODO: dovrei prendere tutti i suoi iponimi anche indiretti??
-            hyponyms = list(set(synset.closure(lambda s:s.hyponyms()))) # TODO: forse mi è sufficiente la lemmatizzazione del synset di partenza
+            
+            hyponyms = list(set([s for s in synset.closure(lambda s:s.hyponyms())])) # TODO: forse mi è sufficiente la lemmatizzazione del synset di partenza
 
             lemmas_syn = get_all_lemmas(synset)
             if lemmas_syn == []:
@@ -108,7 +119,7 @@ def make_sentence_wn(concept1, relation, list_concept2, mask_token="[MASK]", tra
                     masked_first_concept.append((f"The {mask_token} {trans_hyper} {lemma}.", lemma_hyponyms))
                 
     elif relation == "hyponyms":
-        sentence = (f"{concept1['concept']} is a general term for {mask_token}.", words2)
+        sentence = (f"{correct_article} {concept1['concept']} is a general term for {mask_token}.", words2)
         for synset in list_concept2:
             hypernyms = synset.hypernyms()
             lemmas_syn = get_all_lemmas(synset)
@@ -126,7 +137,7 @@ def make_sentence_wn(concept1, relation, list_concept2, mask_token="[MASK]", tra
     
     return masked_first_concept, masked_second_concept
     
-def make_sentence_cn(concept1, relation, concept2, mask_token="[MASK]", trans_hyper = "is a"):
+def make_sentence_cn(concept1, relation, concept2, mask_token="[MASK]", trans_hyper = "is a"): # TODO: CAMBIA L'ARTICOLO NELL'INPUT!!
 
     masked_first_concept = None
     masked_second_concept = None
@@ -251,7 +262,7 @@ def make_sentences_wn(relations):
     
     for relation in relations:
         if len(relation[2]) > 0:
-            masked_first_concepts, masked_second_concept = make_sentence_wn(relation[0], relation[1], relation[2], "[MASK]", "is a specific term for") # TODO: se vuoi cambiare da is a ad altro qui!
+            masked_first_concepts, masked_second_concept = make_sentence_wn(relation[0], relation[1], relation[2], "<mask>", "such as") # TODO: se vuoi cambiare da is a ad altro qui!
             if masked_first_concepts != None and masked_second_concept != None:
                 if relation[1] == "hypernyms":
                     #hypernym_sents_masked_first.extend(masked_first_concepts)
@@ -370,7 +381,7 @@ def read_file_path(path, file):
 if __name__ == '__main__':  
 
     resource = "wordnet"
-    directory = "input_bert"
+    directory = "input_roberta"
     
 
     if directory == "input_phi-1.5":
@@ -482,7 +493,7 @@ if __name__ == '__main__':
 
             # 3. extract all relations that the concept has on wordnet
             relations = relations_on_wordnet(synsets)
-            #print(relations)
+            #print(relations)             
 
             
             # 4. make a sentence that exemplifies the relation with the concepts and masking
