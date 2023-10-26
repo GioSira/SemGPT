@@ -221,7 +221,7 @@ def read_model_files_and_write_results(folder, model_name):
 
 if __name__ == '__main__':
 
-    model = "electra"
+    model = "distilroberta"
     kb = "wn"
     main_folder = f'/Users/128525/Desktop/Uni/SemGPT/it/unito/output/res_{model}/{kb}'
     read_model_files_and_write_results(main_folder, model)
