@@ -142,114 +142,36 @@ def make_sentence_cn(concept1, relation, concept2, mask_token="[MASK]", trans_hy
     masked_first_concept = None
     masked_second_concept = None
 
+    correct_article = "An" if concept1[0].lower() in ['a', 'e', 'i', 'o', 'u'] else "A"
+    
+
     if relation == "IsA":
+
+        correct_article_second_concept = "An" if concept2[0].lower() in ['a', 'e', 'i', 'o', 'u'] else "A"
         if trans_hyper == "such as": 
-            masked_first_concept = (f"a {concept2}, {trans_hyper} {mask_token}.", concept1)
-            masked_second_concept = (f"a {mask_token}, {trans_hyper} {concept1}.", concept2)
+            #masked_first_concept = (f"a {concept2}, {trans_hyper} {mask_token}.", concept1)
+            masked_second_concept = (f"{correct_article_second_concept.lower()} {mask_token}, {trans_hyper} {correct_article.lower()} {concept1}.", concept2)
+        elif trans_hyper == "is":
+            masked_second_concept = (f"{correct_article} {concept1} {trans_hyper} {correct_article_second_concept.lower()} {mask_token}.", concept2)
         else: 
             masked_second_concept = (f"{concept1} {trans_hyper} {mask_token}.", concept2)
-            masked_first_concept = (f"The {mask_token} {trans_hyper} {concept2}.", concept1)
-        
-    elif relation == "HasA":
-        masked_second_concept = (f"{concept1} belongs to {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} belongs to {concept2}.", concept1)
+            #masked_first_concept = (f"The {mask_token} {trans_hyper} {concept2}.", concept1)
     elif relation == "PartOf":
         masked_second_concept = (f"{concept1} is a part of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is a part of {concept2}.", concept1)
-    elif relation == "RelatedTo":
-        masked_second_concept = (f"{concept1} is related to {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is related to {concept2}.", concept1)
-    elif relation == "FormOf":
-        masked_second_concept = (f"{concept1} is a form of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is a form of {concept2}.", concept1)
+        #masked_first_concept = (f"The {mask_token} is a part of {concept2}.", concept1)
     elif relation == "UsedFor":
         masked_second_concept = (f"{concept1} is used for {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is used for {concept2}.", concept1)
-    elif relation == "CapableOf":
-        masked_second_concept = (f"{concept1} is capable of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is capable of {concept2}.", concept1)
+        #masked_first_concept = (f"The {mask_token} is used for {concept2}.", concept1)
     elif relation == "AtLocation":
-        masked_second_concept = (f"{concept1} is a typical location for {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is a typical location for {concept2}.", concept1)
-    elif relation == "Causes":
-        masked_second_concept = (f"{concept1} causes {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} causes {concept2}.", concept1)
-    elif relation == "HasSubevent":
-        masked_second_concept = (f"{concept1} has a subevent {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} has a subevent {concept2}.", concept1)
-    elif relation == "HasFirstSubevent":
-        masked_second_concept = (f"{concept1} is an event that begins with {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is an event that begins with {concept2}.", concept1)
-    elif relation == "HasLastSubevent":
-        masked_second_concept = (f"{concept1} is an event that ends with {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is an event that ends with {concept2}.", concept1)
-    elif relation == "HasPrerequisite":
-        masked_second_concept = (f"{concept1} is an event that requires {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is an event that requires {concept2}.", concept1)
-    elif relation == "HasProperty":
-        masked_second_concept = (f"{concept1} can be described as {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} can be described as {concept2}.", concept1)
-    elif relation == "MotivatedByGoal":
-        masked_second_concept = (f"{concept1} is an event that is motivated by the goal {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is an event that is motivated by the goal {concept2}.", concept1)
-    elif relation == "ObstructedBy":
-        masked_second_concept = (f"{concept1} is an event that is obstructed by {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is an event that is obstructed by {concept2}.", concept1)
-    elif relation == "Desires":
-        masked_second_concept = (f"{concept1} is an entity that tipically wants {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is an entity that tipically wants {concept2}.", concept1)
-    elif relation == "CreatedBy":
-        masked_second_concept = (f"{concept1} is created by {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is created by {concept2}.", concept1)
+        masked_second_concept = (f"The {mask_token} is a typical location for {concept1}.", concept2)
+        #masked_first_concept = (f"The {mask_token} is a typical location for {concept2}.", concept1)
     elif relation == "Synonym":
         masked_second_concept = (f"{concept1} is a synonym of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is a synonym of {concept2}.", concept1)
-    elif relation == "Antonym": 
-        masked_second_concept = (f"{concept1} is the opposite of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is the opposite of {concept2}.", concept1)
-    elif relation == "DistinctFrom":
-        masked_second_concept = (f"{concept1} is distinct from {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is distinct from {concept2}.", concept1)
-    elif relation == "DerivedFrom":
-        masked_second_concept = (f"{concept1} is derived from {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is derived from {concept2}.", concept1)
-    elif relation == "SymbolOf":
-        masked_second_concept = (f"{concept1} symbolically represents {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} symbolically represents {concept2}.", concept1)
-    elif relation == "DefinedAs":
-        masked_second_concept = (f"{concept1} is defined as {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is defined as {concept2}.", concept1)
-    elif relation == "MannerOf":
-        masked_second_concept = (f"{concept1} is a specific way to do {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is a specific way to do {concept2}.", concept1)
-    elif relation == "LocatedNear":
-        masked_second_concept = (f"{concept1} is located near {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is located near {concept2}.", concept1)
-    elif relation == "HasContext":
-        masked_second_concept = (f"{concept1} is used in the context of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is used in the context of {concept2}.", concept1)
-    elif relation == "SimilarTo":
-        masked_second_concept = (f"{concept1} is similar to {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is similar to {concept2}.", concept1)
-    elif relation == "EtymologicallyRelatedTo":
-        masked_second_concept = (f"{concept1} have a common origin with {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} have a common origin with {concept2}.", concept1)
-    elif relation == "EtymologicallyDerivedFrom":
-        masked_second_concept = (f"{concept1} is derived from {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is derived from {concept2}.", concept1)
-    elif relation == "CausesDesire":
-        masked_second_concept = (f"{concept1} makes someone want {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} makes someone want {concept2}.", concept1)
-    elif relation == "MadeOf":
-        masked_second_concept = (f"{concept1} is made of {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} is made of {concept2}.", concept1)
-    elif relation == "ReceivesAction":
-        masked_second_concept = (f"{concept1} can be done to {mask_token}.", concept2)
-        masked_first_concept = (f"The {mask_token} can be done to {concept2}.", concept1)
-    else:
+        #masked_first_concept = (f"The {mask_token} is a synonym of {concept2}.", concept1)
+    #else:
 
-        print("******************************************++relation not found ----- ", relation)
-        print(concept1, concept2)
+        #print("******************************************++relation not found ----- ", relation)
+        #print(concept1, concept2)
 
     return masked_first_concept, masked_second_concept
 
@@ -274,21 +196,37 @@ def make_sentences_wn(relations):
     return hypernym_sents_masked_second, hyponym_sents_masked_second
 
 def make_sentences_cn(relations):
-    masked_first_concepts = []
-    masked_second_concepts = []
-    masked_first_concepts_hyper = []
+    #masked_first_concepts = []
+    #masked_second_concepts = []
+    #masked_first_concepts_hyper = []
     masked_second_concepts_hyper = []
+    masked_second_concepts_hypo = []
+    masked_second_concepts_used_for = []
+    masked_second_concepts_at_location = []
+    masked_second_concepts_synonym = []
+
     for relation in relations:
-        masked_first_concept, masked_second_concept = make_sentence_cn(relation[0], relation[1], relation[2], "<mask>", "such as") # TODO: SE VUOI CAMBIARE TRADUZIONE DI HYPER!
+        masked_first_concept, masked_second_concept = make_sentence_cn(relation[0], relation[1], relation[2], "[MASK]", "is a specific term for") # TODO: SE VUOI CAMBIARE TRADUZIONE DI HYPER!
         
-        if relation[1] == "IsA":
-            masked_first_concepts_hyper.append(masked_first_concept)
-            masked_second_concepts_hyper.append(masked_second_concept)
-        else:
-            masked_first_concepts.append(masked_first_concept)
-            masked_second_concepts.append(masked_second_concept)
+        if masked_second_concept != None:
+            if relation[1] == "IsA":
+                #masked_first_concepts_hyper.append(masked_first_concept)
+                masked_second_concepts_hyper.append(masked_second_concept)
+            
+            elif relation[1] == "PartOf":
+                #masked_first_concepts.append(masked_first_concept)
+                masked_second_concepts_hypo.append(masked_second_concept)
+
+            elif relation[1] == "UsedFor": 
+                masked_second_concepts_used_for.append(masked_second_concept)
+
+            elif relation[1] == "AtLocation":
+                masked_second_concepts_at_location.append(masked_second_concept)
+            
+            elif relation[1] == "Synonym":
+                masked_second_concepts_synonym.append(masked_second_concept)
     
-    return masked_first_concepts, masked_second_concepts, masked_first_concepts_hyper, masked_second_concepts_hyper
+    return masked_second_concepts_hyper, masked_second_concepts_hypo, masked_second_concepts_used_for, masked_second_concepts_at_location, masked_second_concepts_synonym    
 
 def make_prompts_conceptnet():
     # prendo gli input che ho già per bert e li uso per fare i prompt
@@ -356,9 +294,7 @@ def make_prompts_wordnet(): # TODO: cambia dato che ho eliminato alcune relazion
 
     
     return hyponym_sents_masked_first_prompt, hyponym_sents_masked_second_prompt, member_holonym_sents_prompt, part_meronym_sents_prompt, substance_meronym_sents_prompt, further_analysis_prompts
-
-
-    
+ 
 def create_prompt(sents):
     prompts = []
     for sent, exp in sents: 
@@ -370,8 +306,6 @@ Output:\n"
         prompts.append((prompt, exp))
     
     return prompts
-        
-
 
 def read_file_path(path, file):
     with open(path + file, "rb") as fp:
@@ -380,8 +314,8 @@ def read_file_path(path, file):
 
 if __name__ == '__main__':  
 
-    resource = "wordnet"
-    directory = "input_roberta"
+    resource = "conceptnet"
+    directory = "input_bert"
     
 
     if directory == "input_phi-1.5":
@@ -547,36 +481,102 @@ if __name__ == '__main__':
             # 3. extract all relations that the concept has on conceptnet
             relations_cn = relations_on_conceptnet(concepts_cn)
 
+            """
+            print("relations in conceptnet: ", len(relations_cn))
+
+
+            is_a = [relation for relation in relations_cn if relation[1] == "IsA"]
+            print("is a: ", len(is_a))
+            part_of = [relation for relation in relations_cn if relation[1] == "PartOf"]
+            print("part of: ", len(part_of))
+            has_a = [relation for relation in relations_cn if relation[1] == "HasA"]
+            print("has a: ", len(has_a))
+            related_to = [relation for relation in relations_cn if relation[1] == "RelatedTo"]
+            print("related to: ", len(related_to))
+            form_of = [relation for relation in relations_cn if relation[1] == "FormOf"]
+            print("form of: ", len(form_of))
+            used_for = [relation for relation in relations_cn if relation[1] == "UsedFor"]
+            print("used for: ", len(used_for))
+            capable_of = [relation for relation in relations_cn if relation[1] == "CapableOf"]
+            print("capable of: ", len(capable_of))
+            at_location = [relation for relation in relations_cn if relation[1] == "AtLocation"]
+            print("at location: ", len(at_location))
+            causes = [relation for relation in relations_cn if relation[1] == "Causes"]
+            print("causes: ", len(causes))
+            has_subevent = [relation for relation in relations_cn if relation[1] == "HasSubevent"]
+            print("has subevent: ", len(has_subevent))
+            has_first_subevent = [relation for relation in relations_cn if relation[1] == "HasFirstSubevent"]
+            print("has first subevent: ", len(has_first_subevent))
+            has_last_subevent = [relation for relation in relations_cn if relation[1] == "HasLastSubevent"]
+            print("has last subevent: ", len(has_last_subevent))
+            has_prerequisite = [relation for relation in relations_cn if relation[1] == "HasPrerequisite"]
+            print("has prerequisite: ", len(has_prerequisite))
+            has_property = [relation for relation in relations_cn if relation[1] == "HasProperty"]
+            print("has property: ", len(has_property))
+            motivated_by_goal = [relation for relation in relations_cn if relation[1] == "MotivatedByGoal"]
+            print("motivated by goal: ", len(motivated_by_goal))
+
+            """
+
             # 4. make a sentence that exemplifies the relation with the concepts and masking
-            sentences_first, sentences_second, sentences_first_hyper, sentences_second_hyper  = make_sentences_cn(relations_cn)
+            sentences_second_hyper, sentences_second_hypo, sentence_second_used_for, sentence_second_at_location, sentence_second_synonym  = make_sentences_cn(relations_cn)
             
             # 5. Save sentences 
     
-            with open(f"it/unito/input/{directory}/cn/masked_first_concept", "wb") as fp:   #Pickling
-                pickle.dump(sentences_first, fp)
+            #with open(f"it/unito/input/{directory}/cn/masked_first_concept", "wb") as fp:   #Pickling
+            #    pickle.dump(sentences_first, fp)
 
-            with open(f"it/unito/input/{directory}/cn/masked_second_concept", "wb") as fp:   #Pickling
-                pickle.dump(sentences_second, fp)
+            #with open(f"it/unito/input/{directory}/cn/masked_second_concept", "wb") as fp:   #Pickling
+            #    pickle.dump(sentences_second, fp)
 
-            with open(f"it/unito/input/{directory}/cn/masked_first_concept.txt", "w", encoding="utf8") as fp:
-                for sentence in sentences_first:
-                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+            #with open(f"it/unito/input/{directory}/cn/masked_first_concept.txt", "w", encoding="utf8") as fp:
+            #    for sentence in sentences_first:
+            #        fp.write(sentence[0] + " " + sentence[1] + "\n")
 
-            with open(f"it/unito/input/{directory}/cn/masked_second_concept.txt", "w", encoding="utf8") as fp:
-                for sentence in sentences_second:
-                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+            #with open(f"it/unito/input/{directory}/cn/masked_second_concept.txt", "w", encoding="utf8") as fp:
+            #    for sentence in sentences_second:
+            #        fp.write(sentence[0] + " " + sentence[1] + "\n")
 
 
-            with open(f"it/unito/input/{directory}/cn/masked_first_concept_hyper", "wb") as fp:   #Pickling
-                pickle.dump(sentences_first_hyper, fp)
+            #with open(f"it/unito/input/{directory}/cn/masked_first_concept_hyper", "wb") as fp:   #Pickling
+            #    pickle.dump(sentences_first_hyper, fp)
 
             with open(f"it/unito/input/{directory}/cn/masked_second_concept_hyper", "wb") as fp:   #Pickling
                 pickle.dump(sentences_second_hyper, fp)
 
-            with open(f"it/unito/input/{directory}/cn/masked_first_concept_hyper.txt", "w", encoding="utf8") as fp:
-                for sentence in sentences_first_hyper:
-                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_hypo", "wb") as fp:   #Pickling
+                pickle.dump(sentences_second_hypo, fp)
+            
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_used_for", "wb") as fp:   #Pickling
+                pickle.dump(sentence_second_used_for, fp)
+
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_at_location", "wb") as fp:   #Pickling
+                pickle.dump(sentence_second_at_location, fp)
+            
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_synonym", "wb") as fp:   #Pickling
+                pickle.dump(sentence_second_synonym, fp)
+
+            #with open(f"it/unito/input/{directory}/cn/masked_first_concept_hyper.txt", "w", encoding="utf8") as fp:
+            #    for sentence in sentences_first_hyper:
+            #        fp.write(sentence[0] + " " + sentence[1] + "\n")
 
             with open(f"it/unito/input/{directory}/cn/masked_second_concept_hyper.txt", "w", encoding="utf8") as fp:
                 for sentence in sentences_second_hyper:
                     fp.write(sentence[0] + " " + sentence[1] + "\n")
+
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_hypo.txt", "w", encoding="utf8") as fp:
+                for sentence in sentences_second_hypo:
+                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+                
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_used_for.txt", "w", encoding="utf8") as fp:
+                for sentence in sentence_second_used_for:
+                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+            
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_at_location.txt", "w", encoding="utf8") as fp:
+                for sentence in sentence_second_at_location:
+                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+
+            with open(f"it/unito/input/{directory}/cn/masked_second_concept_synonym.txt", "w", encoding="utf8") as fp:
+                for sentence in sentence_second_synonym:
+                    fp.write(sentence[0] + " " + sentence[1] + "\n")
+            
