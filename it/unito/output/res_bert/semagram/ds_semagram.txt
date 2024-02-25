@@ -1,502 +1,502 @@
 [
     {
-        "concept": "convertible",
-        "llm_concept": "wagon",
+        "concept": "cowboy hat",
+        "llm_concept": "cowboy",
         "relation": "hyponym"
     },
     {
-        "concept": "tiger beetle",
-        "llm_concept": "elephant",
+        "concept": "spacecraft",
+        "llm_concept": "galaxy",
         "relation": "hyponym"
     },
     {
-        "concept": "sucking louse",
-        "llm_concept": "swallow",
+        "concept": "Fragaria virginiana",
+        "llm_concept": "violet",
         "relation": "hyponym"
     },
     {
-        "concept": "tam - o'- shanter",
-        "llm_concept": "mick",
+        "concept": "slave - maker",
+        "llm_concept": "carpenter",
         "relation": "hyponym"
     },
     {
-        "concept": "hot chocolate",
-        "llm_concept": "toast",
+        "concept": "Xestobium rufovillosum",
+        "llm_concept": "orange",
         "relation": "hyponym"
     },
     {
-        "concept": "wain",
+        "concept": "common wheat",
+        "llm_concept": "boer",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "rose",
+        "llm_concept": "herb",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "slave - making ant",
+        "llm_concept": "carpenter",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "corgi",
+        "llm_concept": "brain",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "cargo vessel",
+        "llm_concept": "vessel",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "kalpac",
         "llm_concept": "term",
         "relation": "hyponym"
     },
     {
-        "concept": "invertebrate",
-        "llm_concept": "snake",
+        "concept": "beetle",
+        "llm_concept": "indian",
         "relation": "hyponym"
     },
     {
-        "concept": "argyll",
-        "llm_concept": "highlander",
+        "concept": "police boat",
+        "llm_concept": "helicopter",
         "relation": "hyponym"
     },
     {
-        "concept": "cargo ship",
-        "llm_concept": "cruiser",
+        "concept": "Conestoga wagon",
+        "llm_concept": "dakota",
         "relation": "hyponym"
     },
     {
-        "concept": "andrena",
-        "llm_concept": "family",
+        "concept": "peanut worm",
+        "llm_concept": "beetle",
         "relation": "hyponym"
     },
     {
-        "concept": "millinery",
-        "llm_concept": "levant",
-        "relation": "hyponym"
-    },
-    {
-        "concept": "American cheese",
-        "llm_concept": "buffalo",
-        "relation": "hyponym"
-    },
-    {
-        "concept": "burger",
-        "llm_concept": "burger",
-        "relation": "hyponym"
-    },
-    {
-        "concept": "work animal",
-        "llm_concept": "tank",
-        "relation": "hyponym"
-    },
-    {
-        "concept": "tramcar",
-        "llm_concept": "subway",
-        "relation": "hyponym"
-    },
-    {
-        "concept": "reed instrument",
-        "llm_concept": "bamboo",
+        "concept": "artiodactyl mammal",
+        "llm_concept": "squirrel",
         "relation": "hypernym"
     },
     {
-        "concept": "screw",
+        "concept": "sustenance",
+        "llm_concept": "body",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "citrus fruit",
+        "llm_concept": "jack",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "bowed stringed instrument",
+        "llm_concept": "guitar",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "hoofed mammal",
         "llm_concept": "mouse",
         "relation": "hypernym"
     },
     {
-        "concept": "cycle",
-        "llm_concept": "weather",
+        "concept": "liliaceous plant",
+        "llm_concept": "grass",
         "relation": "hypernym"
     },
     {
-        "concept": "reflector",
-        "llm_concept": "telescope",
+        "concept": "sheet",
+        "llm_concept": "magazine",
         "relation": "hypernym"
     },
     {
-        "concept": "tractor",
-        "llm_concept": "truck",
+        "concept": "furnishing",
+        "llm_concept": "bedroom",
         "relation": "hypernym"
     },
     {
-        "concept": "invertebrate",
-        "llm_concept": "frog",
+        "concept": "food product",
+        "llm_concept": "bacon",
         "relation": "hypernym"
     },
     {
-        "concept": "produce",
-        "llm_concept": "grain",
+        "concept": "lighter - than - air craft",
+        "llm_concept": "aero",
         "relation": "hypernym"
     },
     {
-        "concept": "clothing",
-        "llm_concept": "tunic",
+        "concept": "foodstuff",
+        "llm_concept": "wheat",
         "relation": "hypernym"
     },
     {
-        "concept": "whole",
-        "llm_concept": "population",
+        "concept": "printer",
+        "llm_concept": "press",
         "relation": "hypernym"
     },
     {
-        "concept": "receptacle",
-        "llm_concept": "refrigerator",
+        "concept": "scale",
+        "llm_concept": "fourth",
         "relation": "hypernym"
     },
     {
-        "concept": "reproductive structure",
-        "llm_concept": "sex",
+        "concept": "reed",
+        "llm_concept": "saw",
         "relation": "hypernym"
     },
     {
-        "concept": "nutrient",
-        "llm_concept": "sugar",
+        "concept": "way",
+        "llm_concept": "railway",
         "relation": "hypernym"
     },
     {
-        "concept": "protection",
+        "concept": "car seat",
+        "llm_concept": "winner",
+        "relation": "part"
+    },
+    {
+        "concept": "resistant",
+        "llm_concept": "wall",
+        "relation": "efficiency"
+    },
+    {
+        "concept": "key",
+        "llm_concept": "user",
+        "relation": "part"
+    },
+    {
+        "concept": "electricity",
+        "llm_concept": "human",
+        "relation": "supply"
+    },
+    {
+        "concept": "ices",
         "llm_concept": "sun",
-        "relation": "hypernym"
-    },
-    {
-        "concept": "weapon",
-        "llm_concept": "revolver",
-        "relation": "hypernym"
-    },
-    {
-        "concept": "ware",
-        "llm_concept": "violin",
-        "relation": "hypernym"
-    },
-    {
-        "concept": "liquids",
-        "llm_concept": "river",
         "relation": "content"
     },
     {
-        "concept": "windshield wiper",
-        "llm_concept": "volkswagen",
+        "concept": "fight",
+        "llm_concept": "colour",
+        "relation": "purpose"
+    },
+    {
+        "concept": "flour",
+        "llm_concept": "root",
+        "relation": "product"
+    },
+    {
+        "concept": "thumbhole",
+        "llm_concept": "person",
+        "relation": "part"
+    },
+    {
+        "concept": "summer",
+        "llm_concept": "garden",
+        "relation": "time"
+    },
+    {
+        "concept": "howl",
+        "llm_concept": "horse",
+        "relation": "activity"
+    },
+    {
+        "concept": "shutter",
+        "llm_concept": "roof",
+        "relation": "part"
+    },
+    {
+        "concept": "rope",
+        "llm_concept": "wall",
+        "relation": "part"
+    },
+    {
+        "concept": "classical music",
+        "llm_concept": "recording",
+        "relation": "purpose"
+    },
+    {
+        "concept": "marble",
+        "llm_concept": "statue",
+        "relation": "material"
+    },
+    {
+        "concept": "herbal",
+        "llm_concept": "diet",
+        "relation": "taste"
+    },
+    {
+        "concept": "paw",
+        "llm_concept": "cat",
+        "relation": "part"
+    },
+    {
+        "concept": "crunchy",
+        "llm_concept": "crust",
+        "relation": "consistency"
+    },
+    {
+        "concept": "westbound",
+        "llm_concept": "car",
+        "relation": "movement"
+    },
+    {
+        "concept": "speak",
+        "llm_concept": "word",
+        "relation": "purpose"
+    },
+    {
+        "concept": "aggressive",
+        "llm_concept": "fish",
+        "relation": "behavior"
+    },
+    {
+        "concept": "run",
+        "llm_concept": "beast",
+        "relation": "movement"
+    },
+    {
+        "concept": "stopper",
+        "llm_concept": "bumper",
+        "relation": "part"
+    },
+    {
+        "concept": "cob",
+        "llm_concept": "principle",
+        "relation": "product"
+    },
+    {
+        "concept": "gold",
+        "llm_concept": "crown",
+        "relation": "material"
+    },
+    {
+        "concept": "live",
+        "llm_concept": "devil",
+        "relation": "activity"
+    },
+    {
+        "concept": "biofuel",
+        "llm_concept": "gas",
+        "relation": "product"
+    },
+    {
+        "concept": "stir",
+        "llm_concept": "cup",
+        "relation": "purpose"
+    },
+    {
+        "concept": "elastic",
+        "llm_concept": "shell",
+        "relation": "material"
+    },
+    {
+        "concept": "metal",
+        "llm_concept": "frame",
+        "relation": "material"
+    },
+    {
+        "concept": "leopard",
+        "llm_concept": "owner",
+        "relation": "color_pattern"
+    },
+    {
+        "concept": "feed",
+        "llm_concept": "grain",
+        "relation": "purpose"
+    },
+    {
+        "concept": "wield",
+        "llm_concept": "object",
+        "relation": "how_to_use"
+    },
+    {
+        "concept": "tip",
+        "llm_concept": "fish",
+        "relation": "part"
+    },
+    {
+        "concept": "shade",
+        "llm_concept": "house",
+        "relation": "purpose"
+    },
+    {
+        "concept": "stock",
+        "llm_concept": "player",
+        "relation": "part"
+    },
+    {
+        "concept": "curd",
+        "llm_concept": "goat",
+        "relation": "part"
+    },
+    {
+        "concept": "poop",
+        "llm_concept": "pig",
+        "relation": "part"
+    },
+    {
+        "concept": "tube",
+        "llm_concept": "heart",
+        "relation": "part"
+    },
+    {
+        "concept": "safety",
+        "llm_concept": "arm",
+        "relation": "purpose"
+    },
+    {
+        "concept": "healthy",
+        "llm_concept": "future",
+        "relation": "behavior"
+    },
+    {
+        "concept": "shroud",
+        "llm_concept": "veil",
         "relation": "part"
     },
     {
         "concept": "bioethanol",
-        "llm_concept": "product",
+        "llm_concept": "enzyme",
         "relation": "product"
     },
     {
-        "concept": "wire",
-        "llm_concept": "door",
-        "relation": "part"
-    },
-    {
-        "concept": "concerto",
-        "llm_concept": "category",
-        "relation": "purpose"
-    },
-    {
-        "concept": "belt loop",
-        "llm_concept": "ride",
-        "relation": "part"
-    },
-    {
-        "concept": "bulb",
+        "concept": "box pleat",
         "llm_concept": "ball",
         "relation": "part"
     },
     {
-        "concept": "cleaning",
-        "llm_concept": "towel",
+        "concept": "disposable",
+        "llm_concept": "category",
         "relation": "purpose"
     },
     {
         "concept": "cargo area",
-        "llm_concept": "wagon",
+        "llm_concept": "boat",
         "relation": "part"
     },
     {
-        "concept": "hold",
-        "llm_concept": "gun",
-        "relation": "how_to_use"
-    },
-    {
-        "concept": "funnel",
-        "llm_concept": "nose",
+        "concept": "hatband",
+        "llm_concept": "cap",
         "relation": "part"
     },
     {
-        "concept": "fireside",
-        "llm_concept": "horse",
+        "concept": "mantel",
+        "llm_concept": "home",
         "relation": "part"
     },
     {
-        "concept": "brown",
-        "llm_concept": "leaf",
-        "relation": "color_pattern"
-    },
-    {
-        "concept": "mouthpiece",
-        "llm_concept": "driver",
+        "concept": "body",
+        "llm_concept": "mind",
         "relation": "part"
     },
     {
-        "concept": "aerodynamic",
-        "llm_concept": "control",
-        "relation": "shape"
-    },
-    {
-        "concept": "window",
-        "llm_concept": "room",
-        "relation": "part"
-    },
-    {
-        "concept": "toe",
-        "llm_concept": "thumb",
-        "relation": "part"
-    },
-    {
-        "concept": "copper",
-        "llm_concept": "brass",
+        "concept": "elastic",
+        "llm_concept": "board",
         "relation": "material"
     },
     {
-        "concept": "wash",
-        "llm_concept": "color",
-        "relation": "purpose"
-    },
-    {
-        "concept": "mast",
-        "llm_concept": "aircraft",
-        "relation": "part"
-    },
-    {
-        "concept": "tongue",
-        "llm_concept": "tiger",
-        "relation": "part"
-    },
-    {
-        "concept": "cornflake",
-        "llm_concept": "dye",
-        "relation": "product"
-    },
-    {
-        "concept": "hearthstone",
-        "llm_concept": "heart",
-        "relation": "part"
-    },
-    {
-        "concept": "gold",
-        "llm_concept": "ore",
-        "relation": "color_pattern"
-    },
-    {
-        "concept": "lap covering",
-        "llm_concept": "king",
-        "relation": "part"
-    },
-    {
-        "concept": "capillary",
-        "llm_concept": "lung",
-        "relation": "part"
-    },
-    {
-        "concept": "leap",
-        "llm_concept": "moon",
-        "relation": "activity"
-    },
-    {
-        "concept": "lick",
-        "llm_concept": "dog",
-        "relation": "activity"
-    },
-    {
-        "concept": "pendent",
-        "llm_concept": "car",
-        "relation": "part"
-    },
-    {
-        "concept": "paw",
-        "llm_concept": "animal",
-        "relation": "part"
-    },
-    {
-        "concept": "fire",
-        "llm_concept": "user",
-        "relation": "supply"
-    },
-    {
-        "concept": "croak",
-        "llm_concept": "dead",
-        "relation": "activity"
-    },
-    {
-        "concept": "gluten",
-        "llm_concept": "salt",
-        "relation": "product"
-    },
-    {
-        "concept": "stopper",
-        "llm_concept": "gate",
-        "relation": "part"
-    },
-    {
-        "concept": "bimetallic strip",
-        "llm_concept": "blade",
-        "relation": "part"
-    },
-    {
-        "concept": "chain guard",
-        "llm_concept": "vehicle",
-        "relation": "part"
-    },
-    {
-        "concept": "engine room",
-        "llm_concept": "plane",
-        "relation": "part"
-    },
-    {
-        "concept": "silver",
-        "llm_concept": "knife",
-        "relation": "color_pattern"
-    },
-    {
-        "concept": "viscose",
-        "llm_concept": "coating",
-        "relation": "material"
-    },
-    {
-        "concept": "wall",
-        "llm_concept": "place",
-        "relation": "part"
-    },
-    {
-        "concept": "typewriter carriage",
-        "llm_concept": "font",
-        "relation": "part"
-    },
-    {
-        "concept": "burning",
-        "llm_concept": "light",
-        "relation": "supply"
-    },
-    {
-        "concept": "live",
-        "llm_concept": "human",
-        "relation": "activity"
-    },
-    {
-        "concept": "neck",
-        "llm_concept": "body",
-        "relation": "part"
-    },
-    {
-        "concept": "red",
-        "llm_concept": "ink",
-        "relation": "color_pattern"
-    },
-    {
-        "concept": "ring",
-        "llm_concept": "cube",
-        "relation": "part"
-    },
-    {
-        "concept": "seat belt",
-        "llm_concept": "van",
-        "relation": "part"
-    },
-    {
-        "concept": "beak",
-        "llm_concept": "snake",
-        "relation": "part"
-    },
-    {
-        "concept": "panel",
-        "llm_concept": "elevator",
-        "relation": "part"
-    },
-    {
-        "concept": "petrol engine",
-        "llm_concept": "aircraft",
-        "relation": "part"
-    },
-    {
-        "concept": "crisp",
-        "llm_concept": "tea",
-        "relation": "consistency"
-    },
-    {
-        "concept": "innersole",
-        "llm_concept": "star",
-        "relation": "part"
-    },
-    {
-        "concept": "breadstuff",
-        "llm_concept": "baby",
-        "relation": "part"
-    },
-    {
-        "concept": "kickstand",
-        "llm_concept": "wheelchair",
-        "relation": "part"
-    },
-    {
-        "concept": "float",
-        "llm_concept": "bird",
-        "relation": "movement"
-    },
-    {
-        "concept": "leg",
-        "llm_concept": "head",
-        "relation": "part"
-    },
-    {
-        "concept": "thumbhole",
-        "llm_concept": "camera",
+        "concept": "bottom",
+        "llm_concept": "board",
         "relation": "part"
     },
     {
         "concept": "floor",
-        "llm_concept": "restaurant",
+        "llm_concept": "kitchen",
         "relation": "part"
     },
     {
-        "concept": "headlight",
-        "llm_concept": "ambulance",
+        "concept": "basin",
+        "llm_concept": "mountain",
         "relation": "part"
     },
     {
-        "concept": "buffer",
-        "llm_concept": "game",
+        "concept": "screw",
+        "llm_concept": "key",
         "relation": "part"
     },
     {
-        "concept": "rack",
-        "llm_concept": "game",
+        "concept": "cornflake",
+        "llm_concept": "enzyme",
+        "relation": "product"
+    },
+    {
+        "concept": "fly",
+        "llm_concept": "baby",
+        "relation": "movement"
+    },
+    {
+        "concept": "windshield wiper",
+        "llm_concept": "coach",
         "relation": "part"
     },
     {
-        "concept": "wing",
-        "llm_concept": "fly",
+        "concept": "base",
+        "llm_concept": "ship",
         "relation": "part"
     },
     {
-        "concept": "tannin",
-        "llm_concept": "alcohol",
+        "concept": "weather sheet",
+        "llm_concept": "island",
         "relation": "part"
     },
     {
-        "concept": "sprayer",
-        "llm_concept": "van",
+        "concept": "outsole",
+        "llm_concept": "tail",
         "relation": "part"
     },
     {
-        "concept": "after part",
-        "llm_concept": "song",
+        "concept": "research",
+        "llm_concept": "tree",
+        "relation": "purpose"
+    },
+    {
+        "concept": "sprays",
+        "llm_concept": "liquid",
+        "relation": "content"
+    },
+    {
+        "concept": "pipe",
+        "llm_concept": "person",
         "relation": "part"
     },
     {
-        "concept": "capillary",
-        "llm_concept": "heart",
+        "concept": "hunt",
+        "llm_concept": "tiger",
+        "relation": "activity"
+    },
+    {
+        "concept": "thumb",
+        "llm_concept": "finger",
         "relation": "part"
     },
     {
-        "concept": "seatback",
-        "llm_concept": "vehicle",
+        "concept": "trouser leg",
+        "llm_concept": "horse",
         "relation": "part"
     },
     {
-        "concept": "happy",
-        "llm_concept": "child",
-        "relation": "behavior"
-    },
-    {
-        "concept": "earlap",
-        "llm_concept": "king",
+        "concept": "tone arm",
+        "llm_concept": "robot",
         "relation": "part"
     },
     {
-        "concept": "commuter",
-        "llm_concept": "street",
+        "concept": "clay",
+        "llm_concept": "building",
+        "relation": "material"
+    },
+    {
+        "concept": "cookhouse",
+        "llm_concept": "backyard",
+        "relation": "part"
+    },
+    {
+        "concept": "wool",
+        "llm_concept": "blanket",
+        "relation": "material"
+    },
+    {
+        "concept": "play",
+        "llm_concept": "flag",
         "relation": "purpose"
     }
 ]

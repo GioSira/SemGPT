@@ -10,6 +10,7 @@ lemmatizer = WordNetLemmatizer()
 
 
 def read_generated_concepts(concept_string):
+    end_concept = get_end_concept(concept_string)
     words = [elem['token_str'] for elem in concept_string]
     #words = [x.lower().strip() for x in re.findall(r'[a-zA-Z ]+',concept_string)]
     #print("words: ", words)
@@ -18,11 +19,68 @@ def read_generated_concepts(concept_string):
     #print("words senza stopwords e token no words: ", words)
     words = [lemmatizer.lemmatize(x.lower()) for x in words]
     #print("lemmatized: ", words)
+    words = [x for x in words if x != end_concept]
     words = list(dict.fromkeys(words))
     #print("unique: ", words)
     return words
 
-def read_generated_concepts_prompt(concept_string):
+def get_end_concept(data):
+    # per ottenere il concetto a cui è collegato il valore mascherato
+    first_res = data[0]
+    seq = first_res['sequence']
+    connective = ' such as the '
+    if ' such as the ' in seq:
+        if 'A' == seq.split()[0]:
+            return seq.split(', such as the')[0].replace('A ', '')
+        else:
+            return seq.split(', such as the')[0].replace('An ', '')
+    elif ' can be used to ' in seq:
+        connective = ' can be used to '
+    elif ' can be made of ' in seq:
+        connective = ' can be made of '
+    elif ' can be used in the making of ' in seq:
+        connective = ' can be used in the making of '
+    elif ' can be eaten when ' in seq:
+        connective = ' can be eaten when '
+    elif ' can be ' in seq:
+        connective = ' can be '
+    elif ' can contain ' in seq:
+        connective = ' can contain '
+    elif ' can have a ' in seq:
+        connective = ' can have a '
+    elif ' can produce ' in seq:
+        connective = ' can produce '
+    elif ' can use ' in seq:
+        connective = ' can use '
+    elif ' can ' in seq:
+        connective = ' can '
+    elif ' is a general term for ' in seq:
+        connective = ' is a general term for '
+    elif ' is used for ' in seq:
+        connective = ' is used for ' 
+    elif ' are used for ' in seq:
+        connective = ' are used for '
+    elif ' are active during ' in seq: 
+        connective = ' are active during '
+    elif ' are ' in seq:
+        connective = ' are '
+    # FINO A QUI è PER SEMAGRAM
+    elif ' is a part of ' in seq:
+        connective = ' is a part of '
+    elif ' is a typical location for ' in seq:
+        connective = ' is a typical location for '
+    elif ' is a synonym of ' in seq:
+        connective = ' is a synonym of '
+    # FINO A QUI è PER CN
+    elif ' have an ' in seq:
+        connective = ' have an '
+    elif ' have a ' in seq:
+        connective = ' have a '
+    # FINO A QUI è PER WN
+    
+    return seq.split(connective)[-1].strip('.').strip() #TODO: controllare se è corretto!!
+
+def read_generated_concepts_prompt(concept_string): # TODO: DA ELIMINARE!!!!
 
     #print("res: ", concept_string)
     concept_string = concept_string.split("Output:")[1]
@@ -296,8 +354,8 @@ def read_model_files_and_write_results(folder, model_name):
 
 if __name__ == '__main__':
 
-    model = "electra"
-    kb = "semagram"
+    model = "bert"
+    kb = "wn"
     
     main_folder = f'/Users/128525/Desktop/Uni/SemGPT/it/unito/output/res_{model}/{kb}'
 

@@ -2,7 +2,7 @@ from glob import glob
 import pickle
 import json
 import random
-from it.unito.eval_measures import read_generated_concepts
+from it.unito.eval_measures import read_generated_concepts, get_end_concept
 
 def generate_ds(results_hypo, results_hyper, results_other):
     ## Inserire tutti i risultati ottenuti 
@@ -22,63 +22,6 @@ def generate_ds(results_hypo, results_hyper, results_other):
     ds.extend(choice_other)
    
     return ds
-
-def get_end_concept(data):
-    # per ottenere il concetto a cui è collegato il valore mascherato
-    first_res = data[0]
-    seq = first_res['sequence']
-    connective = ' such as the '
-    if ' such as the ' in seq:
-        if 'A' == seq.split()[0]:
-            return seq.split(', such as the')[0].replace('A ', '')
-        else:
-            return seq.split(', such as the')[0].replace('An ', '')
-    elif ' can be used to ' in seq:
-        connective = ' can be used to '
-    elif ' can be made of ' in seq:
-        connective = ' can be made of '
-    elif ' can be used in the making of ' in seq:
-        connective = ' can be used in the making of '
-    elif ' can be eaten when ' in seq:
-        connective = ' can be eaten when '
-    elif ' can be ' in seq:
-        connective = ' can be '
-    elif ' can contain ' in seq:
-        connective = ' can contain '
-    elif ' can have a ' in seq:
-        connective = ' can have a '
-    elif ' can produce ' in seq:
-        connective = ' can produce '
-    elif ' can use ' in seq:
-        connective = ' can use '
-    elif ' can ' in seq:
-        connective = ' can '
-    elif ' is a general term for ' in seq:
-        connective = ' is a general term for '
-    elif ' is used for ' in seq:
-        connective = ' is used for ' 
-    elif ' are used for ' in seq:
-        connective = ' are used for '
-    elif ' are active during ' in seq: 
-        connective = ' are active during '
-    elif ' are ' in seq:
-        connective = ' are '
-    # FINO A QUI è PER SEMAGRAM
-    elif ' is a part of ' in seq:
-        connective = ' is a part of '
-    elif ' is a typical location for ' in seq:
-        connective = ' is a typical location for '
-    elif ' is a synonym of ' in seq:
-        connective = ' is a synonym of '
-    # FINO A QUI è PER CN
-    elif ' have an ' in seq:
-        connective = ' have an '
-    elif ' have a ' in seq:
-        connective = ' have a '
-    # FINO A QUI è PER WN
-    
-    return seq.split(connective)[-1].strip('.').strip() #TODO: controllare se è corretto!!
-
 
 def create_list_objects(file, relation):
     begin_list_objects = []
@@ -102,8 +45,6 @@ def create_list_objects(file, relation):
     return list_objects
 
 
-
-
 def read_model_files_and_write_results(folder, kb):
 
     results_hypo, results_hyper, results_other = [], [], []
@@ -117,16 +58,13 @@ def read_model_files_and_write_results(folder, kb):
         if kb == "semagram": 
             relation = relation.replace('masked_concept_', '') 
             relation = relation.replace('_20.bin', '')
-            #relation = relation.replace('_', ' ')
 
         elif kb == "cn":
             relation = relation.replace('masked_first_concept_', '') 
             relation = relation.replace('_20.bin', '')
-            #relation = relation.replace('_', ' ')
             
         else:
             relation = relation.replace('_sents_masked_first_20.bin', '')
-            #relation = relation.replace('_', ' ')
 
         if 'hyper' in relation:
             relation = 'hypernym'
@@ -156,7 +94,7 @@ def read_model_files_and_write_results(folder, kb):
 if __name__ == '__main__':
 
     model = "bert"
-    kb = "semagram"
+    kb = "cn"
     
     main_folder = f'/Users/128525/Desktop/Uni/SemGPT/it/unito/output/res_{model}/{kb}'
 
