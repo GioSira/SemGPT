@@ -78,7 +78,7 @@ def get_end_concept(data):
         connective = ' have a '
     # FINO A QUI è PER WN
     
-    return seq.split(connective)[-1].strip('.').strip() #TODO: controllare se è corretto!!
+    return seq.split(connective)[-1].strip('.').strip() 
 
 def read_generated_concepts_prompt(concept_string): # TODO: DA ELIMINARE!!!!
 
@@ -354,8 +354,8 @@ def read_model_files_and_write_results(folder, model_name):
 
 if __name__ == '__main__':
 
-    model = "bert"
-    kb = "wn"
+    model = "electra"
+    kb = "semagram"
     
     main_folder = f'/Users/128525/Desktop/Uni/SemGPT/it/unito/output/res_{model}/{kb}'
 
