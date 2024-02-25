@@ -1,0 +1,2 @@
+The [MASK] are active during summer. ['bee', 'insect', 'ant', 'bird', 'butterfly', 'sawfly']
+The [MASK] are active during night. ['snail', 'invertebrate']

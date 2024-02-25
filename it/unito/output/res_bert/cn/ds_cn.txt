@@ -1,0 +1,502 @@
+[
+    {
+        "concept": "brachiopod",
+        "llm_concept": "shell",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "beer hall",
+        "llm_concept": "arena",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "steeper",
+        "llm_concept": "drop",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "head gate",
+        "llm_concept": "doorway",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "tiger beetle",
+        "llm_concept": "hindu",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "mollusk",
+        "llm_concept": "rat",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "sports equipment",
+        "llm_concept": "bag",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "zeppelin",
+        "llm_concept": "caravan",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "Japanese banana",
+        "llm_concept": "cherry",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "breadbasket",
+        "llm_concept": "refrigerator",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "fireplug",
+        "llm_concept": "stick",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "cote",
+        "llm_concept": "square",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "clothes dryer",
+        "llm_concept": "garage",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "book bag",
+        "llm_concept": "drawer",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "cryometer",
+        "llm_concept": "gauge",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "form of public transportation",
+        "llm_concept": "tramway",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "attendant",
+        "llm_concept": "hostess",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "good way to spend time",
+        "llm_concept": "shower",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "noun",
+        "llm_concept": "present",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "meal",
+        "llm_concept": "course",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "good way to spend time",
+        "llm_concept": "evening",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "better snack than candy",
+        "llm_concept": "banana",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "root",
+        "llm_concept": "plant",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "two wheel vehicle",
+        "llm_concept": "truck",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "good way to spend time",
+        "llm_concept": "web",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "percussion instrument",
+        "llm_concept": "triangle",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "TV",
+        "llm_concept": "nfl",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "instrument of music",
+        "llm_concept": "keyboard",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "utensil",
+        "llm_concept": "bowl",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "wheeled vehicle",
+        "llm_concept": "railroad",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "eat",
+        "llm_concept": "noun",
+        "relation": "used_for"
+    },
+    {
+        "concept": "cherries",
+        "llm_concept": "garden",
+        "relation": "at_location"
+    },
+    {
+        "concept": "bassoon",
+        "llm_concept": "usa",
+        "relation": "at_location"
+    },
+    {
+        "concept": "chaise",
+        "llm_concept": "interior",
+        "relation": "part_of"
+    },
+    {
+        "concept": "rosebush",
+        "llm_concept": "piedmont",
+        "relation": "at_location"
+    },
+    {
+        "concept": "trolls",
+        "llm_concept": "arctic",
+        "relation": "at_location"
+    },
+    {
+        "concept": "see yourself",
+        "llm_concept": "image",
+        "relation": "used_for"
+    },
+    {
+        "concept": "inserting a screw",
+        "llm_concept": "tool",
+        "relation": "used_for"
+    },
+    {
+        "concept": "umbrella",
+        "llm_concept": "caribbean",
+        "relation": "at_location"
+    },
+    {
+        "concept": "spider",
+        "llm_concept": "floor",
+        "relation": "at_location"
+    },
+    {
+        "concept": "lion",
+        "llm_concept": "lake",
+        "relation": "at_location"
+    },
+    {
+        "concept": "gat",
+        "llm_concept": "genus",
+        "relation": "synonym"
+    },
+    {
+        "concept": "hit a nail",
+        "llm_concept": "nail",
+        "relation": "used_for"
+    },
+    {
+        "concept": "synthesizer",
+        "llm_concept": "organ",
+        "relation": "synonym"
+    },
+    {
+        "concept": "potentiometer",
+        "llm_concept": "hammer",
+        "relation": "synonym"
+    },
+    {
+        "concept": "sweater",
+        "llm_concept": "lake",
+        "relation": "at_location"
+    },
+    {
+        "concept": "mirror",
+        "llm_concept": "circle",
+        "relation": "at_location"
+    },
+    {
+        "concept": "spoon",
+        "llm_concept": "bowl",
+        "relation": "synonym"
+    },
+    {
+        "concept": "ringing",
+        "llm_concept": "cell",
+        "relation": "used_for"
+    },
+    {
+        "concept": "global positioning system",
+        "llm_concept": "sahara",
+        "relation": "at_location"
+    },
+    {
+        "concept": "cargo",
+        "llm_concept": "port",
+        "relation": "at_location"
+    },
+    {
+        "concept": "lock",
+        "llm_concept": "hole",
+        "relation": "at_location"
+    },
+    {
+        "concept": "trombone",
+        "llm_concept": "cathedral",
+        "relation": "at_location"
+    },
+    {
+        "concept": "bridge",
+        "llm_concept": "lake",
+        "relation": "at_location"
+    },
+    {
+        "concept": "lifting pallets",
+        "llm_concept": "hammer",
+        "relation": "used_for"
+    },
+    {
+        "concept": "baby foods",
+        "llm_concept": "pacific",
+        "relation": "at_location"
+    },
+    {
+        "concept": "driving nails",
+        "llm_concept": "instrument",
+        "relation": "used_for"
+    },
+    {
+        "concept": "store pallets of merchandise",
+        "llm_concept": "design",
+        "relation": "used_for"
+    },
+    {
+        "concept": "drinker",
+        "llm_concept": "latin",
+        "relation": "used_for"
+    },
+    {
+        "concept": "bird",
+        "llm_concept": "bahamas",
+        "relation": "at_location"
+    },
+    {
+        "concept": "carrying things",
+        "llm_concept": "boat",
+        "relation": "used_for"
+    },
+    {
+        "concept": "sleeping under",
+        "llm_concept": "base",
+        "relation": "used_for"
+    },
+    {
+        "concept": "branch",
+        "llm_concept": "tree",
+        "relation": "synonym"
+    },
+    {
+        "concept": "cross a bay",
+        "llm_concept": "sign",
+        "relation": "used_for"
+    },
+    {
+        "concept": "umbrella",
+        "llm_concept": "philippine",
+        "relation": "part_of"
+    },
+    {
+        "concept": "dig a grave",
+        "llm_concept": "earth",
+        "relation": "used_for"
+    },
+    {
+        "concept": "pigs feet",
+        "llm_concept": "pond",
+        "relation": "at_location"
+    },
+    {
+        "concept": "oboe",
+        "llm_concept": "mouth",
+        "relation": "at_location"
+    },
+    {
+        "concept": "make soup",
+        "llm_concept": "recipe",
+        "relation": "used_for"
+    },
+    {
+        "concept": "getting attention",
+        "llm_concept": "phrase",
+        "relation": "used_for"
+    },
+    {
+        "concept": "transport",
+        "llm_concept": "runway",
+        "relation": "used_for"
+    },
+    {
+        "concept": "deer",
+        "llm_concept": "head",
+        "relation": "part_of"
+    },
+    {
+        "concept": "bus seat",
+        "llm_concept": "platform",
+        "relation": "at_location"
+    },
+    {
+        "concept": "torch",
+        "llm_concept": "sword",
+        "relation": "synonym"
+    },
+    {
+        "concept": "marimba",
+        "llm_concept": "trumpet",
+        "relation": "synonym"
+    },
+    {
+        "concept": "trap",
+        "llm_concept": "word",
+        "relation": "synonym"
+    },
+    {
+        "concept": "clarinet",
+        "llm_concept": "keyboard",
+        "relation": "at_location"
+    },
+    {
+        "concept": "actor",
+        "llm_concept": "house",
+        "relation": "at_location"
+    },
+    {
+        "concept": "shave with",
+        "llm_concept": "tool",
+        "relation": "used_for"
+    },
+    {
+        "concept": "husk",
+        "llm_concept": "root",
+        "relation": "synonym"
+    },
+    {
+        "concept": "baby foods",
+        "llm_concept": "philippine",
+        "relation": "at_location"
+    },
+    {
+        "concept": "dirigible",
+        "llm_concept": "eagle",
+        "relation": "synonym"
+    },
+    {
+        "concept": "shovel",
+        "llm_concept": "screw",
+        "relation": "synonym"
+    },
+    {
+        "concept": "race",
+        "llm_concept": "following",
+        "relation": "used_for"
+    },
+    {
+        "concept": "taking a bath",
+        "llm_concept": "mirror",
+        "relation": "used_for"
+    },
+    {
+        "concept": "hedge",
+        "llm_concept": "following",
+        "relation": "synonym"
+    },
+    {
+        "concept": "entering a building",
+        "llm_concept": "door",
+        "relation": "used_for"
+    },
+    {
+        "concept": "playing music",
+        "llm_concept": "guitar",
+        "relation": "used_for"
+    },
+    {
+        "concept": "stripper",
+        "llm_concept": "devil",
+        "relation": "synonym"
+    },
+    {
+        "concept": "can",
+        "llm_concept": "box",
+        "relation": "at_location"
+    },
+    {
+        "concept": "chair",
+        "llm_concept": "table",
+        "relation": "at_location"
+    },
+    {
+        "concept": "skirt",
+        "llm_concept": "shoulder",
+        "relation": "part_of"
+    },
+    {
+        "concept": "helicopter",
+        "llm_concept": "helicopter",
+        "relation": "synonym"
+    },
+    {
+        "concept": "lifting heavy things",
+        "llm_concept": "bridge",
+        "relation": "used_for"
+    },
+    {
+        "concept": "piano",
+        "llm_concept": "gallery",
+        "relation": "at_location"
+    },
+    {
+        "concept": "sandwich",
+        "llm_concept": "knife",
+        "relation": "part_of"
+    },
+    {
+        "concept": "helicopter",
+        "llm_concept": "wing",
+        "relation": "synonym"
+    },
+    {
+        "concept": "fox",
+        "llm_concept": "yukon",
+        "relation": "at_location"
+    },
+    {
+        "concept": "poop",
+        "llm_concept": "plural",
+        "relation": "used_for"
+    },
+    {
+        "concept": "water scooter",
+        "llm_concept": "butterfly",
+        "relation": "synonym"
+    }
+]

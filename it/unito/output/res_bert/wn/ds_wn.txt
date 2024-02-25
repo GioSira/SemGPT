@@ -1,0 +1,502 @@
+[
+    {
+        "concept": "pedicab",
+        "llm_concept": "indian",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "banyan",
+        "llm_concept": "yellow",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "pickup truck",
+        "llm_concept": "cab",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "wagon",
+        "llm_concept": "carriage",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "peacoat",
+        "llm_concept": "cloak",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "helmet",
+        "llm_concept": "boot",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "drum",
+        "llm_concept": "staff",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "Centigrade thermometer",
+        "llm_concept": "cube",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "aquarium",
+        "llm_concept": "pool",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "dicamptodon",
+        "llm_concept": "tail",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "rose wine",
+        "llm_concept": "red",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "sweat sock",
+        "llm_concept": "kicker",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "calcium light",
+        "llm_concept": "beta",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "altar wine",
+        "llm_concept": "madeleine",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "fauteuil",
+        "llm_concept": "boat",
+        "relation": "hyponym"
+    },
+    {
+        "concept": "inebriant",
+        "llm_concept": "cat",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "wood",
+        "llm_concept": "tree",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "animate being",
+        "llm_concept": "cat",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "dish",
+        "llm_concept": "soup",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "guitar",
+        "llm_concept": "fender",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "article of clothing",
+        "llm_concept": "clothing",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "edible fruit",
+        "llm_concept": "coconut",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "wearable",
+        "llm_concept": "net",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "tractor",
+        "llm_concept": "ford",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "hat",
+        "llm_concept": "hat",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "tube",
+        "llm_concept": "channel",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "percussive instrument",
+        "llm_concept": "keyboard",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "seat",
+        "llm_concept": "piano",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "self - propelled vehicle",
+        "llm_concept": "train",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "stringed instrument",
+        "llm_concept": "harmonica",
+        "relation": "hypernym"
+    },
+    {
+        "concept": "wheat berry",
+        "llm_concept": "armenian",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "first",
+        "llm_concept": "player",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "gas",
+        "llm_concept": "wall",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "mallet",
+        "llm_concept": "ball",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "tail fin",
+        "llm_concept": "bird",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "hearth",
+        "llm_concept": "men",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "green gland",
+        "llm_concept": "ear",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "mantle",
+        "llm_concept": "cat",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "sole",
+        "llm_concept": "thumb",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "weather sheet",
+        "llm_concept": "weather",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "windshield",
+        "llm_concept": "model",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "neckband",
+        "llm_concept": "single",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "base",
+        "llm_concept": "religion",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "staff of life",
+        "llm_concept": "priest",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "piano keyboard",
+        "llm_concept": "model",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "tone arm",
+        "llm_concept": "british",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "flooring",
+        "llm_concept": "toilet",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "ribbon",
+        "llm_concept": "winner",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "hemline",
+        "llm_concept": "mammal",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "cathode - ray oscilloscope",
+        "llm_concept": "french",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "blade",
+        "llm_concept": "horn",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "thread",
+        "llm_concept": "flower",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "dickey",
+        "llm_concept": "men",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "jacket",
+        "llm_concept": "boxer",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "leg",
+        "llm_concept": "chinese",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "fuel pod",
+        "llm_concept": "suit",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "rudder",
+        "llm_concept": "frigate",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "shirtsleeve",
+        "llm_concept": "leader",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "claw",
+        "llm_concept": "fish",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "round",
+        "llm_concept": "champion",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "third gear",
+        "llm_concept": "angel",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "screw propeller",
+        "llm_concept": "aircraft",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "refrigeration system",
+        "llm_concept": "soviet",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "shank",
+        "llm_concept": "horse",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "carapace",
+        "llm_concept": "snail",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "cuticle",
+        "llm_concept": "bone",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "winch",
+        "llm_concept": "locomotive",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "uropygial gland",
+        "llm_concept": "roman",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "caput",
+        "llm_concept": "angel",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "insole",
+        "llm_concept": "leg",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "ridge rope",
+        "llm_concept": "men",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "mudguard",
+        "llm_concept": "horse",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "sprocket",
+        "llm_concept": "motorcycle",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "ribbon",
+        "llm_concept": "star",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "throat",
+        "llm_concept": "people",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "shroud",
+        "llm_concept": "ghost",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "earlap",
+        "llm_concept": "welsh",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "bulkhead",
+        "llm_concept": "trunk",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "mantel",
+        "llm_concept": "painting",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "tone arm",
+        "llm_concept": "japanese",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "low",
+        "llm_concept": "roman",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "radio chassis",
+        "llm_concept": "model",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "treadle",
+        "llm_concept": "wall",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "mentum",
+        "llm_concept": "bird",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "cabin",
+        "llm_concept": "visitor",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "half sole",
+        "llm_concept": "pump",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "ceiling",
+        "llm_concept": "roof",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "bilge well",
+        "llm_concept": "men",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "reverse",
+        "llm_concept": "word",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "drip pan",
+        "llm_concept": "toilet",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "tomato",
+        "llm_concept": "portuguese",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "backrest",
+        "llm_concept": "passenger",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "fingerboard",
+        "llm_concept": "eye",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "claw",
+        "llm_concept": "male",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "roof",
+        "llm_concept": "roof",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "hearth",
+        "llm_concept": "indian",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "rake handle",
+        "llm_concept": "barrel",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "breadstuff",
+        "llm_concept": "british",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "bonnet",
+        "llm_concept": "cloud",
+        "relation": "part_meronym"
+    },
+    {
+        "concept": "green corn",
+        "llm_concept": "cattle",
+        "relation": "part_meronym"
+    }
+]

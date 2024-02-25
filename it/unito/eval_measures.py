@@ -1,15 +1,25 @@
-import json
 import regex as re
-from it.unito.db import query_semagram as qs
 from pathlib import Path
 from glob import glob
 import pickle
+from nltk.stem import WordNetLemmatizer
+from gensim.parsing.preprocessing import remove_stopword_tokens 
+
+
+lemmatizer = WordNetLemmatizer()
 
 
 def read_generated_concepts(concept_string):
     words = [elem['token_str'] for elem in concept_string]
     #words = [x.lower().strip() for x in re.findall(r'[a-zA-Z ]+',concept_string)]
-    words = [x for x in words if x]
+    #print("words: ", words)
+    words = remove_stopword_tokens(words)
+    words = [x for x in words if len(x) > 2 and x.isalpha()]
+    #print("words senza stopwords e token no words: ", words)
+    words = [lemmatizer.lemmatize(x.lower()) for x in words]
+    #print("lemmatized: ", words)
+    words = list(dict.fromkeys(words))
+    #print("unique: ", words)
     return words
 
 def read_generated_concepts_prompt(concept_string):
@@ -281,15 +291,14 @@ def read_model_files_and_write_results(folder, model_name):
     for file in glob(folder+'/**/*.bin', recursive=True):
         
         print(f'File: {file}')
-        if "wn" in folder:
-            compute_model_scores_k(model_name, file)
-        else: 
-            compute_model_scores(model_name, file)
+        compute_model_scores_k(model_name, file)
 
 
 if __name__ == '__main__':
 
     model = "electra"
-    kb = "cn"
+    kb = "semagram"
+    
     main_folder = f'/Users/128525/Desktop/Uni/SemGPT/it/unito/output/res_{model}/{kb}'
+
     read_model_files_and_write_results(main_folder, model)

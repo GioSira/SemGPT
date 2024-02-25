@@ -1,0 +1,6 @@
+The [MASK] can be large. ['dog', 'elephant', 'animal', 'bear', 'cat', 'lion', 'wolf', 'tiger', 'deer', 'airplane', 'ship', 'tractor', 'aircraft', 'boat', 'helicopter', 'vessel', 'wagon', 'jet', 'craft', 'carrier', 'plane', 'yacht', 'bulldozer', 'dirigible', 'forklift']
+The [MASK] can be big. ['dog', 'elephant', 'animal', 'bear', 'cat', 'lion', 'wolf', 'tiger', 'deer', 'airplane', 'ship', 'tractor', 'aircraft', 'boat', 'helicopter', 'vessel', 'wagon', 'jet', 'craft', 'carrier', 'plane', 'yacht', 'bulldozer', 'dirigible', 'forklift']
+The [MASK] can be small. ['dog', 'frog', 'bee', 'snail', 'animal', 'snake', 'insect', 'crab', 'cat', 'turtle', 'ant', 'mussel', 'wolf', 'lizard', 'bird', 'invertebrate', 'fox', 'spider', 'butterfly', 'crustacean', 'rabbit', 'salamander', 'sawfly', 'beetle', 'apple', 'fruit', 'banana', 'strawberry', 'pear', 'orange', 'corn', 'wheat', 'potato', 'grain', 'bean', 'cereal', 'screw', 'fastener', 'gasket', 'wedge', 'lever', 'pulley']
+The [MASK] can be medium. ['dog', 'animal', 'cat', 'wolf', 'fox']
+The [MASK] can be short. ['skirt', 'pant', 'trouser', 'dress', 'shirt', 'jacket']
+The [MASK] can be tall. ['boot', 'footwear', 'shoe', 'slipper', 'overshoe', 'clog']
