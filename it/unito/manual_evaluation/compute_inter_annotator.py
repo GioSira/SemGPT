@@ -2,7 +2,7 @@ import json
 
 import numpy as np
 
-from read_files import read_all_data
+#from read_files import read_all_data
 
 import math
 from statsmodels.stats.inter_rater import fleiss_kappa
@@ -105,9 +105,10 @@ def generate_annotated_file(fout, data, l_vec):
 
 
 if __name__ == '__main__':
-
-    index, d = read_all_data('../manual_evaluation/multialign_finale', debug=False)
-    l_vec = get_label_vector(index, d)
-    matrix = get_ann_matrix(l_vec)
-    compute_iia(matrix)
-    generate_annotated_file('../manual_evaluation/multialign_finale/multialign_finale_merge.jsonl', d, l_vec)
+    pass
+    # TODO: riscrivere tutto per leggere i dati
+    #index, d = read_all_data('../manual_evaluation/multialign_finale', debug=False)
+    #l_vec = get_label_vector(index, d)
+    #matrix = get_ann_matrix(l_vec)
+    #compute_iia(matrix)
+    #generate_annotated_file('../manual_evaluation/multialign_finale/multialign_finale_merge.jsonl', d, l_vec)
